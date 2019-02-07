@@ -81,10 +81,11 @@ Weblinks
 - [Compiler Design Tutorial](https://www.javatpoint.com/compiler-tutorial)
 - [Not Lisp Again](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 - [How to Create Pragmatic Lightweight Languages](https://tomassetti.me/create-languages/?nab=1)
+- [Computer Science concepts for Engineers](http://blog.robertelder.org/computer-science-for-engineers/)
 
-### Microsoft Command Line
+### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
-
+- [RDB: A Relational Database Mgt System](https://compbio.soe.ucsc.edu/rdb/) \ [rdb write-up](http://www.drdobbs.com/rdb-a-unix-command-line-database/199101326?pgno=1)
 ### Kubernetes
 - [The future of Kubernetes is VM](http://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/)
 - [Pessimism on Parallelism](http://esr.ibiblio.org/?p=8223)
