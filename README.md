@@ -31,6 +31,9 @@ Weblinks
 - [Banks scramble to fix old systems as IT 'cowboys' ride into sunset](https://www.reuters.com/article/us-usa-banks-cobol/banks-scramble-to-fix-old-systems-as-it-cowboys-ride-into-sunset-idUSKBN17C0D8)
 - [The world is our Skinner box](https://thefrailestthing.com/2018/11/19/the-world-is-our-skinner-box/)
 - [Happier Human](https://www.happierhuman.com/)
+- [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf)
+- [Key Drivers of Job Impact and Business Results attributable to Training](http://ufdcimages.uflib.ufl.edu/AA/00/06/26/26/00008/10-2011.pdf)
+- [Guowei LV](https://www.lvguowei.me/)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -50,6 +53,7 @@ Weblinks
 - [Nodejs Standalone portable with npm](https://codyswartz.us/wp/finds/node-js-stand-alone-portable-with-npm)
 - [Solid](https://solid.inrupt.com/)
 - [SolidPay](https://docs.solidpay.org/)
+- [SheetJS](https://github.com/SheetJS/js-xlsx?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 
 ### Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -60,6 +64,7 @@ Weblinks
 - [Microservices - AWS, Docker](https://dzone.com/articles/micro-services-automation-deployment-using-aws-and)
 - [How to Build a Spreadsheet with Python](https://ep2015.europython.eu/conference/talks/how-to-build-a-spreadsheet-with-python)
 - [Practical SIMD programming](http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf)
+- [KABOOM! Ray Tracing](https://github.com/ssloy/tinykaboom/wiki)
 
 ### Software
 - [Java-based free pdf tool](https://github.com/torakiki/pdfsam)
@@ -82,6 +87,7 @@ Weblinks
 - [Not Lisp Again](https://funcall.blogspot.com/2009/03/not-lisp-again.html)
 - [How to Create Pragmatic Lightweight Languages](https://tomassetti.me/create-languages/?nab=1)
 - [Computer Science concepts for Engineers](http://blog.robertelder.org/computer-science-for-engineers/)
+- [Strawberry Perl - Perl for Windows](http://strawberryperl.com/)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
@@ -105,6 +111,10 @@ Weblinks
 - [Zato - Open Source ESB, SOA in Python](https://zato.io/downloads.html)
 - [GitOps - Operations by Pull Requests](https://www.youtube.com/watch?v=BSqE2RqctNs)
 - [Create your own Paas (google search)](https://www.google.com.sg/search?ei=1E67W8TzE83vrQGegJ-4Dw&q=create+your+own+paas&oq=create+your+own+paas&gs_l=psy-ab.3..0i22i30k1l3.41111.42685.0.42875.8.8.0.0.0.0.86.520.8.8.0....0...1c.1.64.psy-ab..0.8.518...0j0i22i10i30k1j0i67k1.0.2rxfjRwhc44)
+- [Design It (book)](https://pragprog.com/book/mkdsa/design-it)
+- [Schedule Python script in Windows](https://stackoverflow.com/questions/46437863/schedule-a-python-script-via-batch-on-windows-using-anaconda)
+- [The Building blocks of a Paas](https://link.springer.com/article/10.1007/s10922-012-9260-2)
+- [Building a FAux Paas: SQL Server Dev Ops](https://www.brentozar.com/archive/2017/05/building-faux-paas-part-1-sql-server-devops-scene-2017/)
 
 ### Data Analytics
 - [Engineerings Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
@@ -126,14 +136,22 @@ Weblinks
 - [Apriori Algorithm in Python](https://adataanalyst.com/machine-learning/apriori-algorithm-python-3-0/)
 - [Introduction to Data Mining (book)](https://www-users.cs.umn.edu/~kumar001/dmbook/index.php)
 - [Association Analysis](https://www-users.cs.umn.edu/~kumar001/dmbook/ch5_association_analysis.pdf)
+- [ELVIRA Biomedical Data Set Repo](http://leo.ugr.es/elvira/DBCRepository/index.html)
+- [Propensity Score Analysis](http://web.hku.hk/~bcowling/examples/propensity.htm)
+- [Propensity Modelling - Predicting your Customer's Next Move](https://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/Propensity-Modeling-How-to-Predict-Your-Customers-Next-Move--114721.aspx?utm_content=buffer2f46d&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
+- [Visualising Data](http://www.visualisingdata.com)
+- [Propensity Score training](https://www.hdruk.ac.uk/news/propensity-scores-a-two-day-workshop/)
+- [UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/datasets/iris)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
+- [How we use Git as the Blockchain for Process Changes](https://dzone.com/articles/how-we-use-git-as-the-blockchain-for-process-chang)
 
 ### AI
 - [AI Assistance with PyText](https://dzone.com/articles/ai-assistance)
 - [Course - Fairness in Machine Learning](https://www.blog.google/technology/ai/new-course-teach-people-about-fairness-machine-learning/amp/)
 - [Are Healthcare Leaders ready for AI-driven change?](https://dzone.com/articles/are-healthcare-leaders-ready-for-ai-driven-change)
+- [AI Across Insurance](https://www.kdnuggets.com/2018/10/insurancenexus-webinar-integrate-ai-across-insurance.html)
 
 ### Azure
 - [Azure](https://azure.microsoft.com/en-us/free/search/?OCID=AID719796_OLA_21734006_229584914_106329567&dclid=CI6HkfaLv98CFcSDvAodw_UBSQ)
@@ -148,3 +166,4 @@ Weblinks
 ### Cashless
 - [Cellphone security and spying](https://www.nytimes.com/2018/12/26/opinion/cellphones-security-spying.html)
 - [Amazon, WholeFoods - Retail Domination](http://fortune.com/longform/amazon-groceries-fortune-500/)
+- [New York Insurers can evaluate your social media use](https://www.wsj.com/articles/new-york-insurers-can-evaluate-your-social-media-useif-they-can-prove-why-its-needed-11548856802)
