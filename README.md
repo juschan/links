@@ -34,6 +34,11 @@ Weblinks
 - [How to Write a Technical Paper](https://pdfs.semanticscholar.org/441f/ac7c2020e1c8f0d32adffca697bbb8a198a1.pdf)
 - [Key Drivers of Job Impact and Business Results attributable to Training](http://ufdcimages.uflib.ufl.edu/AA/00/06/26/26/00008/10-2011.pdf)
 - [Guowei LV](https://www.lvguowei.me/)
+- [The Bias Bias in Behavioral Economics](https://www.nowpublishers.com/article/Details/RBE-0092)
+- [Sensible Software Engineering](https://www.scriptcrafty.com/2019/02/sensible-software-engineering/)
+- [Can Fake Names create bias?](http://blog.interviewing.io/can-fake-names-create-bias/)
+- [How the brain creates a timeline of the past](https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
+- [Paul Graham - Manager vs Maker Schedule](http://www.paulgrapham.com/makersschedule.html)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -65,6 +70,8 @@ Weblinks
 - [How to Build a Spreadsheet with Python](https://ep2015.europython.eu/conference/talks/how-to-build-a-spreadsheet-with-python)
 - [Practical SIMD programming](http://www.cs.uu.nl/docs/vakken/magr/2017-2018/files/SIMD%20Tutorial.pdf)
 - [KABOOM! Ray Tracing](https://github.com/ssloy/tinykaboom/wiki)
+- [Hobby Coding](https://webcache.googleusercontent.com/search?q=cache:C_nVzjqSmvAJ:https://gnfrazier.me/pdf-python/+&cd=8&hl=en&ct=clnk&gl=sg)
+- [Re-Installation of Linux, ...](https://dzone.com/articles/re-installation-of-linux-the-fuckery-of-windows-10)
 
 ### Software
 - [Java-based free pdf tool](https://github.com/torakiki/pdfsam)
@@ -80,6 +87,10 @@ Weblinks
 = [LibUI](https://github.com/andlabs/libui)
 - [Meshbird](http://meshbird.com/)
 - [SWIG](http://www.swig.org/news.php)
+- [Vim is saving me hours of work...](https://nickjanetakis.com/blog/vim-is-saving-me-hours-of-work-when-writing-books-and-courses)
+- [UPX - Executable Packer](https://upx.github.io/)
+- [Packing wxPyMail for Distribution](http://www.blog.pythonlibrary.org/2008/08/27/packaging-wxpymail-for-distribution/)
+- [Standalone Executables](https://wiki.wxpython.org/CreatingStandaloneExecutables)
 
 ### Programming Language
 - [The return of Tiny Basic](http://www.drdobbs.com/web-development/the-return-of-tiny-basic/184406381)
@@ -88,6 +99,9 @@ Weblinks
 - [How to Create Pragmatic Lightweight Languages](https://tomassetti.me/create-languages/?nab=1)
 - [Computer Science concepts for Engineers](http://blog.robertelder.org/computer-science-for-engineers/)
 - [Strawberry Perl - Perl for Windows](http://strawberryperl.com/)
+- [Tim McNamara - C Extension in R](https://tim.mcnamara.nz/)
+- [Theoretical Computer Science](https://introtcs.org/public/index.html)
+- [Nasm Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
@@ -142,6 +156,9 @@ Weblinks
 - [Visualising Data](http://www.visualisingdata.com)
 - [Propensity Score training](https://www.hdruk.ac.uk/news/propensity-scores-a-two-day-workshop/)
 - [UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/datasets/iris)
+- [Meta-Learning in 50 Lines of JAX](https://blog.evjang.com/2019/02/maml-jax.html)
+- [Viewing Matrices & Probabilities as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
+- [ML Data Set Preparation](https://www.seanmcwillie.com/2018/12/tutorial-data-set-preparation-part-1/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
@@ -167,3 +184,4 @@ Weblinks
 - [Cellphone security and spying](https://www.nytimes.com/2018/12/26/opinion/cellphones-security-spying.html)
 - [Amazon, WholeFoods - Retail Domination](http://fortune.com/longform/amazon-groceries-fortune-500/)
 - [New York Insurers can evaluate your social media use](https://www.wsj.com/articles/new-york-insurers-can-evaluate-your-social-media-useif-they-can-prove-why-its-needed-11548856802)
+- [Singapore grapples with foreign influence](https://www.nowpublishers.com/article/Details/RBE-0092)
