@@ -39,6 +39,15 @@ Weblinks
 - [Can Fake Names create bias?](http://blog.interviewing.io/can-fake-names-create-bias/)
 - [How the brain creates a timeline of the past](https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
 - [Paul Graham - Manager vs Maker Schedule](http://www.paulgrapham.com/makersschedule.html)
+- [Why are Transgender People Immune to Optical Illusions](https://slatestarcodex.com/2017/06/28/why-are-transgender-people-immune-to-optical-illusions/)
+- [The 7% Rule Revisited](https://ubiquity.acm.org/article.cfm?id=3289281)
+- [Silence is Golden](https://ubiquity.acm.org/article.cfm?id=3310318)
+- [How an Ugly Duckling Became a Swan](https://ubiquity.acm.org/article.cfm?id=3019074)
+- [Wealthy, Successful and Miserable](https://www.nytimes.com/interactive/2019/02/21/magazine/elite-professionals-jobs-happiness.html)
+- [How the Brain Creates a Timeline of the Past](https://www.quantamagazine.org/how-the-brain-creates-a-timeline-of-the-past-20190212/)
+- [Would you recognize a Dystopia if you saw one?](https://kirkcenter.org/essays/would-you-recognize-a-dystopia-if-you-saw-one/)
+- [New Squid Genome](https://www.quantamagazine.org/new-squid-genome-shines-light-on-symbiotic-evolution-20190219/)
+- [The Rise and Fall of Gene-as-God](http://nautil.us/issue/68/context/its-the-end-of-the-gene-as-we-know-it)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -59,6 +68,9 @@ Weblinks
 - [Solid](https://solid.inrupt.com/)
 - [SolidPay](https://docs.solidpay.org/)
 - [SheetJS](https://github.com/SheetJS/js-xlsx?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+- [Unicorns are Pretty and All, But do you Really Want to become One?](https://dzone.com/articles/whats-so-great-about-unicorns-anyway)
+- [Reverse Proxy](https://dzone.com/articles/reverse-proxy-what-when-how)
+- [Give me Back my Monolith](http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 
 ### Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -72,6 +84,8 @@ Weblinks
 - [KABOOM! Ray Tracing](https://github.com/ssloy/tinykaboom/wiki)
 - [Hobby Coding](https://webcache.googleusercontent.com/search?q=cache:C_nVzjqSmvAJ:https://gnfrazier.me/pdf-python/+&cd=8&hl=en&ct=clnk&gl=sg)
 - [Re-Installation of Linux, ...](https://dzone.com/articles/re-installation-of-linux-the-fuckery-of-windows-10)
+- [Write Yourself a Git](https://wyag.thb.lt/)
+- [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 
 ### Software
 - [Java-based free pdf tool](https://github.com/torakiki/pdfsam)
@@ -91,6 +105,7 @@ Weblinks
 - [UPX - Executable Packer](https://upx.github.io/)
 - [Packing wxPyMail for Distribution](http://www.blog.pythonlibrary.org/2008/08/27/packaging-wxpymail-for-distribution/)
 - [Standalone Executables](https://wiki.wxpython.org/CreatingStandaloneExecutables)
+- [Goodbye Slack, Hello Spectrum](https://blog.apollographql.com/goodbye-slack-hello-spectrum-8fa6b979645b)
 
 ### Programming Language
 - [The return of Tiny Basic](http://www.drdobbs.com/web-development/the-return-of-tiny-basic/184406381)
@@ -102,10 +117,13 @@ Weblinks
 - [Tim McNamara - C Extension in R](https://tim.mcnamara.nz/)
 - [Theoretical Computer Science](https://introtcs.org/public/index.html)
 - [Nasm Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
+- [Bulding Desktop Apps in Go](https://fosdem.org/2019/schedule/event/godesktopapps/attachments/slides/2994/export/events/attachments/godesktopapps/slides/2994/slides.pdf)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
 - [RDB: A Relational Database Mgt System](https://compbio.soe.ucsc.edu/rdb/) \ [rdb write-up](http://www.drdobbs.com/rdb-a-unix-command-line-database/199101326?pgno=1)
+- [LD_PRELOAD](https://blog.jessfraz.com/post/ld_preload/)
+
 ### Kubernetes
 - [The future of Kubernetes is VM](http://tech.paulcz.net/blog/future-of-kubernetes-is-virtual-machines/)
 - [Pessimism on Parallelism](http://esr.ibiblio.org/?p=8223)
@@ -129,6 +147,7 @@ Weblinks
 - [Schedule Python script in Windows](https://stackoverflow.com/questions/46437863/schedule-a-python-script-via-batch-on-windows-using-anaconda)
 - [The Building blocks of a Paas](https://link.springer.com/article/10.1007/s10922-012-9260-2)
 - [Building a FAux Paas: SQL Server Dev Ops](https://www.brentozar.com/archive/2017/05/building-faux-paas-part-1-sql-server-devops-scene-2017/)
+- [Public-Key Infrastructure](https://rehn.me/posts/pki-for-busy-people.html)
 
 ### Data Analytics
 - [Engineerings Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
@@ -159,6 +178,8 @@ Weblinks
 - [Meta-Learning in 50 Lines of JAX](https://blog.evjang.com/2019/02/maml-jax.html)
 - [Viewing Matrices & Probabilities as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
 - [ML Data Set Preparation](https://www.seanmcwillie.com/2018/12/tutorial-data-set-preparation-part-1/)
+- [!0 Websites with Data Viz driving User Experience](https://designmodo.com/data-visualization/)
+- [How to run SQL on PDF files](https://rockset.com/blog/how-to-run-sql-on-pdf-files/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
@@ -169,6 +190,7 @@ Weblinks
 - [Course - Fairness in Machine Learning](https://www.blog.google/technology/ai/new-course-teach-people-about-fairness-machine-learning/amp/)
 - [Are Healthcare Leaders ready for AI-driven change?](https://dzone.com/articles/are-healthcare-leaders-ready-for-ai-driven-change)
 - [AI Across Insurance](https://www.kdnuggets.com/2018/10/insurancenexus-webinar-integrate-ai-across-insurance.html)
+- [Better Together - Humanity + ML](https://a16z.com/2019/02/08/better-together-humanity-machine-learning-chen-summit/)
 
 ### Azure
 - [Azure](https://azure.microsoft.com/en-us/free/search/?OCID=AID719796_OLA_21734006_229584914_106329567&dclid=CI6HkfaLv98CFcSDvAodw_UBSQ)
@@ -179,9 +201,12 @@ Weblinks
 - [DIB Guide: Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
 - [Scrum - too much meetings](https://dzone.com/articles/myth-11-in-scrum-we-spend-too-much-time-in-meeting)
 - [Reality driven development](https://www.brightball.com/articles/reality-driven-development-fixing-project-management-in-software)
+- [Becoming Agile: Evidence-Based Management](https://dzone.com/articles/becoming-agile-evidence-based-management)
 
 ### Cashless
 - [Cellphone security and spying](https://www.nytimes.com/2018/12/26/opinion/cellphones-security-spying.html)
 - [Amazon, WholeFoods - Retail Domination](http://fortune.com/longform/amazon-groceries-fortune-500/)
 - [New York Insurers can evaluate your social media use](https://www.wsj.com/articles/new-york-insurers-can-evaluate-your-social-media-useif-they-can-prove-why-its-needed-11548856802)
 - [Singapore grapples with foreign influence](https://www.nowpublishers.com/article/Details/RBE-0092)
+- [Mastercard tests Behavioral Biometrics](https://www.biometricupdate.com/201902/mastercard-to-test-behavioral-biometrics-for-payments-by-customers-of-uae-based-telecom)
+- [Etsy Billing Error](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html)
