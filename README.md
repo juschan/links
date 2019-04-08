@@ -71,6 +71,8 @@ Weblinks
 - [Unicorns are Pretty and All, But do you Really Want to become One?](https://dzone.com/articles/whats-so-great-about-unicorns-anyway)
 - [Reverse Proxy](https://dzone.com/articles/reverse-proxy-what-when-how)
 - [Give me Back my Monolith](http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
+- [In Javascript - read local JSON file](https://www.quora.com/In-JavaScript-how-do-I-read-a-local-JSON-file)
+- [Load json file using Javascript](https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript)
 
 ### Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -180,6 +182,9 @@ Weblinks
 - [ML Data Set Preparation](https://www.seanmcwillie.com/2018/12/tutorial-data-set-preparation-part-1/)
 - [!0 Websites with Data Viz driving User Experience](https://designmodo.com/data-visualization/)
 - [How to run SQL on PDF files](https://rockset.com/blog/how-to-run-sql-on-pdf-files/)
+- [Viz - Product Sequence Purchase](https://bl.ocks.org/kerryrodden/7090426)
+- [Fund Viz](http://ywng.github.io/fundvis/php/JPMProvident.html)
+- [Data Viz - Five Thirty Eight](https://fivethirtyeight.com/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
