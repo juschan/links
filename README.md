@@ -48,6 +48,7 @@ Weblinks
 - [Would you recognize a Dystopia if you saw one?](https://kirkcenter.org/essays/would-you-recognize-a-dystopia-if-you-saw-one/)
 - [New Squid Genome](https://www.quantamagazine.org/new-squid-genome-shines-light-on-symbiotic-evolution-20190219/)
 - [The Rise and Fall of Gene-as-God](http://nautil.us/issue/68/context/its-the-end-of-the-gene-as-we-know-it)
+- [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/2016/04/second-order-thinking/)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -73,6 +74,7 @@ Weblinks
 - [Give me Back my Monolith](http://www.craigkerstiens.com/2019/03/13/give-me-back-my-monolith/)
 - [In Javascript - read local JSON file](https://www.quora.com/In-JavaScript-how-do-I-read-a-local-JSON-file)
 - [Load json file using Javascript](https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript)
+- [FastAPI](https://fastapi.tiangolo.com/)
 
 ### Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -108,6 +110,7 @@ Weblinks
 - [Packing wxPyMail for Distribution](http://www.blog.pythonlibrary.org/2008/08/27/packaging-wxpymail-for-distribution/)
 - [Standalone Executables](https://wiki.wxpython.org/CreatingStandaloneExecutables)
 - [Goodbye Slack, Hello Spectrum](https://blog.apollographql.com/goodbye-slack-hello-spectrum-8fa6b979645b)
+- [Cross platform GUI in Go](https://github.com/fyne-io/fyne)
 
 ### Programming Language
 - [The return of Tiny Basic](http://www.drdobbs.com/web-development/the-return-of-tiny-basic/184406381)
@@ -150,6 +153,7 @@ Weblinks
 - [The Building blocks of a Paas](https://link.springer.com/article/10.1007/s10922-012-9260-2)
 - [Building a FAux Paas: SQL Server Dev Ops](https://www.brentozar.com/archive/2017/05/building-faux-paas-part-1-sql-server-devops-scene-2017/)
 - [Public-Key Infrastructure](https://rehn.me/posts/pki-for-busy-people.html)
+- [End-user Programming](https://www.inkandswitch.com/end-user-programming.html)
 
 ### Data Analytics
 - [Engineerings Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
@@ -185,6 +189,9 @@ Weblinks
 - [Viz - Product Sequence Purchase](https://bl.ocks.org/kerryrodden/7090426)
 - [Fund Viz](http://ywng.github.io/fundvis/php/JPMProvident.html)
 - [Data Viz - Five Thirty Eight](https://fivethirtyeight.com/)
+- [Why Data Science Teams need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
+- [Fisher, Neyman-Pearson or NHST](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
+- [Medical Research Discovers Integration](https://fliptomato.wordpress.com/2007/03/19/medical-researcher-discovers-integration-gets-75-citations/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
