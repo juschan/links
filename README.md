@@ -53,6 +53,15 @@ Weblinks
 - [Servants without Masters](https://write.as/harold-lee/servants-without-masters)
 - [It's never too late to be successful and happy](https://invincible.substack.com/p/its-never-too-late-to-be-successful)
 - [Is Medicine Overrated?](https://blogs.scientificamerican.com/cross-check/is-medicine-overrated/)
+- [Hacker Hype Cycle](https://jameshfisher.com/2019/03/23/the-hacker-hype-cycle/)
+- [Divine Inspiration Destroyed My Day Job](https://humanparts.medium.com/divine-inspiration-destroyed-my-day-job-7139d4774e77)
+- [There's so much we don't know about our economy...](https://www.independent.co.uk/voices/inequality-sir-angus-deaton-ifs-andy-haldane-bank-of-england-a8913006.html)
+- [Made $200k through coding at 16](https://medium.com/tech-product-and-life/how-i-made-200-000-when-i-was-16-years-old-304f0e87cfb6)
+- [Web of Knowledge](https://dave.autonoma.ca/blog/2019/06/06/web-of-knowledge/)
+- [Microbiome that converts A to universal O type blood](https://naturemicrobiologycommunity.nature.com/users/261113-peter-rahfeld/posts/49635-an-enzymatic-pathway-in-the-human-gut-microbiome-that-converts-a-to-universal-o-type-blood)
+- [Climate Change: What Lies Beneath](https://docs.wixstatic.com/ugd/148cb0_a0d7c18a1bf64e698a9c8c8f18a42889.pdf)
+- [Desperate patients, clinicians and the things they do](https://thehonestphysio.com/2019/06/08/the-desperate-patient-causes-the-desperate-clinician-to-do-desperate-things/)
+- [NYTimes has a course to teach its reporters data skills, and now they've open-sourced it.](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -81,6 +90,9 @@ Weblinks
 - [FastAPI](https://fastapi.tiangolo.com/)
 - [Pyodide: Bringing Scientific Python Stack to the Browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
 - [SimilarWeb - tracking visits and originations to your website](https://www.similarweb.com/website/aia.com)
+- [Binario Hugo Theme](https://themes.gohugo.io//theme/Binario/)
+- [Why some platforms thrive and others don't](https://hbr.org/2019/01/why-some-platforms-thrive-and-others-dont)
+
 
 ### Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -97,6 +109,8 @@ Weblinks
 - [Write Yourself a Git](https://wyag.thb.lt/)
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
 - [Let's Build a compiler](https://generalproblem.net/lets_build_a_compiler/01-starting-out/)
+- [Build a Neural Network](https://enlight.nyc/projects/neural-network/)
+- [An x86 Assembler in 256 LOC](http://blog.jeff.over.bz/assembly/compilers/jit/2017/01/15/x86-assembler.html)
 
 ### Software
 - [Java-based free pdf tool](https://github.com/torakiki/pdfsam)
@@ -120,6 +134,7 @@ Weblinks
 - [Cross platform GUI in Go](https://github.com/fyne-io/fyne)
 - [Book: Elements of Programming](http://elementsofprogramming.com/)
 - [Rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.html)
+- [Free Wolfram Engine for Developers](https://www.wolfram.com/engine/)
 
 ### Programming Language
 - [The return of Tiny Basic](http://www.drdobbs.com/web-development/the-return-of-tiny-basic/184406381)
@@ -135,6 +150,7 @@ Weblinks
 - [Nodes - 2D Computational Thinking](http://nodes.io/story/)
 - [a Tiny Compiler](https://github.com/zakirullin/tiny-compiler)
 - [Introduction to metaprogramming](https://www.ibm.com/developerworks/library/l-metaprog1/index.html)
+- [InNative - Webassembly outside the Sandbox](https://innative.dev/news/introducing-innative/)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
@@ -173,7 +189,7 @@ Weblinks
 - [Geeks for Geeks](https://www.geeksforgeeks.org/q-learning-in-python/)
 - [Course: Bradfield School of Computer Science](https://bradfieldcs.com/)
 
-### Data Analytics
+### Data Analytics and Machine Learning
 - [Engineerings Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
 -[Book: Predictive Analytics with Microsoft Azure ML, 2nd Edition](https://www.oreilly.com/library/view/predictive-analytics-with/9781484212004/)
 - [Propensity Modelling](https://www.destinationcrm.com/Articles/Web-Exclusives/Viewpoints/Propensity-Modeling-How-to-Predict-Your-Customers-Next-Move--114721.aspx?utm_content=buffer2f46d&utm_medium=social&utm_source=plus.google.com&utm_campaign=buffer)
@@ -212,10 +228,14 @@ Weblinks
 - [Medical Research Discovers Integration](https://fliptomato.wordpress.com/2007/03/19/medical-researcher-discovers-integration-gets-75-citations/)
 - [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)
+- [Luna - data processing and viz environment](https://dave.autonoma.ca/blog/2019/06/06/web-of-knowledge/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
 - [How we use Git as the Blockchain for Process Changes](https://dzone.com/articles/how-we-use-git-as-the-blockchain-for-process-chang)
+- [Blockchain for Java Developers](https://dzone.com/articles/getting-started-with-blockchain-for-java-developer)
+- [Axiom](https://axiom.org/)
 
 ### AI
 - [AI Assistance with PyText](https://dzone.com/articles/ai-assistance)
@@ -225,11 +245,15 @@ Weblinks
 - [Better Together - Humanity + ML](https://a16z.com/2019/02/08/better-together-humanity-machine-learning-chen-summit/)
 - [Course: UC Berkeley: Intro to AI (Pacman course!)](http://ai.berkeley.edu/home.html)
 - [Course: Fast.AI](https://www.fast.ai/2019/07/08/fastai-nlp/)
+- [Complex Behavior from Simple (Sub)Agents](https://www.lesswrong.com/posts/3pKXC62C98EgCeZc4/complex-behavior-from-simple-sub-agents)
+- [Determine Customer Propensity](https://www.linkedin.com/learning/predictive-customer-analytics/use-case-determine-customer-propensity)
+- [Medical - Propensity Modelling](http://npcrc.org/files/NPCRC.Observational-PropensityScoreMethodsWkshop.10-20-14.pdf)
+- [Extreme Value Theory for Anomaly Detection](https://www.google.com/search?q=extreme+value+theory+for+anomaly+detection&rlz=1C1GGRV_enHK818HK818&oq=extreme+value+theory+for+anomaly+detection&aqs=chrome..69i57j0.6694j0j4&sourceid=chrome&ie=UTF-8)
 
 ### Azure
 - [Azure](https://azure.microsoft.com/en-us/free/search/?OCID=AID719796_OLA_21734006_229584914_106329567&dclid=CI6HkfaLv98CFcSDvAodw_UBSQ)
-- [Determine Customer Propensity](https://www.linkedin.com/learning/predictive-customer-analytics/use-case-determine-customer-propensity)
-- [Medical - Propensity Modelling](http://npcrc.org/files/NPCRC.Observational-PropensityScoreMethodsWkshop.10-20-14.pdf)
+
+- [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/?toc=%2Fazure%2Fdevops%2Fpipelines%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fboards%2Fpipelines%2Fbreadcrumb%2Ftoc.json&view=azure-devops)
 
 ### Agile
 - [DIB Guide: Detecting Agile BS](https://media.defense.gov/2018/Oct/09/2002049591/-1/-1/0/DIB_DETECTING_AGILE_BS_2018.10.05.PDF)
@@ -245,3 +269,20 @@ Weblinks
 - [Mastercard tests Behavioral Biometrics](https://www.biometricupdate.com/201902/mastercard-to-test-behavioral-biometrics-for-payments-by-customers-of-uae-based-telecom)
 - [Etsy Billing Error](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html)
 - [Why we shouldn't rush to become a cashless soceity](https://news.sky.com/story/sky-views-why-we-shouldnt-rush-to-become-a-cashless-society-11770606)
+- [Fortune 500 leakes 265 GB data](https://www.zdnet.com/article/veteran-fortune-500-company-leaked-264gb-in-client-payment-data/)
+
+### Hyper Island - Digital Ei8ht
+- [Brain-friendly feedback](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/feedback)
+- [Feedback Exercise](https://knowledge.hyperisland.com/hubfs/Week%202%20Group%20Exercise.pdf)
+- [Asking the right questions](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/askingrightquestions)
+- [Fundamentals - Learning, humanizing meetings, stand still](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/standup)
+- [Reflection](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/reflection)
+- [Humanize Meetings](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/checkin)
+- [Learning to learn](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/learntolearn)
+- [Setup Teams](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/teams)
+- [Run meetings that are fair to minorities](https://hbr.org/2016/04/run-meetings-that-are-fair-to-introverts-women-and-remote-workers)
+- [Lifelong learning mindset](https://www.mckinsey.com/business-functions/organization/our-insights/seven-essential-elements-of-a-lifelong-learning-mind-set)
+- [5 Whys](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/5whys)
+- [Listen, Learn and Discover](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/jtbd)
+- [Are you creative?](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/goodidea)
+
