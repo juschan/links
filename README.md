@@ -49,6 +49,10 @@ Weblinks
 - [New Squid Genome](https://www.quantamagazine.org/new-squid-genome-shines-light-on-symbiotic-evolution-20190219/)
 - [The Rise and Fall of Gene-as-God](http://nautil.us/issue/68/context/its-the-end-of-the-gene-as-we-know-it)
 - [Second-Order Thinking: What Smart People Use to Outperform](https://fs.blog/2016/04/second-order-thinking/)
+- [What if Consciousness Came FirsT?](https://www.psychologytoday.com/us/blog/mysteries-consciousness/201907/what-if-consciousness-comes-first?)
+- [Servants without Masters](https://write.as/harold-lee/servants-without-masters)
+- [It's never too late to be successful and happy](https://invincible.substack.com/p/its-never-too-late-to-be-successful)
+- [Is Medicine Overrated?](https://blogs.scientificamerican.com/cross-check/is-medicine-overrated/)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -75,6 +79,8 @@ Weblinks
 - [In Javascript - read local JSON file](https://www.quora.com/In-JavaScript-how-do-I-read-a-local-JSON-file)
 - [Load json file using Javascript](https://codepen.io/KryptoniteDove/post/load-json-file-locally-using-pure-javascript)
 - [FastAPI](https://fastapi.tiangolo.com/)
+- [Pyodide: Bringing Scientific Python Stack to the Browser](https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/)
+- [SimilarWeb - tracking visits and originations to your website](https://www.similarweb.com/website/aia.com)
 
 ### Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -90,6 +96,7 @@ Weblinks
 - [Re-Installation of Linux, ...](https://dzone.com/articles/re-installation-of-linux-the-fuckery-of-windows-10)
 - [Write Yourself a Git](https://wyag.thb.lt/)
 - [A first-person engine in 265 lines](http://www.playfuljs.com/a-first-person-engine-in-265-lines/)
+- [Let's Build a compiler](https://generalproblem.net/lets_build_a_compiler/01-starting-out/)
 
 ### Software
 - [Java-based free pdf tool](https://github.com/torakiki/pdfsam)
@@ -111,6 +118,8 @@ Weblinks
 - [Standalone Executables](https://wiki.wxpython.org/CreatingStandaloneExecutables)
 - [Goodbye Slack, Hello Spectrum](https://blog.apollographql.com/goodbye-slack-hello-spectrum-8fa6b979645b)
 - [Cross platform GUI in Go](https://github.com/fyne-io/fyne)
+- [Book: Elements of Programming](http://elementsofprogramming.com/)
+- [Rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.html)
 
 ### Programming Language
 - [The return of Tiny Basic](http://www.drdobbs.com/web-development/the-return-of-tiny-basic/184406381)
@@ -123,6 +132,9 @@ Weblinks
 - [Theoretical Computer Science](https://introtcs.org/public/index.html)
 - [Nasm Tutorial](http://cs.lmu.edu/~ray/notes/nasmtutorial/)
 - [Bulding Desktop Apps in Go](https://fosdem.org/2019/schedule/event/godesktopapps/attachments/slides/2994/export/events/attachments/godesktopapps/slides/2994/slides.pdf)
+- [Nodes - 2D Computational Thinking](http://nodes.io/story/)
+- [a Tiny Compiler](https://github.com/zakirullin/tiny-compiler)
+- [Introduction to metaprogramming](https://www.ibm.com/developerworks/library/l-metaprog1/index.html)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
@@ -154,6 +166,12 @@ Weblinks
 - [Building a FAux Paas: SQL Server Dev Ops](https://www.brentozar.com/archive/2017/05/building-faux-paas-part-1-sql-server-devops-scene-2017/)
 - [Public-Key Infrastructure](https://rehn.me/posts/pki-for-busy-people.html)
 - [End-user Programming](https://www.inkandswitch.com/end-user-programming.html)
+- [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
+- [Faster, cheaper and better: A story of breaking a monolith](https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/)
+
+### Computer Science
+- [Geeks for Geeks](https://www.geeksforgeeks.org/q-learning-in-python/)
+- [Course: Bradfield School of Computer Science](https://bradfieldcs.com/)
 
 ### Data Analytics
 - [Engineerings Shouldn't Write ETL](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/)
@@ -192,6 +210,8 @@ Weblinks
 - [Why Data Science Teams need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 - [Fisher, Neyman-Pearson or NHST](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists)
 - [Medical Research Discovers Integration](https://fliptomato.wordpress.com/2007/03/19/medical-researcher-discovers-integration-gets-75-citations/)
+- [Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)
+- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
@@ -203,6 +223,8 @@ Weblinks
 - [Are Healthcare Leaders ready for AI-driven change?](https://dzone.com/articles/are-healthcare-leaders-ready-for-ai-driven-change)
 - [AI Across Insurance](https://www.kdnuggets.com/2018/10/insurancenexus-webinar-integrate-ai-across-insurance.html)
 - [Better Together - Humanity + ML](https://a16z.com/2019/02/08/better-together-humanity-machine-learning-chen-summit/)
+- [Course: UC Berkeley: Intro to AI (Pacman course!)](http://ai.berkeley.edu/home.html)
+- [Course: Fast.AI](https://www.fast.ai/2019/07/08/fastai-nlp/)
 
 ### Azure
 - [Azure](https://azure.microsoft.com/en-us/free/search/?OCID=AID719796_OLA_21734006_229584914_106329567&dclid=CI6HkfaLv98CFcSDvAodw_UBSQ)
@@ -222,3 +244,4 @@ Weblinks
 - [Singapore grapples with foreign influence](https://www.nowpublishers.com/article/Details/RBE-0092)
 - [Mastercard tests Behavioral Biometrics](https://www.biometricupdate.com/201902/mastercard-to-test-behavioral-biometrics-for-payments-by-customers-of-uae-based-telecom)
 - [Etsy Billing Error](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html)
+- [Why we shouldn't rush to become a cashless soceity](https://news.sky.com/story/sky-views-why-we-shouldnt-rush-to-become-a-cashless-society-11770606)
