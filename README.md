@@ -62,6 +62,8 @@ Weblinks
 - [Climate Change: What Lies Beneath](https://docs.wixstatic.com/ugd/148cb0_a0d7c18a1bf64e698a9c8c8f18a42889.pdf)
 - [Desperate patients, clinicians and the things they do](https://thehonestphysio.com/2019/06/08/the-desperate-patient-causes-the-desperate-clinician-to-do-desperate-things/)
 - [NYTimes has a course to teach its reporters data skills, and now they've open-sourced it.](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
+- [People Simply Empty Out](http://www.lettersofnote.com/2012/10/people-simply-empty-out.html)
+- [Why I work without Pay](https://dzone.com/articles/why-i-work-without-pay-free)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -92,10 +94,11 @@ Weblinks
 - [SimilarWeb - tracking visits and originations to your website](https://www.similarweb.com/website/aia.com)
 - [Binario Hugo Theme](https://themes.gohugo.io//theme/Binario/)
 - [Why some platforms thrive and others don't](https://hbr.org/2019/01/why-some-platforms-thrive-and-others-dont)
+- [Build a plugin system and sleep well](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
 
-
-### Anaconda
+### Python / Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
+- [Learn Python in 10 min](https://www.stavros.io/tutorials/python/)
 
 ### Projects
 - [Build Google Analytics from Scratch](https://statsbot.co/blog/building-open-source-google-analytics-from-scratch/)
@@ -151,6 +154,7 @@ Weblinks
 - [a Tiny Compiler](https://github.com/zakirullin/tiny-compiler)
 - [Introduction to metaprogramming](https://www.ibm.com/developerworks/library/l-metaprog1/index.html)
 - [InNative - Webassembly outside the Sandbox](https://innative.dev/news/introducing-innative/)
+- [Adventures in Prolog](http://www.amzi.com/AdventureInProlog/advtop.php)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
@@ -236,6 +240,7 @@ Weblinks
 - [How we use Git as the Blockchain for Process Changes](https://dzone.com/articles/how-we-use-git-as-the-blockchain-for-process-chang)
 - [Blockchain for Java Developers](https://dzone.com/articles/getting-started-with-blockchain-for-java-developer)
 - [Axiom](https://axiom.org/)
+- [Worlwide regulation of cryptos](https://hackernoon.com/a-proposal-for-a-worldwide-regulation-of-cryptocurrencies-daos-and-taxation-jh1x83acj)
 
 ### AI
 - [AI Assistance with PyText](https://dzone.com/articles/ai-assistance)
@@ -285,4 +290,23 @@ Weblinks
 - [5 Whys](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/5whys)
 - [Listen, Learn and Discover](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/jtbd)
 - [Are you creative?](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/goodidea)
+- [Experience Mapping](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/stretchideas)
+- [TEDtalk Experience Mapping](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast)
+- [Atomic Habits](https://jamesclear.com/atomic-habits)
 
+### Recurrent Neural Networks
+- [Text Generator](https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-Recurrent-Neural-Network/)
+
+### Nice Looking documentation
+- [Winter Data Integration System](https://github.com/olehmberg/winter/blob/master/README.md)
+
+### Economics
+- [Danish - Negative Interest Rate Mortgages](https://www.theguardian.com/money/2019/aug/13/danish-bank-launches-worlds-first-negative-interest-rate-mortgage)
+- [Most Start-up Theories are ex-post, therefore bs](https://shafyy.com/post/startup-theory-ex-post/)
+
+### Cybersecurity
+- [Readable Database used to secure buildings](https://arstechnica.com/information-technology/2019/08/found-world-readable-database-used-to-secure-buildings-around-the-globe/)
+
+### Maths
+- [Calculus is deeply irrational](https://mathenchant.wordpress.com/2019/08/16/calculus-is-deeply-irrational/)
+- [Advanced Linear Algebra](https://hornraiser.utexas.edu/project/16114)
