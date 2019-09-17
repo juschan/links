@@ -64,6 +64,11 @@ Weblinks
 - [NYTimes has a course to teach its reporters data skills, and now they've open-sourced it.](https://www.niemanlab.org/2019/06/the-new-york-times-has-a-course-to-teach-its-reporters-data-skills-and-now-theyve-open-sourced-it/)
 - [People Simply Empty Out](http://www.lettersofnote.com/2012/10/people-simply-empty-out.html)
 - [Why I work without Pay](https://dzone.com/articles/why-i-work-without-pay-free)
+- [Pointless ot work long hours...](https://www.channelnewsasia.com/news/commentary/long-hours-productivity-creativity-impact-sleep-not-enough-11861962)
+- [It's later than you think](https://www.linkedin.com/pulse/its-later-than-you-think-j-r-storment/)
+- [Flight 93](https://www.politico.com/magazine/story/2019/09/05/911-oral-history-flight-93-book-excerpt-228001)
+- [I quit social media for a year and nothing magical happened](https://joshcsimmons.com/2019/09/10/i-quit-social-media-for-a-year-and-nothing-magical-happened/)
+- [Singaporeans programming at 65](https://www.bloomberg.com/news/articles/2019-09-13/in-aging-singapore-65-year-olds-learn-how-to-program-software)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -95,10 +100,20 @@ Weblinks
 - [Binario Hugo Theme](https://themes.gohugo.io//theme/Binario/)
 - [Why some platforms thrive and others don't](https://hbr.org/2019/01/why-some-platforms-thrive-and-others-dont)
 - [Build a plugin system and sleep well](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
+- [State of React Native 2019](https://blog.logrocket.com/the-state-of-react-native-web-in-2019-6ab67ac5c51e/)
+- [Cross-Platform application with Universal Component Library](https://hackernoon.com/building-cross-platform-applications-with-a-universal-component-library-e6292ca9a15)
 
 ### Python / Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
 - [Learn Python in 10 min](https://www.stavros.io/tutorials/python/)
+- [Repo Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+- [Structuring your Project](https://docs.python-guide.org/writing/structure/)
+- [Book: Think Pyton](http://greenteapress.com/thinkpython2/html/index.html)
+- [tqdm](https://pypi.org/project/tqdm/)
+- [bloomberg API](https://www.bloomberg.com/professional/support/api-library/)
+- [pdblop package](https://matthewgilbert.github.io/pdblp/tutorial.html)
+- [Python Tips](https://book.pythontips.com/en/latest/map_filter.html#)
+- [Tkinter tutorial](https://www.tutorialsteacher.com/python/create-ui-using-tkinter-in-python)
 
 ### Projects
 - [Build Google Analytics from Scratch](https://statsbot.co/blog/building-open-source-google-analytics-from-scratch/)
@@ -138,6 +153,7 @@ Weblinks
 - [Book: Elements of Programming](http://elementsofprogramming.com/)
 - [Rubygem hijacked](https://withatwist.dev/strong-password-rubygem-hijacked.html)
 - [Free Wolfram Engine for Developers](https://www.wolfram.com/engine/)
+- [Heisenbug](https://en.wikipedia.org/wiki/Heisenbug)
 
 ### Programming Language
 - [The return of Tiny Basic](http://www.drdobbs.com/web-development/the-return-of-tiny-basic/184406381)
@@ -155,6 +171,9 @@ Weblinks
 - [Introduction to metaprogramming](https://www.ibm.com/developerworks/library/l-metaprog1/index.html)
 - [InNative - Webassembly outside the Sandbox](https://innative.dev/news/introducing-innative/)
 - [Adventures in Prolog](http://www.amzi.com/AdventureInProlog/advtop.php)
+- [HN: Compiler discussion](https://news.ycombinator.com/item?id=20914046)
+- [List of compiler resources](https://github.com/aalhour/awesome-compilers)
+- [Jetbrains - education package](https://www.jetbrains.com/education/#lang=java&lang=kotlin&lang=python&lang=scala&role=educator)
 
 ### Command Line
 - [Net commands](https://www.computerhope.com/nethlp.htm)
@@ -275,6 +294,10 @@ Weblinks
 - [Etsy Billing Error](https://boingboing.net/2019/02/17/etsy-sellers-say-their-bank-ac.html)
 - [Why we shouldn't rush to become a cashless soceity](https://news.sky.com/story/sky-views-why-we-shouldnt-rush-to-become-a-cashless-society-11770606)
 - [Fortune 500 leakes 265 GB data](https://www.zdnet.com/article/veteran-fortune-500-company-leaked-264gb-in-client-payment-data/)
+- [Mozilla reimagines internet without ads - $100M](https://www.fastcompany.com/90403645/mozilla-and-creative-commons-want-to-reimagine-the-internet-without-ads-and-they-have-100m-to-do-it)
+- [QR Code Degenerators](https://zengo.com/qr-code-degenerators/)
+- [Debate, Austria - enshrining use of cash in constitution](https://www.euractiv.com/section/data-protection/news/debate-rages-in-austria-over-enshrining-use-of-cash-in-the-constitution/)
+
 
 ### Hyper Island - Digital Ei8ht
 - [Brain-friendly feedback](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/feedback)
@@ -310,3 +333,10 @@ Weblinks
 ### Maths
 - [Calculus is deeply irrational](https://mathenchant.wordpress.com/2019/08/16/calculus-is-deeply-irrational/)
 - [Advanced Linear Algebra](https://hornraiser.utexas.edu/project/16114)
+
+### Videography
+- [DAVINCI Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+
+
+### Health
+- [Effects of short-term fasting on cancer treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6530042/)
