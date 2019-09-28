@@ -69,6 +69,14 @@ Weblinks
 - [Flight 93](https://www.politico.com/magazine/story/2019/09/05/911-oral-history-flight-93-book-excerpt-228001)
 - [I quit social media for a year and nothing magical happened](https://joshcsimmons.com/2019/09/10/i-quit-social-media-for-a-year-and-nothing-magical-happened/)
 - [Singaporeans programming at 65](https://www.bloomberg.com/news/articles/2019-09-13/in-aging-singapore-65-year-olds-learn-how-to-program-software)
+- [Hacking the brain - cognitive enhancements](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6429408/)
+- [The boring technology behind a one-person internet company](https://broadcast.listennotes.com/the-boring-technology-behind-listen-notes-56697c2e347b)
+- [Examining Inequality](https://www.gatesfoundation.org/goalkeepers/report/2019-report/#DigitalInclusion)
+- [Kenneth Reitz - Photography, Software](https://www.kennethreitz.org/)
+- [The case for doing nothing](https://www.nytimes.com/2019/04/29/smarter-living/the-case-for-doing-nothing.html)
+- [Upgrade your cargo cult](https://meaningness.com/metablog/upgrade-your-cargo-cult)
+- [Train like an Athelete](https://www.perell.com/blog/learn-like-an-athlete)
+- [Learn like an Athlete](https://www.perell.com/blog/learn-like-an-athlete)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -102,6 +110,7 @@ Weblinks
 - [Build a plugin system and sleep well](https://www.figma.com/blog/how-we-built-the-figma-plugin-system/)
 - [State of React Native 2019](https://blog.logrocket.com/the-state-of-react-native-web-in-2019-6ab67ac5c51e/)
 - [Cross-Platform application with Universal Component Library](https://hackernoon.com/building-cross-platform-applications-with-a-universal-component-library-e6292ca9a15)
+- [A love letter to personal websites](https://www.vanschneider.com/a-love-letter-to-personal-websites)
 
 ### Python / Anaconda
 - [.condarc user guide](https://conda.io/docs/user-guide/configuration/use-condarc.html#overview)
@@ -207,6 +216,8 @@ Weblinks
 - [End-user Programming](https://www.inkandswitch.com/end-user-programming.html)
 - [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/)
 - [Faster, cheaper and better: A story of breaking a monolith](https://zepworks.com/posts/faster-better-cheaper-and-re-architecture/)
+- [C4 Model for software architecture](https://c4model.com/)
+- [ORm, SQL](https://wozniak.ca/blog/2014/08/03/What-ORMs-have-taught-me-just-learn-SQL/)
 
 ### Computer Science
 - [Geeks for Geeks](https://www.geeksforgeeks.org/q-learning-in-python/)
@@ -253,6 +264,11 @@ Weblinks
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 - [Random Forest vs Neural Network](https://mljar.com/blog/random-forest-vs-neural-network-classification/)
 - [Luna - data processing and viz environment](https://dave.autonoma.ca/blog/2019/06/06/web-of-knowledge/)
+- [Google's comics on ML](https://cloud.google.com/products/ai/ml-comic-1/)
+- [Scor's Biological Age Model](https://www.scor.com/en/biological-age-model-bam)
+- [Python's Data Profiling Tool](https://dzone.com/articles/pandas-one-line-magical-code-for-eda-pandas-profil)
+- [Deep Learning with Electronic Health Records](https://practicalai.me/blog/deep-learning-with-ehr-systems)
+- [I create fake videos - why people believe even the obvious ones](https://www.fastcompany.com/90404007/i-create-fake-videos-heres-why-people-believe-even-the-obvious-ones)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
@@ -273,6 +289,10 @@ Weblinks
 - [Determine Customer Propensity](https://www.linkedin.com/learning/predictive-customer-analytics/use-case-determine-customer-propensity)
 - [Medical - Propensity Modelling](http://npcrc.org/files/NPCRC.Observational-PropensityScoreMethodsWkshop.10-20-14.pdf)
 - [Extreme Value Theory for Anomaly Detection](https://www.google.com/search?q=extreme+value+theory+for+anomaly+detection&rlz=1C1GGRV_enHK818HK818&oq=extreme+value+theory+for+anomaly+detection&aqs=chrome..69i57j0.6694j0j4&sourceid=chrome&ie=UTF-8)
+- [Microsoft's Teen chatbot 1](https://www.theguardian.com/technology/2016/mar/24/tay-microsofts-ai-chatbot-gets-a-crash-course-in-racism-from-twitter)
+- [Microsoft's Teen chatbot 2](https://www.theguardian.com/music/shortcuts/2019/sep/10/taylor-swift-threatened-to-sue-microsoft-over-its-racist-chatbot-tay?2)
+- [Avoid Artificial Stupidity](https://www.mapflat.com/blog/artificial-stupidity/)
+- [The AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007)
 
 ### Azure
 - [Azure](https://azure.microsoft.com/en-us/free/search/?OCID=AID719796_OLA_21734006_229584914_106329567&dclid=CI6HkfaLv98CFcSDvAodw_UBSQ)
@@ -316,6 +336,7 @@ Weblinks
 - [Experience Mapping](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/stretchideas)
 - [TEDtalk Experience Mapping](https://www.ted.com/talks/tom_wujec_got_a_wicked_problem_first_tell_me_how_you_make_toast)
 - [Atomic Habits](https://jamesclear.com/atomic-habits)
+- [TEDtalk Building Teams](https://www.ted.com/talks/tom_wujec_build_a_tower)
 
 ### Recurrent Neural Networks
 - [Text Generator](https://chunml.github.io/ChunML.github.io/project/Creating-Text-Generator-Using-Recurrent-Neural-Network/)
@@ -329,6 +350,7 @@ Weblinks
 
 ### Cybersecurity
 - [Readable Database used to secure buildings](https://arstechnica.com/information-technology/2019/08/found-world-readable-database-used-to-secure-buildings-around-the-globe/)
+- [How we hacked blackboard and changed our grades](https://bustbyte.no/blog/how-we-hacked-blackboard-and-changed-our-grades)
 
 ### Maths
 - [Calculus is deeply irrational](https://mathenchant.wordpress.com/2019/08/16/calculus-is-deeply-irrational/)
@@ -337,6 +359,22 @@ Weblinks
 ### Videography
 - [DAVINCI Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
 
+### Software Disasters
+- [Roundoff errors and the Patriot Missile](https://web.archive.org/web/20100702180720/http://mate.uprh.edu/~pnm/notas4061/patriot.htm)
+- [is Poor Data Science the cause of Digital Transformation Failure?](https://dzone.com/articles/is-poor-data-science-the-cause-of-digital-transfor)
 
 ### Health
 - [Effects of short-term fasting on cancer treatment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6530042/)
+- [Superpower - Walking](https://www.theguardian.com/lifeandstyle/2019/jul/28/its-a-superpower-how-walking-makes-us-healthier-happier-and-brainier)
+
+### UX
+- [Distribution of User Computer Skills](https://www.nngroup.com/articles/computer-skill-levels/)
+
+### Project Mgt
+- [The longer it has taken, the longer it will take](https://www.johndcook.com/blog/2015/12/21/power-law-projects/)
+
+### Interesting Companies
+- [Cloudmanic](https://cloudmanic.com/)
+
+### Compliance
+- [Continuous Compliance](http://www.davefarley.net/?p=285)
