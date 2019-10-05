@@ -77,6 +77,10 @@ Weblinks
 - [Upgrade your cargo cult](https://meaningness.com/metablog/upgrade-your-cargo-cult)
 - [Train like an Athelete](https://www.perell.com/blog/learn-like-an-athlete)
 - [Learn like an Athlete](https://www.perell.com/blog/learn-like-an-athlete)
+- [Presenting with Credibility](https://www.amazon.com/Presenting-Credibility-Practical-Techniques-Presentations/dp/1935667122/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+- [Hyper-Productive Knowledge Work Performance](https://www.amazon.com/Hyper-Productive-Knowledge-Work-Performance-Hyper-productivity-ebook/dp/B07CTXHXR1/ref=sr_1_3?keywords=Tame+the+Flow&qid=1570083636&s=gateway&sr=8-3)
+- [The Goal - Theory of Constraints](https://www.amazon.com/Theory-Constraints-Eliyahu-M-Goldratt/dp/0884271668/ref=sr_1_2?crid=3KJH5V0IU00C1&keywords=the+goal+theory+of+constraints&qid=1570273357&sprefix=The+Goal+the%2Caps%2C370&sr=8-2)
+- [Books for Indie Hackers](https://www.indiehackers.com/post/what-are-the-most-indispensable-books-for-indie-hackers-e2ec3a13e9)
 
 ### Web
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/getting-started)
@@ -269,6 +273,9 @@ Weblinks
 - [Python's Data Profiling Tool](https://dzone.com/articles/pandas-one-line-magical-code-for-eda-pandas-profil)
 - [Deep Learning with Electronic Health Records](https://practicalai.me/blog/deep-learning-with-ehr-systems)
 - [I create fake videos - why people believe even the obvious ones](https://www.fastcompany.com/90404007/i-create-fake-videos-heres-why-people-believe-even-the-obvious-ones)
+- [Pandas Dataframe Indexing](https://brohrer.github.io/dataframe_indexing.html)
+- [Intro to ML](http://www.snn.ru.nl/~bertk/inl_ml/slides_inl_ml.pdf)
+- [Exploring LSTM](http://blog.echen.me/2017/05/30/exploring-lstms/)
 
 ### Blockchain
 - [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
@@ -317,7 +324,7 @@ Weblinks
 - [Mozilla reimagines internet without ads - $100M](https://www.fastcompany.com/90403645/mozilla-and-creative-commons-want-to-reimagine-the-internet-without-ads-and-they-have-100m-to-do-it)
 - [QR Code Degenerators](https://zengo.com/qr-code-degenerators/)
 - [Debate, Austria - enshrining use of cash in constitution](https://www.euractiv.com/section/data-protection/news/debate-rages-in-austria-over-enshrining-use-of-cash-in-the-constitution/)
-
+- [Brex Cash](https://techcrunch.com/2019/10/02/brex-cash/)
 
 ### Hyper Island - Digital Ei8ht
 - [Brain-friendly feedback](https://knowledge.hyperisland.com/courses/digitalei8ht/201906/feedback)
