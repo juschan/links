@@ -12,6 +12,11 @@
 - [Teach Yourself CS](https://teachyourselfcs.com/)
 - [Free books - Intro to Theoretical CS](https://codecondo.com/free-books-theoretical-computer-science/)
 - [Intro to Theoretical CS](https://introtcs.org/public/lec_02_representation.html)
+- [Oearning OS Dev using Linux kernel and Raspberry pi](https://s-matyukevich.github.io/raspberry-pi-os/)
+
+### Java
+- [Build native apps in Java](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
+- [TornadoVM](https://www.infoq.com/articles/tornadovm-java-gpu-fpga/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
 
 ### Python
 - [Advanced Python - Turing machines etc.](https://www.python-course.eu/advanced_topics.php)
@@ -24,6 +29,7 @@
 - [Python as First Programming Language](https://mcsp.wartburg.edu/zelle/python/)
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Monads aren't as hard as you think](https://bytes.yingw787.com/posts/2019/12/06/monads/)
+- [Zato - Python Middleware Server](https://zato.io/)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -33,7 +39,10 @@
 - [Grammars for Programming Languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
 - [Build a Parser](https://chelseatroy.com/2019/11/11/building-a-parser/)
 - [Make a tiny compiler](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
-
+- [Principles of Compiler Design](https://www.amazon.com/Principles-Compiler-Design-Allman-Jeffrey/dp/B000KHEPAE/httpwwwtuto0a-20)
+- [Introduction to Compiler Design (book)](https://www.amazon.com/Introduction-Compiler-Design-Object-Oriented-Approach/dp/1734139102/ref=pd_sbs_14_1/131-9448090-7310540?_encoding=UTF8&pd_rd_i=1734139102&pd_rd_r=98fa1289-99ff-41bb-856f-17d08897ad88&pd_rd_w=K9esW&pd_rd_wg=rphUN&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=VF1Q572P2HSCJ0KYQXEM&psc=1&refRID=VF1Q572P2HSCJ0KYQXEM)
+- [Tutorialspoint - Compiler Design](https://www.tutorialspoint.com/compiler_design/index.htm)
+- [Learning Go - Lexing, Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 
 ### Software Dev
 - [Create Website with R Markdown](https://bookdown.org/yihui/blogdown/personal-experience.html)
@@ -45,6 +54,10 @@
 - [Livecode for App development](https://livecode.com/)
 - [Create Git Server using Raspberry Pi and Gitlab](https://medium.com/@kevalpatel2106/create-your-own-git-server-using-raspberry-pi-and-gitlab-f64475901a66)
 - [Overcomming Incuriosity](https://slott-softwarearchitect.blogspot.com/)
+- [Dynamic Linking](https://blog.stephenmarz.com/2020/06/22/dynamic-linking/)
+- [Learning to Code vs producing usable code](https://yassine.substack.com/p/the-gap-between-learning-code-and)
+- [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
+- [DHH Interview (RoR)](https://evrone.com/dhh-interview)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -90,6 +103,7 @@
 - [Frameworkless JS](https://frameworkless.js.org/)
 - [NodeJS - web servers, web frameworks](https://dzone.com/articles/nodejs-working-with-web-servers-and-web-frameworks)
 - [Frameworkless list](https://github.com/frameworkless-movement/awesome-frameworkless)
+- [Shrinking AWS bill](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 
 ### Programming
 - [Intersect - Free 2D MMOPRG Engine](https://www.freemmorpgmaker.com/)
@@ -99,6 +113,7 @@
 - [Threading in C#](http://www.albahari.com/threading/)
 = [C++ Multi-threaded Programming](https://www.bogotobogo.com/cplusplus/multithreaded.php)
 - [Samples to teach yourself Blazor](https://medium.com/young-coder/the-best-samples-to-teach-yourself-blazor-4d29cec607f5)
+- [Abstracting away correctness (API design)](https://fasterthanli.me/articles/abstracting-away-correctness)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -117,12 +132,15 @@
 - [Are we too busy to enjoy life?](https://nesslabs.com/too-busy-to-enjoy-life)
 - [Fundamental Attribution Error - Hanlon's Razar](https://effectiviology.com/fundamental-attribution-error/)
 - [Build a Second Brain](https://maggieappleton.com/basb)
+- [Becoming who you are](https://medium.com/personal-growth/becoming-who-you-are-why-dont-most-people-reach-their-potential-df0335ac1655)
+- [The world doesn't need more successful people](https://medium.com/the-mission/this-is-why-the-world-doesnt-need-more-successful-people-2e9d8ce97a5c)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
 
 ### Writing/Comms
 = [Technical Writing Course | Google ](https://developers.google.com/tech-writing)
+- [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 
 ### Design
 - [Colors.lol - colour palettes](https://colors.lol)
@@ -138,3 +156,6 @@
 ### Cashless Society
 - [Offset](https://docs.offsetcredit.org/en/latest/intro/about.html)
 - [The Looming Bank Collapse](https://www.theatlantic.com/magazine/archive/2020/07/coronavirus-banks-collapse/612247/)
+
+### Healthcare
+- [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
