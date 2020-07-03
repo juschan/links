@@ -30,6 +30,8 @@
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [Monads aren't as hard as you think](https://bytes.yingw787.com/posts/2019/12/06/monads/)
 - [Zato - Python Middleware Server](https://zato.io/)
+- [CPython](https://realpython.com/cpython-source-code-guide/)
+- [Nuitka - Compile to exe](http://nuitka.net/doc/user-manual.html)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -58,6 +60,8 @@
 - [Learning to Code vs producing usable code](https://yassine.substack.com/p/the-gap-between-learning-code-and)
 - [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [DHH Interview (RoR)](https://evrone.com/dhh-interview)
+- [Who needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
+- [Review: A Philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -74,6 +78,12 @@
 - [Cytocom - viz Co-morbidities](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4380025/)
 - [Intro on Extreme Value Statistics](http://grotjahn.ucdavis.edu/EWEs/extremes_primer_v9_22_15.pdf)
 - [Agent-based simulation to model policyholder behaviour](https://www.soa.org/globalassets/assets/Files/Research/Projects/research_2012_behav_sim.pdf)
+- [Maths - Set Theory](https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/)
+
+### Tools
+- [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.19.0)
+- [Windows File Recovery](https://www.microsoft.com/en-sg/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
+- [How to correctly use File History](https://www.techrepublic.com/article/how-to-correctly-use-file-history-to-transfer-data-files-to-a-new-windows-10-installation/)
 
 ### ML/AI
 - [Model Explanation](https://www.r-bloggers.com/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis/)
@@ -87,7 +97,7 @@
 - [Permutation Importance vs Feature Importance](https://scikit-learn.org/stable/auto_examples/inspection/plot_permutation_importance.html)
 - [Build a Personalized Virtual Coach with ML](https://www.craft.ai/blog/build-a-personalized-virtual-coach-with-machine-learning)
 - [R Markdown example - Opoid](https://pennmusa.github.io/MUSA_801.io/project_5/index.html)
-
+- [Omnisci](https://www.omnisci.com/platform)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
@@ -134,6 +144,8 @@
 - [Build a Second Brain](https://maggieappleton.com/basb)
 - [Becoming who you are](https://medium.com/personal-growth/becoming-who-you-are-why-dont-most-people-reach-their-potential-df0335ac1655)
 - [The world doesn't need more successful people](https://medium.com/the-mission/this-is-why-the-world-doesnt-need-more-successful-people-2e9d8ce97a5c)
+- [Life Without Pants](http://www.lifewithoutpants.com/about/)
+- [Deng Ming Dao](http://www.dengmingdao.com/about/bio.php)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
@@ -156,6 +168,10 @@
 ### Cashless Society
 - [Offset](https://docs.offsetcredit.org/en/latest/intro/about.html)
 - [The Looming Bank Collapse](https://www.theatlantic.com/magazine/archive/2020/07/coronavirus-banks-collapse/612247/)
+- [Chinese Banks require apps to install backdoor](https://arstechnica.com/information-technology/2020/06/chinese-bank-requires-foreign-firm-to-install-app-with-covert-backdoor/)
+- [China Digital Currency](https://boxmining.com/dcep/)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
+- [Spiritual Perspectives, Suicide, Young Adults](https://www.jungstudies.net/wp-content/uploads/2010/09/taceyd2.pdf)
+- [The Body Keeps Score](https://fortelabs.co/blog/the-body-keeps-the-score-summary/)
