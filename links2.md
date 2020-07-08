@@ -13,6 +13,7 @@
 - [Free books - Intro to Theoretical CS](https://codecondo.com/free-books-theoretical-computer-science/)
 - [Intro to Theoretical CS](https://introtcs.org/public/lec_02_representation.html)
 - [Oearning OS Dev using Linux kernel and Raspberry pi](https://s-matyukevich.github.io/raspberry-pi-os/)
+- [meta4 - Turing complete?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
 
 ### Java
 - [Build native apps in Java](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
@@ -32,6 +33,9 @@
 - [Zato - Python Middleware Server](https://zato.io/)
 - [CPython](https://realpython.com/cpython-source-code-guide/)
 - [Nuitka - Compile to exe](http://nuitka.net/doc/user-manual.html)
+- [Coconut - Functional package for Python](http://coconut-lang.org/)
+- [Brython - Python in the browser](https://brython.info/gallery/gallery_en.html)
+- [Pandas vs Ray vs Dask vs Modin vs Vaex vs Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -45,6 +49,7 @@
 - [Introduction to Compiler Design (book)](https://www.amazon.com/Introduction-Compiler-Design-Object-Oriented-Approach/dp/1734139102/ref=pd_sbs_14_1/131-9448090-7310540?_encoding=UTF8&pd_rd_i=1734139102&pd_rd_r=98fa1289-99ff-41bb-856f-17d08897ad88&pd_rd_w=K9esW&pd_rd_wg=rphUN&pf_rd_p=bdc67ba8-ab69-42ee-b8d8-8f5336b36a83&pf_rd_r=VF1Q572P2HSCJ0KYQXEM&psc=1&refRID=VF1Q572P2HSCJ0KYQXEM)
 - [Tutorialspoint - Compiler Design](https://www.tutorialspoint.com/compiler_design/index.htm)
 - [Learning Go - Lexing, Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
+- [Build a Basic Interpreter](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 
 ### Software Dev
 - [Create Website with R Markdown](https://bookdown.org/yihui/blogdown/personal-experience.html)
@@ -71,6 +76,7 @@
 - [The Death of Agile](https://www.oreilly.com/radar/the-death-of-agile/)
 - [Leading your Team Through a Crisis](https://soapboxhq.com/blog/employee-motivation/managing-in-a-crisis)
 - [Working from Home Forever](https://www.nytimes.com/interactive/2020/06/09/magazine/remote-work-covid.html)
+- [True Cost of Youtube](https://buzz.swarmify.com/true-cost-of-youtube-video-player/)
 
 ### Actuarial
 - [GLM material](https://www.mdpi.com/2227-9091/4/1/4/htm)
@@ -79,11 +85,15 @@
 - [Intro on Extreme Value Statistics](http://grotjahn.ucdavis.edu/EWEs/extremes_primer_v9_22_15.pdf)
 - [Agent-based simulation to model policyholder behaviour](https://www.soa.org/globalassets/assets/Files/Research/Projects/research_2012_behav_sim.pdf)
 - [Maths - Set Theory](https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/)
+- [Understanding Bayes - papers to read](https://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/)
+- [Which firms profgit most from US healthcare System](https://www.economist.com/business/2018/03/15/which-firms-profit-most-from-americas-health-care-system)
 
 ### Tools
 - [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.19.0)
 - [Windows File Recovery](https://www.microsoft.com/en-sg/p/windows-file-recovery/9n26s50ln705?activetab=pivot:overviewtab)
 - [How to correctly use File History](https://www.techrepublic.com/article/how-to-correctly-use-file-history-to-transfer-data-files-to-a-new-windows-10-installation/)
+- [Fig - Terminal Tool. Real useful!](https://withfig.com/)
+- [Zettlr - MD editor, bibiography](https://www.zettlr.com/#)
 
 ### ML/AI
 - [Model Explanation](https://www.r-bloggers.com/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis/)
@@ -98,6 +108,11 @@
 - [Build a Personalized Virtual Coach with ML](https://www.craft.ai/blog/build-a-personalized-virtual-coach-with-machine-learning)
 - [R Markdown example - Opoid](https://pennmusa.github.io/MUSA_801.io/project_5/index.html)
 - [Omnisci](https://www.omnisci.com/platform)
+- [Install Pyspark](https://towardsdatascience.com/installing-apache-pyspark-on-windows-10-f5f0c506bea1)
+- [Install Pyspark for Jupyter](https://bigdata-madesimple.com/guide-to-install-spark-and-use-pyspark-from-jupyter-in-windows/)
+- [Install Pyspark + GOW](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
+- [Install Pyspark - basic](https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm)
+- [When Data is Messy - really good look at how ML is not learning what you expect!](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
@@ -124,6 +139,7 @@
 = [C++ Multi-threaded Programming](https://www.bogotobogo.com/cplusplus/multithreaded.php)
 - [Samples to teach yourself Blazor](https://medium.com/young-coder/the-best-samples-to-teach-yourself-blazor-4d29cec607f5)
 - [Abstracting away correctness (API design)](https://fasterthanli.me/articles/abstracting-away-correctness)
+- [Android - Simple Alarm Clock App](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -132,6 +148,7 @@
 - [How to See Systems](https://neilkakkar.com/How-to-see-Systems-in-everyday-life.html)
 - [Games for Developing Complex Systems Thinking Skills](https://www.youtube.com/watch?v=5SV6w-p_UPY)
 - [Intro to Systems Dynamics - MIT](https://www.youtube.com/watch?v=AnTwZVviXyY)
+- [Complex Adaptive Systems](https://medium.com/@JonHall_/complex-adaptive-systems-and-itsm-c92b0f953f0a)
 
 ### Life Hack
 - [Social Isolution = Neural Cravings](https://blogs.scientificamerican.com/beautiful-minds/forced-social-isolation-causes-neural-craving-similar-to-hunger/)
@@ -146,6 +163,10 @@
 - [The world doesn't need more successful people](https://medium.com/the-mission/this-is-why-the-world-doesnt-need-more-successful-people-2e9d8ce97a5c)
 - [Life Without Pants](http://www.lifewithoutpants.com/about/)
 - [Deng Ming Dao](http://www.dengmingdao.com/about/bio.php)
+- [Fasting and Metabolism](https://mehdiyacoubi.substack.com/p/the-long-game-8-fasting-and-metabolism)
+- [Everything I know about reading is wrong](https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc)
+- [Bio-disencouragement - suffering from Bioscience education](https://leimao.github.io/miscellaneous/bio-discouragement/)
+- [How media changes our brain](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
@@ -175,3 +196,6 @@
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
 - [Spiritual Perspectives, Suicide, Young Adults](https://www.jungstudies.net/wp-content/uploads/2010/09/taceyd2.pdf)
 - [The Body Keeps Score](https://fortelabs.co/blog/the-body-keeps-the-score-summary/)
+
+### Coaching
+- [How to answer interview question - "Tell me about yourself". ](https://www.youtube.com/watch?v=0Z-N2fbRV70)
