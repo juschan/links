@@ -51,6 +51,11 @@
 - [Learning Go - Lexing, Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 - [Build a Basic Interpreter](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 
+### Haskell
+- [Haskell Stack](https://docs.haskellstack.org/en/stable/README/)
+- [Haskell Resources](http://www.cse.unsw.edu.au/~cs3161/19t3/Haskell%20Resources.html)
+
+
 ### Software Dev
 - [Create Website with R Markdown](https://bookdown.org/yihui/blogdown/personal-experience.html)
 - [Maxwell's Equation of Software](http://www.righto.com/2008/07/maxwells-equations-of-software-examined.html)
@@ -87,6 +92,8 @@
 - [Maths - Set Theory](https://mathvault.ca/hub/higher-math/math-symbols/set-theory-symbols/)
 - [Understanding Bayes - papers to read](https://alexanderetz.com/2016/02/07/understanding-bayes-how-to-become-a-bayesian-in-eight-easy-steps/)
 - [Which firms profgit most from US healthcare System](https://www.economist.com/business/2018/03/15/which-firms-profit-most-from-americas-health-care-system)
+- [FRC Risk Perspectives](https://www.frc.org.uk/getattachment/54fc1570-1db8-4ddf-a2d2-aa046ce5d1fd/Risk-Perspective_19_Final.pdf)
+- [Logarithm: The Complete Guide](https://mathvault.ca/logarithm-theory/)
 
 ### Tools
 - [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.19.0)
@@ -94,6 +101,8 @@
 - [How to correctly use File History](https://www.techrepublic.com/article/how-to-correctly-use-file-history-to-transfer-data-files-to-a-new-windows-10-installation/)
 - [Fig - Terminal Tool. Real useful!](https://withfig.com/)
 - [Zettlr - MD editor, bibiography](https://www.zettlr.com/#)
+- [Free web hosting on Google Cloud](https://www.youtube.com/watch?v=cG9kv5-5bPI)
+- [Da Vinci Resolve for Video Editing](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 
 ### ML/AI
 - [Model Explanation](https://www.r-bloggers.com/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis/)
@@ -113,6 +122,7 @@
 - [Install Pyspark + GOW](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 - [Install Pyspark - basic](https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm)
 - [When Data is Messy - really good look at how ML is not learning what you expect!](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
+- [Abusing Linear Regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
@@ -140,6 +150,7 @@
 - [Samples to teach yourself Blazor](https://medium.com/young-coder/the-best-samples-to-teach-yourself-blazor-4d29cec607f5)
 - [Abstracting away correctness (API design)](https://fasterthanli.me/articles/abstracting-away-correctness)
 - [Android - Simple Alarm Clock App](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
+- [BYTEPATH Game - Lua programming](https://github.com/a327ex/BYTEPATH)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -167,6 +178,7 @@
 - [Everything I know about reading is wrong](https://hackernoon.com/everything-i-knew-about-reading-was-wrong-bde7e57fbfdc)
 - [Bio-disencouragement - suffering from Bioscience education](https://leimao.github.io/miscellaneous/bio-discouragement/)
 - [How media changes our brain](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
+- [Relatively speaking, the billionaire isn't rich](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
@@ -191,6 +203,8 @@
 - [The Looming Bank Collapse](https://www.theatlantic.com/magazine/archive/2020/07/coronavirus-banks-collapse/612247/)
 - [Chinese Banks require apps to install backdoor](https://arstechnica.com/information-technology/2020/06/chinese-bank-requires-foreign-firm-to-install-app-with-covert-backdoor/)
 - [China Digital Currency](https://boxmining.com/dcep/)
+- [How is money creatd?](https://www.youtube.com/watch?v=mzoX7zEZ6h4)
+- [BOE - Money Creation in the Modern Economy](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
