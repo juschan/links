@@ -14,6 +14,7 @@
 - [Intro to Theoretical CS](https://introtcs.org/public/lec_02_representation.html)
 - [Oearning OS Dev using Linux kernel and Raspberry pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 - [meta4 - Turing complete?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
+- [Impossible Functional Programmes](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 
 ### Java
 - [Build native apps in Java](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
@@ -36,6 +37,15 @@
 - [Coconut - Functional package for Python](http://coconut-lang.org/)
 - [Brython - Python in the browser](https://brython.info/gallery/gallery_en.html)
 - [Pandas vs Ray vs Dask vs Modin vs Vaex vs Rapids](https://datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
+- [Camelot - Python library to extract tabular data from pdf](https://dzone.com/articles/announcing-camelot-a-python-library-to-extract-tab)
+- [Most remarkable legacy system... - Tornado async web framework](https://thehftguy.com/2020/07/09/the-most-remarkable-legacy-system-i-have-seen/)
+- [Cython docs](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html)
+- [Cython books](https://cython.readthedocs.io/en/latest/src/tutorial/cython_tutorial.html)
+- [Python Continuous Integration](https://realpython.com/courses/python-continuous-integration/)
+- [Python - Automate tests](https://realpython.com/python-testing/#automating-the-execution-of-your-tests)
+- [Python for CI/CD](https://www.oreilly.com/library/view/python-continuous-integration/9781484242810/)
+- [Python - setup your environment](https://opensource.com/article/20/6/python-tools?utm_campaign=intrel)
+- [Mycroft Voice Assistant with Python](https://opensource.com/article/20/6/mycroft-voice-assistant-skill?utm_campaign=intrel)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -50,11 +60,12 @@
 - [Tutorialspoint - Compiler Design](https://www.tutorialspoint.com/compiler_design/index.htm)
 - [Learning Go - Lexing, Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 - [Build a Basic Interpreter](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
+- [Learn funcitonal programme by writing a Scheme in Haskell](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
+- [Zygomys - Embedded Lisp in Go](https://github.com/glycerine/zygomys)
 
 ### Haskell
 - [Haskell Stack](https://docs.haskellstack.org/en/stable/README/)
 - [Haskell Resources](http://www.cse.unsw.edu.au/~cs3161/19t3/Haskell%20Resources.html)
-
 
 ### Software Dev
 - [Create Website with R Markdown](https://bookdown.org/yihui/blogdown/personal-experience.html)
@@ -72,6 +83,7 @@
 - [DHH Interview (RoR)](https://evrone.com/dhh-interview)
 - [Who needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 - [Review: A Philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html)
+- [7 Principles Lean Software Development](https://agilevelocity.com/7-principles-of-lean-software-development/)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -123,10 +135,13 @@
 - [Install Pyspark - basic](https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm)
 - [When Data is Messy - really good look at how ML is not learning what you expect!](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
 - [Abusing Linear Regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
+- [Aito ai - Could predictive DB queries replace ML models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models/)
+- [RNN Explained](https://explained.ai/rnn/index.html)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
 - [GNU Recutils](https://www.gnu.org/software/recutils/)
+- [Information Architecture](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
 
 ### Web/Javascript
 - [js - execution context](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
@@ -139,6 +154,9 @@
 - [NodeJS - web servers, web frameworks](https://dzone.com/articles/nodejs-working-with-web-servers-and-web-frameworks)
 - [Frameworkless list](https://github.com/frameworkless-movement/awesome-frameworkless)
 - [Shrinking AWS bill](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
+- [Primo web dev - Tailwind css](https://primo.af/)
+- [Deploy React Apps with Github](https://dzone.com/articles/how-to-deploy-react-apps-for-free-with-github-page)
+- [Azure's Golang problem](https://thenewstack.io/add-it-up-azures-golang-problem/)
 
 ### Programming
 - [Intersect - Free 2D MMOPRG Engine](https://www.freemmorpgmaker.com/)
@@ -151,6 +169,7 @@
 - [Abstracting away correctness (API design)](https://fasterthanli.me/articles/abstracting-away-correctness)
 - [Android - Simple Alarm Clock App](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
 - [BYTEPATH Game - Lua programming](https://github.com/a327ex/BYTEPATH)
+- [How to build an API](https://www.mindk.com/blog/how-to-build-an-api/)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -179,9 +198,21 @@
 - [Bio-disencouragement - suffering from Bioscience education](https://leimao.github.io/miscellaneous/bio-discouragement/)
 - [How media changes our brain](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 - [Relatively speaking, the billionaire isn't rich](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire)
+- [Ivan Illich - Deschooling, Conviviality and Lifelong Learning](https://infed.org/ivan-illich-deschooling-conviviality-and-lifelong-learning/)
+- [Work on Unimportant Problems](http://yosefk.com/blog/work-on-unimportant-problems.html)
+- [HNN on becoming a millionaire](https://www.cnbc.com/2020/07/06/basecamp-founder-on-becoming-a-millionaire-overnight.html)
+= [Unbundling of Harvard - alternatives!](https://socialstudies.substack.com/p/-the-unbundling-of-harvard-has-begun)
+- [Estonia - Digital Nomad](https://e-resident.gov.ee/nomadvisa/)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
+
+### Double-Entry Accounting
+- [Accounting in a DB](https://medium.com/@RobertKhou/double-entry-accounting-in-a-relational-database-2b7838a5d7f8)
+- [HN - double entry accounting systems](https://news.ycombinator.com/item?id=8151229)
+- [Explanation of double-entry accounting](https://blog.capterra.com/double-entry-accounting-examples-and-explanation/)
+- [Java implementation of double-entry accounting, in-memory](https://github.com/Nick-Triller/accounting)
+
 
 ### Writing/Comms
 = [Technical Writing Course | Google ](https://developers.google.com/tech-writing)
@@ -205,11 +236,18 @@
 - [China Digital Currency](https://boxmining.com/dcep/)
 - [How is money creatd?](https://www.youtube.com/watch?v=mzoX7zEZ6h4)
 - [BOE - Money Creation in the Modern Economy](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
+- [Is it time to kiil the penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
+- [COVID-19 Housing Eviction Crisis](https://www.vox.com/21301823/rent-coronavirus-covid-19-housing-eviction-crisis)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
 - [Spiritual Perspectives, Suicide, Young Adults](https://www.jungstudies.net/wp-content/uploads/2010/09/taceyd2.pdf)
 - [The Body Keeps Score](https://fortelabs.co/blog/the-body-keeps-the-score-summary/)
+- [A need to walk](https://craigmod.com/essays/a_need_to_walk/)
 
 ### Coaching
 - [How to answer interview question - "Tell me about yourself". ](https://www.youtube.com/watch?v=0Z-N2fbRV70)
+
+### Science
+- [Problem only quantum computers can solve](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/)
+- [How and why computer roll loaded dice](https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/)
