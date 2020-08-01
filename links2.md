@@ -60,7 +60,7 @@
 - [Tutorialspoint - Compiler Design](https://www.tutorialspoint.com/compiler_design/index.htm)
 - [Learning Go - Lexing, Parsing](http://blog.leahhanson.us/post/recursecenter2016/recipeparser.html)
 - [Build a Basic Interpreter](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
-- [Learn funcitonal programme by writing a Scheme in Haskell](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
+- [Learn functional programme by writing a Scheme in Haskell](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
 - [Zygomys - Embedded Lisp in Go](https://github.com/glycerine/zygomys)
 
 ### Haskell
@@ -84,6 +84,12 @@
 - [Who needs an Architect?](https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf)
 - [Review: A Philosophy of Software Design](http://www.pathsensitive.com/2018/10/book-review-philosophy-of-software.html)
 - [7 Principles Lean Software Development](https://agilevelocity.com/7-principles-of-lean-software-development/)
+- [Domain Drive Design - Scott Logic Blog](https://blog.scottlogic.com/2018/03/28/domain-driven-design.html)
+- [Holub on Patterns](https://www.amazon.com/Holub-Patterns-Learning-Looking-Professionals/dp/159059388X/ref=pd_sbs_14_1/134-2130175-1149009?_encoding=UTF8&pd_rd_i=159059388X&pd_rd_r=e1606f38-782b-4caa-aa07-5509a6c90b5f&pd_rd_w=3N1f9&pd_rd_wg=DEc1l&pf_rd_p=12b8d3e2-e203-4b23-a8bc-68a7d2806477&pf_rd_r=VCH3PZVBCDAV6P3NJSMD&psc=1&refRID=VCH3PZVBCDAV6P3NJSMD)
+- [Tech blog - Mac Wright](https://macwright.com/about/)
+- [Programming blog - Sandy McGuire - Haskell, Turing machines](https://reasonablypolymorphic.com/)
+- [Programming blog - James Hague](https://prog21.dadgum.com/177.html)
+- [Cool blog design on programming - Alessandro Cheli](https://0x0f0f0f.github.io/about/)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -94,6 +100,8 @@
 - [Leading your Team Through a Crisis](https://soapboxhq.com/blog/employee-motivation/managing-in-a-crisis)
 - [Working from Home Forever](https://www.nytimes.com/interactive/2020/06/09/magazine/remote-work-covid.html)
 - [True Cost of Youtube](https://buzz.swarmify.com/true-cost-of-youtube-video-player/)
+- [Gitlab - All Remote working](https://about.gitlab.com/company/culture/all-remote/guide/)
+- [Signs you're working in a feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory/)
 
 ### Actuarial
 - [GLM material](https://www.mdpi.com/2227-9091/4/1/4/htm)
@@ -106,6 +114,7 @@
 - [Which firms profgit most from US healthcare System](https://www.economist.com/business/2018/03/15/which-firms-profit-most-from-americas-health-care-system)
 - [FRC Risk Perspectives](https://www.frc.org.uk/getattachment/54fc1570-1db8-4ddf-a2d2-aa046ce5d1fd/Risk-Perspective_19_Final.pdf)
 - [Logarithm: The Complete Guide](https://mathvault.ca/logarithm-theory/)
+- [Visual intro to Prob and Stats](https://seeing-theory.brown.edu/#firstPage)
 
 ### Tools
 - [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.19.0)
@@ -115,6 +124,7 @@
 - [Zettlr - MD editor, bibiography](https://www.zettlr.com/#)
 - [Free web hosting on Google Cloud](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 - [Da Vinci Resolve for Video Editing](https://www.youtube.com/watch?v=cG9kv5-5bPI)
+- [Install Ruby on Rails on Windows](https://gorails.com/setup/windows/10)
 
 ### ML/AI
 - [Model Explanation](https://www.r-bloggers.com/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis/)
@@ -137,11 +147,17 @@
 - [Abusing Linear Regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 - [Aito ai - Could predictive DB queries replace ML models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models/)
 - [RNN Explained](https://explained.ai/rnn/index.html)
+- [Intro to K-Means and SOM](https://dzone.com/articles/k-means-and-som-gentle-introduction-to-worlds-most)
+- [Use Survival Analysis to predict Employee Turnover](https://www.slideshare.net/RMEvents/1345-keynote-roberts)
+- [Predict individual risk of quitting - Survival Analysis](https://edwvb.blogspot.com/2017/10/employee-turnover-how-to-predict-individual-risks-of-quitting.html?m=1)
+- [HR data sets for analytics](https://www.analyticsinhr.com/blog/hr-data-sets-people-analytics/)
+- [Stratx - stratification approach to partial dependence for co-dependent variables](https://github.com/parrt/stratx)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
 - [GNU Recutils](https://www.gnu.org/software/recutils/)
 - [Information Architecture](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
+- [How SQLite works](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 
 ### Web/Javascript
 - [js - execution context](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
@@ -157,6 +173,10 @@
 - [Primo web dev - Tailwind css](https://primo.af/)
 - [Deploy React Apps with Github](https://dzone.com/articles/how-to-deploy-react-apps-for-free-with-github-page)
 - [Azure's Golang problem](https://thenewstack.io/add-it-up-azures-golang-problem/)
+- [24a2 JS Game tutorial](https://24a2.routley.io/tutorial/)
+- [Node.js without a framework - MDN tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
+- [Node.js without framework - blog post](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
+
 
 ### Programming
 - [Intersect - Free 2D MMOPRG Engine](https://www.freemmorpgmaker.com/)
@@ -170,6 +190,7 @@
 - [Android - Simple Alarm Clock App](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
 - [BYTEPATH Game - Lua programming](https://github.com/a327ex/BYTEPATH)
 - [How to build an API](https://www.mindk.com/blog/how-to-build-an-api/)
+- [Games Engine/Graphics programming videos - javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -203,6 +224,10 @@
 - [HNN on becoming a millionaire](https://www.cnbc.com/2020/07/06/basecamp-founder-on-becoming-a-millionaire-overnight.html)
 = [Unbundling of Harvard - alternatives!](https://socialstudies.substack.com/p/-the-unbundling-of-harvard-has-begun)
 - [Estonia - Digital Nomad](https://e-resident.gov.ee/nomadvisa/)
+- [Solving problems by avoiding them](https://dev.to/deciduously/solving-problems-by-avoiding-them-58dm)
+- [Live Intensely](https://thoughtcatalog.com/elaina-elizabeth/2015/12/this-is-what-one-fellow-traveler-taught-me-about-living-intensely/)
+- [Buckminster Fuller Lectures](http://www.openculture.com/2012/08/ieverything_i_knowi_42_hours_of_visionary_buckminster_fuller_lectures_1975.html)
+- [Follow your fantasies to self-awareness](https://whywesuffer.com/follow-your-fantasies-to-self-awareness/)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
@@ -213,6 +238,8 @@
 - [Explanation of double-entry accounting](https://blog.capterra.com/double-entry-accounting-examples-and-explanation/)
 - [Java implementation of double-entry accounting, in-memory](https://github.com/Nick-Triller/accounting)
 
+### Quantum Mechanics/Computing
+- [Free Book on Quantum Theory - Quantum Country](https://quantum.country/)
 
 ### Writing/Comms
 = [Technical Writing Course | Google ](https://developers.google.com/tech-writing)
@@ -238,6 +265,7 @@
 - [BOE - Money Creation in the Modern Economy](https://www.bankofengland.co.uk/quarterly-bulletin/2014/q1/money-creation-in-the-modern-economy)
 - [Is it time to kiil the penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
 - [COVID-19 Housing Eviction Crisis](https://www.vox.com/21301823/rent-coronavirus-covid-19-housing-eviction-crisis)
+- [Malware used by North Korean hackers](https://arstechnica.com/tech-policy/2020/02/us-government-exposes-malware-used-in-north-korean-sponsored-hacking-ops/)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
