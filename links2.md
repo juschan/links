@@ -15,6 +15,7 @@
 - [Oearning OS Dev using Linux kernel and Raspberry pi](https://s-matyukevich.github.io/raspberry-pi-os/)
 - [meta4 - Turing complete?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
 - [Impossible Functional Programmes](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
+- [Regex visualizer - good blog too](https://blog.robertelder.org/regular-expression-visualizer/)
 
 ### Java
 - [Build native apps in Java](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
@@ -46,6 +47,7 @@
 - [Python for CI/CD](https://www.oreilly.com/library/view/python-continuous-integration/9781484242810/)
 - [Python - setup your environment](https://opensource.com/article/20/6/python-tools?utm_campaign=intrel)
 - [Mycroft Voice Assistant with Python](https://opensource.com/article/20/6/mycroft-voice-assistant-skill?utm_campaign=intrel)
+- [KQL integrate with Python on Azure](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks-kqlmagic?view=sql-server-ver15)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -90,6 +92,14 @@
 - [Programming blog - Sandy McGuire - Haskell, Turing machines](https://reasonablypolymorphic.com/)
 - [Programming blog - James Hague](https://prog21.dadgum.com/177.html)
 - [Cool blog design on programming - Alessandro Cheli](https://0x0f0f0f.github.io/about/)
+- [21 Systems and OO design interview problems](https://dzone.com/articles/21-object-oriented-and-system-design-problems-to-p)
+- [Building domain driven microservices](https://medium.com/walmartglobaltech/building-domain-driven-microservices-af688aa1b1b8)
+- [Code only says what it does](https://brooker.co.za/blog/2020/06/23/code.html)
+- [10 Open source software tools](https://dzone.com/articles/ten-interesting-open-source-tools-for-developers?fromrel=true)
+- [Open Source tools for digital modernisation](https://dzone.com/articles/is-open-source-critical-to-modernization?fromrel=true)
+- [I love ARM](https://www.20i.com/blog/i-love-arm/)
+- [Scott Logic](https://blog.scottlogic.com/)
+- [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -102,6 +112,15 @@
 - [True Cost of Youtube](https://buzz.swarmify.com/true-cost-of-youtube-video-player/)
 - [Gitlab - All Remote working](https://about.gitlab.com/company/culture/all-remote/guide/)
 - [Signs you're working in a feature factory](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory/)
+- [Leadership Development - Why Most Programs Don't Work](https://www.forbes.com/sites/chriswestfall/2019/06/20/leadership-development-why-most-programs-dont-work/#26e4dd4161de)
+- [The Cadence: How to Operate a Saas Startup](https://medium.com/craft-ventures/the-cadence-how-to-operate-a-saas-startup-436aa8099e8)
+- [Jeff Bezos - No Powerpoint](https://conorneill.com/2012/11/30/amazon-staff-meetings-no-powerpoint/)
+
+### Biz Hack
+- [Tailwind CSS business](https://prototypr.io/news/tailwind-css-from-side-project-byproduct-to-multi-million-dollar-business-adam-wathan/)
+- [The quickest SEO Tutorial](https://www.entreprenerd.blog/live-streams/the-quickest-seo-tutorial?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+- [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html)
+- [Going the other way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
 
 ### Actuarial
 - [GLM material](https://www.mdpi.com/2227-9091/4/1/4/htm)
@@ -125,6 +144,12 @@
 - [Free web hosting on Google Cloud](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 - [Da Vinci Resolve for Video Editing](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 - [Install Ruby on Rails on Windows](https://gorails.com/setup/windows/10)
+- [Odoo ERP](https://www.odoo.com/slides)
+
+
+### Knowledge Managment
+- [Awesome KM - list of resouces](https://github.com/brettkromkamp/awesome-knowledge-management)
+- [Kyso - manage insights](https://kyso.io/)
 
 ### ML/AI
 - [Model Explanation](https://www.r-bloggers.com/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis/)
@@ -152,12 +177,18 @@
 - [Predict individual risk of quitting - Survival Analysis](https://edwvb.blogspot.com/2017/10/employee-turnover-how-to-predict-individual-risks-of-quitting.html?m=1)
 - [HR data sets for analytics](https://www.analyticsinhr.com/blog/hr-data-sets-people-analytics/)
 - [Stratx - stratification approach to partial dependence for co-dependent variables](https://github.com/parrt/stratx)
+- [Gradio - Customizable UI for TF](https://www.gradio.app/)
+- [Version control and continuous ML](https://dvc.org/)
+- [floating point formats and deep learning](https://eigenfoo.xyz/floating-point-deep-learning/)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
 - [GNU Recutils](https://www.gnu.org/software/recutils/)
 - [Information Architecture](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
 - [How SQLite works](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
+- [Published Assets - big data](https://www.entreprenerd.blog/live-streams/the-quickest-seo-tutorial?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+- [We can do better than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+- [SQL Tricks](https://hakibenita.com/sql-tricks-application-dba)
 
 ### Web/Javascript
 - [js - execution context](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
@@ -176,7 +207,14 @@
 - [24a2 JS Game tutorial](https://24a2.routley.io/tutorial/)
 - [Node.js without a framework - MDN tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Node_server_without_framework)
 - [Node.js without framework - blog post](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
+- [CSS one-liners](https://web.dev/one-line-layouts/)
+- [WASMBoxC - sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
 
+### Music
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
+
+### Schedulers
+- [Build Schedulers using .net and quartz.net](https://www.emoreau.com/Entries/Articles/2018/08/Building-your-own-scheduler-using-Net-and-QuartzNet.aspx)
 
 ### Programming
 - [Intersect - Free 2D MMOPRG Engine](https://www.freemmorpgmaker.com/)
@@ -191,6 +229,12 @@
 - [BYTEPATH Game - Lua programming](https://github.com/a327ex/BYTEPATH)
 - [How to build an API](https://www.mindk.com/blog/how-to-build-an-api/)
 - [Games Engine/Graphics programming videos - javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA/videos)
+- [Austin Henley blog - compilers, implementing cosine in C](https://web.eecs.utk.edu/~azh/blog.html)
+- [Building bots and other links](https://www.freecodecamp.org/news/building-bots/)
+- [Start a blog with Hugo in 30 min](https://opensource.com/article/18/3/start-blog-30-minutes-hugo)
+
+### Automation and Workflow
+- [Wexflow](https://wexflow.github.io/Wexflow)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -228,6 +272,11 @@
 - [Live Intensely](https://thoughtcatalog.com/elaina-elizabeth/2015/12/this-is-what-one-fellow-traveler-taught-me-about-living-intensely/)
 - [Buckminster Fuller Lectures](http://www.openculture.com/2012/08/ieverything_i_knowi_42_hours_of_visionary_buckminster_fuller_lectures_1975.html)
 - [Follow your fantasies to self-awareness](https://whywesuffer.com/follow-your-fantasies-to-self-awareness/)
+- [The Art of Not Thinking](http://tiffanymatthe.com/not-thinking/)
+- [Science is the belief in the ignorance of experts](https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/)
+- [Reading in order to discuss is better](https://pex.com/blog/book-clubs-reading-is-good-reading-to-discuss-is-better/)
+- [Unbundling work from employment](https://li.substack.com/p/unbundling-work-from-employment)
+- [How to pretend you are smart](https://www.currentaffairs.org/2020/07/how-to-pretend-that-you-are-smart?ref=briefingday.com)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
@@ -237,9 +286,13 @@
 - [HN - double entry accounting systems](https://news.ycombinator.com/item?id=8151229)
 - [Explanation of double-entry accounting](https://blog.capterra.com/double-entry-accounting-examples-and-explanation/)
 - [Java implementation of double-entry accounting, in-memory](https://github.com/Nick-Triller/accounting)
+- [Beancount - double entry accounting method](https://beancount.github.io/docs/the_double_entry_counting_method.html)
 
 ### Quantum Mechanics/Computing
 - [Free Book on Quantum Theory - Quantum Country](https://quantum.country/)
+
+### Jobs
+- [Work at a startup - job postings](https://www.workatastartup.com/?utm_source=hn_jobs)
 
 ### Writing/Comms
 = [Technical Writing Course | Google ](https://developers.google.com/tech-writing)
@@ -255,6 +308,9 @@
 - [Don't Teach Coding until you read this book](https://www.amazon.com/Dont-Teach-Coding-Until-Read/dp/1119602629)
 - [Introduction to Communities of Practice](https://wenger-trayner.com/introduction-to-communities-of-practice/)
 - [Microsoft Small Basic](https://smallbasic-publicwebsite.azurewebsites.net/)
+- [The greatest teaching techniques don't compute over zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
+- [Harvard's star CS Prof built a distance learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire)
+- [Starting a private education institute in SG](https://www.guidemesingapore.com/business-guides/industry-guides/education-industry/starting-a-private-education-institute-pei-in-singapore)
 
 ### Cashless Society
 - [Offset](https://docs.offsetcredit.org/en/latest/intro/about.html)
@@ -266,12 +322,20 @@
 - [Is it time to kiil the penny?](https://www.npr.org/sections/money/2020/07/14/890435359/is-it-time-to-kill-the-penny)
 - [COVID-19 Housing Eviction Crisis](https://www.vox.com/21301823/rent-coronavirus-covid-19-housing-eviction-crisis)
 - [Malware used by North Korean hackers](https://arstechnica.com/tech-policy/2020/02/us-government-exposes-malware-used-in-north-korean-sponsored-hacking-ops/)
+- [BankMobile colab with Google for Digital Bank Accounts](https://www.globenewswire.com/news-release/2020/08/03/2071746/0/en/BankMobile-Announces-a-Collaboration-with-Google-to-Offer-Digital-Bank-Accounts.html)
+- [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
+- [VISA - approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
+- [Why do people stay poor?](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
 - [Spiritual Perspectives, Suicide, Young Adults](https://www.jungstudies.net/wp-content/uploads/2010/09/taceyd2.pdf)
 - [The Body Keeps Score](https://fortelabs.co/blog/the-body-keeps-the-score-summary/)
 - [A need to walk](https://craigmod.com/essays/a_need_to_walk/)
+- [Slow Breathing](https://www.theguardian.com/lifeandstyle/2020/jul/26/every-breath-you-take-the-lost-art-of-breathing)
+- [Vivid Dreams during pandemic](https://www.sleepedy.com/articles/pandemic-dreams/)
+- [DIY coronavirus vaccine](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine)
+- [Fasting and Metabolism](https://mehdiyacoubi.substack.com/p/the-long-game-8-fasting-and-metabolism)
 
 ### Coaching
 - [How to answer interview question - "Tell me about yourself". ](https://www.youtube.com/watch?v=0Z-N2fbRV70)
@@ -279,3 +343,4 @@
 ### Science
 - [Problem only quantum computers can solve](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/)
 - [How and why computer roll loaded dice](https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/)
+- [The Thought Emporium](https://www.thethoughtemporium.com/)
