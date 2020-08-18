@@ -54,6 +54,7 @@
 - [Pysa - static analysis tool for security](https://engineering.fb.com/security/pysa/)
 - [Pyrustic software suite for Python Desktop App](https://pyrustic.github.io/)
 - [FunctionTrace - Graphical Python Profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
+- [Adv Python - Finite State Machine](https://www.python-course.eu/finite_state_machine.php)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -110,6 +111,7 @@
 - [Scott Logic](https://blog.scottlogic.com/)
 - [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
 - [Why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
+- [James Koppel Coaching - Software Engineering](http://jameskoppelcoaching.com/)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -135,6 +137,8 @@
 - [Why is this idiot running my engineering org](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 - [Chinese Officials Hijak company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
 - [Interview with Gitlab CEO](https://medium.com/posthog/lessons-from-a-billion-dollar-open-source-company-f9489a840bbb)
+- [How to run a live coding stream on Twitch](https://jordanlewis.org/posts/twitch-live-coding/)
+- [Product Weekend - build a product in a weekend](https://productweekend.live/)
 
 ### Actuarial
 - [GLM material](https://www.mdpi.com/2227-9091/4/1/4/htm)
@@ -159,6 +163,7 @@
 - [Da Vinci Resolve for Video Editing](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 - [Install Ruby on Rails on Windows](https://gorails.com/setup/windows/10)
 - [Odoo ERP](https://www.odoo.com/slides)
+- [Office Develop Tools using VS](https://visualstudio.microsoft.com/vs/features/office-tools/)
 
 ### Knowledge Managment
 - [Awesome KM - list of resouces](https://github.com/brettkromkamp/awesome-knowledge-management)
@@ -181,6 +186,7 @@
 - [Install Pyspark for Jupyter](https://bigdata-madesimple.com/guide-to-install-spark-and-use-pyspark-from-jupyter-in-windows/)
 - [Install Pyspark + GOW](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 - [Install Pyspark - basic](https://www.tutorialspoint.com/pyspark/pyspark_environment_setup.htm)
+- [Install PYspark on Windows](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 - [When Data is Messy - really good look at how ML is not learning what you expect!](https://aiweirdness.com/post/622648824384602112/when-data-is-messy)
 - [Abusing Linear Regression to make a point](http://www.goodmath.org/blog/2020/07/06/abusing-linear-regression-to-make-a-point/)
 - [Aito ai - Could predictive DB queries replace ML models?](https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models/)
@@ -194,6 +200,8 @@
 - [Version control and continuous ML](https://dvc.org/)
 - [floating point formats and deep learning](https://eigenfoo.xyz/floating-point-deep-learning/)
 - [I am a model and I know that artificial intelligence will eventually take my job](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
+- [Inferrd - Deploy AI Model](https://docs.inferrd.com/guides/use-deployed-model)
+- [Install TensorFlow for Go](https://www.tensorflow.org/install/lang_go)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
@@ -204,6 +212,8 @@
 - [We can do better than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 - [SQL Tricks](https://hakibenita.com/sql-tricks-application-dba)
 - [Dropbase - offline db to online](https://www.dropbase.io/)
+- [Schedule SQL Scripts on SQL Server Express](https://www.mssqltips.com/sqlservertip/5830/how-to-schedule-sql-scripts-on-sql-server-express-edition/)
+- [Information Architecture - Cheat Sheet](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
 
 ### Web/Javascript
 - [js - execution context](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
@@ -230,6 +240,7 @@
 - [Traversy Media - Web Development Videos](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
 - [Next.js Video - Future Developments](https://www.youtube.com/watch?v=yPG1iaBCJuM)
 - [ZzFXM - JS music system](https://keithclark.github.io/ZzFXM/)
+- [Vercel!! Formerly Zeit](https://vercel.com/docs)
 
 ### Cyber Security
 - [Thinking of a Cybersecurity Career](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
@@ -260,9 +271,11 @@
 - [Dusted Codes - Programming Adventures Blog](https://dusted.codes/)
 - [Oak - Alternative to C](https://github.com/adam-mcdaniel/oakc)
 - [HN - doing SICP](https://news.ycombinator.com/item?id=2370617)
+= [How to write a ray tracer intuitively](https://blog.scottlogic.com/2020/03/10/raytracer-how-to.html)
 
 ### Automation and Workflow
 - [Wexflow](https://wexflow.github.io/Wexflow)
+- [Intro to Simple Workflow Service - Amazon](https://ncona.com/2020/07/introduction-to-aws-simple-workflow-service/)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -272,6 +285,9 @@
 - [Games for Developing Complex Systems Thinking Skills](https://www.youtube.com/watch?v=5SV6w-p_UPY)
 - [Intro to Systems Dynamics - MIT](https://www.youtube.com/watch?v=AnTwZVviXyY)
 - [Complex Adaptive Systems](https://medium.com/@JonHall_/complex-adaptive-systems-and-itsm-c92b0f953f0a)
+
+### Big Data
+- [Hadoop MapReduce Example](https://www.edureka.co/blog/mapreduce-example-reduce-side-join/)
 
 ### Life Hack
 - [Social Isolution = Neural Cravings](https://blogs.scientificamerican.com/beautiful-minds/forced-social-isolation-causes-neural-craving-similar-to-hunger/)
@@ -313,12 +329,16 @@
 - [Treat Self-improvement like Software Upgrade](https://medium.com/team-human/were-treating-self-improvement-like-a-software-upgrade-b25a8e3a80c6)
 - [It's worse than you think Blog ](http://www.asmarterwaytolearn.com/)
 - [All Gas No Brakes - social commentary](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
+- [How to get to the end of a computer book](http://www.asmarterwaytolearn.com/blog/how-to-get-to-the-end-of-a-computer-book.php)
 
 ### Hardware
 - [Ikarus - Raspberry Pi Cluster - blog of Will Ho (Grab DS)](https://ikarus.sg/how-i-built-kraken/)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
+
+### No Code development
+- [NoCode Mentors, Makerpad](https://community.makerpad.co/c/showcase/nocode-mentors-beta-needs-you)
 
 ### Double-Entry Accounting
 - [Accounting in a DB](https://medium.com/@RobertKhou/double-entry-accounting-in-a-relational-database-2b7838a5d7f8)
@@ -332,6 +352,8 @@
 
 ### Jobs
 - [Work at a startup - job postings](https://www.workatastartup.com/?utm_source=hn_jobs)
+- [Write an Impressive CV when you have no experience](https://www.ntuclearninghub.com/how-to-write-an-impressive-resume-when-you-have-no-experience/)
+- [YC - Remote Jobs](https://www.workatastartup.com/jobs/r/all)
 
 ### Writing/Comms
 = [Technical Writing Course | Google ](https://developers.google.com/tech-writing)
@@ -339,6 +361,7 @@
 - [How I wrote a technical book in < 200hrs](https://medium.com/@robaboukhalil/how-i-wrote-a-technical-book-in-under-200-hours-911d5e4f9e8c)
 - [Reports leaving newsroom for newsletter](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
 - [Sports reporters turn to newsletter](https://www.washingtonpost.com/sports/2020/06/01/out-of-work-sportswriters-are-turning-newsletters-hoping-economics-can-work/)
+- [Write Technical Posts so people will read them](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 
 ### Design
 - [Colors.lol - colour palettes](https://colors.lol)
@@ -355,6 +378,7 @@
 - [Harvard's star CS Prof built a distance learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire)
 - [Starting a private education institute in SG](https://www.guidemesingapore.com/business-guides/industry-guides/education-industry/starting-a-private-education-institute-pei-in-singapore)
 - [Teaching Isn't About Managing Behaviour](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
+- [Ivan Illich - Deschooling and Lifelong Learning](https://infed.org/ivan-illich-deschooling-conviviality-and-lifelong-learning/)
 
 ### Cashless Society
 - [Offset](https://docs.offsetcredit.org/en/latest/intro/about.html)
@@ -370,6 +394,7 @@
 - [Universal Basic Income is Capitalism 2.0](https://timjrobinson.com/universal-basic-income-is-capitalism-2-0/)
 - [VISA - approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 - [Why do people stay poor?](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
+- [Zelf - Gen Z banking](https://sifted.eu/articles/gen-z-messenger-banking-zelf/)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
