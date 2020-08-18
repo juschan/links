@@ -52,7 +52,8 @@
 - [KQL integrate with Python on Azure](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks-kqlmagic?view=sql-server-ver15)
 - [DearPyGUI](https://itnext.io/python-guis-with-dearpygui-137f4a3360f2)
 - [Pysa - static analysis tool for security](https://engineering.fb.com/security/pysa/)
-- [PYrustic software suite for Python Desktop App](https://pyrustic.github.io/)
+- [Pyrustic software suite for Python Desktop App](https://pyrustic.github.io/)
+- [FunctionTrace - Graphical Python Profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -71,6 +72,7 @@
 - [Zygomys - Embedded Lisp in Go](https://github.com/glycerine/zygomys)
 - [Build your own VM](https://justinmeiners.github.io/lc3-vm/)
 - [Why Calculating is better than scheming (SICP)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf)
+- [Stackoverflow - writing a small interpreter](https://softwareengineering.stackexchange.com/questions/111358/functional-programming-writing-a-small-interpreter)
 
 ### Haskell
 - [Haskell Stack](https://docs.haskellstack.org/en/stable/README/)
@@ -107,6 +109,7 @@
 - [I love ARM](https://www.20i.com/blog/i-love-arm/)
 - [Scott Logic](https://blog.scottlogic.com/)
 - [Just Too Efficient](https://www.tbray.org/ongoing/When/202x/2020/07/05/Too-Efficient)
+- [Why modern software makes me sad](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/)
 
 ### Business
 - [Teaching Online](https://leerob.io/blog/teach-online)
@@ -131,6 +134,7 @@
 - [Taiwan's Digital Minister Hacked the Pandemic](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
 - [Why is this idiot running my engineering org](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
 - [Chinese Officials Hijak company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
+- [Interview with Gitlab CEO](https://medium.com/posthog/lessons-from-a-billion-dollar-open-source-company-f9489a840bbb)
 
 ### Actuarial
 - [GLM material](https://www.mdpi.com/2227-9091/4/1/4/htm)
@@ -223,9 +227,13 @@
 - [Fast Design - Web Components](https://www.fast.design/docs/introduction/)
 - [Halfmoon framework](https://www.gethalfmoon.com/)
 - [Glitch - Static sites](https://glitch.com/glimmer/post/fast-free-static-site-hosting-glitch-project-hours)
+- [Traversy Media - Web Development Videos](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+- [Next.js Video - Future Developments](https://www.youtube.com/watch?v=yPG1iaBCJuM)
+- [ZzFXM - JS music system](https://keithclark.github.io/ZzFXM/)
 
 ### Cyber Security
 - [Thinking of a Cybersecurity Career](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
+- [Firewalls: Programming and Application](https://www.cn.edu/libraries/tiny_mce/tiny_mce/plugins/filemanager/files/Honors2011/Rogers_Terry.pdf)
 
 ### Music
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
@@ -303,6 +311,8 @@
 - [Skills Stack for tech career](https://www.careerfair.io/reviews/skill-stack-for-tech-career)
 - [Building technical skill set](https://medium.com/swlh/what-nobody-tells-you-about-building-a-technical-skill-set-b0b64ae7d064)
 - [Treat Self-improvement like Software Upgrade](https://medium.com/team-human/were-treating-self-improvement-like-a-software-upgrade-b25a8e3a80c6)
+- [It's worse than you think Blog ](http://www.asmarterwaytolearn.com/)
+- [All Gas No Brakes - social commentary](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
 
 ### Hardware
 - [Ikarus - Raspberry Pi Cluster - blog of Will Ho (Grab DS)](https://ikarus.sg/how-i-built-kraken/)
@@ -375,6 +385,9 @@
 
 ### Coaching
 - [How to answer interview question - "Tell me about yourself". ](https://www.youtube.com/watch?v=0Z-N2fbRV70)
+
+### Diagramming
+- [Isoflow - cloud diagrams](https://isoflow.io/)
 
 ### Science
 - [Problem only quantum computers can solve](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/)
