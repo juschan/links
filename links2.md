@@ -16,6 +16,8 @@
 - [meta4 - Turing complete?](http://lambdaway.free.fr/lambdawalks/?view=meta4)
 - [Impossible Functional Programmes](http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/)
 - [Regex visualizer - good blog too](https://blog.robertelder.org/regular-expression-visualizer/)
+- [Circuit Notation for Lambda Calculus](https://csvoss.com/circuit-notation-lambda-calculus)
+- [Foundations of Computational Linguistics](https://foundations-computational-linguistics.github.io/chapters/01-Introduction.html)
 
 ### Java
 - [Build native apps in Java](https://www.infoq.com/articles/java-native-cli-graalvm-picocli/?itm_campaign=rightbar_v2&itm_source=infoq&itm_medium=articles_link&itm_content=link_text)
@@ -48,6 +50,9 @@
 - [Python - setup your environment](https://opensource.com/article/20/6/python-tools?utm_campaign=intrel)
 - [Mycroft Voice Assistant with Python](https://opensource.com/article/20/6/mycroft-voice-assistant-skill?utm_campaign=intrel)
 - [KQL integrate with Python on Azure](https://docs.microsoft.com/en-us/sql/azure-data-studio/notebooks-kqlmagic?view=sql-server-ver15)
+- [DearPyGUI](https://itnext.io/python-guis-with-dearpygui-137f4a3360f2)
+- [Pysa - static analysis tool for security](https://engineering.fb.com/security/pysa/)
+- [PYrustic software suite for Python Desktop App](https://pyrustic.github.io/)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -64,6 +69,8 @@
 - [Build a Basic Interpreter](https://able.bio/kerrishotts/building-a-basic-interpreter-80s-style--79a9d703)
 - [Learn functional programme by writing a Scheme in Haskell](https://0x0f0f0f.github.io/posts/2019/09/learn-functional-programming-by-writing-a-scheme-in-haskell/)
 - [Zygomys - Embedded Lisp in Go](https://github.com/glycerine/zygomys)
+- [Build your own VM](https://justinmeiners.github.io/lc3-vm/)
+- [Why Calculating is better than scheming (SICP)](https://www.cs.kent.ac.uk/people/staff/dat/miranda/wadler87.pdf)
 
 ### Haskell
 - [Haskell Stack](https://docs.haskellstack.org/en/stable/README/)
@@ -121,6 +128,9 @@
 - [The quickest SEO Tutorial](https://www.entreprenerd.blog/live-streams/the-quickest-seo-tutorial?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
 - [It's time to start writing](https://alexnixon.github.io/2019/12/10/writing.html)
 - [Going the other way](https://tryjobalerts.com/blog/2020-08-05-going-the-other-way/)
+- [Taiwan's Digital Minister Hacked the Pandemic](https://www.wired.com/story/how-taiwans-unlikely-digital-minister-hacked-the-pandemic/)
+- [Why is this idiot running my engineering org](https://medium.com/@bellmar/why-is-this-idiot-running-my-engineering-org-c6e815790cdb)
+- [Chinese Officials Hijak company](https://www.wsj.com/articles/how-chinese-officials-hijacked-my-company-11596233617)
 
 ### Actuarial
 - [GLM material](https://www.mdpi.com/2227-9091/4/1/4/htm)
@@ -145,7 +155,6 @@
 - [Da Vinci Resolve for Video Editing](https://www.youtube.com/watch?v=cG9kv5-5bPI)
 - [Install Ruby on Rails on Windows](https://gorails.com/setup/windows/10)
 - [Odoo ERP](https://www.odoo.com/slides)
-
 
 ### Knowledge Managment
 - [Awesome KM - list of resouces](https://github.com/brettkromkamp/awesome-knowledge-management)
@@ -180,15 +189,17 @@
 - [Gradio - Customizable UI for TF](https://www.gradio.app/)
 - [Version control and continuous ML](https://dvc.org/)
 - [floating point formats and deep learning](https://eigenfoo.xyz/floating-point-deep-learning/)
+- [I am a model and I know that artificial intelligence will eventually take my job](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
 - [GNU Recutils](https://www.gnu.org/software/recutils/)
 - [Information Architecture](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
 - [How SQLite works](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
-- [Published Assets - big data](https://www.entreprenerd.blog/live-streams/the-quickest-seo-tutorial?ref=hvper.com&utm_source=hvper.com&utm_medium=website)
+- [Published Assets - big data](https://open.nytimes.com/publishing-assets-we-had-a-few-c3a844e98bac)
 - [We can do better than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 - [SQL Tricks](https://hakibenita.com/sql-tricks-application-dba)
+- [Dropbase - offline db to online](https://www.dropbase.io/)
 
 ### Web/Javascript
 - [js - execution context](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
@@ -209,6 +220,12 @@
 - [Node.js without framework - blog post](https://adityasridhar.com/posts/how-to-use-nodejs-without-frameworks-and-external-libraries)
 - [CSS one-liners](https://web.dev/one-line-layouts/)
 - [WASMBoxC - sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
+- [Fast Design - Web Components](https://www.fast.design/docs/introduction/)
+- [Halfmoon framework](https://www.gethalfmoon.com/)
+- [Glitch - Static sites](https://glitch.com/glimmer/post/fast-free-static-site-hosting-glitch-project-hours)
+
+### Cyber Security
+- [Thinking of a Cybersecurity Career](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
 
 ### Music
 - [Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)
@@ -232,6 +249,9 @@
 - [Austin Henley blog - compilers, implementing cosine in C](https://web.eecs.utk.edu/~azh/blog.html)
 - [Building bots and other links](https://www.freecodecamp.org/news/building-bots/)
 - [Start a blog with Hugo in 30 min](https://opensource.com/article/18/3/start-blog-30-minutes-hugo)
+- [Dusted Codes - Programming Adventures Blog](https://dusted.codes/)
+- [Oak - Alternative to C](https://github.com/adam-mcdaniel/oakc)
+- [HN - doing SICP](https://news.ycombinator.com/item?id=2370617)
 
 ### Automation and Workflow
 - [Wexflow](https://wexflow.github.io/Wexflow)
@@ -277,6 +297,15 @@
 - [Reading in order to discuss is better](https://pex.com/blog/book-clubs-reading-is-good-reading-to-discuss-is-better/)
 - [Unbundling work from employment](https://li.substack.com/p/unbundling-work-from-employment)
 - [How to pretend you are smart](https://www.currentaffairs.org/2020/07/how-to-pretend-that-you-are-smart?ref=briefingday.com)
+- [Expiring vs Permanent Skills](https://www.collaborativefund.com/blog/expiring-vs-permanent-skills/)
+- [Stop procrastination using Fogg Behavior Model](https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model)
+- [Derek Sivers & The Art of Enough](https://brendancahill.io/brensblog/dereksivers)
+- [Skills Stack for tech career](https://www.careerfair.io/reviews/skill-stack-for-tech-career)
+- [Building technical skill set](https://medium.com/swlh/what-nobody-tells-you-about-building-a-technical-skill-set-b0b64ae7d064)
+- [Treat Self-improvement like Software Upgrade](https://medium.com/team-human/were-treating-self-improvement-like-a-software-upgrade-b25a8e3a80c6)
+
+### Hardware
+- [Ikarus - Raspberry Pi Cluster - blog of Will Ho (Grab DS)](https://ikarus.sg/how-i-built-kraken/)
 
 ### Information Theory
 - [Intro to the beauty of IT](https://notamonadtutorial.com/a-brief-introduction-to-the-beauty-of-information-theory-8357f5b6a355)
@@ -297,11 +326,15 @@
 ### Writing/Comms
 = [Technical Writing Course | Google ](https://developers.google.com/tech-writing)
 - [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
+- [How I wrote a technical book in < 200hrs](https://medium.com/@robaboukhalil/how-i-wrote-a-technical-book-in-under-200-hours-911d5e4f9e8c)
+- [Reports leaving newsroom for newsletter](https://www.washingtonpost.com/business/2020/07/24/substack-email-newsletter-journalism/)
+- [Sports reporters turn to newsletter](https://www.washingtonpost.com/sports/2020/06/01/out-of-work-sportswriters-are-turning-newsletters-hoping-economics-can-work/)
 
 ### Design
 - [Colors.lol - colour palettes](https://colors.lol)
 - [Interior Book Design - resources](https://dave.autonoma.ca/blog/2020/04/11/interior-book-design/)
 - [Typesetting Markdown](https://dave.autonoma.ca/blog/2019/08/06/typesetting-markdown-part-7/)
+- [Patternfly - Design System](https://www.patternfly.org/v4/)
 
 ### Teaching
 - [Programming languages uses same brain areas as speech](https://medicalxpress.com/news/2020-06-language-brain-scans-reveal-coding.html)
@@ -311,6 +344,7 @@
 - [The greatest teaching techniques don't compute over zoom](https://www.bloomberg.com/opinion/articles/2020-07-12/the-greatest-teaching-techniques-don-t-compute-over-zoom)
 - [Harvard's star CS Prof built a distance learning empire](https://www.newyorker.com/news/our-local-correspondents/how-harvards-star-computer-science-professor-built-a-distance-learning-empire)
 - [Starting a private education institute in SG](https://www.guidemesingapore.com/business-guides/industry-guides/education-industry/starting-a-private-education-institute-pei-in-singapore)
+- [Teaching Isn't About Managing Behaviour](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
 
 ### Cashless Society
 - [Offset](https://docs.offsetcredit.org/en/latest/intro/about.html)
@@ -336,6 +370,8 @@
 - [Vivid Dreams during pandemic](https://www.sleepedy.com/articles/pandemic-dreams/)
 - [DIY coronavirus vaccine](https://www.technologyreview.com/2020/07/29/1005720/george-church-diy-coronavirus-vaccine)
 - [Fasting and Metabolism](https://mehdiyacoubi.substack.com/p/the-long-game-8-fasting-and-metabolism)
+- [Mitochondria - key to Anxiety and Mental Health](https://www.quantamagazine.org/mitochondria-may-hold-keys-to-anxiety-and-mental-health-20200810/)
+- [Red Light for Declining Eyesight improvement](https://www.ucl.ac.uk/news/2020/jun/declining-eyesight-improved-looking-deep-red-light)
 
 ### Coaching
 - [How to answer interview question - "Tell me about yourself". ](https://www.youtube.com/watch?v=0Z-N2fbRV70)
