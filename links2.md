@@ -54,7 +54,7 @@
 - [Pysa - static analysis tool for security](https://engineering.fb.com/security/pysa/)
 - [Pyrustic software suite for Python Desktop App](https://pyrustic.github.io/)
 - [FunctionTrace - Graphical Python Profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
-- [Adv Python - Finite State Machine](https://www.python-course.eu/finite_state_machine.php)
+- [Advanced Python - Finite State Machine](https://www.python-course.eu/finite_state_machine.php)
 
 ### Compilers
 - [Build Your Own Lisp](http://www.buildyourownlisp.com/)
@@ -214,6 +214,9 @@
 - [Dropbase - offline db to online](https://www.dropbase.io/)
 - [Schedule SQL Scripts on SQL Server Express](https://www.mssqltips.com/sqlservertip/5830/how-to-schedule-sql-scripts-on-sql-server-express-edition/)
 - [Information Architecture - Cheat Sheet](https://simpleprogrammer.com/information-architecture-developers-learning-design/)
+- [Use Pandas with Large Data](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
+- [Pandas data types](https://pbpython.com/pandas_dtypes.html)
+- [Optimise Pandas df for low memory use](https://medium.com/@vincentteyssier/optimizing-the-size-of-a-pandas-dataframe-for-low-memory-environment-5f07db3d72e)
 
 ### Web/Javascript
 - [js - execution context](https://blog.greenroots.info/understanding-javascript-execution-context-like-never-before-ckb8x246k00f56hs1nefzpysq)
