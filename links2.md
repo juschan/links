@@ -152,6 +152,7 @@
 - [FRC Risk Perspectives](https://www.frc.org.uk/getattachment/54fc1570-1db8-4ddf-a2d2-aa046ce5d1fd/Risk-Perspective_19_Final.pdf)
 - [Logarithm: The Complete Guide](https://mathvault.ca/logarithm-theory/)
 - [Visual intro to Prob and Stats](https://seeing-theory.brown.edu/#firstPage)
+- [Graphical Linear Algebra](https://graphicallinearalgebra.net/2016/08/26/30-the-essence-of-graphical-linear-algebra/)
 
 ### Tools
 - [Microsoft PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.19.0)
@@ -168,6 +169,8 @@
 ### Knowledge Managment
 - [Awesome KM - list of resouces](https://github.com/brettkromkamp/awesome-knowledge-management)
 - [Kyso - manage insights](https://kyso.io/)
+- [Obsidian - manage goals, notes, km](https://joshwin.imprint.to/post/how-i-use-obsidian-to-manage-my-goals-tasks-notes-and-software-development-knowledge-base)
+- [Archivy - self-hosted Knowledge repo](https://github.com/Uzay-G/archivy)
 
 ### ML/AI
 - [Model Explanation](https://www.r-bloggers.com/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis/)
@@ -202,6 +205,10 @@
 - [I am a model and I know that artificial intelligence will eventually take my job](https://www.vogue.com/article/sinead-bovell-model-artificial-intelligence)
 - [Inferrd - Deploy AI Model](https://docs.inferrd.com/guides/use-deployed-model)
 - [Install TensorFlow for Go](https://www.tensorflow.org/install/lang_go)
+- [Chi-square test for feature selection](https://towardsdatascience.com/chi-square-test-for-feature-selection-in-machine-learning-206b1f0b8223)
+- [Spark ML Docs](https://spark.apache.org/docs/latest/ml-classification-regression.html)
+- [XGBoost Reference](https://xgboost.readthedocs.io/en/latest/tutorials/model.html)
+- [Practical Data Ethics - Resources](http://ethics.fast.ai/)
 
 ### Data/SQL
 - [Mastery with SQL](https://www.masterywithsql.com/)
@@ -244,6 +251,7 @@
 - [Next.js Video - Future Developments](https://www.youtube.com/watch?v=yPG1iaBCJuM)
 - [ZzFXM - JS music system](https://keithclark.github.io/ZzFXM/)
 - [Vercel!! Formerly Zeit](https://vercel.com/docs)
+- [umami - own your website analytics](https://umami.is/docs/enable-share-url)
 
 ### Cyber Security
 - [Thinking of a Cybersecurity Career](https://krebsonsecurity.com/2020/07/thinking-of-a-cybersecurity-career-read-this/)
@@ -279,6 +287,7 @@
 ### Automation and Workflow
 - [Wexflow](https://wexflow.github.io/Wexflow)
 - [Intro to Simple Workflow Service - Amazon](https://ncona.com/2020/07/introduction-to-aws-simple-workflow-service/)
+- [Airflow](https://curology.com/blog/tech/posts/effective-airflow?hn)
 
 ### Systems Thinking
 - {Lack of sympathy towards complex systems}(https://news.knowledia.com/US/en/articles/lack-of-sympathy-towards-complex-systems-a-city-away-37c539f957c0d02fddced2701741804e6ff7c375)
@@ -333,6 +342,8 @@
 - [It's worse than you think Blog ](http://www.asmarterwaytolearn.com/)
 - [All Gas No Brakes - social commentary](https://bigtechnology.substack.com/p/the-brilliance-of-all-gas-no-brakes)
 - [How to get to the end of a computer book](http://www.asmarterwaytolearn.com/blog/how-to-get-to-the-end-of-a-computer-book.php)
+- [Negotiation - U-Shaped Story](https://www.cristianmitreanu.com/blog/2017/2/25/improve-your-negotiation-skills-with-the-u-shaped-story)
+- [Employee - one million dollar compensation](https://www.marketingbs.com/post/million-compensation)
 
 ### Hardware
 - [Ikarus - Raspberry Pi Cluster - blog of Will Ho (Grab DS)](https://ikarus.sg/how-i-built-kraken/)
@@ -382,6 +393,7 @@
 - [Starting a private education institute in SG](https://www.guidemesingapore.com/business-guides/industry-guides/education-industry/starting-a-private-education-institute-pei-in-singapore)
 - [Teaching Isn't About Managing Behaviour](https://www.theatlantic.com/education/archive/2020/07/reality-pedagogy-teaching-form-protest/614554/)
 - [Ivan Illich - Deschooling and Lifelong Learning](https://infed.org/ivan-illich-deschooling-conviviality-and-lifelong-learning/)
+- [Preply - be a tutor](https://preply.com/)
 
 ### Cashless Society
 - [Offset](https://docs.offsetcredit.org/en/latest/intro/about.html)
@@ -398,6 +410,7 @@
 - [VISA - approach to digital currency](https://usa.visa.com/visa-everywhere/blog/bdp/2020/07/21/advancing-our-approach-1595302085970.html)
 - [Why do people stay poor?](http://sticerd.lse.ac.uk/dps/eopp/eopp67.pdf)
 - [Zelf - Gen Z banking](https://sifted.eu/articles/gen-z-messenger-banking-zelf/)
+- [Participatory Economy](https://sariazout.substack.com/p/check-your-pulse-50)
 
 ### Healthcare
 - [Aiming Ultrasound at the Brain](https://www.sciencemag.org/news/2020/06/aiming-ultrasound-brain-raises-hope-new-treatments?MvBriefArticleId=9389)
@@ -414,6 +427,12 @@
 ### Coaching
 - [How to answer interview question - "Tell me about yourself". ](https://www.youtube.com/watch?v=0Z-N2fbRV70)
 
+### Psychology - Alter Ego
+- [Batman Effect](https://www.bbc.com/worklife/article/20200817-the-batman-effect-how-having-an-alter-ego-empowers-you)
+- [Coaching the ego-oriented athlete](https://pdfs.semanticscholar.org/d6a2/00463e94ddcea2944708a11fd648f2c9c6c5.pdf)
+- [The Alter Ego Effect](https://alteregoeffect.com/)
+- [Construct and Utlilize Superhuman Alter Ego](https://superhumanacademy.com/podcast/how-to-construct-and-utilize-your-superhuman-alter-ego-todd-herman/)
+
 ### Diagramming
 - [Isoflow - cloud diagrams](https://isoflow.io/)
 
@@ -421,3 +440,6 @@
 - [Problem only quantum computers can solve](https://www.quantamagazine.org/finally-a-problem-that-only-quantum-computers-will-ever-be-able-to-solve-20180621/)
 - [How and why computer roll loaded dice](https://www.quantamagazine.org/how-and-why-computers-roll-loaded-dice-20200708/)
 - [The Thought Emporium](https://www.thethoughtemporium.com/)
+
+### Fest
+- [Hackerfest2020](https://hacktoberfest.digitalocean.com/details/)
