@@ -24,6 +24,7 @@
 - [Wexflow - workflow engine](https://hub.docker.com/r/aelassas/wexflow)
 - [Azure's Golang problem](https://thenewstack.io/add-it-up-azures-golang-problem/)
 - [Webflow - no code apps](https://webflow.com/blog/no-code-apps)
+- [Linux Admin course - free](https://news.ycombinator.com/item?id=24380969)
 
 ### Python
 - [Python Projects - Code with repl.it](https://www.codewithrepl.it/)
