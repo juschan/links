@@ -32,6 +32,7 @@
 - [Write a domain specific language with python](https://dbader.org/blog/writing-a-dsl-with-python)
 - [Book - Computational Music Synthesis](https://cs.gmu.edu/~sean/book/synthesis/)
 - [Actually Portable Executable Files](https://justine.storage.googleapis.com/ape.html)
+- [IEEE - Robot programming](https://spectrum.ieee.org/automaton/robotics/home-robots/irobot-new-education-robot-root)
 
 ### Web
 - [Book - Fullstack D3](https://www.newline.co/fullstack-d3)
@@ -114,6 +115,9 @@
 
 ### Technical Bookclub
 - [Running a technical book club](https://medium.com/zendesk-engineering/recipes-for-running-a-successful-technical-book-club-at-work-4a7f18ffab42)
+
+### Life Hacks
+- [Thrive OS - good habits app](https://community.makerpad.co/c/showcase/it-s-been-100-days-since-we-started-building)
 
 ### Game Design
 - [Book - Game Design Workshop](https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/1482217163/ref=sr_1_13?dchild=1&keywords=data+structures+%26+program+design+inc&qid=1597894807&sr=8-13)
