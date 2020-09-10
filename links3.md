@@ -79,6 +79,7 @@
 - [Why it is important that software projects fail](https://www.berglas.org/Articles/ImportantThatSoftwareFails/ImportantThatSoftwareFails.html)
 - [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [Software Design Coaching - James Koppel](http://jameskoppelcoaching.com/advanced-software-design-web-course/)
+- [Software Aging](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf)
 
 ### Business
 - [Business Architecture Playbook](https://nocomplexity.com/documents/arplaybook/businessarchitecture.html)
@@ -87,6 +88,7 @@
 - [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law)
 - [How to build a biotech](https://www.celinehh.com/how-to-build-a-biotech)
 - [A Group is its own worse enemy](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
+ -[Remote Work Visas - future of work](https://theconversation.com/remote-work-visas-will-shape-the-future-of-work-travel-and-citizenship-145078)
 
 ### Legacy IT
 - [IEEE - Legacy IT systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
@@ -100,6 +102,7 @@
 - [Data Hunter-Gatherer](https://dataecosystem.substack.com/p/data-hunter-gatherer)
 - [Designing data-intensive applications by Martin Kleppmann](https://hoanhan101.github.io/design-data-intensive-apps)
 - [The Database I wish I had - a review of various db](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
+- [TerminusDB - version control for DB](https://terminusdb.com/docs/quickstart/)
 
 ### ML / AI
 - [Experts recommend ML books](https://mentorcruise.com/books/ml/)
@@ -114,6 +117,9 @@
 - [ML from scratch - free online book](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Taxi cab rides using Omniscidb and macbook](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
 - [Deepfake faces](https://graphics.reuters.com/CYBER-DEEPFAKE/ACTIVIST/nmovajgnxpa/index.html)
+
+### Financial
+- [iten - statistical trading portfolios (python)](https://github.com/tradytics/eiten)
 
 ### Systems Thinking
 - [Modeling Complexity and Systems Thinking](https://dri.unsw.edu.au/groundbreaking_post/modelling-complexity-systems-thinking/)
@@ -150,6 +156,7 @@
 - [Correlation between solar activity and earthquake](https://www.nature.com/articles/s41598-020-67860-3)
 - [Guide to Maxwell's Equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations)
 - [Thought Emporium - education](https://www.thethoughtemporium.com/about-us)
+- [Unlimited Info is tramsforming society](https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/)
 
 ### Writing
 - [Journal 2.0 - Journalling tool](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
@@ -164,6 +171,7 @@
 - [Tech changing our brains](https://www.vox.com/podcasts/2020/7/1/21308153/the-ezra-klein-show-the-shallows-twitter-facebook-attention-deep-reading-thinking)
 - [Book - overcome learning problems](http://www.asmarterwaytolearn.com/blog/book-that-solves-crippling-learning-problem.php)
 - [Unbundling of Harvard](https://socialstudies.substack.com/p/-the-unbundling-of-harvard-has-begun)
+- [How to read fewer books](https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/)
 
 ### Game Design/Engine
 - [Book - Game Design Workshop](https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/1482217163/ref=sr_1_13?dchild=1&keywords=data+structures+%26+program+design+inc&qid=1597894807&sr=8-13)
@@ -180,6 +188,7 @@
 - [How to learn everything - review of Masterclass](https://longreads.com/2020/08/20/how-to-learn-everything-the-masterclass-diaries/)
 - [We shouldn't go back to lectures](https://www.theguardian.com/education/2020/jul/03/we-shouldnt-go-back-to-lectures-why-future-students-will-learn-online)
 - [De-schooling and lifelong learning](https://infed.org/ivan-illich-deschooling-conviviality-and-lifelong-learning/)
+- [Learning to program at age 40](https://github.com/Dhghomon/programming_at_40/blob/master/README.md)
 
 ### Coaching
  - [Republic Poly - Career Counselling](https://www.rp.edu.sg/ace/course-summary/Detail/sdcc)
@@ -195,6 +204,7 @@
 - [Goldback](https://goldback.com/)
 - [Hedge Fund Mgr take an job managing oil fund](https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund)
 - [COVID-19, housing eviction crisis](https://www.vox.com/21301823/rent-coronavirus-covid-19-housing-eviction-crisis)
+- [Mastercard's CDBC Testing Platform](https://mastercardcontentexchange.com/newsroom/press-releases/2020/september/mastercard-launches-central-bank-digital-currencies-cbdcs-testing-platform/)
 
 ### Healthcare
 - [Forward - Preventative Healthcare/Insurance](https://capitalandgrowth.org/answers/Article/3347575/Almost-Too-Good-to-Be-True-Preventive-Healthcare-for-149-Month)
