@@ -25,6 +25,8 @@
 - [Azure's Golang problem](https://thenewstack.io/add-it-up-azures-golang-problem/)
 - [Webflow - no code apps](https://webflow.com/blog/no-code-apps)
 - [Linux Admin course - free](https://news.ycombinator.com/item?id=24380969)
+- [Airtable - apps, new features](https://blog.airtable.com/airtable-platform-launch-automations-sync-apps/)
+- [GNU Make for data pipeline](https://www.propublica.org/nerds/gnu-make-illinois-campaign-finance-data-david-eads-propublica-illinois)
 
 ### Python
 - [Python Projects - Code with repl.it](https://www.codewithrepl.it/)
@@ -39,6 +41,7 @@
 - [Odoo - Python ERP](https://www.odoo.com/page/about-us)
 - [4 fast compilers for Python](https://insights.dice.com/2018/06/28/4-fast-python-compilers-better-performance/)
 - [4 tools for Python](https://opensource.com/article/20/6/python-tools?utm_campaign=intrel)
+- [Let's plot - ggplot2 for Python](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
 
 
 ### Programming Projects
@@ -53,6 +56,9 @@
 - [Build an alarm clock app in Android](https://learntodroid.com/how-to-create-a-simple-alarm-clock-app-in-android/)
 - [Outbound Rules to MS Firewall](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ics/c-adding-an-outbound-rule?redirectedfrom=MSDN)
 - [Able - various projects](https://able.bio/)
+- [Raspberry Pi - self-hosted apps](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
+- [Compiling Word for Windows 1](https://richardlewis.org/blog/2020/7/31/opus-compiling-word-for-windows-1-1a)
+- [Relativty - open source VR](https://www.relativty.com/)
 
 ### Web
 - [Book - Fullstack D3](https://www.newline.co/fullstack-d3)
@@ -88,7 +94,9 @@
 - [Godwin's Law](https://en.wikipedia.org/wiki/Godwin%27s_law)
 - [How to build a biotech](https://www.celinehh.com/how-to-build-a-biotech)
 - [A Group is its own worse enemy](https://www.gwern.net/docs/technology/2005-shirky-agroupisitsownworstenemy.pdf)
- -[Remote Work Visas - future of work](https://theconversation.com/remote-work-visas-will-shape-the-future-of-work-travel-and-citizenship-145078)
+- [Remote Work Visas - future of work](https://theconversation.com/remote-work-visas-will-shape-the-future-of-work-travel-and-citizenship-145078)
+- [If Mgt isn't a promotion, engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
+- [In-person leaders may not be best virtual ones](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones)
 
 ### Legacy IT
 - [IEEE - Legacy IT systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
@@ -103,6 +111,9 @@
 - [Designing data-intensive applications by Martin Kleppmann](https://hoanhan101.github.io/design-data-intensive-apps)
 - [The Database I wish I had - a review of various db](https://euandre.org/2020/08/31/the-database-i-wish-i-had.html)
 - [TerminusDB - version control for DB](https://terminusdb.com/docs/quickstart/)
+- [Good Database Design(https://relinx.io/2020/09/14/old-good-database-design/)
+- [Data not a good substitute for good judgement](https://somehowmanage.com/2020/08/23/data-is-not-a-substitute-for-good-judgment/)
+- [Backup Postgres to cloud](https://abishekmuthian.com/backup-postgresql-to-cloud/)
 
 ### ML / AI
 - [Experts recommend ML books](https://mentorcruise.com/books/ml/)
@@ -117,6 +128,7 @@
 - [ML from scratch - free online book](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Taxi cab rides using Omniscidb and macbook](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
 - [Deepfake faces](https://graphics.reuters.com/CYBER-DEEPFAKE/ACTIVIST/nmovajgnxpa/index.html)
+
 
 ### Financial
 - [iten - statistical trading portfolios (python)](https://github.com/tradytics/eiten)
@@ -157,6 +169,7 @@
 - [Guide to Maxwell's Equations](https://github.com/photonlines/Intuitive-Guide-to-Maxwells-Equations)
 - [Thought Emporium - education](https://www.thethoughtemporium.com/about-us)
 - [Unlimited Info is tramsforming society](https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/)
+- [NZ tests long range wireless power tx](https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/)
 
 ### Writing
 - [Journal 2.0 - Journalling tool](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
@@ -172,10 +185,15 @@
 - [Book - overcome learning problems](http://www.asmarterwaytolearn.com/blog/book-that-solves-crippling-learning-problem.php)
 - [Unbundling of Harvard](https://socialstudies.substack.com/p/-the-unbundling-of-harvard-has-begun)
 - [How to read fewer books](https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/)
+- [Stay motivated on Long Term Project](https://durmonski.com/self-improvement/the-three-year-rule/)
+- [Why you shouldn't pay for HDB with CPF](https://www.asiaone.com/money/why-you-should-not-pay-your-hdb-cpf)
 
 ### Game Design/Engine
 - [Book - Game Design Workshop](https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/1482217163/ref=sr_1_13?dchild=1&keywords=data+structures+%26+program+design+inc&qid=1597894807&sr=8-13)
 - [BYTEPATH - shooter game engine](https://github.com/a327ex/BYTEPATH)
+
+### Ethics
+- [FB Data Scientist on Political Manipulations](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo)
 
 
 ### Teaching
@@ -208,3 +226,4 @@
 
 ### Healthcare
 - [Forward - Preventative Healthcare/Insurance](https://capitalandgrowth.org/answers/Article/3347575/Almost-Too-Good-to-Be-True-Preventive-Healthcare-for-149-Month)
+- [Ruok - conversations, mental health](https://www.ruok.org.au/)
