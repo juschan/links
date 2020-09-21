@@ -5,6 +5,8 @@
 - [Intro to Computational Thinking](https://mitmath.github.io/18S191/Fall20/)
 - [SICP - online](http://sarabander.github.io/sicp/html/index.xhtml#Top)
 - [Intro to CS](https://learn.saylor.org/mod/book/view.php?id=22024)
+- [Don't hate the book because you don't use it](https://aseure.fr/articles/2020-09-18-dont-hate-the-book-because-you-dont-use-it/)
+- [History of OOP](https://www.sciencedirect.com/science/article/pii/S0890540113000795)
 
 ### Computer Languages
 - [A look at the J language](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
@@ -15,6 +17,10 @@
 - [Go is boring](https://www.capitalone.com/tech/software-engineering/go-is-boring/)
 - [Haskell Tool Stack](https://docs.haskellstack.org/en/stable/README/)
 - [Deep Dive into JIT Compilers](https://carolchen.me/blog/jits-intro/)
+- [Designing a Pratt Praser Generator](https://www.robertjacobson.dev/designing-a-pratt-parser-generator)
+- [Haskell.org](http://haskell.org/)
+- [Pointers are complicated](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
+- [The problem with C](https://cor3ntin.github.io/posts/c/)
 
 ### Development Tools
 - [Oh Shit, Git!](https://ohshitgit.com/)
@@ -42,7 +48,8 @@
 - [4 fast compilers for Python](https://insights.dice.com/2018/06/28/4-fast-python-compilers-better-performance/)
 - [4 tools for Python](https://opensource.com/article/20/6/python-tools?utm_campaign=intrel)
 - [Let's plot - ggplot2 for Python](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
-
+- [Python Execution Model - Jeff Knupp blog](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
+- [How CPython VM works - blog](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
 
 ### Programming Projects
 - [The Builder Book - MERN etc. Books 1 and 2](https://builderbook.org/)
@@ -71,6 +78,7 @@
 - [GetStarted, Nextjs](https://getstarted.sh/)
 - [Website with Wix](https://www.youtube.com/watch?v=142qllS1198)
 - [Nextjs](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
+- [TexMe - Self-rendering latex](https://github.com/susam/texme)
 
 ### Software Development
 - [Ethics in Software Development](https://gotopia.tech/bookclub/episodes/pragmatic-programmer-in-2020)
@@ -97,6 +105,9 @@
 - [Remote Work Visas - future of work](https://theconversation.com/remote-work-visas-will-shape-the-future-of-work-travel-and-citizenship-145078)
 - [If Mgt isn't a promotion, engineering isn't a demotion](https://charity.wtf/2020/09/06/if-management-isnt-a-promotion-then-engineering-isnt-a-demotion/)
 - [In-person leaders may not be best virtual ones](https://www.bbc.com/worklife/article/20200827-why-in-person-leaders-may-not-be-the-best-virtual-ones)
+- [Go to market strategy for engineers](https://defmacro.substack.com/p/go-to-market-strategy-for-engineers)
+- [Meet everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html)
+- [Why people want us back in the office](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/)
 
 ### Legacy IT
 - [IEEE - Legacy IT systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
@@ -114,6 +125,7 @@
 - [Good Database Design(https://relinx.io/2020/09/14/old-good-database-design/)
 - [Data not a good substitute for good judgement](https://somehowmanage.com/2020/08/23/data-is-not-a-substitute-for-good-judgment/)
 - [Backup Postgres to cloud](https://abishekmuthian.com/backup-postgresql-to-cloud/)
+- [Apache Arrow + MinIO](https://blog.min.io/turbocharging-minio-datalakes-with-arrowrdd/)
 
 ### ML / AI
 - [Experts recommend ML books](https://mentorcruise.com/books/ml/)
@@ -128,7 +140,7 @@
 - [ML from scratch - free online book](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Taxi cab rides using Omniscidb and macbook](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
 - [Deepfake faces](https://graphics.reuters.com/CYBER-DEEPFAKE/ACTIVIST/nmovajgnxpa/index.html)
-
+- [Attentive Normalisation in AI](https://news.ncsu.edu/2020/09/attentive-normalization-in-ai/)
 
 ### Financial
 - [iten - statistical trading portfolios (python)](https://github.com/tradytics/eiten)
@@ -137,6 +149,9 @@
 - [Modeling Complexity and Systems Thinking](https://dri.unsw.edu.au/groundbreaking_post/modelling-complexity-systems-thinking/)
 - [Second Order Thinking](https://models.substack.com/p/second-order-thinking)
 - [Complexity - Managing change in higher education](https://er.educause.edu/articles/2018/10/complexity-a-leaders-framework-for-understanding-and-managing-change-in-higher-education)
+- [Mental Models!!](https://fs.blog/mental-models/?)
+- [Textbook - Intro to the modelling and analysis of complex systems](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)
+- [When Technology Takes Revenge](https://fs.blog/2020/09/revenge-effects/)
 
 ### Tools
 - [Take notes on youtube](https://www.tuberslab.com/)
@@ -156,6 +171,7 @@
 ### Job Hunting, CV, Career
 - [10 things I hate about your resume](https://abovethelaw.com/career-files/10-things-i-hate-about-your-resume/)
 - [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
+- [Spot toxic software jobs from description](https://medium.com/swlh/how-to-spot-toxic-software-jobs-from-their-descriptions-c53cf224417f)
 
 ### IoT
 - [Turning your Raspberry Pi into a mini server - Blog, zine](https://n-o-d-e.net/node_mini_server3.html)
@@ -170,6 +186,7 @@
 - [Thought Emporium - education](https://www.thethoughtemporium.com/about-us)
 - [Unlimited Info is tramsforming society](https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/)
 - [NZ tests long range wireless power tx](https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/)
+- [Earth barrelling towards hothouse](https://www.space.com/oldest-climate-record-ever-cenozoic-era.html)
 
 ### Writing
 - [Journal 2.0 - Journalling tool](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
@@ -213,6 +230,9 @@
  - [Republic Poly - Mentoring and Coaching](https://www.rp.edu.sg/ace/course-summary/Detail/specialist-diploma-in-coaching-and-mentoring-for-workplace-learning)
  - [Collective Life Institute - Life Coaching (ICF)](https://www.collectivechangeinstitute.com/alumni-directory/)
 
+### Epistemology
+- [Why udnerstanding beats knowledge - swizec blog](https://swizec.com/blog/why-understanding-beats-knowledge/)
+
 ### Cashless Society
 - [TikTok owners forego stake to clinch US Deal](https://www.thehindu.com/news/international/tiktoks-chinese-owner-offers-to-forego-stake-to-clinch-us-deal-says-sources/article32251915.ece)
 - [COVID fears pushing world's rich to set up in Singapore](https://www.bloomberg.com/news/articles/2020-07-29/covid-fears-are-pushing-world-s-mega-rich-to-set-up-in-singapore)
@@ -224,6 +244,14 @@
 - [COVID-19, housing eviction crisis](https://www.vox.com/21301823/rent-coronavirus-covid-19-housing-eviction-crisis)
 - [Mastercard's CDBC Testing Platform](https://mastercardcontentexchange.com/newsroom/press-releases/2020/september/mastercard-launches-central-bank-digital-currencies-cbdcs-testing-platform/)
 
+### Cybersecurity
+- [Chinese Antivirus Firm was part of APT41 'supply chain' attack](https://krebsonsecurity.com/2020/09/chinese-antivirus-firm-was-part-of-apt41-supply-chain-attack/#:~:text=One%20of%20the%20alleged%20hackers,of%20a%20Chinese%20antivirus%20firm.&text=Charging%20documents%20say%20the%20seven,%E2%80%9D%20and%20%E2%80%9CWicked%20Spider.%E2%80%9D)
+- [We didn't encrypt your password, we hashed it](https://www.troyhunt.com/we-didnt-encrypt-your-password-we-hashed-it-heres-what-that-means/)
+
+### Finance
+- [Smart Beta win in backtest, misfire in reality](https://www.bloomberg.com/news/articles/2020-09-03/darkest-quant-fears-ring-true-in-1-trillion-world-of-smart-beta)
+
 ### Healthcare
 - [Forward - Preventative Healthcare/Insurance](https://capitalandgrowth.org/answers/Article/3347575/Almost-Too-Good-to-Be-True-Preventive-Healthcare-for-149-Month)
 - [Ruok - conversations, mental health](https://www.ruok.org.au/)
+- [What if certain mental disorders are not disorders at all](https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all)
