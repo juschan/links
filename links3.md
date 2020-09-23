@@ -21,6 +21,8 @@
 - [Haskell.org](http://haskell.org/)
 - [Pointers are complicated](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
 - [The problem with C](https://cor3ntin.github.io/posts/c/)
+- [Swift on Windows](https://swift.org/blog/swift-on-windows/)
+- [zig Lang](https://ziglang.org/)
 
 ### Development Tools
 - [Oh Shit, Git!](https://ohshitgit.com/)
@@ -66,6 +68,7 @@
 - [Raspberry Pi - self-hosted apps](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
 - [Compiling Word for Windows 1](https://richardlewis.org/blog/2020/7/31/opus-compiling-word-for-windows-1-1a)
 - [Relativty - open source VR](https://www.relativty.com/)
+- [Nextjs for static blogging](https://javacrisps.com/posts/nextjs-static-fun)
 
 ### Web
 - [Book - Fullstack D3](https://www.newline.co/fullstack-d3)
@@ -114,6 +117,7 @@
 
 ### Office
 - [Moving Backgrounds in Powerpoint](https://www.youtube.com/watch?v=sbzFRRUFGQ4)
+- [Spark Email App](https://sparkmailapp.com/)
 
 ### Data
 - [Worldwide Data Pricing](https://www.cable.co.uk/mobiles/worldwide-data-pricing/)
@@ -224,6 +228,7 @@
 - [We shouldn't go back to lectures](https://www.theguardian.com/education/2020/jul/03/we-shouldnt-go-back-to-lectures-why-future-students-will-learn-online)
 - [De-schooling and lifelong learning](https://infed.org/ivan-illich-deschooling-conviviality-and-lifelong-learning/)
 - [Learning to program at age 40](https://github.com/Dhghomon/programming_at_40/blob/master/README.md)
+- [Learning to Learn Japanese](https://zachdaniel.dev/learning-how-to-learn-japanese/)
 
 ### Coaching
  - [Republic Poly - Career Counselling](https://www.rp.edu.sg/ace/course-summary/Detail/sdcc)
