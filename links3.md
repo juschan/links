@@ -35,6 +35,10 @@
 - [Linux Admin course - free](https://news.ycombinator.com/item?id=24380969)
 - [Airtable - apps, new features](https://blog.airtable.com/airtable-platform-launch-automations-sync-apps/)
 - [GNU Make for data pipeline](https://www.propublica.org/nerds/gnu-make-illinois-campaign-finance-data-david-eads-propublica-illinois)
+- [NSQ - realtime distributed message platform](https://nsq.io/)
+- [Nvidia's libc with cuda](https://github.com/NVIDIA/libcudacxx)
+- [Material Shell - GUI for cross-platform](https://material-shell.com/#material-shell)
+- [GitPals](https://www.gitpals.com/projects/GitPals)
 
 ### Python
 - [Python Projects - Code with repl.it](https://www.codewithrepl.it/)
@@ -52,6 +56,7 @@
 - [Let's plot - ggplot2 for Python](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
 - [Python Execution Model - Jeff Knupp blog](https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/)
 - [How CPython VM works - blog](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
+- [Python Innards](https://tech.blog.aknin.name/2010/04/02/pythons-innards-introduction/)
 
 ### Programming Projects
 - [The Builder Book - MERN etc. Books 1 and 2](https://builderbook.org/)
@@ -97,6 +102,7 @@
 - [How to build good software](https://www.csc.gov.sg/articles/how-to-build-good-software)
 - [Software Design Coaching - James Koppel](http://jameskoppelcoaching.com/advanced-software-design-web-course/)
 - [Software Aging](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf)
+- [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/)
 
 ### Business
 - [Business Architecture Playbook](https://nocomplexity.com/documents/arplaybook/businessarchitecture.html)
@@ -111,6 +117,7 @@
 - [Go to market strategy for engineers](https://defmacro.substack.com/p/go-to-market-strategy-for-engineers)
 - [Meet everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html)
 - [Why people want us back in the office](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/)
+- [Leadership in Crisis - why we need plato](https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/)
 
 ### Legacy IT
 - [IEEE - Legacy IT systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
@@ -130,6 +137,7 @@
 - [Data not a good substitute for good judgement](https://somehowmanage.com/2020/08/23/data-is-not-a-substitute-for-good-judgment/)
 - [Backup Postgres to cloud](https://abishekmuthian.com/backup-postgresql-to-cloud/)
 - [Apache Arrow + MinIO](https://blog.min.io/turbocharging-minio-datalakes-with-arrowrdd/)
+- [NoSQL Distilled](https://martinfowler.com/books/nosql.html)
 
 ### ML / AI
 - [Experts recommend ML books](https://mentorcruise.com/books/ml/)
@@ -161,6 +169,7 @@
 - [Take notes on youtube](https://www.tuberslab.com/)
 - [Mastadon - social networking](https://joinmastodon.org/)
 - [SonarCude - Code Analysis](https://en.m.wikipedia.org/wiki/SonarQube)
+- [$1 Microcontrollers](https://jaycarlson.net/microcontrollers/)
 
 ### Cloud
 - [Microsoft - deploy cloud IT system for SME Business](https://docs.microsoft.com/en-us/windows/smb/cloud-mode-business-setup)
@@ -191,6 +200,7 @@
 - [Unlimited Info is tramsforming society](https://www.scientificamerican.com/article/unlimited-information-is-transforming-society/)
 - [NZ tests long range wireless power tx](https://singularityhub.com/2020/08/30/new-zealand-is-about-to-test-long-range-wireless-power-transmission/)
 - [Earth barrelling towards hothouse](https://www.space.com/oldest-climate-record-ever-cenozoic-era.html)
+- [Bacteria generates electricity](https://www.livescience.com/electron-breathing-geobacter-microbes.html)
 
 ### Writing
 - [Journal 2.0 - Journalling tool](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
@@ -215,7 +225,7 @@
 
 ### Ethics
 - [FB Data Scientist on Political Manipulations](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo)
-
+- [How to get away with murder](https://www.historytoday.com/history-matters/how-get-away-murder)
 
 ### Teaching
 - [Proposals to teach computing to reduce inequality](https://cacm.acm.org/blogs/blog-cacm/246550-3-proposals-to-change-how-we-teach-computing-in-order-to-reduce-inequality/fulltext)
@@ -256,7 +266,13 @@
 ### Finance
 - [Smart Beta win in backtest, misfire in reality](https://www.bloomberg.com/news/articles/2020-09-03/darkest-quant-fears-ring-true-in-1-trillion-world-of-smart-beta)
 
+### Funny
+- [I'm a coffin confessor](https://www.newsweek.com/coffin-confessor-tell-secrets-beyond-grave-1529381)
+
+
 ### Healthcare
 - [Forward - Preventative Healthcare/Insurance](https://capitalandgrowth.org/answers/Article/3347575/Almost-Too-Good-to-Be-True-Preventive-Healthcare-for-149-Month)
 - [Ruok - conversations, mental health](https://www.ruok.org.au/)
 - [What if certain mental disorders are not disorders at all](https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all)
+- [Brain Simulation for Dyslexia](https://neurosciencenews.com/dyslexia-brain-stimulation-16988/)
+
