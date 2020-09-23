@@ -239,6 +239,7 @@
 - [De-schooling and lifelong learning](https://infed.org/ivan-illich-deschooling-conviviality-and-lifelong-learning/)
 - [Learning to program at age 40](https://github.com/Dhghomon/programming_at_40/blob/master/README.md)
 - [Learning to Learn Japanese](https://zachdaniel.dev/learning-how-to-learn-japanese/)
+- [Why books don't work](https://andymatuschak.org/books/)
 
 ### Coaching
  - [Republic Poly - Career Counselling](https://www.rp.edu.sg/ace/course-summary/Detail/sdcc)
