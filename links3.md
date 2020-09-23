@@ -185,10 +185,11 @@
 - [10 things I hate about your resume](https://abovethelaw.com/career-files/10-things-i-hate-about-your-resume/)
 - [Polymath Playbook](https://salman.io/blog/polymath-playbook/)
 - [Spot toxic software jobs from description](https://medium.com/swlh/how-to-spot-toxic-software-jobs-from-their-descriptions-c53cf224417f)
+- [Build a Personal Moat](https://eriktorenberg.substack.com/p/build-personal-moats)
+- [Remote Jobs](https://remoteok.io)
 
 ### IoT
 - [Turning your Raspberry Pi into a mini server - Blog, zine](https://n-o-d-e.net/node_mini_server3.html)
-
 
 ### Science
 - [Teaching Quantum Information Science to High School Students](https://arxiv.org/abs/2005.07874)
@@ -218,6 +219,7 @@
 - [How to read fewer books](https://www.theschooloflife.com/thebookoflife/how-to-read-fewer-books/)
 - [Stay motivated on Long Term Project](https://durmonski.com/self-improvement/the-three-year-rule/)
 - [Why you shouldn't pay for HDB with CPF](https://www.asiaone.com/money/why-you-should-not-pay-your-hdb-cpf)
+- [Why aren't you more serious? - blog](https://rubenerd.com/why-arent-you-more-serious/)
 
 ### Game Design/Engine
 - [Book - Game Design Workshop](https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/1482217163/ref=sr_1_13?dchild=1&keywords=data+structures+%26+program+design+inc&qid=1597894807&sr=8-13)
@@ -259,6 +261,7 @@
 - [Hedge Fund Mgr take an job managing oil fund](https://www.institutionalinvestor.com/article/b1mr3g654h58lp/Why-Did-a-Hedge-Fund-Manager-Worth-700-Million-Take-a-630-000-a-Year-Job-Managing-an-Oil-Fund)
 - [COVID-19, housing eviction crisis](https://www.vox.com/21301823/rent-coronavirus-covid-19-housing-eviction-crisis)
 - [Mastercard's CDBC Testing Platform](https://mastercardcontentexchange.com/newsroom/press-releases/2020/september/mastercard-launches-central-bank-digital-currencies-cbdcs-testing-platform/)
+- [Uber, but for evictions](https://www.vice.com/en_us/article/ep435n/gig-economy-company-launches-uber-but-for-evicting-people)
 
 ### Cybersecurity
 - [Chinese Antivirus Firm was part of APT41 'supply chain' attack](https://krebsonsecurity.com/2020/09/chinese-antivirus-firm-was-part-of-apt41-supply-chain-attack/#:~:text=One%20of%20the%20alleged%20hackers,of%20a%20Chinese%20antivirus%20firm.&text=Charging%20documents%20say%20the%20seven,%E2%80%9D%20and%20%E2%80%9CWicked%20Spider.%E2%80%9D)
