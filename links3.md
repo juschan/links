@@ -7,6 +7,9 @@
 - [Intro to CS](https://learn.saylor.org/mod/book/view.php?id=22024)
 - [Don't hate the book because you don't use it](https://aseure.fr/articles/2020-09-18-dont-hate-the-book-because-you-dont-use-it/)
 - [History of OOP](https://www.sciencedirect.com/science/article/pii/S0890540113000795)
+- [Maths for Programmers](https://yurichev.com/writings/Math-for-programmers.pdf)
+- [Covariance, contravariance](https://github.com/Dobiasd/articles/blob/master/covariance_and_contravariance_explained_without_code.md)
+- [Expression Problem](https://wiki.c2.com/?ExpressionProblem)
 
 ### Computer Languages
 - [A look at the J language](https://scottlocklin.wordpress.com/2012/09/18/a-look-at-the-j-language-the-fine-line-between-genius-and-insanity/)
@@ -103,6 +106,8 @@
 - [Software Design Coaching - James Koppel](http://jameskoppelcoaching.com/advanced-software-design-web-course/)
 - [Software Aging](https://www.cs.drexel.edu/~yfcai/CS451/RequiredReadings/SoftwareAging.pdf)
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/)
+- [Hoare - How did software get so reliable without proof?](https://www.gwern.net/docs/math/1996-hoare.pdf)
+- [Time spent programming is often well spent](http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2020-09.html#e2020-09-22T16_09_19.htm)
 
 ### Business
 - [Business Architecture Playbook](https://nocomplexity.com/documents/arplaybook/businessarchitecture.html)
@@ -187,6 +192,7 @@
 - [Spot toxic software jobs from description](https://medium.com/swlh/how-to-spot-toxic-software-jobs-from-their-descriptions-c53cf224417f)
 - [Build a Personal Moat](https://eriktorenberg.substack.com/p/build-personal-moats)
 - [Remote Jobs](https://remoteok.io)
+- [Job Hopping Fad](https://e2i.com.sg/the-job-hopping-fad-why-how-employers-can-stop-it/)
 
 ### IoT
 - [Turning your Raspberry Pi into a mini server - Blog, zine](https://n-o-d-e.net/node_mini_server3.html)
@@ -220,6 +226,7 @@
 - [Stay motivated on Long Term Project](https://durmonski.com/self-improvement/the-three-year-rule/)
 - [Why you shouldn't pay for HDB with CPF](https://www.asiaone.com/money/why-you-should-not-pay-your-hdb-cpf)
 - [Why aren't you more serious? - blog](https://rubenerd.com/why-arent-you-more-serious/)
+- [On the use of a life](http://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 
 ### Game Design/Engine
 - [Book - Game Design Workshop](https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/1482217163/ref=sr_1_13?dchild=1&keywords=data+structures+%26+program+design+inc&qid=1597894807&sr=8-13)
@@ -242,6 +249,7 @@
 - [Learning to program at age 40](https://github.com/Dhghomon/programming_at_40/blob/master/README.md)
 - [Learning to Learn Japanese](https://zachdaniel.dev/learning-how-to-learn-japanese/)
 - [Why books don't work](https://andymatuschak.org/books/)
+- [Book on Quantum computing - from the guy that introduced why books don't work](https://quantum.country/)
 
 ### Coaching
  - [Republic Poly - Career Counselling](https://www.rp.edu.sg/ace/course-summary/Detail/sdcc)
@@ -273,6 +281,8 @@
 ### Funny
 - [I'm a coffin confessor](https://www.newsweek.com/coffin-confessor-tell-secrets-beyond-grave-1529381)
 
+### Fiction
+- [The Age of the spiritual machine](https://spirals.blog/articles/our-new-species-pt-1/)
 
 ### Healthcare
 - [Forward - Preventative Healthcare/Insurance](https://capitalandgrowth.org/answers/Article/3347575/Almost-Too-Good-to-Be-True-Preventive-Healthcare-for-149-Month)
