@@ -108,6 +108,7 @@
 - [Decision Table Patterns](https://www.hillelwayne.com/post/decision-table-patterns/)
 - [Hoare - How did software get so reliable without proof?](https://www.gwern.net/docs/math/1996-hoare.pdf)
 - [Time spent programming is often well spent](http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2020-09.html#e2020-09-22T16_09_19.htm)
+- [Computers are hard: Building Software - DHH Interview. Shape Up technique!](https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e)
 
 ### Business
 - [Business Architecture Playbook](https://nocomplexity.com/documents/arplaybook/businessarchitecture.html)
@@ -123,6 +124,7 @@
 - [Meet everyone on a new team](https://www.annashipman.co.uk/jfdi/meeting-everyone.html)
 - [Why people want us back in the office](https://paulitaylor.com/2020/09/12/why-do-so-many-people-want-us-back-in-the-office/)
 - [Leadership in Crisis - why we need plato](https://engelsbergideas.com/essays/leadership-in-crisis-why-the-west-needs-plato-more-than-ever/)
+- [What makes people feel upbeat at work](https://www.newyorker.com/science/maria-konnikova/what-makes-people-feel-upbeat-at-work)
 
 ### Legacy IT
 - [IEEE - Legacy IT systems](https://spectrum.ieee.org/computing/it/inside-hidden-world-legacy-it-systems)
@@ -158,6 +160,7 @@
 - [Taxi cab rides using Omniscidb and macbook](https://tech.marksblogg.com/omnisci-macos-macbookpro-mbp.html)
 - [Deepfake faces](https://graphics.reuters.com/CYBER-DEEPFAKE/ACTIVIST/nmovajgnxpa/index.html)
 - [Attentive Normalisation in AI](https://news.ncsu.edu/2020/09/attentive-normalization-in-ai/)
+- [igel - ML/AI without code](https://github.com/nidhaloff/igel)
 
 ### Financial
 - [iten - statistical trading portfolios (python)](https://github.com/tradytics/eiten)
@@ -169,6 +172,7 @@
 - [Mental Models!!](https://fs.blog/mental-models/?)
 - [Textbook - Intro to the modelling and analysis of complex systems](https://textbooks.opensuny.org/introduction-to-the-modeling-and-analysis-of-complex-systems/)
 - [When Technology Takes Revenge](https://fs.blog/2020/09/revenge-effects/)
+- [Why Life Can't be Simplier](https://fs.blog/2020/10/why-life-cant-be-simpler/)
 
 ### Tools
 - [Take notes on youtube](https://www.tuberslab.com/)
@@ -213,6 +217,7 @@
 - [Journal 2.0 - Journalling tool](https://blog.usejournal.com/introducing-journal-2-0-1667b4d295a)
 - [Journal that publishes unsurprising research](https://www.cbc.ca/radio/asithappens/as-it-happens-thursday-edition-1.5146761/new-academic-journal-only-publishes-unsurprising-research-rejected-by-others-1.5146765)
 - [Media - data-driven content development course](https://pd.mediaacademy.sg/mcs/ddcd)
+- [Why you should write](https://www.preetamnath.com/blog/why-you-should-write)
 
 ### Technical Bookclub
 - [Running a technical book club](https://medium.com/zendesk-engineering/recipes-for-running-a-successful-technical-book-club-at-work-4a7f18ffab42)
@@ -227,6 +232,7 @@
 - [Why you shouldn't pay for HDB with CPF](https://www.asiaone.com/money/why-you-should-not-pay-your-hdb-cpf)
 - [Why aren't you more serious? - blog](https://rubenerd.com/why-arent-you-more-serious/)
 - [On the use of a life](http://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
+- [TED - The Empowerment Dynamic](https://powerofted.com/creator/)
 
 ### Game Design/Engine
 - [Book - Game Design Workshop](https://www.amazon.com/Game-Design-Workshop-Playcentric-Innovative/dp/1482217163/ref=sr_1_13?dchild=1&keywords=data+structures+%26+program+design+inc&qid=1597894807&sr=8-13)
@@ -250,6 +256,11 @@
 - [Learning to Learn Japanese](https://zachdaniel.dev/learning-how-to-learn-japanese/)
 - [Why books don't work](https://andymatuschak.org/books/)
 - [Book on Quantum computing - from the guy that introduced why books don't work](https://quantum.country/)
+- [H5P teaching components](http://generic.wordpress.soton.ac.uk/altc/)
+- [Open Source Teaching Tools](https://opensource.com/article/20/4/open-source-remote-teaching-tools)
+- [H5P on Wordpress](https://opensource.com/article/20/5/h5p-wordpress)
+- [H5P](https://h5p.org/content-types-and-applications)
+- [SCORM - Interactive Teaching File Formats](https://scorm.com/scorm-explained/one-minute-scorm-overview/?utm_source=google&utm_medium=natural_search)
 
 ### Coaching
  - [Republic Poly - Career Counselling](https://www.rp.edu.sg/ace/course-summary/Detail/sdcc)
@@ -289,4 +300,15 @@
 - [Ruok - conversations, mental health](https://www.ruok.org.au/)
 - [What if certain mental disorders are not disorders at all](https://www.psychologytoday.com/us/blog/shouldstorm/202008/what-if-certain-mental-disorders-are-not-disorders-all)
 - [Brain Simulation for Dyslexia](https://neurosciencenews.com/dyslexia-brain-stimulation-16988/)
+- [Irritable Bowel Syndrome - Pitfalls](https://www.camilleroux.com/2020/09/29/irritable-bowel-syndrom-medical-journey-full-of-pitfalls-but-with-a-positive-outcome/)
 
+### Non-Duality
+- [Finders Course](https://finderscourse.com/rm-response.php)
+- [Jeff Carreira - Non-conceptual Awareness](https://jeffcarreira.com/non-conceptual-awareness-freedom-spontaneous/)
+- [Takuin](https://www.takuin.com/archives-1)
+- [Kiloby](https://www.kiloby.com/)
+- [Kiloby - deficiency stories](https://www.kiloby.com/post/deficiency-stories-self-sabotage)
+
+### Drawing
+- [Tayasui App](https://tayasui.com/sketches/)
+- [Digital Fantasy Portraits course](https://www.domestika.org/en/courses/1057-digital-fantasy-portraits-with-photoshop?gclid=EAIaIQobChMIr6369Zy27AIVUotLBR3sVwqOEAEYASAAEgIB0_D_BwE)
