@@ -196,6 +196,7 @@
 - [Why your brain is not a computer](https://www.theguardian.com/science/2020/feb/27/why-your-brain-is-not-a-computer-neuroscience-neural-networks-consciousness)
 - [How to build a universe that doesn't fall apart 2 days later](https://urbigenous.net/library/how_to_build.html)
 - [In marginal decisions, favour action over inaction](https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction)
+- [A Simple Way to Organise Your Life - Nathaniel Drew](https://www.youtube.com/watch?v=MruNugpHDV0)
 
 ### Biz Hack
 - [Forever Jobless](https://foreverjobless.com/)
