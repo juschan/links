@@ -18,6 +18,8 @@
   - [5 Things you need to know about IBM AS400 Excel Data Transfer](https://www.drvtech.com/5-things-need-know-ibm-excel-data-transfer/)
 - [RealPython - logging](https://realpython.com/python-logging/)
 - [Polished Jupyter Presentations](https://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/)
+- [Learn Network Automation with CISCO for Free](https://www.i-programmer.info/news/150-training-a-education/14324-learn-network-automation-with-cisco-for-free.html)
+- [Apache Superset - data exploration and viz](https://superset.apache.org/)
 
 ### Programming Lang
 - [Ruby Books](https://programmingzen.com/ruby-books/)
@@ -34,6 +36,7 @@
 - [Learn Ada](https://learn.adacore.com/index.html)
 - [Functional Programming - Advanced R](http://adv-r.had.co.nz/Functional-programming.html)
 
+
 ### ML/AI
 - [Tensorflow Certification](https://www.tensorflow.org/certificate)
 - [CS246 Stanford - Mining Massive Data Sets](http://web.stanford.edu/class/cs246/)
@@ -43,6 +46,9 @@
 - [Don't become a data scientist](https://towardsdatascience.com/dont-become-a-data-scientist-ee4769899025)
 - [Visual Explanation - regularization](https://explained.ai/regularization/index.html)
 - [Type I and II errors: Inevitable errors in optimization experiments](https://www.convert.com/blog/optimization/type-i-type-ii-errors-inevitable-in-optimization-experiements/)
+- [Chatting with the Dead - Chatbots](https://thereader.mitpress.mit.edu/chatting-with-the-dead-chatbots/)
+- [BudgetML - Deploy ML on a budget](https://github.com/ebhy/budgetml)
+- [Ergodicity](https://neurabites.com/ergodicity/)
 
 ### Compilers
 - [Hotbasic](http://www.hotbasic.org/)
@@ -64,6 +70,8 @@
 - [Hexing the Technical Interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
 - [Every computer is a state machine - TLA+](https://medium.com/@aptxkid/every-computer-system-is-a-state-machine-tla-series-1-e480acd15880)
 - [SW dev - secret to success](https://billwadge.wordpress.com/2020/04/25/the-secret-of-software-success/)
+- [Why we moved from Kotlin & Spring Boot to Go](https://blog.astradot.com/why-we-moved-from-kotlin-spring-boot-to-go/)
+- [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 
 
 ### System Admin
@@ -93,6 +101,8 @@
 - [Netflix CEO explains why he pays technologists huge salaries](https://insights.dice.com/2020/09/28/netflix-ceo-explains-why-he-pays-technologists-huge-salaries/)
 - [You don't have to be stupid to work here but it helps](https://aeon.co/essays/you-don-t-have-to-be-stupid-to-work-here-but-it-helps)
 - [Central Hub for data insights](https://towardsdatascience.com/why-your-company-needs-a-central-hub-for-data-insights-e73a96bd648f)
+- [Why games are the solution to remote team building](https://slideswith.com/blog/games-for-remote-team-building)
+- [What complexity science says about what makes a winning team](https://aeon.co/essays/what-complexity-science-says-about-what-makes-a-winning-team)
 
 ### Tools
 - [Livecode is a modern day Hypercard](https://andregarzia.com/2019/07/livecode-is-a-modern-day-hypercard.html)
@@ -115,12 +125,16 @@
 - [Create a baddass Github Profile README](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme)
 - [DLLWrapper - wrap 32bit dll for 64bit environment](http://www.dllwrapper.com/)
 - [Goodbye Linux - Unikernels](https://sudhakar-dharmaraju.medium.com/goodbye-linux-the-next-os-317801a5c0ba)
+- [Lightbend - Scala, Akka Actors](https://www.lightbend.com/services/training-and-consulting)
+- [Dasette - exploring and publishing data](https://datasette.io/)
+- [Java on Azure](https://azure.microsoft.com/en-us/develop/java/)
 
 ### Dev Books
 - [The Smart Coder - Dev Books](https://thesmartcoder.dev/books/)
 - [https://www.handsonscala.com/](https://thesmartcoder.dev/books/)
 - [Model Driven Software Engineering book](https://mdse-book.com/)
 - [C interfaces and implementations](https://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413)
+- [Hands-on Scala Book](https://www.handsonscala.com/)
 
 ### Hardware
 - [Generative Art Hardware](https://www.youtube.com/watch?v=8Uo6zFwSO78)
@@ -131,6 +145,7 @@
 - [Processing - Graphical/Art](https://processingfoundation.org/education)
 - [Creative Coding](https://timrodenbroeker.de/courses/creative-coding-essentials/)
 - [Makerpad - no code apps](https://www.makerpad.co/tutorials)
+- [Repl.it - Teams for Education](https://repl.it/teams-for-education)
 
 ### Writing
 - [How to write a better Weblog](https://alistapart.com/article/writebetter/)
@@ -138,12 +153,15 @@
 - [Take Smart Notes](https://fortelabs.co/blog/how-to-take-smart-notes/)
 - [Griffin - How We Write](https://blog.griffin.sh/2020/06/05/how-we-write/)
 - [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
+- [Andrew Healey blog - Personal Websites and Internet Writing](https://healeycodes.com/personal-websites-and-internet-writing/)
+- [Documentation System for software](https://documentation.divio.com/#)
 
 ### Design
 - [MITPress](https://mitpress.mit.edu/)
 - [Open Peeps - handrawn illustrations](https://openpeeps.com/)
 - [Adactio - Design Principles](https://principles.adactio.com/)
 - [ComicGen - create your own comics!](https://gramener.com/comicgen/)
+- [Rasmus Andersson - Designer, Programmer Blog](https://rsms.me)
 
 ### Cashless/Finance
 - [Swedes rebel against cashless society](https://www.bbc.com/news/business-43645676#:~:text=Sweden%20is%20winning%20the%20race,elderly%20and%20other%20vulnerable%20groups.)
@@ -161,6 +179,10 @@
 - [Your Doomscrolling breeds anxiety](https://www.npr.org/2020/07/19/892728595/your-doomscrolling-breeds-anxiety-here-s-how-to-stop-the-cycle#:~:text=Here's%20How%20To%20Stop%20The%20Cycle,-Listen%C2%B7%203%3A48&text=Golob%2FGetty%20Images-,%22Doomscrolling%2C%22%20has%20emerged%20as%20a%20new%20slang%20term%20to,doom%2Dand%2Dgloom%20news.&text=This%20self%2Ddestructive%20behavior%20has,our%20lexicon%3A%20%22doomscrolling.%22)
 - [The stress response cycle and the science behind feeling better](https://coffeeandjunk.com/stress-response-cycle/)
 - [Personality Vectors](https://www.yangvincent.com/resources/personality-vectors/)
+
+### Career Coaching
+- [Abundanz Consulting - Knowdell](https://abundanzconsulting.com/event)
+- [Nanyang Poly - Facilitating Career Development](https://www.np.edu.sg/lifelonglearning/Pages/Facilitating-Career-Development.aspx)
 
 ### Life Hack
 - [Why it pays to play around](http://nautil.us/issue/73/play/why-it-pays-to-play-around)
@@ -180,6 +202,10 @@
 - [Work the System](https://www.workthesystem.com/)
 - [7 books on systemised business](https://www.sweetprocess.com/7-books-read-want-systematized-business-runs-without-you-successfully/)
 - [I could do that in a weekend](https://danluu.com/sounds-easy/)
+- [Kartra Platform - ebiz](https://home.kartra.com/checkout)
+- [Software Nights - about Kartra and other reviews](https://www.softwarenights.com/)
+- [Wordpress](https://wordpress.com/pricing/)
+- [Scaling a biz during COVID - podcast, part 2](https://thefutur.com/podcast/scaling-a-business-during-covid-pt-2)
 
 ### Spiritual
 - [Life Explained - Hans Wilheim](http://www.lifeexplained.com/)
@@ -192,3 +218,9 @@
 
 ### Science
 - [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+
+### Social Observation
+- [How Capitalist Giants Use Socialist Cybernetic Planning](https://palladiummag.com/2020/09/23/how-capitalist-giants-use-socialist-cybernetic-planning/)
+- [How Work Became a Job](https://palladiummag.com/2020/07/22/how-work-became-a-job/)
+- [The problem with prediction](https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines)
+
