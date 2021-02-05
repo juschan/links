@@ -155,6 +155,7 @@
 - [Narrative Collapse](https://theconvivialsociety.substack.com/p/narrative-collapse)
 - [Andrew Healey blog - Personal Websites and Internet Writing](https://healeycodes.com/personal-websites-and-internet-writing/)
 - [Documentation System for software](https://documentation.divio.com/#)
+- [The Wealthy Author](https://www.amazon.com/Wealthy-Author-Passive-Income-Influence-ebook/dp/B07PKJYQYV)
 
 ### Design
 - [MITPress](https://mitpress.mit.edu/)
@@ -207,6 +208,8 @@
 - [Software Nights - about Kartra and other reviews](https://www.softwarenights.com/)
 - [Wordpress](https://wordpress.com/pricing/)
 - [Scaling a biz during COVID - podcast, part 2](https://thefutur.com/podcast/scaling-a-business-during-covid-pt-2)
+- [Forever Jobless](https://foreverjobless.com/my-story/)
+- [GumRoad](https://gumroad.com/gumroad/posts)
 
 ### Spiritual
 - [Life Explained - Hans Wilheim](http://www.lifeexplained.com/)
@@ -225,3 +228,7 @@
 - [How Work Became a Job](https://palladiummag.com/2020/07/22/how-work-became-a-job/)
 - [The problem with prediction](https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines)
 
+### Music
+- [Ableton- Grid Culture](https://www.ableton.com/en/certified-training/grid-culture/)
+- [Singapore - Grid Culture](https://linktr.ee/GridCulture)
+- [Syafiq Halid](https://www.ableton.com/en/certified-training/syafiq-halid/)
