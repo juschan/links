@@ -20,6 +20,7 @@
 - [Polished Jupyter Presentations](https://chris-said.io/2016/02/13/how-to-make-polished-jupyter-presentations-with-optional-code-visibility/)
 - [Learn Network Automation with CISCO for Free](https://www.i-programmer.info/news/150-training-a-education/14324-learn-network-automation-with-cisco-for-free.html)
 - [Apache Superset - data exploration and viz](https://superset.apache.org/)
+- [Pythonist Videos - Cython, Numba](https://www.youtube.com/c/Pythonist/videos)
 
 ### Programming Lang
 - [Ruby Books](https://programmingzen.com/ruby-books/)
@@ -128,6 +129,9 @@
 - [Lightbend - Scala, Akka Actors](https://www.lightbend.com/services/training-and-consulting)
 - [Dasette - exploring and publishing data](https://datasette.io/)
 - [Java on Azure](https://azure.microsoft.com/en-us/develop/java/)
+- [emulating a 6502 in C++](https://www.youtube.com/watch?v=qJgsuQoy9bc)
+- [Leila Gharani - Excel](https://www.youtube.com/c/LeilaGharani/videos)
+- [QuickPub - create blogs posts](https://quikpub.co/)
 
 ### Dev Books
 - [The Smart Coder - Dev Books](https://thesmartcoder.dev/books/)
@@ -183,7 +187,7 @@
 
 ### Career Coaching
 - [Abundanz Consulting - Knowdell](https://abundanzconsulting.com/event)
-- [Nanyang Poly - Facilitating Career Development](https://www.np.edu.sg/lifelonglearning/Pages/Facilitating-Career-Development.aspx)
+- [Ngee Ann Poly - Facilitating Career Development](https://www.np.edu.sg/lifelonglearning/Pages/Facilitating-Career-Development.aspx)
 
 ### Life Hack
 - [Why it pays to play around](http://nautil.us/issue/73/play/why-it-pays-to-play-around)
@@ -210,6 +214,7 @@
 - [Scaling a biz during COVID - podcast, part 2](https://thefutur.com/podcast/scaling-a-business-during-covid-pt-2)
 - [Forever Jobless](https://foreverjobless.com/my-story/)
 - [GumRoad](https://gumroad.com/gumroad/posts)
+- [Knowledge-Sharing](https://quikpub.co/CHV4IH10MH)
 
 ### Spiritual
 - [Life Explained - Hans Wilheim](http://www.lifeexplained.com/)
@@ -232,3 +237,11 @@
 - [Ableton- Grid Culture](https://www.ableton.com/en/certified-training/grid-culture/)
 - [Singapore - Grid Culture](https://linktr.ee/GridCulture)
 - [Syafiq Halid](https://www.ableton.com/en/certified-training/syafiq-halid/)
+
+### Art
+- [Hendy - Blender art](https://www.youtube.com/user/heaugust83/videos)
+- [Jazza - Art Program](https://www.youtube.com/watch?v=Kv7_XJSZsWI)
+- [Conjugate Buddhabrot](https://www.youtube.com/watch?v=d8xNF02J-uI)
+- [ImGUI - C++ Game Engine Framework](https://www.youtube.com/watch?v=Du--cH01ZWI)
+- [David Finch - Comic Art](https://www.youtube.com/channel/UC0-xeMXO_Vu8_wqqKf_Nipg)
+- [Rishi Draws - Procreate](https://www.youtube.com/c/RishiDraws/videos)
