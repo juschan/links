@@ -21,6 +21,7 @@
 - [Learn Network Automation with CISCO for Free](https://www.i-programmer.info/news/150-training-a-education/14324-learn-network-automation-with-cisco-for-free.html)
 - [Apache Superset - data exploration and viz](https://superset.apache.org/)
 - [Pythonist Videos - Cython, Numba](https://www.youtube.com/c/Pythonist/videos)
+- [Tricky Python - Function Arguments](https://medium.com/pipedrive-engineering/tricky-python-part-i-20692ecbb47e)
 
 ### Programming Lang
 - [Ruby Books](https://programmingzen.com/ruby-books/)
@@ -104,6 +105,8 @@
 - [Central Hub for data insights](https://towardsdatascience.com/why-your-company-needs-a-central-hub-for-data-insights-e73a96bd648f)
 - [Why games are the solution to remote team building](https://slideswith.com/blog/games-for-remote-team-building)
 - [What complexity science says about what makes a winning team](https://aeon.co/essays/what-complexity-science-says-about-what-makes-a-winning-team)
+- [How to hire senior developers - give them more autonomy](https://hiringengineersbook.com/post/autonomy/)
+- [Agile Uncertified](https://www.youtube.com/watch?v=U-u8xquguWE)
 
 ### Tools
 - [Livecode is a modern day Hypercard](https://andregarzia.com/2019/07/livecode-is-a-modern-day-hypercard.html)
@@ -129,9 +132,10 @@
 - [Lightbend - Scala, Akka Actors](https://www.lightbend.com/services/training-and-consulting)
 - [Dasette - exploring and publishing data](https://datasette.io/)
 - [Java on Azure](https://azure.microsoft.com/en-us/develop/java/)
-- [emulating a 6502 in C++](https://www.youtube.com/watch?v=qJgsuQoy9bc)
+- [Emulating a 6502 in C++](https://www.youtube.com/watch?v=qJgsuQoy9bc)
 - [Leila Gharani - Excel](https://www.youtube.com/c/LeilaGharani/videos)
 - [QuickPub - create blogs posts](https://quikpub.co/)
+- [Write 8-bit code in a browser, with books, NES emulation](http://8bitworkshop.com/)
 
 ### Dev Books
 - [The Smart Coder - Dev Books](https://thesmartcoder.dev/books/)
@@ -139,6 +143,9 @@
 - [Model Driven Software Engineering book](https://mdse-book.com/)
 - [C interfaces and implementations](https://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413)
 - [Hands-on Scala Book](https://www.handsonscala.com/)
+- [Making Games for the NES](https://www.amazon.com/Making-Games-NES-Steven-Hugg-ebook/dp/B07VVJ15JJ/ref=pd_sbs_3?pd_rd_w=OSvez&pf_rd_p=c52600a3-624a-4791-b4c4-3b112e19fbbc&pf_rd_r=6C338ZD4RM0VCPRGFJ77&pd_rd_r=dee5c418-def3-4b7c-b1e9-995107e850b9&pd_rd_wg=myNNG&pd_rd_i=B07VVJ15JJ&psc=1)
+- [Intro to Theory of computation](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
+  - [Intro to Theory of Computation - Youtube lectures](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
 
 ### Hardware
 - [Generative Art Hardware](https://www.youtube.com/watch?v=8Uo6zFwSO78)
@@ -150,6 +157,7 @@
 - [Creative Coding](https://timrodenbroeker.de/courses/creative-coding-essentials/)
 - [Makerpad - no code apps](https://www.makerpad.co/tutorials)
 - [Repl.it - Teams for Education](https://repl.it/teams-for-education)
+- [Don't teach coding until you read this book](https://www.amazon.com/Dont-Teach-Coding-Until-Read/dp/1119602629)
 
 ### Writing
 - [How to write a better Weblog](https://alistapart.com/article/writebetter/)
@@ -227,11 +235,13 @@
 
 ### Science
 - [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+- [Complexity Explained](https://complexityexplained.github.io/)
 
 ### Social Observation
 - [How Capitalist Giants Use Socialist Cybernetic Planning](https://palladiummag.com/2020/09/23/how-capitalist-giants-use-socialist-cybernetic-planning/)
 - [How Work Became a Job](https://palladiummag.com/2020/07/22/how-work-became-a-job/)
 - [The problem with prediction](https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines)
+- [The Road to Utopia](https://culture.io/manifesto)
 
 ### Music
 - [Ableton- Grid Culture](https://www.ableton.com/en/certified-training/grid-culture/)
