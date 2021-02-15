@@ -51,6 +51,7 @@
 - [Chatting with the Dead - Chatbots](https://thereader.mitpress.mit.edu/chatting-with-the-dead-chatbots/)
 - [BudgetML - Deploy ML on a budget](https://github.com/ebhy/budgetml)
 - [Ergodicity](https://neurabites.com/ergodicity/)
+- [Statquest - youtube](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
 
 ### Compilers
 - [Hotbasic](http://www.hotbasic.org/)
@@ -74,6 +75,7 @@
 - [SW dev - secret to success](https://billwadge.wordpress.com/2020/04/25/the-secret-of-software-success/)
 - [Why we moved from Kotlin & Spring Boot to Go](https://blog.astradot.com/why-we-moved-from-kotlin-spring-boot-to-go/)
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
+- [Code cognitive load - complexity](https://danielbmarkham.com/for-the-love-of-all-thats-holy-use-ccl-to-control-complexity-in-your-systems/)
 
 
 ### System Admin
@@ -136,6 +138,11 @@
 - [Leila Gharani - Excel](https://www.youtube.com/c/LeilaGharani/videos)
 - [QuickPub - create blogs posts](https://quikpub.co/)
 - [Write 8-bit code in a browser, with books, NES emulation](http://8bitworkshop.com/)
+- [sqlite tutorial](https://www.sqlitetutorial.net/)
+- [Flyway Database version control](https://flywaydb.org/)
+- [ikrainrad blog - hugo](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
+- [Youtube - AWS Amplify UI](https://www.youtube.com/watch?v=Q70eWux2xpQ)
+- [Learn JS building 7 games](https://www.youtube.com/watch?v=lhNdUVh3qCc)
 
 ### Dev Books
 - [The Smart Coder - Dev Books](https://thesmartcoder.dev/books/)
@@ -146,6 +153,7 @@
 - [Making Games for the NES](https://www.amazon.com/Making-Games-NES-Steven-Hugg-ebook/dp/B07VVJ15JJ/ref=pd_sbs_3?pd_rd_w=OSvez&pf_rd_p=c52600a3-624a-4791-b4c4-3b112e19fbbc&pf_rd_r=6C338ZD4RM0VCPRGFJ77&pd_rd_r=dee5c418-def3-4b7c-b1e9-995107e850b9&pd_rd_wg=myNNG&pd_rd_i=B07VVJ15JJ&psc=1)
 - [Intro to Theory of computation](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
   - [Intro to Theory of Computation - Youtube lectures](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
+- [Lisp and other AI books - Mark Watson](https://markwatson.com/books/)
 
 ### Hardware
 - [Generative Art Hardware](https://www.youtube.com/watch?v=8Uo6zFwSO78)
@@ -180,6 +188,7 @@
 - [Swedes rebel against cashless society](https://www.bbc.com/news/business-43645676#:~:text=Sweden%20is%20winning%20the%20race,elderly%20and%20other%20vulnerable%20groups.)
 - [Black Hole engulfing world's bond market](https://www.bloomberg.com/professional/blog/black-hole-engulfing-worlds-bond-markets/#:~:text=Negative%2Dyielding%20debt%20%E2%80%94%20bonds%20worth,know%20it%20on%20its%20head.)
 - [China's Social Credit System - unique and part of global trend](https://tutanota.com/blog/posts/social-credit-system-china/)
+- [BOE negative interest rates](https://www.theguardian.com/business/2021/feb/04/uk-banks-given-six-months-to-prepare-for-negative-interest-rates)
 
 ### Climate
 - [Norway - Climate Change](https://www.nrk.no/chasing-climate-change-1.14859595)
@@ -237,11 +246,16 @@
 - [The Scientific Paper is obsolete](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 - [Complexity Explained](https://complexityexplained.github.io/)
 
+### Health
+- [Omega-6 oils and deadly vegetable oils](https://www.youtube.com/watch?v=pHnPinYI2Yc)
+
 ### Social Observation
 - [How Capitalist Giants Use Socialist Cybernetic Planning](https://palladiummag.com/2020/09/23/how-capitalist-giants-use-socialist-cybernetic-planning/)
 - [How Work Became a Job](https://palladiummag.com/2020/07/22/how-work-became-a-job/)
 - [The problem with prediction](https://aeon.co/essays/on-the-dangers-of-seeing-human-minds-as-predictive-machines)
 - [The Road to Utopia](https://culture.io/manifesto)
+- [Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
+- [Poverty makes workers less productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
 
 ### Music
 - [Ableton- Grid Culture](https://www.ableton.com/en/certified-training/grid-culture/)
