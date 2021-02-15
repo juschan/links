@@ -22,6 +22,12 @@
 - [Apache Superset - data exploration and viz](https://superset.apache.org/)
 - [Pythonist Videos - Cython, Numba](https://www.youtube.com/c/Pythonist/videos)
 - [Tricky Python - Function Arguments](https://medium.com/pipedrive-engineering/tricky-python-part-i-20692ecbb47e)
+- [Develop quality Python code](https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code)
+- [__name__() conditional](https://dev.to/vicradon/the-if-name-main-conditional-in-python-4b4g)
+- [Google for Education - Python](https://developers.google.com/edu/python)
+- [Composing Programs](https://composingprograms.com/)
+- [Obey the Testing Goal!](https://www.obeythetestinggoat.com/)
+- [Free Python Resources](https://hakin9.org/list-of-free-python-resources/)
 
 ### Programming Lang
 - [Ruby Books](https://programmingzen.com/ruby-books/)
@@ -76,6 +82,7 @@
 - [Why we moved from Kotlin & Spring Boot to Go](https://blog.astradot.com/why-we-moved-from-kotlin-spring-boot-to-go/)
 - [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 - [Code cognitive load - complexity](https://danielbmarkham.com/for-the-love-of-all-thats-holy-use-ccl-to-control-complexity-in-your-systems/)
+- [Building Blocks for theoretical Computer Science(http://mfleck.cs.illinois.edu/building-blocks/)
 
 
 ### System Admin
@@ -143,6 +150,9 @@
 - [ikrainrad blog - hugo](https://tkainrad.dev/posts/using-hugo-gitlab-pages-and-cloudflare-to-create-and-run-this-website/)
 - [Youtube - AWS Amplify UI](https://www.youtube.com/watch?v=Q70eWux2xpQ)
 - [Learn JS building 7 games](https://www.youtube.com/watch?v=lhNdUVh3qCc)
+- [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
+- [CS for All](https://www.cs.hmc.edu/twiki/bin/view/CSforAll)
+- [The Intrinsic Static Site](https://brandur.org/aws-intrinsic-static)
 
 ### Dev Books
 - [The Smart Coder - Dev Books](https://thesmartcoder.dev/books/)
@@ -219,6 +229,7 @@
 - [How to build a universe that doesn't fall apart 2 days later](https://urbigenous.net/library/how_to_build.html)
 - [In marginal decisions, favour action over inaction](https://www.sivv.io/article/5ecededf46cc9f76d4639b24/In-marginal-decisions,-favour-action-over-inaction)
 - [A Simple Way to Organise Your Life - Nathaniel Drew](https://www.youtube.com/watch?v=MruNugpHDV0)
+- [How we can develop transformative tools for thought?](https://numinous.productions/ttft/)
 
 ### Biz Hack
 - [Forever Jobless](https://foreverjobless.com/)
@@ -232,6 +243,8 @@
 - [Forever Jobless](https://foreverjobless.com/my-story/)
 - [GumRoad](https://gumroad.com/gumroad/posts)
 - [Knowledge-Sharing](https://quikpub.co/CHV4IH10MH)
+- [Don't start a biz. Start a side project instead](https://neilmathew.co/dont-start-a-company-start-a-side-project/)
+- [No code is a lie](https://webflow.com/blog/no-code-is-a-lie)
 
 ### Spiritual
 - [Life Explained - Hans Wilheim](http://www.lifeexplained.com/)
