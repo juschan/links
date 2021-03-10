@@ -1,7 +1,7 @@
 # links 4
 
 ### Python
-= [Python Notes for Professionals book](https://books.goalkicker.com/PythonBook/)
+- [Python Notes for Professionals book](https://books.goalkicker.com/PythonBook/)
 - [SEttingWithCopyWarning in Pandas](https://realpython.com/pandas-settingwithcopywarning/)
 - [CalmCode](https://calmcode.io/)
 - [How to Fit All Human Knowldge In a Box](https://monadical.com/posts/knowledge-in-box.html)
@@ -58,6 +58,10 @@
 - [BudgetML - Deploy ML on a budget](https://github.com/ebhy/budgetml)
 - [Ergodicity](https://neurabites.com/ergodicity/)
 - [Statquest - youtube](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw)
+- [PyGAD - Python Lib for genetic algorithms](https://pygad.readthedocs.io/en/latest/)
+- [Pirate's Guide to accuracy, precision etc.](https://blog.floydhub.com/a-pirates-guide-to-accuracy-precision-recall-and-other-scores/)
+- [mitogen - python lib for self-replicating programs](https://mitogen.networkgenomics.com/)
+- [kmeans for mixed numeric and categorical data - Huang's paper](https://datascience.stackexchange.com/questions/22/k-means-clustering-for-mixed-numeric-and-categorical-data)
 
 ### Compilers
 - [Hotbasic](http://www.hotbasic.org/)
@@ -116,6 +120,9 @@
 - [What complexity science says about what makes a winning team](https://aeon.co/essays/what-complexity-science-says-about-what-makes-a-winning-team)
 - [How to hire senior developers - give them more autonomy](https://hiringengineersbook.com/post/autonomy/)
 - [Agile Uncertified](https://www.youtube.com/watch?v=U-u8xquguWE)
+- [The mundane, the mystical and the meta](https://www.defmacro.org/2019/11/25/mmm.html)
+- [Let programmers do whatever they want to](https://programmerfriend.com/developers-do-what-they-want/)
+- [cowboy ventures - blog](https://medium.com/cowboy-ventures)
 
 ### Tools
 - [Livecode is a modern day Hypercard](https://andregarzia.com/2019/07/livecode-is-a-modern-day-hypercard.html)
@@ -153,6 +160,11 @@
 - [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 - [CS for All](https://www.cs.hmc.edu/twiki/bin/view/CSforAll)
 - [The Intrinsic Static Site](https://brandur.org/aws-intrinsic-static)
+- [Twilio - SMS, comms services](https://www.twilio.com/)
+- [Fast Mail](https://fastmail.blog/2019/11/21/fastmail-20-years/)
+- [Expect](https://blog.robertelder.org/don-libes-expect-unix-automation-tool/)
+- [Urbit - OS, Peer-to-peer network](https://urbit.org/understanding-urbit/)
+- [Tract - Hugo theme for documentation](https://lucperkins.dev/blog/introducing-tract/)
 
 ### Dev Books
 - [The Smart Coder - Dev Books](https://thesmartcoder.dev/books/)
@@ -164,6 +176,7 @@
 - [Intro to Theory of computation](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
   - [Intro to Theory of Computation - Youtube lectures](http://fuuu.be/polytech/INFOF408/Introduction-To-The-Theory-Of-Computation-Michael-Sipser.pdf)
 - [Lisp and other AI books - Mark Watson](https://markwatson.com/books/)
+- [Jeremy Kun - Programmer's guide to Maths](https://jeremykun.com/2019/12/01/a-good-year-for-a-programmers-introduction-to-mathematics/)
 
 ### Hardware
 - [Generative Art Hardware](https://www.youtube.com/watch?v=8Uo6zFwSO78)
@@ -199,6 +212,7 @@
 - [Black Hole engulfing world's bond market](https://www.bloomberg.com/professional/blog/black-hole-engulfing-worlds-bond-markets/#:~:text=Negative%2Dyielding%20debt%20%E2%80%94%20bonds%20worth,know%20it%20on%20its%20head.)
 - [China's Social Credit System - unique and part of global trend](https://tutanota.com/blog/posts/social-credit-system-china/)
 - [BOE negative interest rates](https://www.theguardian.com/business/2021/feb/04/uk-banks-given-six-months-to-prepare-for-negative-interest-rates)
+- [NSA Backdoors and bitcoin](https://coinsavage.com/content/2019/10/nsa-backdoors-and-bitcoin/)
 
 ### Climate
 - [Norway - Climate Change](https://www.nrk.no/chasing-climate-change-1.14859595)
@@ -269,6 +283,8 @@
 - [The Road to Utopia](https://culture.io/manifesto)
 - [Govern in a Complex World](https://howthehell.substack.com/p/govern-complex-world)
 - [Poverty makes workers less productive](https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive?)
+- [China is hungry for food. Amazon is paying the price](https://www.channelnewsasia.com/news/cnainsider/china-hungry-for-food-amazon-left-counting-cost-beef-soya-beans-12097850)
+- [Poverty - not about growth, more about shrinkage](https://theconversation.com/poverty-what-low-income-countries-need-is-not-more-economic-growth-its-less-shrinking-127685#:~:text=so%20little%20gain.-,Poverty%3A%20what%20low%2Dincome%20countries%20need%20is%20not%20more,economic%20growth%2C%20it's%20less%20shrinking)
 
 ### Music
 - [Ableton- Grid Culture](https://www.ableton.com/en/certified-training/grid-culture/)
