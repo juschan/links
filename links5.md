@@ -2,6 +2,13 @@
 
 ### Python
 - [Mito - write Pandas faster](https://trymito.io/launch)
+- [CuPy](https://docs.cupy.dev/en/stable/install.html)
+- [Numpy Book](https://www.packtpub.com/product/numpy-beginner-s-guide-third-edition/9781785281969)
+- [Ultimate Learn Django](https://ultimatedjango.com/learn-django/chapters/)
+
+### Go
+- [Practical Go Lessons](https://www.practical-go-lessons.com/)
+- [Dark Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 
 ### Compiler / Interpreters/ Languages
 - [Book - semantics of programming languages](http://concrete-semantics.org/)
@@ -9,10 +16,14 @@
 - [Zig Parser Combinators](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 - [Lisp as the Maxwell Equation of software](https://michaelnielsen.org/ddi/lisp-as-the-maxwells-equations-of-software/#:~:text=Alan%20Kay%20has%20famously%20described,13%E2%80%A6%20was%20Lisp%20in%20itself.)
 
+
 ### AI/ML
 - [Math Engineering of Deep Learning](https://deeplearningmath.org/supervised-machine-learning.html)
 - [Accuracy, Precision, Recall, F1](https://towardsdatascience.com/accuracy-precision-recall-or-f1-331fb37c5cb9)
 - [Guide to Hypothesis Testing](https://towardsdatascience.com/a-general-guidance-of-hypothesis-testing-7cab119ca999)
+- [Entropy based Clustering using GA - guaranteed global optimum!!](https://www.mdpi.com/1099-4300/17/1/151/pdf)
+- [Clsutering with Entropy](https://visualstudiomagazine.com/Articles/2013/02/01/Data-Clustering-Using-Entropy-Minimization.aspx?Page=2)
+- [Data Science Guide](http://datascienceguide.github.io/posts)
 
 ### Web Dev
 - [Guide to Minimalist Web Design](https://ismailelazizi.com/blog/a-guide-to-minimalist-web-design)
@@ -21,6 +32,8 @@
 - [Lambda School - free code camp](https://lambdaschool.com/free-mini-code-bootcamp#:~:text=Join%20From%20Anywhere%20%E2%80%93%20Just%20like,any%20amount%20of%20coding%20experience.)
 - [No shortage of design work](http://www.erickarjaluoto.com/blog/theres-no-shortage-of-design-work/)
 - [Web Components replace frontend frameworks](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c)
+- [public-key cryptography for js](https://medium.com/sharenowtech/high-speed-public-key-cryptography-in-javascript-part-1-3eefb6f91f77)
+- [Intro to Vue.js](https://vuejs.org/v2/guide/)
 
 ### Software Engineering
 - [Why Software Projects take longer - Statistics Model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#)
@@ -28,12 +41,16 @@
 - [Git is about communications](https://blog.appsignal.com/2020/06/24/git-is-about-communication.html#:~:text=Git%20is%20about%20talking%20to,to%20yourself%2C%20from%20the%20future.&text=Git%20is%20a%20great%20resource,process%20of%20creating%20the%20commit.)
 - [API as a product](https://towardsdatascience.com/api-as-a-product-how-to-sell-your-work-when-all-you-know-is-a-back-end-bd78b1449119)
 - [Learning from Incidents in Software](https://www.learningfromincidents.io/)
+- [Textbook - parallel programming is hard](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+- [Software Engineering Reading List](https://world.hey.com/ahuth/my-software-engineering-reading-list-bc92105c)
 
 ### Tools
 - [Superhuman and the productivity of the meta-layer](https://julian.digital/2020/01/17/superhuman-the-productivity-meta-layer/)
 - [The Missing Semester of your CS Education](https://missing.csail.mit.edu/)
 - [Quick and Dirty Static Sites](https://craigphares.com/quick-and-dirty-static-sites/)
 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
+- [Book - Deployment from Scratch!!](https://deploymentfromscratch.com/?rel=open)
+- [Gitlab - building a better Heroku](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
 
 ### Math
 - [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
@@ -42,6 +59,7 @@
 - [Artists Don't Have to Believe in Themselves to have Success - Brad Rushing](https://www.youtube.com/watch?v=F137IANXaF4)
 - [Dying inside](https://www.incourage.me/2015/02/for-those-of-us-who-feel-like-they-are-dying-on-the-inside.html)
 - [Reinventing the software of you](https://productlessons.substack.com/p/rewriting-the-software-of-you)
+- [Walking Improves Creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
 
 ### Biz/Org
 - [career levels, designation etc.](https://lethain.com/career-levels-and-more/)
@@ -49,6 +67,7 @@
 - [Towards an untrepreneurial economy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3479042)
 - [Bullshit Jobs](https://www.bleepingcomputer.com/news/security/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/#:~:text=Catalin%20Cimpanu&text=The%20Swedish%20government%20has%20exposed,Swedish%20krona%20%E2%80%94%20or%20around%20%248%2C500.)
 - [30 hour jobs](https://30hourjobs.com)
+- [CourseMaker](https://coursemaker.org/)
 
 ### Writing
 - [Paying my bills with free e-books](https://learnbyexample.github.io/my-book-writing-experience/)
