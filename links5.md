@@ -5,6 +5,14 @@
 - [CuPy](https://docs.cupy.dev/en/stable/install.html)
 - [Numpy Book](https://www.packtpub.com/product/numpy-beginner-s-guide-third-edition/9781785281969)
 - [Ultimate Learn Django](https://ultimatedjango.com/learn-django/chapters/)
+- [Quantitative Economics with Python](https://python.quantecon.org/)
+- [Effective Computational with Physics, using Python](http://physics.codes/)
+- [Youtube - most important python Decorator](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
+
+### R
+- [Highcharts and R](https://www.highcharts.com/blog/tutorials/highcharts-for-r-users/?__cf_chl_jschl_tk__=f326c53514944233b6fd8dbedbb4a90e939e835e-1617246934-0-ATKRM8xrCRUvaqn7HoVStam-PsP-PJsOlHg5tUHuDwOu5xmcmsq954RNY3BMNf1elOItEorvQYJDJug4o-H5n1dj42TAHxvZD6kyNgGOQKuafbP9IutnZ-yIDFD9BQZJ-oAM0DK8DQZy8U-5tPYJ0OuTr5Lwyk4S5Z7LNphuCtXBYT-AvIPbxMZKS62ly0bkGxKfEui4WlXfXSsl90Z4QlQAxbYHHKpe6eS0-6LgL_4GX9WgipMoMTIFOT5TJePNafa3F_HYhOBy6bXTlq-C4b3RAUH2C22CuzMr7HnRwuryC2-DHhdr6f3aPxWkPporhxfSR4YHb4mv7RDfPpuKuJQ3Tn4QgRH-sqI1keBLGTuMtOy2HlWNxi1vtpWd_S6mIbKVq4dDANPO-SE70fma4Vb5mgd6luUP-vNSU3LmRz0cxSJt8eD-taauQY-e0xkKQrBA5KCKD0jWlC3nX1txOdoZknD_NNe_HwL0wP2nAqHc)
+- [Reproducible Finance](http://www.reproduciblefinance.com/)
+
 
 ### Go
 - [Practical Go Lessons](https://www.practical-go-lessons.com/)
@@ -34,6 +42,8 @@
 - [Web Components replace frontend frameworks](https://blog.usejournal.com/web-components-will-replace-your-frontend-framework-3b17a580831c)
 - [public-key cryptography for js](https://medium.com/sharenowtech/high-speed-public-key-cryptography-in-javascript-part-1-3eefb6f91f77)
 - [Intro to Vue.js](https://vuejs.org/v2/guide/)
+- [Youtube - 5 html tag nobody knows](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
+- [Browser Input Lags in HTML 5 Games](https://www.vsynctester.com/game.html)
 
 ### Software Engineering
 - [Why Software Projects take longer - Statistics Model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#)
@@ -43,6 +53,7 @@
 - [Learning from Incidents in Software](https://www.learningfromincidents.io/)
 - [Textbook - parallel programming is hard](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 - [Software Engineering Reading List](https://world.hey.com/ahuth/my-software-engineering-reading-list-bc92105c)
+- [Formal Methods of Software Design! Uni of Toronto course](http://www.cs.utoronto.ca/~hehner/FMSD/)
 
 ### Tools
 - [Superhuman and the productivity of the meta-layer](https://julian.digital/2020/01/17/superhuman-the-productivity-meta-layer/)
@@ -51,6 +62,7 @@
 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
 - [Book - Deployment from Scratch!!](https://deploymentfromscratch.com/?rel=open)
 - [Gitlab - building a better Heroku](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
+- [Coolify - heroku and Netlify self hosted](https://coollabs.io/coolify)
 
 ### Math
 - [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
@@ -60,6 +72,7 @@
 - [Dying inside](https://www.incourage.me/2015/02/for-those-of-us-who-feel-like-they-are-dying-on-the-inside.html)
 - [Reinventing the software of you](https://productlessons.substack.com/p/rewriting-the-software-of-you)
 - [Walking Improves Creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
+- [Minnie Driver on not having an appetite to be a big movie star](https://www.theguardian.com/film/2021/apr/03/minnie-driver-i-did-not-have-the-appetite-to-be-a-big-movie-star)
 
 ### Biz/Org
 - [career levels, designation etc.](https://lethain.com/career-levels-and-more/)
@@ -85,3 +98,8 @@
 - [Cables - interactive visuals](https://cables.gl/)
 - [Solar Storms and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
 - [The physical sacrifice of thinking](https://journals.sagepub.com/doi/abs/10.1177/1359105314565827)
+
+### Health
+- [Staying Awake to treat Depression](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
+
+
