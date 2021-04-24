@@ -9,6 +9,7 @@
 - [Effective Computational with Physics, using Python](http://physics.codes/)
 - [Youtube - most important python Decorator](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
 - [Wanderson - Python UI dev - PyBlackBox etc](https://www.youtube.com/channel/UCy1fv5dh3wQEem1nFAUBJzw/videos)
+- [Implement logging in Python via decorators](https://dev.to/aldo/implementing-logging-in-python-via-decorators-1gje)
 
 
 ### R
@@ -44,6 +45,15 @@
 - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
 - [about Shapley Values](https://github.com/slundberg/shap)
 - [Backpropagation 101](https://thinc.ai/docs/backprop101)
+- [SVM slides, not bad!](http://www.realtechsupport.org/UB/I2C/tutorials/svm_biomedicine.pdf)
+- [Random Forest Probabilities - a Kernel Perspective](https://arxiv.org/pdf/1812.05792.pdf)
+- [SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
+- [CatBoost](https://catboost.ai/)
+- [TPOT - AutoML](http://epistasislab.github.io/tpot/api/)
+- [GridSearch in Python](https://mlfromscratch.com/gridsearch-keras-sklearn/#/)
+- [XLPert - ML in spreadsheets](http://www.xlpert.com/software-XL-Bit.html#tutorials)
+- [50m records in Excel](https://www.masterdataanalysis.com/ms-excel/analyzing-50-million-records-excel/)
+- [PyTorch + Numpy = bad](https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/)
 
 ### Web Dev
 - [Guide to Minimalist Web Design](https://ismailelazizi.com/blog/a-guide-to-minimalist-web-design)
@@ -56,6 +66,8 @@
 - [Intro to Vue.js](https://vuejs.org/v2/guide/)
 - [Youtube - 5 html tag nobody knows](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
 - [Browser Input Lags in HTML 5 Games](https://www.vsynctester.com/game.html)
+- [Build HTMl 5 from scratch](https://www.lingulo.com/tutorials/css/how-to-build-a-html5-website-from-scratch)
+
 
 ### Software Engineering
 - [Why Software Projects take longer - Statistics Model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html#)
@@ -77,7 +89,9 @@
 - [Gitlab - building a better Heroku](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
 - [Coolify - heroku and Netlify self hosted](https://coollabs.io/coolify)
 - [Youtube - Three.js](https://www.youtube.com/watch?v=pUgWfqWZWmM)
-
+- [Scrimba - Learning Platform!](https://scrimba.com/#)
+- [Build a blog from Scratch](https://www.freecodecamp.org/news/how-to-design-and-develop-a-beautiful-blog-from-scratch-a0cd1af46845/)
+- [Build a blog from scratch](https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/)
 ### Math
 - [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
 - [Geometrical Thinking](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
@@ -99,6 +113,8 @@
 - [CourseMaker](https://coursemaker.org/)
 - [Scrum - Game Over](https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d)
 - [Architecture behind one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+- [The Future of Work is not Working](https://warzel.substack.com/p/the-future-of-work-is-not-working)
+- [Limiting Work In Progress](https://truemped.github.io/posts/mgmt/limiting-wip/)
 
 ### Writing
 - [Paying my bills with free e-books](https://learnbyexample.github.io/my-book-writing-experience/)
