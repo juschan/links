@@ -8,6 +8,8 @@
 - [Quantitative Economics with Python](https://python.quantecon.org/)
 - [Effective Computational with Physics, using Python](http://physics.codes/)
 - [Youtube - most important python Decorator](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
+- [Wanderson - Python UI dev - PyBlackBox etc](https://www.youtube.com/channel/UCy1fv5dh3wQEem1nFAUBJzw/videos)
+
 
 ### R
 - [Highcharts and R](https://www.highcharts.com/blog/tutorials/highcharts-for-r-users/?__cf_chl_jschl_tk__=f326c53514944233b6fd8dbedbb4a90e939e835e-1617246934-0-ATKRM8xrCRUvaqn7HoVStam-PsP-PJsOlHg5tUHuDwOu5xmcmsq954RNY3BMNf1elOItEorvQYJDJug4o-H5n1dj42TAHxvZD6kyNgGOQKuafbP9IutnZ-yIDFD9BQZJ-oAM0DK8DQZy8U-5tPYJ0OuTr5Lwyk4S5Z7LNphuCtXBYT-AvIPbxMZKS62ly0bkGxKfEui4WlXfXSsl90Z4QlQAxbYHHKpe6eS0-6LgL_4GX9WgipMoMTIFOT5TJePNafa3F_HYhOBy6bXTlq-C4b3RAUH2C22CuzMr7HnRwuryC2-DHhdr6f3aPxWkPporhxfSR4YHb4mv7RDfPpuKuJQ3Tn4QgRH-sqI1keBLGTuMtOy2HlWNxi1vtpWd_S6mIbKVq4dDANPO-SE70fma4Vb5mgd6luUP-vNSU3LmRz0cxSJt8eD-taauQY-e0xkKQrBA5KCKD0jWlC3nX1txOdoZknD_NNe_HwL0wP2nAqHc)
@@ -32,6 +34,16 @@
 - [Entropy based Clustering using GA - guaranteed global optimum!!](https://www.mdpi.com/1099-4300/17/1/151/pdf)
 - [Clsutering with Entropy](https://visualstudiomagazine.com/Articles/2013/02/01/Data-Clustering-Using-Entropy-Minimization.aspx?Page=2)
 - [Data Science Guide](http://datascienceguide.github.io/posts)
+- [Allen Downey - Think Stats](https://greenteapress.com/thinkstats2/html/index.html)
+- [Allen Downey - All books](https://www.allendowney.com/wp/books/)
+- [Allen Downey - Elements Of Data Science - might be useful for teaching!](https://allendowney.github.io/ElementsOfDataScience/README.html)
+- [Charming Data - Dash, plotly etc.](https://www.youtube.com/channel/UCqBFsuAz41sqWcFjZkqmJqQ)
+- [Create animations like 3Blue1Brown using Python](https://towardsdatascience.com/how-to-create-mathematical-animations-like-3blue1brown-using-python-f571fb9da3d1)
+- [Manim Library - for 3Blue1Brown viz](https://github.com/3b1b/manim)
+- [Shapley Values](https://www.analyticsvidhya.com/blog/2019/11/shapley-value-machine-learning-interpretability-game-theory/)
+- [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
+- [about Shapley Values](https://github.com/slundberg/shap)
+- [Backpropagation 101](https://thinc.ai/docs/backprop101)
 
 ### Web Dev
 - [Guide to Minimalist Web Design](https://ismailelazizi.com/blog/a-guide-to-minimalist-web-design)
@@ -54,6 +66,7 @@
 - [Textbook - parallel programming is hard](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 - [Software Engineering Reading List](https://world.hey.com/ahuth/my-software-engineering-reading-list-bc92105c)
 - [Formal Methods of Software Design! Uni of Toronto course](http://www.cs.utoronto.ca/~hehner/FMSD/)
+- [Handles are better than pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
 
 ### Tools
 - [Superhuman and the productivity of the meta-layer](https://julian.digital/2020/01/17/superhuman-the-productivity-meta-layer/)
@@ -63,9 +76,11 @@
 - [Book - Deployment from Scratch!!](https://deploymentfromscratch.com/?rel=open)
 - [Gitlab - building a better Heroku](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
 - [Coolify - heroku and Netlify self hosted](https://coollabs.io/coolify)
+- [Youtube - Three.js](https://www.youtube.com/watch?v=pUgWfqWZWmM)
 
 ### Math
 - [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
+- [Geometrical Thinking](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
 
 ### Life Hack
 - [Artists Don't Have to Believe in Themselves to have Success - Brad Rushing](https://www.youtube.com/watch?v=F137IANXaF4)
@@ -73,6 +88,7 @@
 - [Reinventing the software of you](https://productlessons.substack.com/p/rewriting-the-software-of-you)
 - [Walking Improves Creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
 - [Minnie Driver on not having an appetite to be a big movie star](https://www.theguardian.com/film/2021/apr/03/minnie-driver-i-did-not-have-the-appetite-to-be-a-big-movie-star)
+- [Why I'm unreachable and you should be too](https://levels.io/contact-me/)
 
 ### Biz/Org
 - [career levels, designation etc.](https://lethain.com/career-levels-and-more/)
@@ -81,6 +97,8 @@
 - [Bullshit Jobs](https://www.bleepingcomputer.com/news/security/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/#:~:text=Catalin%20Cimpanu&text=The%20Swedish%20government%20has%20exposed,Swedish%20krona%20%E2%80%94%20or%20around%20%248%2C500.)
 - [30 hour jobs](https://30hourjobs.com)
 - [CourseMaker](https://coursemaker.org/)
+- [Scrum - Game Over](https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d)
+- [Architecture behind one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 
 ### Writing
 - [Paying my bills with free e-books](https://learnbyexample.github.io/my-book-writing-experience/)
@@ -92,6 +110,7 @@
 - [Change big tech](https://cyber.harvard.edu/story/2019-05/want-fix-big-tech-change-what-classes-are-required-computer-science-degree)
 - [Sweden data leak](https://www.bleepingcomputer.com/news/security/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/#:~:text=Catalin%20Cimpanu&text=The%20Swedish%20government%20has%20exposed,Swedish%20krona%20%E2%80%94%20or%20around%20%248%2C500.)
 - [iAddiction](https://www.bleepingcomputer.com/news/security/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/#:~:text=Catalin%20Cimpanu&text=The%20Swedish%20government%20has%20exposed,Swedish%20krona%20%E2%80%94%20or%20around%20%248%2C500.)
+- [How poverty affect young brains](https://www.nytimes.com/2021/04/07/upshot/stimulus-children-poverty-brain.html)
 
 ### Cool!
 - [FlipperZero - Tamaguchi for hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
@@ -102,4 +121,5 @@
 ### Health
 - [Staying Awake to treat Depression](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
 
-
+### Drawing/Art
+- [3D Total Shop](https://shop.3dtotal.com/free-resources-and-downloads)
