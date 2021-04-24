@@ -95,6 +95,10 @@
 ### Math
 - [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
 - [Geometrical Thinking](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
+- [awk - 10 examples to group data](https://www.theunixschool.com/2012/06/awk-10-examples-to-group-data-in-csv-or.html)
+- [DBGate - DB Management, with js support](https://dbgate.org/)
+- [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
+- [Deployment from Scratch - Book](https://deploymentfromscratch.com/)
 
 ### Life Hack
 - [Artists Don't Have to Believe in Themselves to have Success - Brad Rushing](https://www.youtube.com/watch?v=F137IANXaF4)
@@ -139,3 +143,4 @@
 
 ### Drawing/Art
 - [3D Total Shop](https://shop.3dtotal.com/free-resources-and-downloads)
+- [Noise in Creative Coding](https://varun.ca/noise/)
