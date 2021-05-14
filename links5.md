@@ -10,12 +10,17 @@
 - [Youtube - most important python Decorator](https://www.youtube.com/watch?v=DnKxKFXB4NQ)
 - [Wanderson - Python UI dev - PyBlackBox etc](https://www.youtube.com/channel/UCy1fv5dh3wQEem1nFAUBJzw/videos)
 - [Implement logging in Python via decorators](https://dev.to/aldo/implementing-logging-in-python-via-decorators-1gje)
+- [Hitchhiker's Guide to SQLite with Python](https://dzone.com/articles/a-hitchhickers-guide-to-sqlite-with-python)
 
+
+### C
+- [Learn C in X Minutes](https://learnxinyminutes.com/docs/c/)
+- [Main is usually a function. When is it not](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 
 ### R
 - [Highcharts and R](https://www.highcharts.com/blog/tutorials/highcharts-for-r-users/?__cf_chl_jschl_tk__=f326c53514944233b6fd8dbedbb4a90e939e835e-1617246934-0-ATKRM8xrCRUvaqn7HoVStam-PsP-PJsOlHg5tUHuDwOu5xmcmsq954RNY3BMNf1elOItEorvQYJDJug4o-H5n1dj42TAHxvZD6kyNgGOQKuafbP9IutnZ-yIDFD9BQZJ-oAM0DK8DQZy8U-5tPYJ0OuTr5Lwyk4S5Z7LNphuCtXBYT-AvIPbxMZKS62ly0bkGxKfEui4WlXfXSsl90Z4QlQAxbYHHKpe6eS0-6LgL_4GX9WgipMoMTIFOT5TJePNafa3F_HYhOBy6bXTlq-C4b3RAUH2C22CuzMr7HnRwuryC2-DHhdr6f3aPxWkPporhxfSR4YHb4mv7RDfPpuKuJQ3Tn4QgRH-sqI1keBLGTuMtOy2HlWNxi1vtpWd_S6mIbKVq4dDANPO-SE70fma4Vb5mgd6luUP-vNSU3LmRz0cxSJt8eD-taauQY-e0xkKQrBA5KCKD0jWlC3nX1txOdoZknD_NNe_HwL0wP2nAqHc)
 - [Reproducible Finance](http://www.reproduciblefinance.com/)
-
+- [The Epidimiologist R Handbook](https://epirhandbook.com/)
 
 ### Go
 - [Practical Go Lessons](https://www.practical-go-lessons.com/)
@@ -54,6 +59,13 @@
 - [XLPert - ML in spreadsheets](http://www.xlpert.com/software-XL-Bit.html#tutorials)
 - [50m records in Excel](https://www.masterdataanalysis.com/ms-excel/analyzing-50-million-records-excel/)
 - [PyTorch + Numpy = bad](https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/)
+- [GLM, NN and Gradient Boosting for Insurance Pricing](https://www.kaggle.com/floser/glm-neural-nets-and-xgboost-for-insurance-pricing)
+- [GLM](https://towardsdatascience.com/beyond-linear-regression-an-introduction-to-glms-7ae64a8fad9c)
+- [GLM](https://towardsdatascience.com/generalized-linear-models-8738ae0fb97d)
+- [Modern ML far outperforms GLMs at predicting spikes](https://www.biorxiv.org/content/10.1101/111450v1.full.pdf)
+- [SHAP Documentation](http://shap.readthedocs.io/)
+- [ML Papers](https://yobibyte.medium.com/some-time-ago-i-tried-to-read-tons-of-papers-but-i-didnt-go-into-details-and-mostly-scanned-them-cbf42a12109)
+- [Imbalanced Classes](https://elitedatascience.com/imbalanced-classes)
 
 ### Web Dev
 - [Guide to Minimalist Web Design](https://ismailelazizi.com/blog/a-guide-to-minimalist-web-design)
@@ -79,6 +91,9 @@
 - [Software Engineering Reading List](https://world.hey.com/ahuth/my-software-engineering-reading-list-bc92105c)
 - [Formal Methods of Software Design! Uni of Toronto course](http://www.cs.utoronto.ca/~hehner/FMSD/)
 - [Handles are better than pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html)
+- [Java For Everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
+- [On UML](https://www.sicpers.info/2021/04/on-uml/)
+- [Nobody Cares About Your Beautiful Code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
 
 ### Tools
 - [Superhuman and the productivity of the meta-layer](https://julian.digital/2020/01/17/superhuman-the-productivity-meta-layer/)
@@ -92,13 +107,22 @@
 - [Scrimba - Learning Platform!](https://scrimba.com/#)
 - [Build a blog from Scratch](https://www.freecodecamp.org/news/how-to-design-and-develop-a-beautiful-blog-from-scratch-a0cd1af46845/)
 - [Build a blog from scratch](https://tanelp.github.io/posts/a-bug-that-plagues-thousands-of-open-source-ml-projects/)
-### Math
-- [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
-- [Geometrical Thinking](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
 - [awk - 10 examples to group data](https://www.theunixschool.com/2012/06/awk-10-examples-to-group-data-in-csv-or.html)
 - [DBGate - DB Management, with js support](https://dbgate.org/)
 - [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 - [Deployment from Scratch - Book](https://deploymentfromscratch.com/)
+- [Atlas Engineering - Notebook for engineers!](http://atlasengineering.io/)
+- [Spark Set Up - Intellij](https://dzone.com/articles/spark-set-up)
+- [Z3 Tutorial](https://colab.research.google.com/github/philzook58/z3_tutorial/blob/master/Z3%20Tutorial.ipynb)
+- [Knime - Data Science Tool](https://www.knime.com/)
+- [Polyglot Assembly](https://vojtechkral.github.io/blag/polyglot-assembly/)
+- [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
+- [Pulumi Cloud](https://www.pulumi.com/)
+
+### Math
+- [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
+- [Geometrical Thinking](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
+- [Categorical Informatics](http://math.mit.edu/~dspivak/informatics/)
 
 ### Life Hack
 - [Artists Don't Have to Believe in Themselves to have Success - Brad Rushing](https://www.youtube.com/watch?v=F137IANXaF4)
@@ -107,6 +131,7 @@
 - [Walking Improves Creativity](https://news.stanford.edu/2014/04/24/walking-vs-sitting-042414/)
 - [Minnie Driver on not having an appetite to be a big movie star](https://www.theguardian.com/film/2021/apr/03/minnie-driver-i-did-not-have-the-appetite-to-be-a-big-movie-star)
 - [Why I'm unreachable and you should be too](https://levels.io/contact-me/)
+- [Fuck the Bread. The Bread is Over](https://www.biorxiv.org/content/10.1101/111450v1.full.pdf)
 
 ### Biz/Org
 - [career levels, designation etc.](https://lethain.com/career-levels-and-more/)
@@ -119,6 +144,12 @@
 - [Architecture behind one-person tech startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 - [The Future of Work is not Working](https://warzel.substack.com/p/the-future-of-work-is-not-working)
 - [Limiting Work In Progress](https://truemped.github.io/posts/mgmt/limiting-wip/)
+- [Why Ideas People are Risky and What to do about it](https://medium.com/better-outcomes/why-idea-people-are-risky-e088df838d39?source=rss-------1)
+- [Developer-First - Make Your Products Easy to Integrate](https://blog.usejournal.com/developer-first-cd3db1b218ff)
+- [Fix the AWS Free Tier](https://cloudirregular.substack.com/p/please-fix-the-aws-free-tier-before)
+- [CAST.AI - cut cloud bills](https://cast.ai/)
+- [5G - the outsourced elephant in the room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
+- [Why I distrust Google cloud](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html#:~:text=great%20people%20are%20not%20very,than%20creating%20separate%20AWS%20accounts)
 
 ### Writing
 - [Paying my bills with free e-books](https://learnbyexample.github.io/my-book-writing-experience/)
@@ -131,16 +162,35 @@
 - [Sweden data leak](https://www.bleepingcomputer.com/news/security/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/#:~:text=Catalin%20Cimpanu&text=The%20Swedish%20government%20has%20exposed,Swedish%20krona%20%E2%80%94%20or%20around%20%248%2C500.)
 - [iAddiction](https://www.bleepingcomputer.com/news/security/biggest-data-leak-in-swedens-history-punished-with-half-a-months-paycheck/#:~:text=Catalin%20Cimpanu&text=The%20Swedish%20government%20has%20exposed,Swedish%20krona%20%E2%80%94%20or%20around%20%248%2C500.)
 - [How poverty affect young brains](https://www.nytimes.com/2021/04/07/upshot/stimulus-children-poverty-brain.html)
+- [Are Some Personalities Just Better?](https://dynomight.net/better-personalities/)
+- [Give Cash - people go get jobs](https://reasonstobecheerful.world/when-a-city-gave-people-cash-they-went-out-and-got-jobs/)
 
 ### Cool!
 - [FlipperZero - Tamaguchi for hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
 - [Cables - interactive visuals](https://cables.gl/)
 - [Solar Storms and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
 - [The physical sacrifice of thinking](https://journals.sagepub.com/doi/abs/10.1177/1359105314565827)
+- [Coded Illustrations](https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98)
 
 ### Health
 - [Staying Awake to treat Depression](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
+- [Move Over Crispr, Retrons coming](https://wyss.harvard.edu/news/move-over-crispr-the-retrons-are-coming/)
+- [Better air is the easiest way not to die](https://dynomight.net/air/)
+
+### Teaching coding
+- [Hedy](https://hedycode.com/)
 
 ### Drawing/Art
 - [3D Total Shop](https://shop.3dtotal.com/free-resources-and-downloads)
 - [Noise in Creative Coding](https://varun.ca/noise/)
+
+### Training
+- [A Cloud Guru - Cloud Training](https://acloudguru.com/?utm_campaign=9982801564&utm_source=google&utm_medium=cpc&utm_content=446017694300&utm_term=e_a%20cloud%20guru&adgroupid=106298860048)
+
+### Adult Learning
+- [Active Learning - Actual learning vs feelings](https://www.pnas.org/content/116/39/19251)
+- [Active Learning Works, but Students Don't Like it](https://marginalrevolution.com/marginalrevolution/2019/09/active-learning-works-but-students-dont-like-it.html)
+- [Active Learning not Associated with Student Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228657/)
+
+### Inclusivity
+- [Inclusive Language](https://buffer.com/resources/inclusive-language-tech/)
