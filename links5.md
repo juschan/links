@@ -1,5 +1,8 @@
 # Links 5
 
+### Inspiration
+- [Justine Tunney](https://justine.lol/)
+
 ### Python
 - [Mito - write Pandas faster](https://trymito.io/launch)
 - [CuPy](https://docs.cupy.dev/en/stable/install.html)
@@ -11,11 +14,14 @@
 - [Wanderson - Python UI dev - PyBlackBox etc](https://www.youtube.com/channel/UCy1fv5dh3wQEem1nFAUBJzw/videos)
 - [Implement logging in Python via decorators](https://dev.to/aldo/implementing-logging-in-python-via-decorators-1gje)
 - [Hitchhiker's Guide to SQLite with Python](https://dzone.com/articles/a-hitchhickers-guide-to-sqlite-with-python)
-
+- [Python vs Lisp](https://lisp-journey.gitlab.io/pythonvslisp/)
+- [Programming for Quantitative Economics](https://executablebooks.github.io/quantecon-example/docs/index.html)
+- [Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
 
 ### C
 - [Learn C in X Minutes](https://learnxinyminutes.com/docs/c/)
 - [Main is usually a function. When is it not](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
+- [Parsing Protobuf in C](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 
 ### R
 - [Highcharts and R](https://www.highcharts.com/blog/tutorials/highcharts-for-r-users/?__cf_chl_jschl_tk__=f326c53514944233b6fd8dbedbb4a90e939e835e-1617246934-0-ATKRM8xrCRUvaqn7HoVStam-PsP-PJsOlHg5tUHuDwOu5xmcmsq954RNY3BMNf1elOItEorvQYJDJug4o-H5n1dj42TAHxvZD6kyNgGOQKuafbP9IutnZ-yIDFD9BQZJ-oAM0DK8DQZy8U-5tPYJ0OuTr5Lwyk4S5Z7LNphuCtXBYT-AvIPbxMZKS62ly0bkGxKfEui4WlXfXSsl90Z4QlQAxbYHHKpe6eS0-6LgL_4GX9WgipMoMTIFOT5TJePNafa3F_HYhOBy6bXTlq-C4b3RAUH2C22CuzMr7HnRwuryC2-DHhdr6f3aPxWkPporhxfSR4YHb4mv7RDfPpuKuJQ3Tn4QgRH-sqI1keBLGTuMtOy2HlWNxi1vtpWd_S6mIbKVq4dDANPO-SE70fma4Vb5mgd6luUP-vNSU3LmRz0cxSJt8eD-taauQY-e0xkKQrBA5KCKD0jWlC3nX1txOdoZknD_NNe_HwL0wP2nAqHc)
@@ -66,6 +72,9 @@
 - [SHAP Documentation](http://shap.readthedocs.io/)
 - [ML Papers](https://yobibyte.medium.com/some-time-ago-i-tried-to-read-tons-of-papers-but-i-didnt-go-into-details-and-mostly-scanned-them-cbf42a12109)
 - [Imbalanced Classes](https://elitedatascience.com/imbalanced-classes)
+- [Adversarial Reprogramming of Neural Cellular Automata](https://distill.pub/selforg/2021/adversarial/)
+- [Monte Carlo Simulation in Go](https://ggcarvalho.dev/posts/montecarlo/)
+- [Fourier Transform is a NN](https://sidsite.com/posts/fourier-nets/)
 
 ### Web Dev
 - [Guide to Minimalist Web Design](https://ismailelazizi.com/blog/a-guide-to-minimalist-web-design)
@@ -94,6 +103,9 @@
 - [Java For Everything](https://www.teamten.com/lawrence/writings/java-for-everything.html)
 - [On UML](https://www.sicpers.info/2021/04/on-uml/)
 - [Nobody Cares About Your Beautiful Code](https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html)
+- [Death of UML](https://garba.org/posts/2021/uml/)
+- [Beginner's Guide to Writing Docs](https://www.writethedocs.org/guide/writing/beginners-guide-to-docs/)
+- [What's wrong with 1975 programming](https://varnish-cache.org/docs/trunk/phk/notes.html#so-what-s-wrong-with-1975-programming)
 
 ### Tools
 - [Superhuman and the productivity of the meta-layer](https://julian.digital/2020/01/17/superhuman-the-productivity-meta-layer/)
@@ -118,6 +130,12 @@
 - [Polyglot Assembly](https://vojtechkral.github.io/blag/polyglot-assembly/)
 - [Git from the bottom up](https://jwiegley.github.io/git-from-the-bottom-up/)
 - [Pulumi Cloud](https://www.pulumi.com/)
+- [Pencil - UI Deskign tool](https://pencil.evolus.vn/Features.html)
+- [Hot Basic](http://www.hotbasic.org/)
+- [Replit built its own DNS Infrastructure](https://blog.replit.com/dns)
+- [Rust for Windows](https://docs.microsoft.com/en-us/windows/dev-environment/rust/rust-for-windows)
+- [Executable Books - Notebooks](https://ebp.jupyterbook.org/en/latest/)
+- [Data Organisation in Spreadsheets](https://www.tandfonline.com/doi/full/10.1080/00031305.2017.1375989)
 
 ### Math
 - [Resources on probability, stochastic processes](https://www.randomservices.org/random/index.html)
@@ -132,6 +150,7 @@
 - [Minnie Driver on not having an appetite to be a big movie star](https://www.theguardian.com/film/2021/apr/03/minnie-driver-i-did-not-have-the-appetite-to-be-a-big-movie-star)
 - [Why I'm unreachable and you should be too](https://levels.io/contact-me/)
 - [Fuck the Bread. The Bread is Over](https://www.biorxiv.org/content/10.1101/111450v1.full.pdf)
+- [Focus to Raise Expertise Rapidly](https://www.youtube.com/watch?v=5a488th9fkM)
 
 ### Biz/Org
 - [career levels, designation etc.](https://lethain.com/career-levels-and-more/)
@@ -150,6 +169,14 @@
 - [CAST.AI - cut cloud bills](https://cast.ai/)
 - [5G - the outsourced elephant in the room](https://berthub.eu/articles/posts/5g-elephant-in-the-room/)
 - [Why I distrust Google cloud](http://www.iasylum.net/writings/2021-04-21-why-I-distrust-google-cloud-more-than-AWS-or-Azure.html#:~:text=great%20people%20are%20not%20very,than%20creating%20separate%20AWS%20accounts)
+- [Philipo Greenspun - Web Publishing Articles](http://philip.greenspun.com/panda/)
+- [Efficiency is the Enemy](https://fs.blog/2021/05/slack/)
+- [Indie Maker Handbook](https://makebook.io/?hash=dc763457cfb39b6f10bbff611811f616)
+- [5 years of gruntwork](https://blog.gruntwork.io/5-years-of-gruntwork-bf8c5ed2d367)
+- [Why I love Coding](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
+- [Inefficient Efficiency](https://medium.com/@kentbeck_7670/inefficient-efficiency-5b3ab5294791)
+- [The future of Work is no threatening](https://warzel.substack.com/p/the-future-of-work-is-not-threatening)
+
 
 ### Writing
 - [Paying my bills with free e-books](https://learnbyexample.github.io/my-book-writing-experience/)
@@ -164,6 +191,9 @@
 - [How poverty affect young brains](https://www.nytimes.com/2021/04/07/upshot/stimulus-children-poverty-brain.html)
 - [Are Some Personalities Just Better?](https://dynomight.net/better-personalities/)
 - [Give Cash - people go get jobs](https://reasonstobecheerful.world/when-a-city-gave-people-cash-they-went-out-and-got-jobs/)
+- [Nordic Happiness](https://slate.com/news-and-politics/2021/04/finland-happiness-lagom-hygge.html)
+- [the experts can stay wrong longer than you can stay alive](https://lessonsfromthecrisis.substack.com/p/the-experts-can-stay-wrong-longer)
+- [West Imitating Beijing](https://www.spectator.co.uk/article/the-china-model-why-is-the-west-imitating-beijing)
 
 ### Cool!
 - [FlipperZero - Tamaguchi for hackers](https://www.kickstarter.com/projects/flipper-devices/flipper-zero-tamagochi-for-hackers)
@@ -171,14 +201,20 @@
 - [Solar Storms and EMP attacks](https://chris-said.io/2020/06/18/everything-ive-learned-about-solar-storm-risk-and-emp-attacks/)
 - [The physical sacrifice of thinking](https://journals.sagepub.com/doi/abs/10.1177/1359105314565827)
 - [Coded Illustrations](https://medium.com/mit-media-lab/coded-illustrations-bebdf385cd98)
+- [Quantum Double Split Experiment](https://www.quantamagazine.org/famous-quantum-experiment-offers-hope-for-earth-size-telescope-20210505/)
+- [Old clocks on steroids](https://wejn.org/2021/05/putting-old-temp-clock-on-steroids/)
+- [Astonishing Origami](https://www.thisiscolossal.com/2018/06/astonishing-origami-by-robby-kraft/)
 
 ### Health
 - [Staying Awake to treat Depression](https://mosaicscience.com/story/staying-awake-surprisingly-effective-way-treat-depression/)
 - [Move Over Crispr, Retrons coming](https://wyss.harvard.edu/news/move-over-crispr-the-retrons-are-coming/)
 - [Better air is the easiest way not to die](https://dynomight.net/air/)
+- [Excess Deaths](https://kieranhealy.org/blog/archives/2021/02/24/excess-deaths-february-update/)
 
 ### Teaching coding
 - [Hedy](https://hedycode.com/)
+- [Scrimba](https://scrimba.com/#)
+- [Microsoft - free online digital skills](https://news.microsoft.com/features/free-online-digital-skills-courses-revive-hope-and-careers-for-millions-amid-the-pandemic/?ocid=lock)
 
 ### Drawing/Art
 - [3D Total Shop](https://shop.3dtotal.com/free-resources-and-downloads)
@@ -186,11 +222,15 @@
 
 ### Training
 - [A Cloud Guru - Cloud Training](https://acloudguru.com/?utm_campaign=9982801564&utm_source=google&utm_medium=cpc&utm_content=446017694300&utm_term=e_a%20cloud%20guru&adgroupid=106298860048)
+- [Learn Python The Right Way](https://learnpythontherightway.com/)
+- [Book - Go with the Domain](https://threedots.tech/go-with-the-domain/)
 
 ### Adult Learning
 - [Active Learning - Actual learning vs feelings](https://www.pnas.org/content/116/39/19251)
 - [Active Learning Works, but Students Don't Like it](https://marginalrevolution.com/marginalrevolution/2019/09/active-learning-works-but-students-dont-like-it.html)
 - [Active Learning not Associated with Student Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3228657/)
+- [HyperDocs](https://www.cultofpedagogy.com/hyperdocs/)
+- [Blended Learning Strategies](https://www.youtube.com/watch?v=wzsAi3ZdAvc)
 
 ### Inclusivity
 - [Inclusive Language](https://buffer.com/resources/inclusive-language-tech/)
