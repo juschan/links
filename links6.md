@@ -4,6 +4,12 @@
 - [Python Virtual Environment](https://realpython.com/python-virtual-environments-a-primer/)
 - [Devcache - Decorator](https://github.com/pcauthorn/devcache)
 - [A Byte of Python - good beginner book. Free](https://python.swaroopch.com/)
+- [Univ Waterloo - Python from Scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)
+- [Open BOok Project - How to Think Like a CS, CS Principles etc.](http://www.openbookproject.net/books/)
+- [PythonTutor - Viz while coding](http://pythontutor.com/)
+- [GC for Python](https://www.geeksforgeeks.org/garbage-collection-python/)
+- [Variable Storage in Python - Stacks vs Heap](https://www.geeksforgeeks.org/how-are-variables-stored-in-python-stack-or-heap/)
+- [Dealing with Python Dependencies](https://haveagreatdata.com/posts/data-science-python-dependency-management/)
 
 
 ### ML/AI
@@ -20,13 +26,18 @@
 - [AI solving wrong problem](https://onezero.medium.com/a-i-is-solving-the-wrong-problem-253b636770cd)
 - [SVMs](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
 - [Think Stats Book](https://greenteapress.com/thinkstats2/thinkstats2.pdf)
+- [Learn maths for data science - self-sstarter](https://elitedatascience.com/learn-statistics-for-data-science)
+- [Bayes' Theorem Intuition - Youtube](https://www.youtube.com/watch?v=YBvilAYd5sE)
+- [Neural Networks and Deep Learning - free online book](http://neuralnetworksanddeeplearning.com/chap1.html)
+- [Essential maths for DS](https://medium.com/s/story/essential-math-for-data-science-why-and-how-e88271367fbd)
 
 ### Software Enginering
 - [Top 5 skils for Java Developers](https://dzone.com/articles/5-skills-java-developers-should-learn-in-2021)
 - [Make your own tools](https://futureofcoding.org/episodes/044)
 - [History of RSpec](https://www.stevenrbaker.com/tech/history-of-rspec.html)
 - [How to be DevOps Engineer in 2021](https://www.youtube.com/watch?v=5pxbp6FyTfk)
-- - [Missing Semester of your CS education](https://missing.csail.mit.edu/)
+- [Missing Semester of your CS education](https://missing.csail.mit.edu/)
+- [codecrafters - Build your own X](https://codecrafters.io/)
 
 ### Tools
 - [Replit - Apps](https://blog.replit.com/apps)
@@ -37,6 +48,11 @@
 - [Databricks Unity Catalog](https://databricks.com/blog/2021/05/26/introducing-databricks-unity-catalog-fine-grained-governance-for-data-and-ai-on-the-lakehouse.html)
 - [Google MLOps](https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning)
 - [The return of fancy tools](https://macwright.com/2021/03/16/return-of-fancy-tools.html)
+- [Docker Tutorial on Tutorialspoint](https://www.tutorialspoint.com/docker/docker_setting_asp.net.htm)
+
+### Web Dev
+- [Learn CSS](https://web.dev/learn/css/)
+- [Modern JS](https://turriate.com/articles/modern-javascript-everything-you-missed-over-10-years)
 
 
 ### Viz
@@ -66,11 +82,14 @@
 - [Mental Benefits of Being Terrible at Something](https://www.outsideonline.com/2423015/80-20-rule-beginner-mastery-benefits)
 - [Grow CPF for retirement](https://www.youtube.com/watch?v=Rd96PueYkLU)
 - [Build Expertise Rapidly](https://www.youtube.com/watch?v=5a488th9fkM)
+- [Programming vs Writing](http://antirez.com/news/135)
 
 ### Science
 - [Replication Crisis - the more you're cited, less likely true](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
+- [Origami Blog](https://origami.kosmulski.org/)
 
 ### COVID
 - [60 yr old that helped covid kill](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/#intcid=recommendations_right-rail-shorter-timeframe-experiment-1hr_b120594c-cd30-4de4-ab9b-62776e30892a_popular4-1)
 
-
+### Stories
+- [China's RSA Hack](https://www.wired.com/story/the-full-story-of-the-stunning-rsa-hack-can-finally-be-told/)
