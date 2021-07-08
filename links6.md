@@ -117,6 +117,10 @@
 - [Better Explained - Fourier Transform](https://betterexplained.com/articles/an-interactive-guide-to-the-fourier-transform/)
 - [Better Explained - teaching philosophy](https://betterexplained.com/)
 
+### Climate Change, Human Adaption
+- [People dying in hot places](https://futurism.com/neoscope/places-increasingly-hot-people-die)
+- [HN on people dying in hot places](https://news.ycombinator.com/item?id=27766782)
+- [Singapore wet bulb temperature](https://www.wbgt.sg/#about)
 
 ### COVID
 - [60 yr old that helped covid kill](https://www.wired.com/story/the-teeny-tiny-scientific-screwup-that-helped-covid-kill/#intcid=recommendations_right-rail-shorter-timeframe-experiment-1hr_b120594c-cd30-4de4-ab9b-62776e30892a_popular4-1)
