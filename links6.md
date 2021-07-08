@@ -45,7 +45,9 @@
 - [How 457 data scientist failed to predict life outcomes](https://paulvanderlaken.com/2020/05/27/how-457-data-scientists-failed-to-predict-life-outcomes/)
 - [Lemonade - AI powered insurance gone wrong](https://www.vox.com/recode/22455140/lemonade-insurance-ai-twitter)
 - [F1 vs ROC AUC vs Accuracy vs PR AUC](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc)
-- [](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+- [interpretable ML with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
+- [Thinking like Transformers](https://arxiv.org/abs/2106.06981)
+- [The AI Wolf That Preferred Suicide Over Eating Sheep](https://onezero.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710)
 
 ### Software Enginering
 - [Top 5 skils for Java Developers](https://dzone.com/articles/5-skills-java-developers-should-learn-in-2021)
@@ -54,6 +56,7 @@
 - [How to be DevOps Engineer in 2021](https://www.youtube.com/watch?v=5pxbp6FyTfk)
 - [Missing Semester of your CS education](https://missing.csail.mit.edu/)
 - [codecrafters - Build your own X](https://codecrafters.io/)
+- [](https://github.com/ossu/computer-science)
 
 ### Tools
 - [Replit - Apps](https://blog.replit.com/apps)
@@ -88,12 +91,15 @@
 - [Why I love Coding](https://henrikwarne.com/2012/06/02/why-i-love-coding/)
 - [Esolangs](https://hillelwayne.com/talks/esolangs/)
 
+### Actuarial
+- [MCEV Shapley values](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi9yO-l7tLxAhVYqksFHfjwBmEQFjALegQIBRAD&url=https%3A%2F%2Fwww.ivw.unisg.ch%2F~%2Fmedia%2Finternet%2Fcontent%2Fdateien%2Finstituteundcenters%2Fivw%2Fwps%2Fwp104.pdf&usg=AOvVaw2OI_L_dxQkYHy4Y6C0kwM6)
 
 ### Biz Hack
 - [Antifragile Entrepreneur](https://www.d-eship.com/articles/how-the-antifragile-entrepreneur-can-improve-with-improv/)
 - [Antipreneur](https://bozell.com/thinking/articles/defining-the-antipreneur/)
 - [5 years of grunt work - 5 lessons learnt](https://blog.gruntwork.io/5-years-of-gruntwork-bf8c5ed2d367)
 - [What if remote work did not mean working from home](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home)
+- [An Engineer and his Electric Dream](https://medium.com/swlh/an-engineer-and-his-electric-dream-9000fa3e3c89)
 
 ### Mgt
 - [Self-managed teams](https://codingsans.com/blog/self-managed-teams)
@@ -132,3 +138,9 @@
 ### Language
 - [Chinese Etymology](https://hanziyuan.net/#contributors)
 - [Princeton Dumbs Down Classics](https://www.theatlantic.com/ideas/archive/2021/06/princeton-greek-latin-requirement/619136/)
+
+### Teaching Stats
+- [Prob and stats using Excel](https://www.sheffield.ac.uk/polopoly_fs/1.820568!/file/Excel_probability_and_statistics.pdf)
+- [Intro to stats using google sheets](http://www.comfsm.fm/~dleeling/statistics/text6.html)
+- [Stats at Laney](https://statsatlaney.wordpress.com/)
+- [Diff between z-test and t-test](https://www.wallstreetmojo.com/z-test-vs-t-test/)
