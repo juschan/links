@@ -13,6 +13,7 @@
 - [RealPython - virtual env](https://realpython.com/python-virtual-environments-a-primer/)
 - [How to set up a python virtual env](https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv.html)
 - [Building a virtual python env](https://developer.akamai.com/blog/2017/06/21/how-building-virtual-python-environment)
+- [Building and Testing Python](https://docs.github.com/en/actions/guides/building-and-testing-python)
 
 
 ### ML/AI
@@ -48,6 +49,21 @@
 - [interpretable ML with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 - [Thinking like Transformers](https://arxiv.org/abs/2106.06981)
 - [The AI Wolf That Preferred Suicide Over Eating Sheep](https://onezero.medium.com/the-ai-wolf-that-preferred-suicide-over-eating-sheep-49edced3c710)
+- [Train AI to think with Analogies](https://www.quantamagazine.org/melanie-mitchell-trains-ai-to-think-with-analogies-20210714/)
+
+- [Understanding Bias Variance Tradeoff](https://towardsdatascience.com/understanding-bias-variance-trade-offs-101-ff8f44533731)
+- [Understanding Bias Variance - Scott Fortman](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+- [Understanding Bias Variance - knuggets](https://www.kdnuggets.com/2020/09/understanding-bias-variance-trade-off-3-minutes.html)
+- [Bias Var - Wiki](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+- [Generalization Error](https://en.wikipedia.org/wiki/Generalization_error)
+
+- [NN Optimisation](https://towardsdatascience.com/neural-network-optimization-7ca72d4db3e0)
+- [Learning Curves](https://machinelearningmastery.com/learning-curves-for-diagnosing-machine-learning-model-performance/)
+- [Complex Regression](http://chrishenson.net/website/complex_regression.html)
+- [Kaggle, LR example](https://www.kaggle.com/sudhirnl7/linear-regression-tutorial)
+
+- [ML from scratch](https://mlfromscratch.com/)
+- [Wet Bulb Singapore](https://medium.com/@weeleongenator/wet-bulb-globe-temperature-wbgt-6c6b2a2585a6)
 
 ### Software Enginering
 - [Top 5 skils for Java Developers](https://dzone.com/articles/5-skills-java-developers-should-learn-in-2021)
@@ -71,6 +87,11 @@
 - [Prestige (ie. Postman)](https://prestigemad.com/#!/doc/browser/master)
 - [Try APL online IDE](https://tryapl.org/)
 - [EDA with Sweetviz](https://www.analyticsvidhya.com/blog/2021/01/making-exploratory-data-analysis-sweeter-with-sweetviz-2-0/)
+- [MS Form Recognizer](https://www.crosstab.io/articles/microsoft-form-recognizer-review)
+- [JupyterLite Webassembly Python](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
+- [Uncharted - Viz tools](https://uncharted.software/products/o4x/)
+- [Hyro - conversation, AI?](https://www.hyro.ai/blog)
+- [Coda - new type of document](https://coda.io/welcome)
 
 ### Web Dev
 - [Learn CSS](https://web.dev/learn/css/)
@@ -100,6 +121,8 @@
 - [5 years of grunt work - 5 lessons learnt](https://blog.gruntwork.io/5-years-of-gruntwork-bf8c5ed2d367)
 - [What if remote work did not mean working from home](https://www.newyorker.com/culture/cultural-comment/remote-work-not-from-home)
 - [An Engineer and his Electric Dream](https://medium.com/swlh/an-engineer-and-his-electric-dream-9000fa3e3c89)
+- [Why Agile Fails Because of Corporate Culture](https://dzone.com/articles/why-agile-fails-because-of-corporate-culture)
+- [IISM - developers need to believe in your projects](https://iism.org/article/you-need-software-developers-to-believe-in-your-project-45)
 
 ### Mgt
 - [Self-managed teams](https://codingsans.com/blog/self-managed-teams)
@@ -116,6 +139,8 @@
 - [Always be quitting](https://jmmv.dev/2021/04/always-be-quitting.html)
 - [Blog about what you've struggled with](https://jvns.ca/blog/2021/05/24/blog-about-what-you-ve-struggled-with/)
 - [100 Rabbits - Creative couple](https://100r.co/site/about_us.html)
+- [Vision of Life Without Work](https://livingafi.com/2015/03/09/building-a-vision-of-life-without-work/)
+
 
 ### Science
 - [Replication Crisis - the more you're cited, less likely true](https://ucsdnews.ucsd.edu/pressrelease/a-new-replication-crisis-research-that-is-less-likely-be-true-is-cited-more)
@@ -139,8 +164,13 @@
 - [Chinese Etymology](https://hanziyuan.net/#contributors)
 - [Princeton Dumbs Down Classics](https://www.theatlantic.com/ideas/archive/2021/06/princeton-greek-latin-requirement/619136/)
 
-### Teaching Stats
+### Teaching Stats / CS
 - [Prob and stats using Excel](https://www.sheffield.ac.uk/polopoly_fs/1.820568!/file/Excel_probability_and_statistics.pdf)
 - [Intro to stats using google sheets](http://www.comfsm.fm/~dleeling/statistics/text6.html)
 - [Stats at Laney](https://statsatlaney.wordpress.com/)
 - [Diff between z-test and t-test](https://www.wallstreetmojo.com/z-test-vs-t-test/)
+- [Teach CS better](https://cacm.acm.org/magazines/2021/5/252164-teaching-other-teachers-how-to-teach-cs-better/fulltext)
+
+### Health
+- [Brain Needs Animal Fat](https://www.psychologytoday.com/us/blog/diagnosis-diet/201903/the-brain-needs-animal-fat)
+
