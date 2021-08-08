@@ -11,10 +11,23 @@
 - [Implement Knowledge Graph](https://enterprise-knowledge.com/five-steps-to-implement-search-with-a-knowledge-graph/)
 - [knuggets - build knowledge graph](https://www.kdnuggets.com/2021/06/knowledge-graph-job-search-bert.html)
 - [Building a Knowledge Graph](https://www.kdnuggets.com/2021/06/knowledge-graph-job-search-bert.html)
+- [Intro to Statistical Learning, 2nd Edition](https://www.statlearning.com/)
+- [CNN for Beginners](https://serokell.io/blog/introduction-to-convolutional-neural-networks)
+
+
+### Computer Science
+- [Rogozhin's Universal Turing Machine](https://www.davideaversa.it/blog/rogozhin-universal-turing-machines/)
+
 
 ### Software Engineering
 - [Making Reasonable Use of Computer Resources](https://vfoley.xyz/reasonable-use/)
 - [To become a good C Programmer](https://fabiensanglard.net/c/)
+- [Shopify Engineering - Build Production Grade Worflow with SQL Modelling](https://shopify.engineering/build-production-grade-workflow-sql-modelling)
+- [Three Dots Lab - Golang and SE](https://threedots.tech/)
+- [We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
+- [Taking Months to bits](https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a)
+
+
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -27,18 +40,39 @@
 - [JUno - Jupyter Notebook on ipad / iphone](https://juno.sh)
 - [tinkerstellare - learn coding and data science using ipad app](https://tinkerstellar.com/)
 - [STEMCstudio - computational modelling for maths/physical systems](https://github.com/stemcstudio/stemcstudio/wiki)
+- [Don't need external assets in an html file](https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/)
+- [Use Spreadsheets everywhere](https://www.simplethread.com/use-spreadsheets-everywhere/)
+- [GNU Core Utils](https://www.maizure.org/projects/decoded-gnu-coreutils/)
+
+
+
+
+
+
+
+
 
 ### Life Hacks
+- [Scientific test for creativity](https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity)
+- [Programmer's Regret - neglecting math at uni](https://awalterschulze.github.io/blog/post/neglecting-math-at-university/)
+- [Swap Swap Swap and the bad place to work](https://rachelbythebay.com/w/2019/08/08/swap/)
+- [Rabbit Holes: Secret to Technical Expertise](https://blog.bityard.net/articles/2019/August/rabbit-holes-the-secret-to-technical-expertise.html)
+
+
 
 ### Biz Hacks
 - [Blog Starter](https://www.theblogstarter.com/about-me/)
 - [Gather - online virtual town](https://www.gather.town/)
+- [Why Don't tech companies pay Their Engineers to Stay](https://www.goethena.com/post/why-don-t-tech-companies-pay-their-engineers-to-stay)
+- [Once in a life time reporting dilemma](https://www.nytimes.com/2019/09/01/reader-center/nudism-germany-times-insider-naked-fkk.html)
+- [continuous compliance](https://www.davefarley.net/?p=285)
 
 ### Systems Thinking
 - [SIM Centre for Systems Leadership - 18 day course](https://www.simge.edu.sg/news/sims-new-centre-for-systems-leadership-aims-to-equip-leaders-with-skills-to-navigate-increasing-complexity-and-volatility/)
 - [SIM Centre for Systems Leadership - home page](https://pd-csl.sim.edu.sg/)
 - [Cranfield Uni - Systems Thinking Practice MSc](https://www.cranfield.ac.uk/courses/taught/systems-thinking-practice)
 - [Simple Systems have Less Downtime](https://www.gkogan.co/blog/simple-systems/)
+- [The Why of the World - science of cause and effect](http://bostonreview.net/science-nature/tim-maudlin-why-world)
 
 
 ### Teaching / Adult Learning
@@ -67,5 +101,12 @@
 - [SMU - Cert in Immersive Media, Extended Reality](https://academy.smu.edu.sg/professional-certificate-immersive-media-and-extended-reality-5626)
 - [Design Leadership and Design Thinking Facilitation](https://academy.smu.edu.sg/design-leadership-design-thinking-facilitation-train-trainer-programme-2241)
 - [Design Thinker Academy](https://www.designthinkersacademy.com/singapore/)
+- [Proko - Learn how to draw](https://www.proko.com/)
+
+### History
+- [How the great truth dawned](https://newcriterion.com/issues/2019/9/how-the-great-truth-dawned)
+
+
+
 
 
