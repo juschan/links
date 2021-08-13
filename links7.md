@@ -26,7 +26,7 @@
 - [Three Dots Lab - Golang and SE](https://threedots.tech/)
 - [We need to talk about testing](https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/)
 - [Taking Months to bits](https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a)
-
+- [DevOps, SRE, and Platform Engineering](https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/)
 
 
 ### Tools
@@ -66,6 +66,8 @@
 - [Why Don't tech companies pay Their Engineers to Stay](https://www.goethena.com/post/why-don-t-tech-companies-pay-their-engineers-to-stay)
 - [Once in a life time reporting dilemma](https://www.nytimes.com/2019/09/01/reader-center/nudism-germany-times-insider-naked-fkk.html)
 - [continuous compliance](https://www.davefarley.net/?p=285)
+- [How Sweden became the Silicon Valley of Europe](https://www.reuters.com/business/finance/how-sweden-became-silicon-valley-europe-2021-08-11/)
+- [The Great Resignation is really the Great Discontent](https://www.gallup.com/workplace/351545/great-resignation-really-great-discontent.aspx)
 
 ### Systems Thinking
 - [SIM Centre for Systems Leadership - 18 day course](https://www.simge.edu.sg/news/sims-new-centre-for-systems-leadership-aims-to-equip-leaders-with-skills-to-navigate-increasing-complexity-and-volatility/)
@@ -88,6 +90,7 @@
 
 ### Science
 - [No mosquitoes in Disney World](https://www.greenmatters.com/p/why-no-mosquitoes-disney-world)
+- [The emergence of heat and humidity too severe for human tolerance](https://advances.sciencemag.org/content/6/19/eaaw1838)
 
 ### Health / Healing
 - [4-handed Lomi Lomi](https://4handedlomi.com/team/dan-joy/)
