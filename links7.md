@@ -31,6 +31,9 @@
 - [Low-level is easy](https://yosefk.com/blog/low-level-is-easy.html)
 - [software Dark Ages](https://threedots.tech/post/software-dark-ages/)
 - [Binary Floating Point](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point)
+- [It's not about technology for its own sake. It's about being able to implement your ideas.
+
+Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -109,6 +112,9 @@
 - [4-handed Lomi Lomi](https://4handedlomi.com/team/dan-joy/)
 - [Medical Medium - Celery Juice](https://www.medicalmedium.com/book)
 - [Aspartame and Cancer - new evidence for causation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042911/)
+- [The Body Keeps the Score (book)](https://fortelabs.co/blog/the-body-keeps-the-score-summary/)
+- [Hellinger Institute - Family Constellations](https://www.hellingerinstitute.com/)
+
 
 ### Insurance
 - [Cyner Insurance Incidents Response - Market trends](https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/)
@@ -127,4 +133,5 @@
 ### Interesting
 - [Lego Typewriter](https://www.lego.com/en-gb/product/typewriter-21327)
 - [Realism - Science Fiction](https://www.publicbooks.org/the-realism-of-our-times-kim-stanley-robinson-on-how-science-fiction-works/)
+- [Human Consciousness: Where Is It From and What Is It for](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924785/#:~:text=Consciousness%20is%20not%20a%20process,and%20the%20use%20of%20tools.)
 
