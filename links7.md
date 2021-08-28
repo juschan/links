@@ -1,4 +1,10 @@
 ### Python
+- [Pyret - Functional Python](https://www.pyret.org/pyret-code/)
+
+### F#
+- [F# for Fun and Profit](https://fsharpforfunandprofit.com/learning-fsharp/)
+- [Microsoft - Learn F#](https://dotnet.microsoft.com/learn/fsharp)
+- [Resources to Learn F#](https://fsharp.org/learn/)
 
 ### ML / AI
 - [Preserving Privacy in AI](https://www.youtube.com/watch?v=4zrU54VIK6k)
@@ -14,10 +20,13 @@
 - [Intro to Statistical Learning, 2nd Edition](https://www.statlearning.com/)
 - [CNN for Beginners](https://serokell.io/blog/introduction-to-convolutional-neural-networks)
 - [Mapping modal filters and LTNs](https://www.cyclestreets.org/news/2021/07/25/mapping-ltns/)
-
+- [Evolution of Trust - Game Theory](https://ncase.me/trust/)
+- [Survival Analysis of Publicly Available Python Projects](https://neverworkintheory.org/2021/08/11/cheating-death-survival-analysis-of-python-projects.html)
+- [Optimal play with markov decision processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
 
 ### Computer Science
 - [Rogozhin's Universal Turing Machine](https://www.davideaversa.it/blog/rogozhin-universal-turing-machines/)
+- [B-Trees: More than I want to know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 
 
 ### Software Engineering
@@ -49,7 +58,9 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Don't need external assets in an html file](https://shkspr.mobi/blog/2021/08/you-dont-need-external-assets-in-an-html-file/)
 - [Use Spreadsheets everywhere](https://www.simplethread.com/use-spreadsheets-everywhere/)
 - [GNU Core Utils](https://www.maizure.org/projects/decoded-gnu-coreutils/)
-
+- [Go SDK: OCR Invoice and Receipts in Seconds](https://veryfi.com/go)
+- [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
+- [Install Tensorflow on Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)
 
 ### Life Hacks
 - [Scientific test for creativity](https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity)
@@ -57,7 +68,12 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Swap Swap Swap and the bad place to work](https://rachelbythebay.com/w/2019/08/08/swap/)
 - [Rabbit Holes: Secret to Technical Expertise](https://blog.bityard.net/articles/2019/August/rabbit-holes-the-secret-to-technical-expertise.html)
 - [Bootstrapping old web dev after year of unemployement](https://boomerwebdev.wordpress.com/2021/07/25/bootstrapping-my-old-web-dev-ass-after-a-year-of-unemployment/)
-
+- [Decision-making helpline - Ethi-call](https://www.theguardian.com/lifeandstyle/2021/aug/15/the-ethicist-will-see-you-now-unravelling-dilemmas-at-a-decision-making-helpline)
+- [Can smart-thinking books really give you the edge?](https://www.theguardian.com/books/2021/aug/21/can-smart-thinking-books-really-give-you-the-edge)
+- [The Bullshit](https://walterkirn.substack.com/p/the-bullshit)
+- [Old hacker's tip on staying employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
+- [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
+- [The Unfair Advantage](https://www.youtube.com/watch?v=RGbCR_pq4_A)
 
 
 ### Biz Hacks
@@ -75,6 +91,14 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Lucasfilm hires youtube deefaker who does better Luke](https://www.theverge.com/2021/7/26/22595227/star-wars-lucasfilm-mandalorian-rogue-one-hire-deepfake-shamook)
 - [Crypto could lead to limitless losses for UK Govt](https://www.theguardian.com/technology/2021/jul/25/cryptocurrencies-could-lead-to-limitless-losses-for-uk-government)
 - [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+- [The real reason you're not more product at work? It's not boredom- it's bad UX ](https://www.fastcompany.com/90667790/the-real-reason-youre-not-more-productive-at-work-its-not-boredom-its-bad-ux)
+- [Nerds don't respond to marketing; try technical documentation instead](https://hackernoon.com/nerds-dont-respond-to-marketing-try-technical-documentation-instead)
+- [Rise of one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
+- [Death of the 'Millionaire next door' dream](https://www.latimes.com/business/hiltzik/la-fi-mh-the-death-of-the-millionaire-next-door-dream-20150310-column.html)
+- [Better than Free](https://kk.org/thetechnium/better-than-fre/)
+- [How I built a $3 million business part time](https://www.youtube.com/watch?v=pcvcKIHGtGs)
+- [Hire for slope, not Y-intercept](https://matt-rickard.com/hire-slope-not-intercept/)
+
 
 ### Systems Thinking
 - [SIM Centre for Systems Leadership - 18 day course](https://www.simge.edu.sg/news/sims-new-centre-for-systems-leadership-aims-to-equip-leaders-with-skills-to-navigate-increasing-complexity-and-volatility/)
@@ -90,11 +114,16 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Isaac CS Platform - GCSE, A-levels](https://www.raspberrypi.org/blog/new-gcse-expansion-isaac-computer-science/)
 - [Isaac CS Platform](https://www.raspberrypi.org/blog/say-hello-to-isaac-computer-science/)
 - [self-publish books and courses on programming](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
+- [Youtube - Free Coding Courses no one is talking about](https://www.youtube.com/watch?v=UhkH5z2s-Yk)
+- [Slip.so - Build a programming course, Earn money while you sleep](https://www.slip.so/)
+- [How to teach programming (and other things)](https://www.youtube.com/watch?v=g1ib43q3uXQ)
+- [CalcWorkshop](https://calcworkshop.com/pricing/)
 
 ### Knowledge Mgt
 - [Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
 - [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
 - [SANS - cheat sheet website](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+- [Schema on write](https://hrishioa.github.io/schema-on-write-is-better-to-live-by/)
 
 ### DDDLP
 - [Design rating scale questions](https://www.qualtrics.com/blog/three-tips-for-effectively-using-scale-point-questions/)
@@ -107,6 +136,8 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Japan's Cherry Blossom - climate change evidence](https://greenash.net.au/thoughts/2021/07/japans-cherry-blossom-as-indisputable-as-climate-change-evidence-gets/)
 - [Florida Condo collapse - Israeli rescue team strategy](https://www.palmbeachpost.com/story/news/2021/07/26/surfside-condo-collapse-how-israeli-team-found-majority-victims/8021350002/)
 
+### UX/UI
+- [RelativeWave gets acquired by Google - App Design Tool for Free](https://techcrunch.com/2014/11/19/relativewave-gets-acquired-by-google-and-starts-giving-its-80-design-app-away-for-free/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADkVC-yBcdrW5aTDBLhAg7NcjJD47vYCB3JY3uk_Gudc02SdAq5JSJlLIlQomf0Rm8WiyH7_vdvQ4nfMad4nn3qaN0rEPNUcyAmg2KXaNHr7QPfNXc8Siy5Ng8ZHlb2V7XwEaK5sP2cz75FUlBC07novMMSCN9AcPyit0ElxgFYr)
 
 ### Health / Healing
 - [4-handed Lomi Lomi](https://4handedlomi.com/team/dan-joy/)
@@ -114,10 +145,18 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Aspartame and Cancer - new evidence for causation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8042911/)
 - [The Body Keeps the Score (book)](https://fortelabs.co/blog/the-body-keeps-the-score-summary/)
 - [Hellinger Institute - Family Constellations](https://www.hellingerinstitute.com/)
-
+- [Comorbidity Analysis](http://backingdata.org/comorbidity4j/)
+- [Comorbidity4J](https://comorbidity4j.readthedocs.io/en/latest/InteractiveVisualizations/)
+- [Viz multimorbidity by combining disease clusters and triads](https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-14-1285)
+- [Projected burden of type-2 diabetes related complciations in Singaproe until 2050: A Bayesian evidence synthesis](https://drc.bmj.com/content/8/1/e000928)
+- [Forecasting the burden of type 2 diabetes in SG using a demographic epidemiological model of SG](https://drc.bmj.com/content/2/1/e000012)
+- [MiniKanren - embedded DSL for logic programming. Used for Medical?](http://minikanren.org/)
+- [Lack of Tryptophan alters gut microbiota, increases inflammation](https://scitechdaily.com/a-diet-lacking-in-tryptophan-alters-gut-microbiota-increases-inflammation/)
+- [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
 
 ### Insurance
 - [Cyner Insurance Incidents Response - Market trends](https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/)
+- [Crop Insurance and Unintended Consequences](https://news.ncsu.edu/2021/08/crop-insurance-unintended-consequences/)
 
 ### Courses
 - [Bradfield School of Computer Science](https://bradfieldcs.com/courses/architecture/)
@@ -134,4 +173,24 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Lego Typewriter](https://www.lego.com/en-gb/product/typewriter-21327)
 - [Realism - Science Fiction](https://www.publicbooks.org/the-realism-of-our-times-kim-stanley-robinson-on-how-science-fiction-works/)
 - [Human Consciousness: Where Is It From and What Is It for](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5924785/#:~:text=Consciousness%20is%20not%20a%20process,and%20the%20use%20of%20tools.)
+- [Doogee X96 Pro - Youtube video for cheap smart phone](https://www.youtube.com/watch?v=q6GCCctMItU)
+- [PineNote - e-ink reader/writer](https://www.pine64.org/2021/08/15/introducing-the-pinenote/)
+- [No getting back to normal with climate change](https://www.theguardian.com/commentisfree/2021/aug/11/no-getting-back-to-normal-climate-breakdown-ipcc-report)
+- [China renames HK](https://www.nytimes.com/2021/06/29/world/asia/hong-kong-security-law-anniversary.html)
+- [Niantic - Metaverse is a dystopian Nightmare](https://nianticlabs.com/blog/real-world-metaverse/)
+- [PinePower - Charger with USB, Wireless](https://www.pine64.org/pinepowerdesktop/)
+- [WE risk not understanding the central mystery of life - Neuroscientist, consciousness](https://www.theguardian.com/science/2021/aug/21/neuroscientist-anil-seth-we-risk-not-understanding-the-central-mystery-of-life)
+- [3 Worlds 3 Moons](https://3w3m.substack.com/about?utm_source=menu-dropdown)
+- [The Creativity Code book](https://siliconreckoner.substack.com/p/book-review-the-creativity-code-by)
+
+### GA DSI Resource
+- [Youtube - How Bayesian Inference Works](https://www.youtube.com/watch?v=5NMxiOGL39M)
+- [3Blue1Brown - Bayes Theorem, geometry](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+- [Two Random Variables - Bayes, indistinguishability etc.](https://www.cl.cam.ac.uk/teaching/2003/Probability/prob02.pdf)
+- [Bayes' Theorem Problems Definition and Examples](https://www.statisticshowto.com/probability-and-statistics/probability-main-index/bayes-theorem-problems/)
+- [All about Naive Bayes](https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf)
+- [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index-1.html)
+- [Bayes' Theorem - disjoint union example](https://www.youtube.com/watch?v=k6Dw0on6NtM)
+- [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
+- [It's all about the Bayes - video on how to update posterior](https://www.youtube.com/watch?v=9TDjifpGj-k)
 
