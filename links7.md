@@ -23,6 +23,12 @@
 - [Evolution of Trust - Game Theory](https://ncase.me/trust/)
 - [Survival Analysis of Publicly Available Python Projects](https://neverworkintheory.org/2021/08/11/cheating-death-survival-analysis-of-python-projects.html)
 - [Optimal play with markov decision processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
+- [Explain black-box ML](https://appsilon.com/please-explain-black-box/)
+- [Stop using black-box ML models, starting using interpretable ones](https://www.nature.com/articles/s42256-019-0048-x)
+- [Responsible ML - building interpretable models](https://dalex.drwhy.ai/)
+- [iBreakdown Plots for Titanic](https://cran.r-project.org/web/packages/iBreakDown/vignettes/vignette_iBreakDown_titanic.html)
+- [Do Random Forest Overfit?](https://mljar.com/blog/random-forest-overfitting/)
+
 
 ### Computer Science
 - [Rogozhin's Universal Turing Machine](https://www.davideaversa.it/blog/rogozhin-universal-turing-machines/)
@@ -40,9 +46,8 @@
 - [Low-level is easy](https://yosefk.com/blog/low-level-is-easy.html)
 - [software Dark Ages](https://threedots.tech/post/software-dark-ages/)
 - [Binary Floating Point](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point)
-- [It's not about technology for its own sake. It's about being able to implement your ideas.
-
-Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
+- [It's not about technology for its own sake. It's about being able to implement your ideas. Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
+- [Picturing Git](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -98,7 +103,7 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Better than Free](https://kk.org/thetechnium/better-than-fre/)
 - [How I built a $3 million business part time](https://www.youtube.com/watch?v=pcvcKIHGtGs)
 - [Hire for slope, not Y-intercept](https://matt-rickard.com/hire-slope-not-intercept/)
-
+- [Paying $100k for digital app pics](https://creatoreconomy.so/p/bored-ape-yacht-club-community)
 
 ### Systems Thinking
 - [SIM Centre for Systems Leadership - 18 day course](https://www.simge.edu.sg/news/sims-new-centre-for-systems-leadership-aims-to-equip-leaders-with-skills-to-navigate-increasing-complexity-and-volatility/)
@@ -193,4 +198,6 @@ Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.h
 - [Bayes' Theorem - disjoint union example](https://www.youtube.com/watch?v=k6Dw0on6NtM)
 - [Naive Bayes classifier: A friendly approach](https://www.youtube.com/watch?v=Q8l0Vip5YUw)
 - [It's all about the Bayes - video on how to update posterior](https://www.youtube.com/watch?v=9TDjifpGj-k)
-
+- [Machine Learning Refined - Textbook with Viz!!](https://github.com/jermwatt/machine_learning_refined)
+- [Linear Algebra - Intuition, Math Code](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604/ref=sr_1_1?crid=2LCBT3SIZPDV6&dchild=1&keywords=linear+algebra+intuition%2C+math%2C+code&qid=1630832428&sprefix=linear+algebra+intuition%2Caps%2C-1&sr=8-1)
+- [Linear Algebra and Optmization for ML - book](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning/dp/3030403432/ref=sr_1_1?crid=2BOQZFVLPMPKO&dchild=1&keywords=linear+algebra+and+optimization+for+machine+learning&qid=1630832463&sprefix=linear+algebra+and+optimization%2Caps%2C510&sr=8-1&asin=3030403432&revisionId=&format=4&depth=1)
