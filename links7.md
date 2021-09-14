@@ -28,12 +28,24 @@
 - [Responsible ML - building interpretable models](https://dalex.drwhy.ai/)
 - [iBreakdown Plots for Titanic](https://cran.r-project.org/web/packages/iBreakDown/vignettes/vignette_iBreakDown_titanic.html)
 - [Do Random Forest Overfit?](https://mljar.com/blog/random-forest-overfitting/)
+- [Machine Learning Thoughts - Deduction and Induction](https://ml.typepad.com/machine_learning_thoughts/2005/09/deduction_and_i.html)
+- [AI - Foundation Models](https://thegradient.pub/has-ai-found-a-new-foundation/)
+- [Generate Anime Characters with StyleGAN2](https://towardsdatascience.com/generating-anime-characters-with-stylegan2-6f8ae59e237b)
+- [Minimum Description Length Principle - Book](https://mitpress.mit.edu/books/minimum-description-length-principle)
+- [OpenML Ops - tools for deploying ML](https://github.com/datarevenue-berlin/OpenMLOps/)
+- [Coronavirus and Simpson's paradox](https://statmodeling.stat.columbia.edu/2021/08/18/coronavirus-and-simpsons-paradox-oldsters-are-more-likely-to-be-vaccinated-and-more-likely-to-have-severe-infections-so-you-need-to-adjust-for-age-when-comparing-vaccinated-and-unvaccinated-peopl/)
+- [Logikbot - ML learning course!](https://www.logikbot.com/)
 
+### Bayes
+- [The Equation of Knowledge](https://www.amazon.com/Equation-Knowledge-Unified-Philosophy-Science/dp/0367428156/ref=sr_1_1?dchild=1&keywords=the+equation+of+knowledge&qid=1630593698&sr=8-1)
+- [Critial Thinking - Fundamental Bayes Theorem](https://www.youtube.com/watch?v=OqmJhPQYRc8)
+- [Science before Statistics - Causal Inference](https://www.youtube.com/watch?v=KNPYUVmY3NM)
 
 ### Computer Science
 - [Rogozhin's Universal Turing Machine](https://www.davideaversa.it/blog/rogozhin-universal-turing-machines/)
 - [B-Trees: More than I want to know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
-
+- [Let's build a virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
+- [Rob Pike's webpage](http://genius.cat-v.org/rob-pike/)
 
 ### Software Engineering
 - [Making Reasonable Use of Computer Resources](https://vfoley.xyz/reasonable-use/)
@@ -48,6 +60,10 @@
 - [Binary Floating Point](https://github.com/trekhleb/javascript-algorithms/tree/master/src/algorithms/math/binary-floating-point)
 - [It's not about technology for its own sake. It's about being able to implement your ideas. Organizational Skills Beat Algorithmic Wizardry](https://prog21.dadgum.com/177.html)
 - [Picturing Git](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
+- [The Woody Allen Way of Coding](https://dzone.com/articles/the-woody-allen-way-of-coding)
+- [Open Source beyond the programmers](https://www.theregister.com/2021/09/08/open_source_beyond_the_programmers/)
+- [Estimation Bargaining](http://www.monkeyandcrow.com/blog/estimation_bargaining/)
+- [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -66,6 +82,9 @@
 - [Go SDK: OCR Invoice and Receipts in Seconds](https://veryfi.com/go)
 - [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
 - [Install Tensorflow on Anaconda](https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/)
+- [Maintain it with Zig](https://kristoff.it/blog/maintain-it-with-zig/)
+- [Oracle SQL is the devil](https://codingtofreedom.com/oracle-sql-is-the-devil/)
+- [My $4 a month server](https://codingtofreedom.com/oracle-sql-is-the-devil/)
 
 ### Life Hacks
 - [Scientific test for creativity](https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity)
@@ -79,6 +98,7 @@
 - [Old hacker's tip on staying employed](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - [The Unfair Advantage](https://www.youtube.com/watch?v=RGbCR_pq4_A)
+- [Create your Data Science Portfolio](https://www.kdnuggets.com/2021/09/data-science-portfolio-job.html#.YTtp0z-Xack.linkedin)
 
 
 ### Biz Hacks
@@ -104,6 +124,9 @@
 - [How I built a $3 million business part time](https://www.youtube.com/watch?v=pcvcKIHGtGs)
 - [Hire for slope, not Y-intercept](https://matt-rickard.com/hire-slope-not-intercept/)
 - [Paying $100k for digital app pics](https://creatoreconomy.so/p/bored-ape-yacht-club-community)
+- [Japan Rail's coworking space in Singapore](https://www.youtube.com/watch?v=Gvul6_oYcBc)
+- [Hire for slope, not intercept](https://matt-rickard.com/hire-slope-not-intercept/)
+- [The Anatomy of Assholes](https://scottbarrykaufman.com/the-anatomy-of-assholes/)
 
 ### Systems Thinking
 - [SIM Centre for Systems Leadership - 18 day course](https://www.simge.edu.sg/news/sims-new-centre-for-systems-leadership-aims-to-equip-leaders-with-skills-to-navigate-increasing-complexity-and-volatility/)
@@ -112,6 +135,8 @@
 - [Simple Systems have Less Downtime](https://www.gkogan.co/blog/simple-systems/)
 - [The Why of the World - science of cause and effect](http://bostonreview.net/science-nature/tim-maudlin-why-world)
 
+### Writing
+- [Write More, Write Shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
 
 ### Teaching / Adult Learning
 - [Singapore Polytechnic Lecturer gets real](https://www.asiaone.com/singapore/nothing-do-marks-singapore-poly-lecturer-gets-real-school-grades-during-online-lesson)
@@ -140,6 +165,8 @@
 - [What does the 'mean' really mean?](https://arxiv.org/abs/2003.01973?context=stat)
 - [Japan's Cherry Blossom - climate change evidence](https://greenash.net.au/thoughts/2021/07/japans-cherry-blossom-as-indisputable-as-climate-change-evidence-gets/)
 - [Florida Condo collapse - Israeli rescue team strategy](https://www.palmbeachpost.com/story/news/2021/07/26/surfside-condo-collapse-how-israeli-team-found-majority-victims/8021350002/)
+- [Major Quantum Computing Advance Made Obsolete by Teenager](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
+- [The universe is hostile to computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
 
 ### UX/UI
 - [RelativeWave gets acquired by Google - App Design Tool for Free](https://techcrunch.com/2014/11/19/relativewave-gets-acquired-by-google-and-starts-giving-its-80-design-app-away-for-free/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADkVC-yBcdrW5aTDBLhAg7NcjJD47vYCB3JY3uk_Gudc02SdAq5JSJlLIlQomf0Rm8WiyH7_vdvQ4nfMad4nn3qaN0rEPNUcyAmg2KXaNHr7QPfNXc8Siy5Ng8ZHlb2V7XwEaK5sP2cz75FUlBC07novMMSCN9AcPyit0ElxgFYr)
@@ -158,6 +185,11 @@
 - [MiniKanren - embedded DSL for logic programming. Used for Medical?](http://minikanren.org/)
 - [Lack of Tryptophan alters gut microbiota, increases inflammation](https://scitechdaily.com/a-diet-lacking-in-tryptophan-alters-gut-microbiota-increases-inflammation/)
 - [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
+- [Antidepressant Fluvoxamine can save COVID patients](https://brighterworld.mcmaster.ca/articles/antidepressant-fluvoxamine-can-save-covid-19-patients-mcmaster-led-research-shows/)
+- [Why walking is good](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
+
+### Photograph
+- [Gilbert Carosin](https://www.gilbertcarosin.com/prints)
 
 ### Insurance
 - [Cyner Insurance Incidents Response - Market trends](https://www.cyber-economics.com/2021/07/26/cyber-insurance-incident-response-market-tends-towards-commoditization-with-competitive-prices-increasing-vc-and-m-cyber-insurance-has-built-an-overall-effective-system-to-help-especial/)
@@ -173,6 +205,7 @@
 ### History
 - [How the great truth dawned](https://newcriterion.com/issues/2019/9/how-the-great-truth-dawned)
 - [Hisotrical language records show cognitive distortions in recent decades](https://www.pnas.org/content/118/30/e2102061118.full)
+- [The Unvierse Next Door: A Basic worldview Catalog](https://www.amazon.com/Universe-Next-Door-Worldview-Catalog/dp/0830849386/ref=pd_sbs_5/144-4500597-1177703?pd_rd_w=MaeLs&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=6M1NQ2EFZF8QBYHBY936&pd_rd_r=05cf56a5-dfca-429c-8044-3bc0324a1037&pd_rd_wg=ApBG9&pd_rd_i=0830849386&psc=1)
 
 ### Interesting
 - [Lego Typewriter](https://www.lego.com/en-gb/product/typewriter-21327)
@@ -187,6 +220,7 @@
 - [WE risk not understanding the central mystery of life - Neuroscientist, consciousness](https://www.theguardian.com/science/2021/aug/21/neuroscientist-anil-seth-we-risk-not-understanding-the-central-mystery-of-life)
 - [3 Worlds 3 Moons](https://3w3m.substack.com/about?utm_source=menu-dropdown)
 - [The Creativity Code book](https://siliconreckoner.substack.com/p/book-review-the-creativity-code-by)
+- [Juniiper Mystery Attacks Traced, Hackers ](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 
 ### GA DSI Resource
 - [Youtube - How Bayesian Inference Works](https://www.youtube.com/watch?v=5NMxiOGL39M)
@@ -201,3 +235,7 @@
 - [Machine Learning Refined - Textbook with Viz!!](https://github.com/jermwatt/machine_learning_refined)
 - [Linear Algebra - Intuition, Math Code](https://www.amazon.com/Linear-Algebra-Theory-Intuition-Code/dp/9083136604/ref=sr_1_1?crid=2LCBT3SIZPDV6&dchild=1&keywords=linear+algebra+intuition%2C+math%2C+code&qid=1630832428&sprefix=linear+algebra+intuition%2Caps%2C-1&sr=8-1)
 - [Linear Algebra and Optmization for ML - book](https://www.amazon.com/Linear-Algebra-Optimization-Machine-Learning/dp/3030403432/ref=sr_1_1?crid=2BOQZFVLPMPKO&dchild=1&keywords=linear+algebra+and+optimization+for+machine+learning&qid=1630832463&sprefix=linear+algebra+and+optimization%2Caps%2C510&sr=8-1&asin=3030403432&revisionId=&format=4&depth=1)
+- [MIT Mathlet for visualizations](https://mathlets.org/mathlets/probability-distributions/)
+- [Poisson Regression, GLM reseources](https://online.stat.psu.edu/stat504/lesson/9/9.1)
+- [Beyond Multiple Linear Regression - GLMs etc. book](https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html)
+- [CalcWorkshop - learn maths](https://calcworkshop.com/pricing/)
