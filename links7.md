@@ -1,5 +1,7 @@
 ### Python
 - [Pyret - Functional Python](https://www.pyret.org/pyret-code/)
+- [Why use Nim instead of Python](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
+- [Creating PDF in Python using borb](https://borbpdf.com/articles)
 
 ### F#
 - [F# for Fun and Profit](https://fsharpforfunandprofit.com/learning-fsharp/)
@@ -35,6 +37,7 @@
 - [OpenML Ops - tools for deploying ML](https://github.com/datarevenue-berlin/OpenMLOps/)
 - [Coronavirus and Simpson's paradox](https://statmodeling.stat.columbia.edu/2021/08/18/coronavirus-and-simpsons-paradox-oldsters-are-more-likely-to-be-vaccinated-and-more-likely-to-have-severe-infections-so-you-need-to-adjust-for-age-when-comparing-vaccinated-and-unvaccinated-peopl/)
 - [Logikbot - ML learning course!](https://www.logikbot.com/)
+- [Next Generation Reservoir Computing](https://www.nature.com/articles/s41467-021-25801-2)
 
 ### Bayes
 - [The Equation of Knowledge](https://www.amazon.com/Equation-Knowledge-Unified-Philosophy-Science/dp/0367428156/ref=sr_1_1?dchild=1&keywords=the+equation+of+knowledge&qid=1630593698&sr=8-1)
@@ -85,6 +88,7 @@
 - [Maintain it with Zig](https://kristoff.it/blog/maintain-it-with-zig/)
 - [Oracle SQL is the devil](https://codingtofreedom.com/oracle-sql-is-the-devil/)
 - [My $4 a month server](https://codingtofreedom.com/oracle-sql-is-the-devil/)
+- [Using RSS to replace Social Media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media)
 
 ### Life Hacks
 - [Scientific test for creativity](https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity)
@@ -127,6 +131,11 @@
 - [Japan Rail's coworking space in Singapore](https://www.youtube.com/watch?v=Gvul6_oYcBc)
 - [Hire for slope, not intercept](https://matt-rickard.com/hire-slope-not-intercept/)
 - [The Anatomy of Assholes](https://scottbarrykaufman.com/the-anatomy-of-assholes/)
+- [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
+
+### Remote Teams
+- [No, We won't have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/)
+- [Gitlab All Remote Teams](https://about.gitlab.com/company/culture/all-remote/guide/)
 
 ### Systems Thinking
 - [SIM Centre for Systems Leadership - 18 day course](https://www.simge.edu.sg/news/sims-new-centre-for-systems-leadership-aims-to-equip-leaders-with-skills-to-navigate-increasing-complexity-and-volatility/)
@@ -148,6 +157,7 @@
 - [Slip.so - Build a programming course, Earn money while you sleep](https://www.slip.so/)
 - [How to teach programming (and other things)](https://www.youtube.com/watch?v=g1ib43q3uXQ)
 - [CalcWorkshop](https://calcworkshop.com/pricing/)
+- [Relating Natural Language Aptitude to Individual Differences in Learning Programming Languages](https://www.nature.com/articles/s41598-020-60661-8)
 
 ### Knowledge Mgt
 - [Zettelkasten Method](https://www.lesswrong.com/posts/NfdHG6oHBJ8Qxc26s/the-zettelkasten-method-1)
@@ -187,6 +197,7 @@
 - [Burning out and quitting](https://mayakaczorowski.com/blogs/burnout)
 - [Antidepressant Fluvoxamine can save COVID patients](https://brighterworld.mcmaster.ca/articles/antidepressant-fluvoxamine-can-save-covid-19-patients-mcmaster-led-research-shows/)
 - [Why walking is good](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
+- [Does low cholesterol cause cognitive impairment](https://peterattiamd.com/does-low-cholesterol-cause-cognitive-impairment-part-i/)
 
 ### Photograph
 - [Gilbert Carosin](https://www.gilbertcarosin.com/prints)
@@ -221,6 +232,7 @@
 - [3 Worlds 3 Moons](https://3w3m.substack.com/about?utm_source=menu-dropdown)
 - [The Creativity Code book](https://siliconreckoner.substack.com/p/book-review-the-creativity-code-by)
 - [Juniiper Mystery Attacks Traced, Hackers ](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
+- [Germany's no-emtion voting guide surges despite campaign of personalities](https://github.com/juschan/links/edit/master/links7.md)
 
 ### GA DSI Resource
 - [Youtube - How Bayesian Inference Works](https://www.youtube.com/watch?v=5NMxiOGL39M)
@@ -239,3 +251,6 @@
 - [Poisson Regression, GLM reseources](https://online.stat.psu.edu/stat504/lesson/9/9.1)
 - [Beyond Multiple Linear Regression - GLMs etc. book](https://bookdown.org/roback/bookdown-BeyondMLR/ch-poissonreg.html)
 - [CalcWorkshop - learn maths](https://calcworkshop.com/pricing/)
+- [NN from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2)
+- [AI learns to play Fall Guy](https://www.youtube.com/watch?v=GS_0ZKzrvk0)
+- [Gradient Descent, How NN learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
