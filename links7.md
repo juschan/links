@@ -49,6 +49,7 @@
 - [B-Trees: More than I want to know](https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/)
 - [Let's build a virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [Rob Pike's webpage](http://genius.cat-v.org/rob-pike/)
+- [Even beyond Physics - Stephen Wolfram](https://writings.stephenwolfram.com/2021/09/even-beyond-physics-introducing-multicomputation-as-a-fourth-general-paradigm-for-theoretical-science/)
 
 ### Software Engineering
 - [Making Reasonable Use of Computer Resources](https://vfoley.xyz/reasonable-use/)
@@ -67,6 +68,8 @@
 - [Open Source beyond the programmers](https://www.theregister.com/2021/09/08/open_source_beyond_the_programmers/)
 - [Estimation Bargaining](http://www.monkeyandcrow.com/blog/estimation_bargaining/)
 - [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
+- [What is the data Lakhouse pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
+- [Erase your darlings](https://grahamc.com/blog/erase-your-darlings)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
