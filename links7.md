@@ -2,6 +2,7 @@
 - [Pyret - Functional Python](https://www.pyret.org/pyret-code/)
 - [Why use Nim instead of Python](https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/)
 - [Creating PDF in Python using borb](https://borbpdf.com/articles)
+- [Voila - jupyter notebooks to interactive dashboard](https://voila.readthedocs.io/en/stable/deploy.html#cloud-service-providers)
 
 ### F#
 - [F# for Fun and Profit](https://fsharpforfunandprofit.com/learning-fsharp/)
@@ -39,6 +40,9 @@
 - [Logikbot - ML learning course!](https://www.logikbot.com/)
 - [Next Generation Reservoir Computing](https://www.nature.com/articles/s41467-021-25801-2)
 - [Towards a Theory of Bullshit Visualization](https://research.tableau.com/sites/default/files/altvis-bullshit.pdf)
+- [Fit any dataset with a single parameter](https://arxiv.org/abs/1904.12320)
+- [The mechanics of ML - Terence Parr, Jeremy Howard](https://mlbook.explained.ai/)
+- [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 
 ### Bayes
 - [The Equation of Knowledge](https://www.amazon.com/Equation-Knowledge-Unified-Philosophy-Science/dp/0367428156/ref=sr_1_1?dchild=1&keywords=the+equation+of+knowledge&qid=1630593698&sr=8-1)
@@ -144,6 +148,7 @@
 - [You are overpaying Jeff Bezos for your database](https://ottertune.com/blog/overpaying-jeff-bezos-for-aws-databases)
 - [How Big Tech runs Projects, and the Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
 - [The case for Developer Experience](https://future.a16z.com/the-case-for-developer-experience/)
+- [IN Software, When an Engineer Exits the Team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8)
 
 ### Remote Teams
 - [No, We won't have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/)
@@ -189,6 +194,7 @@
 - [Florida Condo collapse - Israeli rescue team strategy](https://www.palmbeachpost.com/story/news/2021/07/26/surfside-condo-collapse-how-israeli-team-found-majority-victims/8021350002/)
 - [Major Quantum Computing Advance Made Obsolete by Teenager](https://www.quantamagazine.org/teenager-finds-classical-alternative-to-quantum-recommendation-algorithm-20180731/)
 - [The universe is hostile to computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
+- [Bware survivorship bias in advice on science careers](https://www.nature.com/articles/d41586-021-02634-z)
 
 ### UX/UI
 - [RelativeWave gets acquired by Google - App Design Tool for Free](https://techcrunch.com/2014/11/19/relativewave-gets-acquired-by-google-and-starts-giving-its-80-design-app-away-for-free/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADkVC-yBcdrW5aTDBLhAg7NcjJD47vYCB3JY3uk_Gudc02SdAq5JSJlLIlQomf0Rm8WiyH7_vdvQ4nfMad4nn3qaN0rEPNUcyAmg2KXaNHr7QPfNXc8Siy5Ng8ZHlb2V7XwEaK5sP2cz75FUlBC07novMMSCN9AcPyit0ElxgFYr)
@@ -211,6 +217,7 @@
 - [Why walking is good](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
 - [Does low cholesterol cause cognitive impairment](https://peterattiamd.com/does-low-cholesterol-cause-cognitive-impairment-part-i/)
 - [It's not age that's slowing your metabolism](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8)
+- [Elitom El-Amin, Breatharian](https://www.elitomelamin.org/)
 
 ### Photograph
 - [Gilbert Carosin](https://www.gilbertcarosin.com/prints)
@@ -226,6 +233,9 @@
 - [Design Thinker Academy](https://www.designthinkersacademy.com/singapore/)
 - [Proko - Learn how to draw](https://www.proko.com/)
 - [SMU Pro Cert in Immersive Media and Extended Reality](https://academy.smu.edu.sg/professional-certificate-immersive-media-and-extended-reality-5626)
+- [Elaine Welteroth - Designing your career](https://www.masterclass.com/classes/elaine-welteroth-teaches-designing-your-career?utm_source=Paid&utm_medium=Youtube&utm_campaign=EW&utm_content=Video&utm_term=Aq-Prospecting&gclid=EAIaIQobChMInI7amKyR8wIVZILmCh1WFA9fEAEYASAAEgKFCvD_BwE)
+- [Neil deGrasse Tyson - Scientific Thinking and Comms](https://www.masterclass.com/classes/neil-degrasse-tyson-teaches-scientific-thinking-and-communication?utm_source=Paid&utm_medium=Youtube&utm_campaign=NDT&utm_content=Video&utm_term=Aq-Prospecting&gclid=EAIaIQobChMIx46Xt4P-8gIVx7FLBR0UrwTUEAEYASAAEgJR5PD_BwE)
+- [logibot - ML training](https://www.logikbot.com/)
 
 ### History
 - [How the great truth dawned](https://newcriterion.com/issues/2019/9/how-the-great-truth-dawned)
@@ -247,6 +257,7 @@
 - [The Creativity Code book](https://siliconreckoner.substack.com/p/book-review-the-creativity-code-by)
 - [Juniiper Mystery Attacks Traced, Hackers ](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 - [Germany's no-emtion voting guide surges despite campaign of personalities](https://github.com/juschan/links/edit/master/links7.md)
+- [Why comedians need an alter ego](https://www.theguardian.com/stage/2021/sep/28/comedians-alter-egos-zach-zucker-bilal-zafar)
 
 ### GA DSI Resource
 - [Youtube - How Bayesian Inference Works](https://www.youtube.com/watch?v=5NMxiOGL39M)
@@ -269,6 +280,41 @@
 - [AI learns to play Fall Guy](https://www.youtube.com/watch?v=GS_0ZKzrvk0)
 - [Gradient Descent, How NN learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 - [Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
+- [JSXGraph - javascript graphs](https://jsxgraph.org/wp/about/index.html)
 
 ### Resources
 - [Kampong Siglap - Events](https://www.kampungsiglap.com/360-auditorium)
+
+### GLM
+- [Poisson regression](https://timeseriesreasoning.com/contents/poisson-regression-model/)
+- [Poisson Regression](https://www.statology.org/poisson-regression/)
+- [Poisson Regression](https://stats.idre.ucla.edu/r/dae/poisson-regression/)
+- [Poisson Regression](https://www.sciencedirect.com/topics/mathematics/poisson-regression)
+- [GLM - Logistic Regression](https://www.theanalysisfactor.com/r-tutorial-glm1/)
+- [Statsmodel GLM](https://www.statsmodels.org/dev/glm.html)
+- [GLM in R](https://www.guru99.com/r-generalized-linear-model.html)
+- [Non-Life INsurance Pricing with GLM](https://www.cybaea.net/Journal/2012/03/13/R-code-for-Chapter-2-of-Non_Life-Insurance-Pricing-with-GLM/)
+- [Claim Frequency with GLM and GLMMs](https://www.kaggle.com/floser/claim-frequency-glms-and-glmms)
+- [Video - T-tests as GLMs](https://www.youtube.com/watch?v=eOM5K4PWvKI)
+- [Running R and Python in Jupyter](https://www.kdnuggets.com/2019/02/running-r-and-python-in-jupyter.html)
+- [Install R in Jupyter Lab](https://www.richpauloo.com/post/jupyter/)
+
+
+### ML - bias variance
+- [A measure of bias and variance](https://www.youtube.com/watch?v=bqlZoXrutYI)
+- [Calc bias and variance trade off with Python](https://medium.com/analytics-vidhya/bias-variance-trade-off-in-datascience-and-calculating-with-python-766158812c46)
+- [Random Forests adn Bias Variance Tradeoff](https://towardsdatascience.com/random-forests-and-the-bias-variance-tradeoff-3b77fee339b4)
+- [Impt of accounting for correlated data](https://web.stanford.edu/~kcobb/hrp259/correlateddata.pdf)
+- [Estimation bias and the BV tradeoff](https://towardsdatascience.com/understanding-estimation-bias-and-the-bias-variance-tradeoff-79ba42ab79c)
+- [Understanding BV tradeoff](https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229)
+- [BV decomposition](http://rasbt.github.io/mlxtend/user_guide/evaluate/bias_variance_decomp/)
+
+### SQL, Postgres exercises
+- [25 SQL practice exercises](https://towardsdatascience.com/twenty-five-sql-practice-exercises-5fc791e24082)
+- [Postgresql exercises](https://pgexercises.com/)
+- [s3resource - postgresql create table exercises](https://www.w3resource.com/postgresql-exercises/create-table/)
+
+### Photography
+- [How to get off auto mode](https://www.youtube.com/watch?v=bqlZoXrutYI)
+
+
