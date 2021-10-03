@@ -38,6 +38,7 @@
 - [Coronavirus and Simpson's paradox](https://statmodeling.stat.columbia.edu/2021/08/18/coronavirus-and-simpsons-paradox-oldsters-are-more-likely-to-be-vaccinated-and-more-likely-to-have-severe-infections-so-you-need-to-adjust-for-age-when-comparing-vaccinated-and-unvaccinated-peopl/)
 - [Logikbot - ML learning course!](https://www.logikbot.com/)
 - [Next Generation Reservoir Computing](https://www.nature.com/articles/s41467-021-25801-2)
+- [Towards a Theory of Bullshit Visualization](https://research.tableau.com/sites/default/files/altvis-bullshit.pdf)
 
 ### Bayes
 - [The Equation of Knowledge](https://www.amazon.com/Equation-Knowledge-Unified-Philosophy-Science/dp/0367428156/ref=sr_1_1?dchild=1&keywords=the+equation+of+knowledge&qid=1630593698&sr=8-1)
@@ -70,6 +71,7 @@
 - [Software Development Waste](https://neverworkintheory.org/2021/08/29/software-development-waste.html)
 - [What is the data Lakhouse pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
 - [Erase your darlings](https://grahamc.com/blog/erase-your-darlings)
+- [Book - A Common Sense Guide to Data Structures and Algo](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -92,6 +94,8 @@
 - [Oracle SQL is the devil](https://codingtofreedom.com/oracle-sql-is-the-devil/)
 - [My $4 a month server](https://codingtofreedom.com/oracle-sql-is-the-devil/)
 - [Using RSS to replace Social Media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media)
+- [An Nginx Playground](https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/)
+- [Wizard Zines - tech cheatsheets, playgrounds etc](https://wizardzines.com/)
 
 ### Life Hacks
 - [Scientific test for creativity](https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity)
@@ -106,7 +110,8 @@
 - [Ruthless Prioritization](https://blackboxofpm.com/ruthless-prioritization-e4256e3520a9)
 - [The Unfair Advantage](https://www.youtube.com/watch?v=RGbCR_pq4_A)
 - [Create your Data Science Portfolio](https://www.kdnuggets.com/2021/09/data-science-portfolio-job.html#.YTtp0z-Xack.linkedin)
-
+- [Write your tasks](https://www.youtube.com/watch?v=6maSUnItiAo)
+- [Gerry Tan - Chase WEALTH](https://www.youtube.com/watch?v=7Hdu4DlnLIk)
 
 ### Biz Hacks
 - [Blog Starter](https://www.theblogstarter.com/about-me/)
@@ -135,6 +140,10 @@
 - [Hire for slope, not intercept](https://matt-rickard.com/hire-slope-not-intercept/)
 - [The Anatomy of Assholes](https://scottbarrykaufman.com/the-anatomy-of-assholes/)
 - [Why Figma Wins](https://kwokchain.com/2020/06/19/why-figma-wins/)
+- [The new dot com bubble - online advertising](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising)
+- [You are overpaying Jeff Bezos for your database](https://ottertune.com/blog/overpaying-jeff-bezos-for-aws-databases)
+- [How Big Tech runs Projects, and the Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
+- [The case for Developer Experience](https://future.a16z.com/the-case-for-developer-experience/)
 
 ### Remote Teams
 - [No, We won't have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/)
@@ -201,6 +210,7 @@
 - [Antidepressant Fluvoxamine can save COVID patients](https://brighterworld.mcmaster.ca/articles/antidepressant-fluvoxamine-can-save-covid-19-patients-mcmaster-led-research-shows/)
 - [Why walking is good](https://www.salon.com/2021/08/28/walking-and-spontaneous-fluctuations-brain/)
 - [Does low cholesterol cause cognitive impairment](https://peterattiamd.com/does-low-cholesterol-cause-cognitive-impairment-part-i/)
+- [It's not age that's slowing your metabolism](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8)
 
 ### Photograph
 - [Gilbert Carosin](https://www.gilbertcarosin.com/prints)
@@ -215,6 +225,7 @@
 - [Design Leadership and Design Thinking Facilitation](https://academy.smu.edu.sg/design-leadership-design-thinking-facilitation-train-trainer-programme-2241)
 - [Design Thinker Academy](https://www.designthinkersacademy.com/singapore/)
 - [Proko - Learn how to draw](https://www.proko.com/)
+- [SMU Pro Cert in Immersive Media and Extended Reality](https://academy.smu.edu.sg/professional-certificate-immersive-media-and-extended-reality-5626)
 
 ### History
 - [How the great truth dawned](https://newcriterion.com/issues/2019/9/how-the-great-truth-dawned)
@@ -257,3 +268,7 @@
 - [NN from Scratch](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&index=2)
 - [AI learns to play Fall Guy](https://www.youtube.com/watch?v=GS_0ZKzrvk0)
 - [Gradient Descent, How NN learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [Deep Learning from Scratch](https://www.oreilly.com/library/view/deep-learning-from/9781492041405/)
+
+### Resources
+- [Kampong Siglap - Events](https://www.kampungsiglap.com/360-auditorium)
