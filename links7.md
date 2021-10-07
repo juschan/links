@@ -9,6 +9,9 @@
 - [Microsoft - Learn F#](https://dotnet.microsoft.com/learn/fsharp)
 - [Resources to Learn F#](https://fsharp.org/learn/)
 
+### Go
+- [Effective Go](https://golang.org/doc/effective_go)
+
 ### ML / AI
 - [Preserving Privacy in AI](https://www.youtube.com/watch?v=4zrU54VIK6k)
 - [Object detection in an hour!](https://www.strayrobots.io/blog/object-detection-in-an-hour)
@@ -55,6 +58,9 @@
 - [Let's build a virtual machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/)
 - [Rob Pike's webpage](http://genius.cat-v.org/rob-pike/)
 - [Even beyond Physics - Stephen Wolfram](https://writings.stephenwolfram.com/2021/09/even-beyond-physics-introducing-multicomputation-as-a-fourth-general-paradigm-for-theoretical-science/)
+- [Turing Complete - Game to create computers](https://store.steampowered.com/app/1444480/Turing_Complete/)
+- [NandGame](https://nandgame.com/)
+- [Write an OS for Raspberry Pi](https://github.com/isometimes/rpi4-osdev)
 
 ### Software Engineering
 - [Making Reasonable Use of Computer Resources](https://vfoley.xyz/reasonable-use/)
@@ -76,6 +82,7 @@
 - [What is the data Lakhouse pattern?](https://timeflow.systems/what-is-the-data-lakehouse-pattern/)
 - [Erase your darlings](https://grahamc.com/blog/erase-your-darlings)
 - [Book - A Common Sense Guide to Data Structures and Algo](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
+- [Static Linking Considered Harmful - considered harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -100,6 +107,9 @@
 - [Using RSS to replace Social Media](https://lukesmith.xyz/blog/a-guide-to-using-rss-to-replace-social-media)
 - [An Nginx Playground](https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/)
 - [Wizard Zines - tech cheatsheets, playgrounds etc](https://wizardzines.com/)
+- [ugit - DiY git in Python](https://www.leshenko.net/p/ugit/#)
+- [Hex 2.0 - reactive notebooks](https://hex.tech/blog/hex-two-point-oh)
+- [Bone - Browser with tiling](https://github.com/Merkoba/Bone)
 
 ### Life Hacks
 - [Scientific test for creativity](https://www.sciencealert.com/scientists-think-they-may-have-come-up-with-an-objective-measure-of-creativity)
@@ -116,6 +126,7 @@
 - [Create your Data Science Portfolio](https://www.kdnuggets.com/2021/09/data-science-portfolio-job.html#.YTtp0z-Xack.linkedin)
 - [Write your tasks](https://www.youtube.com/watch?v=6maSUnItiAo)
 - [Gerry Tan - Chase WEALTH](https://www.youtube.com/watch?v=7Hdu4DlnLIk)
+- [Decomplication](https://www.nateliason.com/blog/decomplication)
 
 ### Biz Hacks
 - [Blog Starter](https://www.theblogstarter.com/about-me/)
@@ -149,6 +160,7 @@
 - [How Big Tech runs Projects, and the Absence of Scrum](https://newsletter.pragmaticengineer.com/p/project-management-in-tech)
 - [The case for Developer Experience](https://future.a16z.com/the-case-for-developer-experience/)
 - [IN Software, When an Engineer Exits the Team](https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8)
+- [On risk and Imagining the Future](https://www.nealkhosla.com/blog/on-risk-and-imagining-the-future)
 
 ### Remote Teams
 - [No, We won't have a video call for that!](https://xahteiwi.eu/resources/presentations/no-we-wont-have-a-video-call-for-that/)
@@ -163,6 +175,7 @@
 
 ### Writing
 - [Write More, Write Shorter](https://blog.kewah.com/2021/write-more-but-shorter/)
+- [My dead father haunted my dreams](https://www.theguardian.com/lifeandstyle/2021/oct/06/a-moment-that-changed-me-my-dead-father-haunted-my-dreams-until-i-drowned-his-caul)
 
 ### Teaching / Adult Learning
 - [Singapore Polytechnic Lecturer gets real](https://www.asiaone.com/singapore/nothing-do-marks-singapore-poly-lecturer-gets-real-school-grades-during-online-lesson)
@@ -198,6 +211,7 @@
 
 ### UX/UI
 - [RelativeWave gets acquired by Google - App Design Tool for Free](https://techcrunch.com/2014/11/19/relativewave-gets-acquired-by-google-and-starts-giving-its-80-design-app-away-for-free/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADkVC-yBcdrW5aTDBLhAg7NcjJD47vYCB3JY3uk_Gudc02SdAq5JSJlLIlQomf0Rm8WiyH7_vdvQ4nfMad4nn3qaN0rEPNUcyAmg2KXaNHr7QPfNXc8Siy5Ng8ZHlb2V7XwEaK5sP2cz75FUlBC07novMMSCN9AcPyit0ElxgFYr)
+- [Choice Architecture](https://www.sas.upenn.edu/~baron/475/choice.architecture.pdf)
 
 ### Health / Healing
 - [4-handed Lomi Lomi](https://4handedlomi.com/team/dan-joy/)
@@ -218,6 +232,9 @@
 - [Does low cholesterol cause cognitive impairment](https://peterattiamd.com/does-low-cholesterol-cause-cognitive-impairment-part-i/)
 - [It's not age that's slowing your metabolism](https://lite.cnn.com/en/article/h_6393a3cab16cabbe7bfa1e77505a6ef8)
 - [Elitom El-Amin, Breatharian](https://www.elitomelamin.org/)
+- [People enjoy deep conversations with strangers](https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html)
+- [HeartMath - Heart Rate Variability](https://www.heartmath.com/)
+- [How Depression and Anxiety impact the body](https://www.nytimes.com/2021/10/04/well/mind/depression-anxiety-physical-health.html)
 
 ### Photograph
 - [Gilbert Carosin](https://www.gilbertcarosin.com/prints)
@@ -258,6 +275,7 @@
 - [Juniiper Mystery Attacks Traced, Hackers ](https://www.bloomberg.com/news/features/2021-09-02/juniper-mystery-attacks-traced-to-pentagon-role-and-chinese-hackers)
 - [Germany's no-emtion voting guide surges despite campaign of personalities](https://github.com/juschan/links/edit/master/links7.md)
 - [Why comedians need an alter ego](https://www.theguardian.com/stage/2021/sep/28/comedians-alter-egos-zach-zucker-bilal-zafar)
+
 
 ### GA DSI Resource
 - [Youtube - How Bayesian Inference Works](https://www.youtube.com/watch?v=5NMxiOGL39M)
@@ -316,5 +334,6 @@
 
 ### Photography
 - [How to get off auto mode](https://www.youtube.com/watch?v=bqlZoXrutYI)
-
+- [David Tid - CV](https://davidtidman.com/)
+- [DAvid Tid - Photo](https://davidtidman.photo/)
 
