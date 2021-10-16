@@ -83,6 +83,8 @@
 - [Erase your darlings](https://grahamc.com/blog/erase-your-darlings)
 - [Book - A Common Sense Guide to Data Structures and Algo](https://pragprog.com/titles/jwdsal2/a-common-sense-guide-to-data-structures-and-algorithms-second-edition/)
 - [Static Linking Considered Harmful - considered harmful](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
+- [Regex with examples in details](https://www.youtube.com/watch?v=9RksQ5YT7FM)
+- [textbook - intro to high-performance scientific computing](https://pages.tacc.utexas.edu/~eijkhout/istc/istc.html)
 
 ### Tools
 - [Calculist - notetaking, problem-solving :) ](https://calculist.io/pricing)
@@ -235,6 +237,8 @@
 - [People enjoy deep conversations with strangers](https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html)
 - [HeartMath - Heart Rate Variability](https://www.heartmath.com/)
 - [How Depression and Anxiety impact the body](https://www.nytimes.com/2021/10/04/well/mind/depression-anxiety-physical-health.html)
+- [Biohacking Summit](https://www.youtube.com/channel/UCpbppWVgOJcU0lf5rDYSSXw)
+- [Mitochondria have antiviral properties - Where's the exercise mandate?](https://www.youtube.com/watch?v=l4vcY-oRrmU&ab_channel=HighIntensityHealth)
 
 ### Photograph
 - [Gilbert Carosin](https://www.gilbertcarosin.com/prints)
@@ -317,6 +321,12 @@
 - [Running R and Python in Jupyter](https://www.kdnuggets.com/2019/02/running-r-and-python-in-jupyter.html)
 - [Install R in Jupyter Lab](https://www.richpauloo.com/post/jupyter/)
 
+
+### Neural Networks - Cutting Edge
+- [Neural Basis of Consciousness](https://www.youtube.com/watch?v=uIAdmBJ22GQ)
+- [Mechanistic Understanding of Compositionality](https://www.youtube.com/watch?v=7TkZhCNsqZ4)
+- [Liquid NN](https://www.youtube.com/watch?v=IlliqYiRhMU)
+- [Grokking: Generalization beyond overfitting on small algorithmic datasets](https://www.youtube.com/watch?v=dND-7llwrpw&ab_channel=YannicKilcher) - Double dip learning curve
 
 ### ML - bias variance
 - [A measure of bias and variance](https://www.youtube.com/watch?v=bqlZoXrutYI)
