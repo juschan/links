@@ -12,10 +12,21 @@
 - [AWS Sagemaker tutorial - build model and deploy](https://aws.amazon.com/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
 - [Intuitive guide to copulas - bayesian modelling blog!](https://twiecki.io/blog/2018/05/03/copulas/)
 - [SVM Indepth](https://jakevdp.github.io/PythonDataScienceHandbook/05.07-support-vector-machines.html)
+- [Dendritic Computing](https://www.sciencedirect.com/science/article/abs/pii/S0306452221005017)
+- [Embodied intelligence via learning and evolution](https://www.nature.com/articles/s41467-021-25874-z)
+- [Learn AI from Scratch](https://learnaifromscratch.github.io/)
+- [Math Foundations from Scratch](https://learnaifromscratch.github.io/math.html)
+- [False Positivism - Political](https://reallifemag.com/false-positivism/)
+- [Bad case of false positivism](https://medium.com/swlh/bad-case-of-false-positivism-6858f294f653)
+- [Dense Vectors - Pinecone](https://www.pinecone.io/learn/dense-vector-embeddings-nlp/)
+- [Active Learning using Detectron2](https://www.lightly.ai/post/active-learning-using-detectron2)
+- [Old Model cracks deep learning - kernel machines](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
+- [Master SQL to be Data Engineer](https://medium.com/analytics-and-data/the-path-to-learning-sql-and-mastering-it-to-become-a-data-engineer-256ea0fef4e7)
+- [Best way to calculate customer Lifetime Value for ecommerce](https://www.narrator.ai/blog/how-to-calculate-ltv/)
 
 ### Computer Science
 - [SICP - Javascript edition!](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
-
+- [James Sinclair Blog - Algebraic data types](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
 
 ### Tools
 - [Rstudio Cloud](https://rstudio.cloud/)
@@ -23,18 +34,30 @@
 - [AWesome Internet services without logging in](https://github.com/fiatjaf/awesome-loginless)
 - [Emaildrop - free disposable emails](https://www.emaildrop.io/about/)
 - [Modern web makes me want to throw up](https://josephg.com/blog/the-modern-web/)
+- [html5 template](https://www.sitepoint.com/a-basic-html5-template/)
+- [Jupyter](https://jupyter.org/)
+- [Streamlit](https://streamlit.io/)
+- [Build your own react](https://pomb.us/build-your-own-react/)
 
 ### Life Hacks
 - [Willingness to look stupid](https://danluu.com/look-stupid/)
 - [Design for yourself! (sometimes)](https://borism.medium.com/design-for-yourself-sometimes-7c9b8118fb63)
 - [GEt over fear of disappointing others](https://nickwignall.com/fear-of-disappointing-others/)
+- [Tao Bojlen - removing my site from google search](https://btao.org/2021/10/03/removing-from-google/)
 
 ### Biz Hacks
 - [136 facts every web dev should know before burnout](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
 - [HBR - Good Leaders Know you can't fight reality](https://hbr.org/2021/10/good-leaders-know-you-cant-fight-reality)
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
 - [How to safely think in systems](https://lethain.com/how-to-safely-think-in-systems/)
-- [REasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
+- [Reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
+- [Eating the cloud from outside in](https://www.swyx.io/cloudflare-go/)
+- [Great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
+
+
+### Cryptography
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
+
 
 ### Writing
 - [Quick guide to explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
