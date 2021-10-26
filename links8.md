@@ -23,10 +23,23 @@
 - [Old Model cracks deep learning - kernel machines](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
 - [Master SQL to be Data Engineer](https://medium.com/analytics-and-data/the-path-to-learning-sql-and-mastering-it-to-become-a-data-engineer-256ea0fef4e7)
 - [Best way to calculate customer Lifetime Value for ecommerce](https://www.narrator.ai/blog/how-to-calculate-ltv/)
+- [Feature transformation and scaling to boost model performance](https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/)
+- [Pitfalls in interpretation of coefficieents of linear models](https://scikit-learn.org/stable/auto_examples/inspection/plot_linear_model_coefficient_interpretation.html)
+- [South Africa issues world's first patent listing AI as inventor](https://www.managingip.com/article/b1sx9mh1m35rd9/dabus-south-africa-issues-first-ever-patent-with-ai-inventor#:~:text=South%20Africa%20has%20become%20the,owner%20as%20the%20patent%20owner.)
+- [Generate correlated data in R](https://www.r-bloggers.com/2021/05/how-to-generate-correlated-data-in-r/)
+- [Intro to probablistic programming - book](https://arxiv.org/abs/1809.10756)
+- [Knowledge graphs - intro paper](https://arxiv.org/abs/2003.02320)
 
 ### Computer Science
 - [SICP - Javascript edition!](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 - [James Sinclair Blog - Algebraic data types](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
+
+### Software Engineering
+- [Radical Simplicity in Technology](https://www.radicalsimpli.city/)
+- [Mistakes I've made in aws](https://laravel-news.com/aws-mistakes)
+- [web3 architecture vs traditional web apps](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/)
+- [Come go with me - why network engineers should learn go](https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/)
+- [Get into Enterprise Architecture Space](https://thinkinbig.org/2019/02/getting-into-enterprise-architecture/)
 
 ### Tools
 - [Rstudio Cloud](https://rstudio.cloud/)
@@ -38,12 +51,15 @@
 - [Jupyter](https://jupyter.org/)
 - [Streamlit](https://streamlit.io/)
 - [Build your own react](https://pomb.us/build-your-own-react/)
+- [RSS is wonderful](https://quakkels.com/posts/rss-is-wonderful/)
+- [What to read to be great at css](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
 
 ### Life Hacks
 - [Willingness to look stupid](https://danluu.com/look-stupid/)
 - [Design for yourself! (sometimes)](https://borism.medium.com/design-for-yourself-sometimes-7c9b8118fb63)
 - [GEt over fear of disappointing others](https://nickwignall.com/fear-of-disappointing-others/)
 - [Tao Bojlen - removing my site from google search](https://btao.org/2021/10/03/removing-from-google/)
+- [Religiosity does not lead to greater life satisfaction - MIDUS data set!](https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991#:~:text=greater%20life%20satisfaction-,A%2020%2Dyear%20longitudinal%20study%20finds%20little%20evidence%20that,leads%20to%20greater%20life%20satisfaction&text=Meta%2Danalyses%20have%20pointed%20to,feel%20better%20about%20their%20lives.)
 
 ### Biz Hacks
 - [136 facts every web dev should know before burnout](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
@@ -53,6 +69,9 @@
 - [Reasons to work on productivity and velocity](https://danluu.com/productivity-velocity/)
 - [Eating the cloud from outside in](https://www.swyx.io/cloudflare-go/)
 - [Great executive-employee disconnect](https://futureforum.com/2021/10/05/the-great-executive-employee-disconnect/)
+- [Unleash radical creativity](https://blog.x.company/tips-for-unleashing-radical-creativity-f4ba55602e17)
+- [A coaching paradox](https://seths.blog/2021/07/a-coaching-paradox/)
+- [The coaching paradox](https://www.sciencedirect.com/science/article/abs/pii/S0278431996000461#:~:text=The%20results%20of%20this%20exploratory,a%20high%20proportion%20of%20their)
 
 
 ### Cryptography
@@ -77,6 +96,9 @@
 - [Reviewing the evidence on how adult students learn: Examination of knowles model of andragogy](https://files.eric.ed.gov/fulltext/EJ860562.pdf)
 - [Pedagogy of the oppressed - Paulo Freire](https://en.wikipedia.org/wiki/Pedagogy_of_the_Oppressed)
 - [Didactic Questioning (vs dilectic)](https://en.wikipedia.org/wiki/Didactic_method)
+- [Visual Thinking - Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/visual-thinking/)
+- [We don't 'do' learning. It does us.](https://danielbmarkham.com/we-dont-do-learning-we-direct-it/)
+
 
 ### Science
 - [A Meta-Scientific Perspective on 'Thinking fast, thinking slow' - Reproducibility Crisis](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
