@@ -29,6 +29,12 @@
 - [Generate correlated data in R](https://www.r-bloggers.com/2021/05/how-to-generate-correlated-data-in-r/)
 - [Intro to probablistic programming - book](https://arxiv.org/abs/1809.10756)
 - [Knowledge graphs - intro paper](https://arxiv.org/abs/2003.02320)
+- [Klimt Colour Enigma](https://experiments.withgoogle.com/the-klimt-color-enigma)
+- [Hacker spends year reclaiming face from Clearview AI](https://www.codastory.com/authoritarian-tech/clearview-ai-facial-recognition-face-surveillance-tracking/)
+- [Personal Data Science Toolkit](https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/)
+- [Flowingdata - data and viz](https://flowingdata.com/)
+- [Math engineering of Deep Learning - online book](https://deeplearningmath.org/)
+
 
 ### Computer Science
 - [SICP - Javascript edition!](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
@@ -53,6 +59,7 @@
 - [Build your own react](https://pomb.us/build-your-own-react/)
 - [RSS is wonderful](https://quakkels.com/posts/rss-is-wonderful/)
 - [What to read to be great at css](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
+- [Node-Red - no code programming. ](https://nodered.org/)
 
 ### Life Hacks
 - [Willingness to look stupid](https://danluu.com/look-stupid/)
@@ -60,6 +67,8 @@
 - [GEt over fear of disappointing others](https://nickwignall.com/fear-of-disappointing-others/)
 - [Tao Bojlen - removing my site from google search](https://btao.org/2021/10/03/removing-from-google/)
 - [Religiosity does not lead to greater life satisfaction - MIDUS data set!](https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991#:~:text=greater%20life%20satisfaction-,A%2020%2Dyear%20longitudinal%20study%20finds%20little%20evidence%20that,leads%20to%20greater%20life%20satisfaction&text=Meta%2Danalyses%20have%20pointed%20to,feel%20better%20about%20their%20lives.)
+- [Wanting - Mimetic Desire (book)](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488/ref=sr_1_1?keywords=wanting+luke+burgis&qid=1636621526&qsid=138-8366933-6669600&sr=8-1&sres=1250262488%2C1947792679%2CB09BY7ZD3N%2CB008UX8U24%2CB00NW76JYY%2C0692100857&srpt=ABIS_BOOK)
+- [Slow down and finish faster](https://briandicroce.com/slow-down-finish-faster/)
 
 ### Biz Hacks
 - [136 facts every web dev should know before burnout](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
@@ -72,6 +81,7 @@
 - [Unleash radical creativity](https://blog.x.company/tips-for-unleashing-radical-creativity-f4ba55602e17)
 - [A coaching paradox](https://seths.blog/2021/07/a-coaching-paradox/)
 - [The coaching paradox](https://www.sciencedirect.com/science/article/abs/pii/S0278431996000461#:~:text=The%20results%20of%20this%20exploratory,a%20high%20proportion%20of%20their)
+- [Segmentors vs Integrators - worklife balance](https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/)
 
 
 ### Cryptography
@@ -83,6 +93,8 @@
 
 ### Health
 - [Mark Bajerski - Crystal healing](https://www.youtube.com/channel/UCCte1dGdRGfzZXbnoUOWmcQ)
+- [Two of Greatest Healing weeds](https://worldsensorium.com/two-of-the-greatest-healing-weeds-in-the-world/)
+- [Global heating may lead to epidemic of kidney disease](https://www.theguardian.com/global-development/2021/oct/21/global-heating-may-lead-to-epidemic-of-kidney-disease#:~:text=Chronic%20kidney%20disease%20linked%20to,coming%20decades%2C%20doctors%20have%20warned.)
 
 ### DDDLP & Adult Learning
 - [Software Carpentry - Instructor Training](https://carpentries.github.io/instructor-training/)
@@ -103,8 +115,15 @@
 ### Science
 - [A Meta-Scientific Perspective on 'Thinking fast, thinking slow' - Reproducibility Crisis](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
 - [Too hot to handle: can our bodies withstand global warming](https://www.theguardian.com/global-development/2021/oct/20/too-hot-to-handle-can-our-bodies-withstand-global-heating)
+- [How to learn maths - the asterisk method](http://www.geometry.org/tex/conc/mathlearn.html)
 
 ### Insurance
- - [Risk Data Open Standards](https://www.riskdataos.org/)
+- [Risk Data Open Standards](https://www.riskdataos.org/)
+- [The road to new CI insurance (China)](https://theactuarymagazine.org/health-insurance-new-regulations-critical-illness/)
+- [New era for China CI Products](https://www.aon.com/reinsurance/gimo/20210210-gimo-china-ci)
+
+### Finance
+- [Community Banking and Fintech](https://bam.kalzumeus.com/archive/community-banking-and-fintech/)
+
 
 
