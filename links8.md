@@ -2,6 +2,7 @@
 
 ### Python
 - [Understanding Python through Builtins](https://sadh.life/post/builtins/)
+- [Feature File Format (PyArrow)](https://arrow.apache.org/docs/python/feather.html)
 
 ### ML / AI
 - [From GLM to GBM (and shapley values](https://towardsdatascience.com/from-glm-to-gbm-5ff7dbdd7e2f)
