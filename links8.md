@@ -3,9 +3,11 @@
 ### Python
 - [Understanding Python through Builtins](https://sadh.life/post/builtins/)
 - [Feature File Format (PyArrow)](https://arrow.apache.org/docs/python/feather.html)
+- [ftfy - fix character encoding issues](https://pypi.org/project/ftfy/)
+- [Use Flask with Gevent (asynchro)](https://iximiuz.com/en/posts/flask-gevent-tutorial/)
 
 ### ML / AI
-- [From GLM to GBM (and shapley values](https://towardsdatascience.com/from-glm-to-gbm-5ff7dbdd7e2f)
+- [From GLM to GBM (and shapley values)](https://towardsdatascience.com/from-glm-to-gbm-5ff7dbdd7e2f)
 - [Friendly intro to PCA](http://peterbloem.nl/blog/pca)
 - [NN and Deep Learning - online book](http://neuralnetworksanddeeplearning.com/)
 - [Excel Example of basic perceptron](https://predictivemodeler.com/2018/12/11/an-ms-excel-example-of-a-perceptron/)
@@ -35,6 +37,33 @@
 - [Personal Data Science Toolkit](https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/)
 - [Flowingdata - data and viz](https://flowingdata.com/)
 - [Math engineering of Deep Learning - online book](https://deeplearningmath.org/)
+- [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
+- [Shapley values wiki](https://en.wikipedia.org/wiki/Shapley_value)
+- [LIME: Explain ML Predictions](https://towardsdatascience.com/lime-explain-machine-learning-predictions-af8f18189bfe)
+- [VerifyML - Explainable AI](https://www.verifyml.com/)
+- [Cylynx (Verifyml) XAI Tool ](https://github.com/cylynx/verifyml)
+- [Introducing VerifyML](https://medium.com/cylynx/introducing-verifyml-314b8e0a1c6b)
+- [Counterfactuals with DiCE](http://interpret.ml/DiCE/notebooks/DiCE_getting_started.html)
+- [Counterfactuals with FACE](https://arxiv.org/abs/1909.09369)
+- [Random Forest for Feature Importance](https://towardsdatascience.com/random-forest-for-feature-importance-ea90852b8fc5)
+- [Optuna - Auto Hyperparam tuning](https://www.analyticsvidhya.com/blog/2020/11/hyperparameter-tuning-using-optuna/)
+- [Optuna Tutorial - Part 1 of 5](https://machinelearningapplied.com/hyperparameter-search-with-optuna-part-1-scikit-learn-classification-and-ensembling/)
+- [Conversational AI with RASA](https://www.mulesoft.com/webinars/api/conversational-ai-assistant?&utm_source=google&utm_medium=cpc&utm_campaign=g-asset-asia-search-ai&utm_term=conversational%20ai&utm_content=g-p-c&gclid=Cj0KCQiA5OuNBhCRARIsACgaiqVzPAAlphbeUfIfuVLPbI-cHTH5DUDMpPNwXb6fsioAc991Hj1-FTkaAvVJEALw_wcB&gclsrc=aw.ds)
+- [CXPlain - Causal Explanation](https://github.com/d909b/cxplain)
+- [Shapley values for Explainable AI book](https://leanpub.com/c/shapley-xai)
+- [How much Memory is your ML code consuming](https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f)
+
+
+
+### Synthetic Data
+- [The real promise of Synthetic dta](https://news.mit.edu/2020/real-promise-synthetic-data-1016)
+- [copulas for synthetic data](https://www.google.com/search?client=firefox-b-d&q=copulas+for+synthetic+data)
+- [Wiki for synthetic data](https://en.wikipedia.org/wiki/Synthetic_data)
+- [Nvidia blog - what is synthetic data](https://blogs.nvidia.com/blog/2021/06/08/what-is-synthetic-data/)
+- [Synthetic Data - new DS skill](https://towardsdatascience.com/synthetic-data-generation-a-must-have-skill-for-new-data-scientists-915896c0c1ae)
+- [Ultimate guide to synthetic data](https://research.aimultiple.com/synthetic-data/)
+- [How to generate synthetic data](https://www.statice.ai/post/how-generate-synthetic-data)
+- [Generate multivariate synthetic data with copulas](https://towardsdatascience.com/generating-synthetic-multivariate-data-with-copulas-edd1c4afa1bb)
 
 
 ### Computer Science
@@ -47,6 +76,7 @@
 - [web3 architecture vs traditional web apps](https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/)
 - [Come go with me - why network engineers should learn go](https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/)
 - [Get into Enterprise Architecture Space](https://thinkinbig.org/2019/02/getting-into-enterprise-architecture/)
+- [How I learned to stop worrying and push to master](https://thenable.io/push-to-master)
 
 ### Tools
 - [Rstudio Cloud](https://rstudio.cloud/)
@@ -61,6 +91,10 @@
 - [RSS is wonderful](https://quakkels.com/posts/rss-is-wonderful/)
 - [What to read to be great at css](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
 - [Node-Red - no code programming. ](https://nodered.org/)
+- [Launching an open source platform in Taiwan Govt](https://increment.com/containers/containerization-case-study/)
+- [Mozilla Network - Django Web Framework (Tutorial)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+- [Write a basic unix shell](https://github.com/spencertipping/shell-tutorial)
+- [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
 
 ### Life Hacks
 - [Willingness to look stupid](https://danluu.com/look-stupid/)
@@ -70,6 +104,9 @@
 - [Religiosity does not lead to greater life satisfaction - MIDUS data set!](https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991#:~:text=greater%20life%20satisfaction-,A%2020%2Dyear%20longitudinal%20study%20finds%20little%20evidence%20that,leads%20to%20greater%20life%20satisfaction&text=Meta%2Danalyses%20have%20pointed%20to,feel%20better%20about%20their%20lives.)
 - [Wanting - Mimetic Desire (book)](https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488/ref=sr_1_1?keywords=wanting+luke+burgis&qid=1636621526&qsid=138-8366933-6669600&sr=8-1&sres=1250262488%2C1947792679%2CB09BY7ZD3N%2CB008UX8U24%2CB00NW76JYY%2C0692100857&srpt=ABIS_BOOK)
 - [Slow down and finish faster](https://briandicroce.com/slow-down-finish-faster/)
+- [Depression is more than low mood, it's a change in consciousness](https://psyche.co/ideas/depression-is-more-than-low-mood-its-a-change-of-consciousness)
+- [When a tricky task makes your brain hurt, here's what to do](https://psyche.co/ideas/when-a-tricky-task-makes-your-brain-hurt-heres-what-to-do)
+- [Stuck on a side project for 5 years](https://cassandraxia.com/writing/shed.html)
 
 ### Biz Hacks
 - [136 facts every web dev should know before burnout](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
@@ -83,11 +120,14 @@
 - [A coaching paradox](https://seths.blog/2021/07/a-coaching-paradox/)
 - [The coaching paradox](https://www.sciencedirect.com/science/article/abs/pii/S0278431996000461#:~:text=The%20results%20of%20this%20exploratory,a%20high%20proportion%20of%20their)
 - [Segmentors vs Integrators - worklife balance](https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/)
-
+- [How to structure a data science team](https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/)
+- [Increasing Employee Retention in Convenience Stores](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi87rqujOr0AhV1TGwGHbvJA7MQFnoECAQQAQ&url=http%3A%2F%2Fwww.ccrrc.org%2Fwp-content%2Fuploads%2Fsites%2F24%2F2014%2F02%2FFrank_-_Increasing_Employee_Retention_in_Convenience_Stores.pdf&usg=AOvVaw1D1DRxiGLFpzLhUgxQMzrX)
 
 ### Cryptography
 - [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
 
+### Statistics
+- [Wizard's guide to statistics](https://cassandraxia.com/wizard/)
 
 ### Writing
 - [Quick guide to explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
@@ -122,6 +162,8 @@
 - [Risk Data Open Standards](https://www.riskdataos.org/)
 - [The road to new CI insurance (China)](https://theactuarymagazine.org/health-insurance-new-regulations-critical-illness/)
 - [New era for China CI Products](https://www.aon.com/reinsurance/gimo/20210210-gimo-china-ci)
+- [Kyros - Customer Lifetime Value calculation, by actuaries](https://www.kyrosinsights.com/solutions/predicting-customer-lifetime-value)
+
 
 ### Finance
 - [Community Banking and Fintech](https://bam.kalzumeus.com/archive/community-banking-and-fintech/)
