@@ -63,6 +63,8 @@
 - [Permutation Invariant NN of RL](https://blog.otoro.net/2021/11/18/attentionneuron/)
 - [Resolving 3 financial services challenges with neo4j Auro on Google Cloud](https://cloud.google.com/blog/topics/partners/solving-financial-services-challenges-with-graph-technology)
 - [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [Interpreting Shapley Analyses](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
+- [Neo4j - banking use case](https://neo4j.com/case-studies/current/)
 
 
 ### ML Libraries/Deployment
@@ -74,6 +76,8 @@
 - [Federated Learning Tutorial](https://drive.google.com/file/d/1QGY2Zytp9XRSu95fX2lCld8DwfEdcHCG/view)
 - [Federated Learning - Google](https://sites.google.com/view/fl-tutorial/)\
 - [Federated Learning - IBM](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/wsj/analyze-data/fl-demo.html)
+- [FL - step-by-step implementation in TF](https://towardsdatascience.com/federated-learning-a-step-by-step-implementation-in-tensorflow-aac568283399)
+- [TF's FL tutorial - Google](https://www.tensorflow.org/federated/tutorials/tutorials_overview)
 
 ### Synthetic Data
 - [The real promise of Synthetic dta](https://news.mit.edu/2020/real-promise-synthetic-data-1016)
@@ -90,6 +94,7 @@
 - [SICP - Javascript edition!](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 - [James Sinclair Blog - Algebraic data types](https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
 - [Computer Science was always supposed to be taught to everyone](https://computinged.wordpress.com/2021/11/26/computer-science-was-always-supposed-to-be-taught-to-everyone-but-not-about-getting-a-job-a-historical-perspective/)
+- [How to learn about Compilers - LLVM edition](https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/)
 
 ### Software Engineering
 - [Radical Simplicity in Technology](https://www.radicalsimpli.city/)
@@ -101,6 +106,7 @@
 - [5 books that changed my career as a software engineer](https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer#the-passionate-programmer-creating-a-remarkable-career-in-software-development)
 - [ASsembly Language is number 8](https://smist08.wordpress.com/2021/11/13/assembly-language-is-number-8/)
 - [(Funny) Interview with Bjarne Stroupstrup](http://harmful.cat-v.org/software/c++/I_did_it_for_you_all)
+- [About Monkey Patching](https://noteflakes.com/articles/2021-11-04-monkey-patching)
 
 ### Tools
 - [Rstudio Cloud](https://rstudio.cloud/)
@@ -123,6 +129,9 @@
 - [Radix UI Library](https://www.radix-ui.com/docs/primitives/overview/getting-started)
 - [Shuffle - Material-UI Editor](https://shuffle.dev/material-ui)
 - [Wayscript - Online Automation!](https://wayscript.com/blog)
+- [pdfsandwich - generates sandwich ocr pdf files](http://www.tobias-elze.de/pdfsandwich/)
+- [Fossil SCM](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
+- [jCode Amigo - learning paths](https://codeamigo.dev/?ref=HN)
 
 ### Life Hacks
 - [Willingness to look stupid](https://danluu.com/look-stupid/)
@@ -139,7 +148,8 @@
 - [I have no idea what I'm doing](https://surfingcomplexity.blog/2021/11/28/i-have-no-idea-what-im-doing/)
 - [Burnout Society](https://apposition.substack.com/p/the-burnout-society)
 - [The Fatiging Effects of Camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
-
+- [Revisiting 4-hour work week](https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek)
+- [Noise](https://ekin.substack.com/p/noise)
 
 
 ### Biz Hacks
@@ -166,6 +176,8 @@
 - [JES4py - a JES (Jython Environment for Students) emulator for Python 3](https://github.com/gordon-cs/JES4py)
 - [Computing Educaiton Research BLog](https://computinged.wordpress.com/2020/03/02/final-likely-version-of-jes-released/)
 - [Media Computation](https://computinged.wordpress.com/2021/09/06/media-computation-today-runestone-snap-python-3-and-a-teaspoon-language/)
+- [Calm Technology - UX book](https://calmtech.com/book.html)
+- [Polite Technology - social interactions and situations underpinning open source world](https://polite.technology/preview)
 
 ### Cryptography/Security/
 - [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/)
@@ -175,6 +187,7 @@
 ### Statistics
 - [Wizard's guide to statistics](https://cassandraxia.com/wizard/)
 - [NUS - MSc Statistics](https://thestatsguy.rbind.io/post/2020/05/10/a-fuller-review-of-my-master-of-science-in-statistics-programme-in-nus/)
+- [8 myths about Casuality and Structural Equation Models](https://ftp.cs.ucla.edu/pub/stat_ser/r393-reprint.pdf)
 
 ### Writing
 - [Quick guide to explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
@@ -208,6 +221,13 @@
 - [Visible Learning in Action](https://visible-learning.org/2015/02/new-book-visible-learning-into-action/)
 - [Education Cargo Cults must Die!](https://us.corwin.com/sites/default/files/cargo_cult_white_paper_john_hattie_final.pdf)
 - [Teaching Perspectives Inventory](http://www.teachingperspectives.com/tpi/)
+- [National Centre of Excellence for Workplace Laerning](https://www.nace.edu.sg/)
+- [Designing Effective Multimedia for Physics Education - by Versatorium](https://www.sydney.edu.au/science/physics/pdfs/research/super/PhD(Muller).pdf)
+- [Veritasium - the most persistent myth](https://www.youtube.com/watch?v=GEmuEWjHr5c)
+- [Edmodo](https://new.edmodo.com/)
+- [Edpuzzle](https://edpuzzle.com/)
+- [Educative - courses to help students fill experience gap, ace technical interviews](https://try.educative.io/bootcamps)
+- [5-stage model of online learning - Gilly Salmon](https://itlc.science.ku.dk/english/papers/model/)
 
 ### Science
 - [A Meta-Scientific Perspective on 'Thinking fast, thinking slow' - Reproducibility Crisis](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
