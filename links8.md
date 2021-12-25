@@ -6,6 +6,8 @@
 - [ftfy - fix character encoding issues](https://pypi.org/project/ftfy/)
 - [Use Flask with Gevent (asynchro)](https://iximiuz.com/en/posts/flask-gevent-tutorial/)
 
+### F#
+- [F# Good and Bad](https://danielbmarkham.com/f-good-and-bad/)
 
 ### Julia
 - [Learn Julia for free](https://juliaacademy.com/)
@@ -44,6 +46,24 @@
 - [Personal Data Science Toolkit](https://alexfranz.com/posts/personal-python-data-science-toolkit-part-1/)
 - [Flowingdata - data and viz](https://flowingdata.com/)
 - [Math engineering of Deep Learning - online book](https://deeplearningmath.org/)
+- [Random Forest for Feature Importance](https://towardsdatascience.com/random-forest-for-feature-importance-ea90852b8fc5)
+- [Optuna - Auto Hyperparam tuning](https://www.analyticsvidhya.com/blog/2020/11/hyperparameter-tuning-using-optuna/)
+- [Optuna Tutorial - Part 1 of 5](https://machinelearningapplied.com/hyperparameter-search-with-optuna-part-1-scikit-learn-classification-and-ensembling/)
+- [Conversational AI with RASA](https://www.mulesoft.com/webinars/api/conversational-ai-assistant?&utm_source=google&utm_medium=cpc&utm_campaign=g-asset-asia-search-ai&utm_term=conversational%20ai&utm_content=g-p-c&gclid=Cj0KCQiA5OuNBhCRARIsACgaiqVzPAAlphbeUfIfuVLPbI-cHTH5DUDMpPNwXb6fsioAc991Hj1-FTkaAvVJEALw_wcB&gclsrc=aw.ds)
+- [How much Memory is your ML code consuming](https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f)
+- [Fourier transform approach to ML](https://arxiv.org/pdf/1904.00368.pdf)
+- [Permutation Invariant NN of RL](https://blog.otoro.net/2021/11/18/attentionneuron/)
+- [Resolving 3 financial services challenges with neo4j Auro on Google Cloud](https://cloud.google.com/blog/topics/partners/solving-financial-services-challenges-with-graph-technology)
+- [Transformers from Scratch](https://e2eml.school/transformers.html)
+- [Neo4j - banking use case](https://neo4j.com/case-studies/current/)
+- [Do large language models understand us?](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
+- [To understand language is to understand generalization](https://evjang.com/2021/12/17/lang-generalization.html)
+
+### Explainable AI
+- [CXPlain - Causal Explanation](https://github.com/d909b/cxplain)
+- [Shapley values for Explainable AI book](https://leanpub.com/c/shapley-xai)
+- [The False Hope of Explainable AI](https://explainthispaper.com/the-false-hope-of-explainable-ai/)
+- [Interpreting Shapley Analyses](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
 - [Interpretable ML Book](https://christophm.github.io/interpretable-ml-book/)
 - [Shapley values wiki](https://en.wikipedia.org/wiki/Shapley_value)
 - [LIME: Explain ML Predictions](https://towardsdatascience.com/lime-explain-machine-learning-predictions-af8f18189bfe)
@@ -52,20 +72,6 @@
 - [Introducing VerifyML](https://medium.com/cylynx/introducing-verifyml-314b8e0a1c6b)
 - [Counterfactuals with DiCE](http://interpret.ml/DiCE/notebooks/DiCE_getting_started.html)
 - [Counterfactuals with FACE](https://arxiv.org/abs/1909.09369)
-- [Random Forest for Feature Importance](https://towardsdatascience.com/random-forest-for-feature-importance-ea90852b8fc5)
-- [Optuna - Auto Hyperparam tuning](https://www.analyticsvidhya.com/blog/2020/11/hyperparameter-tuning-using-optuna/)
-- [Optuna Tutorial - Part 1 of 5](https://machinelearningapplied.com/hyperparameter-search-with-optuna-part-1-scikit-learn-classification-and-ensembling/)
-- [Conversational AI with RASA](https://www.mulesoft.com/webinars/api/conversational-ai-assistant?&utm_source=google&utm_medium=cpc&utm_campaign=g-asset-asia-search-ai&utm_term=conversational%20ai&utm_content=g-p-c&gclid=Cj0KCQiA5OuNBhCRARIsACgaiqVzPAAlphbeUfIfuVLPbI-cHTH5DUDMpPNwXb6fsioAc991Hj1-FTkaAvVJEALw_wcB&gclsrc=aw.ds)
-- [CXPlain - Causal Explanation](https://github.com/d909b/cxplain)
-- [Shapley values for Explainable AI book](https://leanpub.com/c/shapley-xai)
-- [How much Memory is your ML code consuming](https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f)
-- [Fourier transform approach to ML](https://arxiv.org/pdf/1904.00368.pdf)
-- [Permutation Invariant NN of RL](https://blog.otoro.net/2021/11/18/attentionneuron/)
-- [Resolving 3 financial services challenges with neo4j Auro on Google Cloud](https://cloud.google.com/blog/topics/partners/solving-financial-services-challenges-with-graph-technology)
-- [Transformers from Scratch](https://e2eml.school/transformers.html)
-- [Interpreting Shapley Analyses](https://www.aidancooper.co.uk/a-non-technical-guide-to-interpreting-shap-analyses/)
-- [Neo4j - banking use case](https://neo4j.com/case-studies/current/)
-
 
 ### ML Libraries/Deployment
 - [Hugging Face](https://huggingface.co/spaces/launch)
@@ -107,27 +113,41 @@
 - [ASsembly Language is number 8](https://smist08.wordpress.com/2021/11/13/assembly-language-is-number-8/)
 - [(Funny) Interview with Bjarne Stroupstrup](http://harmful.cat-v.org/software/c++/I_did_it_for_you_all)
 - [About Monkey Patching](https://noteflakes.com/articles/2021-11-04-monkey-patching)
+- [Launching an open source platform in Taiwan Govt](https://increment.com/containers/containerization-case-study/)
+- [! Pattern on the Stone (by Daniel Hillis)](https://kottke.org/02/07/the-pattern-on-the-stone-by-daniel-hillis)
+- [Writing Maintainable Code is a Communication Skill](https://max.engineer/maintainable-code)
+
+### Database, pipelines
+- [Airbyte - open source data integration](https://airbyte.io/)
+- [SQL Muder Mystery](https://mystery.knightlab.com/)
+- [Select Star SQL](https://selectstarsql.com/)
+
+### Web Dev
+- [Whol;e website in a single html file](https://css-tricks.com/a-whole-website-in-a-single-html-file/)
+- [What is the small web?](https://ar.al/2020/08/07/what-is-the-small-web/)
+- [AWesome Internet services without logging in](https://github.com/fiatjaf/awesome-loginless)
+- [Emaildrop - free disposable emails](https://www.emaildrop.io/about/)
+- [html5 template](https://www.sitepoint.com/a-basic-html5-template/)
+- [Build your own react](https://pomb.us/build-your-own-react/)
+- [What to read to be great at css](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
+- [Shuffle - Material-UI Editor](https://shuffle.dev/material-ui)
+- [Freedom.js - build peer-to-peer web apps](https://www.freedomjs.org/)
+- [Mozilla Network - Django Web Framework (Tutorial)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
+- [RSS is wonderful](https://quakkels.com/posts/rss-is-wonderful/)
+- [Modern web makes me want to throw up](https://josephg.com/blog/the-modern-web/)
+- [htmx](https://htmx.org/)
+- [Web4 should run on LaTeX](https://www.cynicusrex.com/file/web4.html)
+
 
 ### Tools
 - [Rstudio Cloud](https://rstudio.cloud/)
 - [Scrimba - Coding bootcamp online](https://scrimba.com/)
-- [AWesome Internet services without logging in](https://github.com/fiatjaf/awesome-loginless)
-- [Emaildrop - free disposable emails](https://www.emaildrop.io/about/)
-- [Modern web makes me want to throw up](https://josephg.com/blog/the-modern-web/)
-- [html5 template](https://www.sitepoint.com/a-basic-html5-template/)
 - [Jupyter](https://jupyter.org/)
 - [Streamlit](https://streamlit.io/)
-- [Build your own react](https://pomb.us/build-your-own-react/)
-- [RSS is wonderful](https://quakkels.com/posts/rss-is-wonderful/)
-- [What to read to be great at css](https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/)
 - [Node-Red - no code programming. ](https://nodered.org/)
-- [Launching an open source platform in Taiwan Govt](https://increment.com/containers/containerization-case-study/)
-- [Mozilla Network - Django Web Framework (Tutorial)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 - [Write a basic unix shell](https://github.com/spencertipping/shell-tutorial)
 - [How to write a JIT compiler](https://github.com/spencertipping/jit-tutorial)
-- [Freedom.js - build peer-to-peer web apps](https://www.freedomjs.org/)
 - [Radix UI Library](https://www.radix-ui.com/docs/primitives/overview/getting-started)
-- [Shuffle - Material-UI Editor](https://shuffle.dev/material-ui)
 - [Wayscript - Online Automation!](https://wayscript.com/blog)
 - [pdfsandwich - generates sandwich ocr pdf files](http://www.tobias-elze.de/pdfsandwich/)
 - [Fossil SCM](https://fossil-scm.org/home/doc/trunk/www/index.wiki)
@@ -150,7 +170,8 @@
 - [The Fatiging Effects of Camera use in virtual meetings](https://doi.apa.org/fulltext/2021-77825-003.html)
 - [Revisiting 4-hour work week](https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek)
 - [Noise](https://ekin.substack.com/p/noise)
-
+- [Is internet addiction erading the habit of reading?](https://benwajdi.com/2021/12/18/is-internet-addiction-eradicating-the-habit-of-reading/)
+- [Why Tacit Knowledge is More Important Than Deliberate Practice](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 
 ### Biz Hacks
 - [136 facts every web dev should know before burnout](https://www.baldurbjarnason.com/2021/100-things-every-web-developer-should-know/)
@@ -169,6 +190,8 @@
 - [Scaling teams like parallel computing systems](https://getsturdy.com/blog/2021-11-29-scaling-teams)
 - [Zillow did not have metallic balls](https://www.stevenbuccini.com/zillow-offers)
 - [Slides - big Data and ML for Business](https://www.slideshare.net/awahid/big-data-and-machine-learning-for-businesses)
+- [ZimTik - freelancing tools](https://www.zimtik.com/)
+
 
 ### Digital Art/Media!
 - [Nap Framework](https://www.napframework.com/showcase/)
@@ -194,6 +217,9 @@
 
 ### Actuarial
 - [MCEV in non-life Insurance - how to measure it and why](https://www.ivw.unisg.ch/~/media/internet/content/dateien/instituteundcenters/ivw/wps/wp104.pdf)
+
+### Accounting
+- [Accounting Coach - train yourself in accounting!](https://www.accountingcoach.com/)
 
 ### Health
 - [Mark Bajerski - Crystal healing](https://www.youtube.com/channel/UCCte1dGdRGfzZXbnoUOWmcQ)
@@ -233,6 +259,7 @@
 - [A Meta-Scientific Perspective on 'Thinking fast, thinking slow' - Reproducibility Crisis](https://replicationindex.com/2020/12/30/a-meta-scientific-perspective-on-thinking-fast-and-slow/)
 - [Too hot to handle: can our bodies withstand global warming](https://www.theguardian.com/global-development/2021/oct/20/too-hot-to-handle-can-our-bodies-withstand-global-heating)
 - [How to learn maths - the asterisk method](http://www.geometry.org/tex/conc/mathlearn.html)
+- [Fourier Cube](https://static.laszlokorte.de/fourier/)
 
 ### Insurance
 - [Risk Data Open Standards](https://www.riskdataos.org/)
