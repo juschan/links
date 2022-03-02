@@ -4,6 +4,7 @@
 - [Vectorization in Python](https://pythonspeed.com/articles/vectorization-python/)
 - [Learn Python AST by building linter](https://sadh.life/post/ast/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
+- [Python-WASM](https://github.com/ethanhs/python-wasm)
 
 ### Machine Learning, AI
 - [Backtest for time series models](https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/)
@@ -13,7 +14,7 @@
 - [Game Theory - Property Catastrophe Risk Load (Shapley)](https://www.casact.org/sites/default/files/2021-02/pubs_proceed_proceed98_980157.pdf)
 - [Fourier Regression](https://arxiv.org/pdf/1904.00368.pdf)
 - [Scatter Plot in Excel](https://www.eloquens.com/tool/vk1YCGx7/other/dynamic-arrays-best-practices/scatter-plot-matrix-in-excel-12x12-panels-with-correlation-matrix)
-- [BUsiness Simplified - Analytics Tools/Resources Company](https://simplexct.com/)
+- [Business Simplified - Analytics Tools/Resources Company](https://simplexct.com/)
 - [Intro to autocorrelation and partial autocorrelation](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
 - [Deep Learning Framework from Zero - book translated from Japanese](https://koki0702.github.io/dezero-book/en/index.html)
 - [ML gets a quantum speedup](https://www.quantamagazine.org/ai-gets-a-quantum-computing-speedup-20220204/)
@@ -21,6 +22,11 @@
 - [Bayesian Classifier for Fraud Detection](https://ieeexplore.ieee.org/document/8587081)
 - [Kalman Filter. Helping Chickens Cross the Road](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/)
 - [Identifying and Unifying Outlier Scores](https://www.dbs.ifi.lmu.de/~zimek/publications/SDM2011/SDM11-outlier-preprint.pdf)
+- [Impt of data drift detection](https://www.analyticsvidhya.com/blog/2021/10/mlops-and-the-importance-of-data-drift-detection/)
+- [Gentle intro to concept drift](https://machinelearningmastery.com/gentle-introduction-concept-drift-machine-learning/)
+- [Understanding and Handling data and concept drift](https://www.explorium.ai/blog/understanding-and-handling-data-and-concept-drift/)
+- [Perf comparison test of RF algo - scikit learn, spark mllib, dolphin db, xgboost](https://developpaper.com/performance-comparison-test-of-random-forest-algorithm-scikit-learn-spark-mllib-dolphin-db-xgboost/)
+- [How much memory is your ML code consuming](https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f)
 
 ### Probability & Statistics
 - [Intro to Propensity Score Methods for reducing the effects of confounding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144483/)
@@ -55,6 +61,8 @@
 - [Max Value, not Quantity](http://agileotter.blogspot.com/2022/02/maximize-value-not-quantity.html)
 - [Programming books](https://www.programmingbooks.dev/)
 - [Make Megaproejcts more modular](https://hbr.org/2021/11/make-megaprojects-more-modular)
+- [Software Dev pushes us to get better as people](https://jessitron.com/2021/11/28/software-development-pushes-us-to-get-better-as-people/)
+
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -66,6 +74,7 @@
 - [Things the css spec folks got right](https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/)
 - [Peertube](https://joinpeertube.org/)
 - [Newpipe - lightweight Youtube experience for android](https://newpipe.net/)
+- [How to understand CSS](https://noti.st/rachelandrew/TImzFL)
 
 ### Tools
 - [Audio-fingerprinting](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
@@ -78,6 +87,7 @@
 - [Step-By-Step Viz of Executation State for C#, Java etc.](https://ryoskate.jp/PLIVET/#popup1)
 - [Power BI Helper (Add-on, free)](https://radacad.com/power-bi-helper)
 - [sqlite-utils](https://sqlite-utils.datasette.io/en/stable/)
+- [Platform Uno - open source, multi-platform, single source](https://platform.uno/)
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -112,6 +122,7 @@
 - [Top performers have a superpower: Happiness](https://sloanreview.mit.edu/article/top-performers-have-a-superpower-happiness/)
 - [Entrepreneur who brought white rabbit to Singapore](https://redhot.sg/meet-the-entrepreneur-who-brought-white-rabbit-candy-ice-cream-to-singapore-99360.html)
 - [The Death of Process - how to write policies and process guidelines](https://bellmar.medium.com/the-death-of-process-cdb0151a41fe)
+- [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/)
 
 ### Teaching / Adult Education
 - [A New Engineering Education System](https://arstechnica.com/science/2021/12/a-year-on-the-highs-and-lows-of-a-new-engineering-education-system/)
@@ -129,6 +140,7 @@
 - [Edufit - courses for massage skills etc.](https://www.edufitasia.com/)
 - [Gut Microbe linked to depression](https://www.science.org/content/article/gut-microbe-linked-depression-large-health-study#:~:text=Morganella%20has%20already%20been%20implicated,negative%20bacteria%20in%20the%20gut.)
 - [Psychitry and Politicians](https://www.cambridge.org/core/journals/the-psychiatrist/article/psychiatry-and-politicians-the-hubris-syndrome/46643F663C0E79B9CE3FFE0A0F97F09B)
+- [Oh, 2022!](http://www.antipope.org/charlie/blog-static/2022/01/oh-2022.html)
 
 ### Knowledge Mgt
 - [personal KM workshop through Social Learning Centre UK](https://activatelearning.wordpress.com/2012/09/29/personal-knowledge-management-workshop-through-social-learning-centre-uk/)
@@ -144,8 +156,10 @@
 ### Art/Media
 - [Chinese Painting Generator - Generative Art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
 - [Expressive Midi Generation Library](https://github.com/shimpe/expremigen)
+- [Waifu Labs - Anime portraits](https://waifulabs.com/)
 
 ### Fun
 - [Odyssey Boards - Longboarding](https://odysseyboards.com/pages/our-story)
 
-
+### Climate
+- [Collapse of Liangzhu and other cultures in lower Yangtze in response to climate change](https://www.science.org/doi/10.1126/sciadv.abi9275)
