@@ -27,12 +27,17 @@
 - [Understanding and Handling data and concept drift](https://www.explorium.ai/blog/understanding-and-handling-data-and-concept-drift/)
 - [Perf comparison test of RF algo - scikit learn, spark mllib, dolphin db, xgboost](https://developpaper.com/performance-comparison-test-of-random-forest-algorithm-scikit-learn-spark-mllib-dolphin-db-xgboost/)
 - [How much memory is your ML code consuming](https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f)
+- [Benchmark for data imputation methods](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8297389/)
+- [book: Probabilistic machine learning](https://probml.github.io/pml-book/book2.html)
+- [Course: Computational Linear Algebra at FastAI](https://www.kdnuggets.com/2020/07/computational-linear-algebra-free-course.html)
+- [Gradients without backpropagation](https://arxiv.org/abs/2202.08587)
 
 ### Probability & Statistics
 - [Intro to Propensity Score Methods for reducing the effects of confounding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144483/)
 - [Results of multivariable logistic regression, propensity matching, propensity adjustment, and propensity-based weighting under conditions of nonuniform effect](https://pubmed.ncbi.nlm.nih.gov/16371515/)
 - [A comparison of propensity score methods: a case-study estimating the effectiveness of post-AMI statin use](https://pubmed.ncbi.nlm.nih.gov/16220490/)
 - [*** Introduction to Probability for Data Science - good book!!](https://probability4datascience.com/)
+- [institute of actuaries of australia - bootstrap modeling](https://www.actuaries.asn.au/Library/Events/GIS2010/GIS10_Paper_Shapland.pdf)
 
 ### Computer Science
 - [Hoare’s Rebuttal and Bubble Sort’s Comeback](https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html)
@@ -62,7 +67,8 @@
 - [Programming books](https://www.programmingbooks.dev/)
 - [Make Megaproejcts more modular](https://hbr.org/2021/11/make-megaprojects-more-modular)
 - [Software Dev pushes us to get better as people](https://jessitron.com/2021/11/28/software-development-pushes-us-to-get-better-as-people/)
-
+- [Frugal Computing](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
+- [Basic Quantum Algorithms](https://arxiv.org/abs/2201.10574)
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -75,6 +81,9 @@
 - [Peertube](https://joinpeertube.org/)
 - [Newpipe - lightweight Youtube experience for android](https://newpipe.net/)
 - [How to understand CSS](https://noti.st/rachelandrew/TImzFL)
+- [Design: #noframework](https://javarome.medium.com/design-noframework-bbc00a02d9b3)
+- [free self-taught product design course (UX)](https://www.uxdatabase.io/free-product-design-course)
+- [AWS S3 - Why sometimes you should press the $100k button](https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button)
 
 ### Tools
 - [Audio-fingerprinting](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
@@ -88,6 +97,10 @@
 - [Power BI Helper (Add-on, free)](https://radacad.com/power-bi-helper)
 - [sqlite-utils](https://sqlite-utils.datasette.io/en/stable/)
 - [Platform Uno - open source, multi-platform, single source](https://platform.uno/)
+- [Databricks - how to build a cloud data platform](https://databricks.com/p/webinar/free-training-how-to-build-a-cloud-data-platform?utm_medium=paid+social&utm_source=linkedin&utm_campaign=618623676&utm_adgroup=173687336&utm_content=od+webinar&utm_offer=free-training-how-to-build-a-cloud-data-platform&utm_ad=152830396&li_fat_id=746fe523-b928-43d9-9a3d-937054dc3697)
+- [Setup Hugo and Cloudflare](https://smaller.fish/posts/hugo)
+- [Grist - modern relational spreadsheet](https://github.com/gristlabs/grist-core)
+- [Microsoft AI Builder to extract data from pdf](https://www.youtube.com/watch?v=J3d6bx3i4l0)
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -102,6 +115,8 @@
 - [A career ending mistake (failing to plan for our retirement)](https://bitfieldconsulting.com/golang/career)
 - [My notebook system](http://ratfactor.com/notes)
 - [My favorite essays of life advice](https://www.benkuhn.net/weeklyessays/)
+- [Get Computer Glasses](https://www.tbray.org/ongoing/When/202x/2022/03/04/Get-Computer-Glasses)
+- [MY Sparktype - The Advisor. Shadow: The Maven. Anti-Sparktype: The Advocate](https://sparketype.com/sparketest/results/?st=Advisor&sst=Maven&ss=no&as=Advocate)
 
 ### Epistemology
 - [How to mislead with facts](https://consilienceproject.org/how-to-mislead-with-facts/)
@@ -123,12 +138,16 @@
 - [Entrepreneur who brought white rabbit to Singapore](https://redhot.sg/meet-the-entrepreneur-who-brought-white-rabbit-candy-ice-cream-to-singapore-99360.html)
 - [The Death of Process - how to write policies and process guidelines](https://bellmar.medium.com/the-death-of-process-cdb0151a41fe)
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/)
+- [How to intentionally structure and scale company communications](https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8)
+- [Working in companies with a culture of writing](https://founder-fodder.ghost.io/writing-cultures-win/)
 
 ### Teaching / Adult Education
 - [A New Engineering Education System](https://arstechnica.com/science/2021/12/a-year-on-the-highs-and-lows-of-a-new-engineering-education-system/)
 - [Topclass LMS system](https://www.wbtsystems.com/)
 - [Mastering Metacognition](https://www.activelylearn.com/post/metacognition)
 - [Lemon Law for Rotten College Education](https://www.washingtonpost.com/opinions/2022/02/14/lemon-law-for-rotten-college-educations/)
+- [Powtoon - Professional video animations ](https://www.powtoon.com/creators/?utm_source=google&utm_medium=cpc&utm_campaign=2021_04_brand_asia&cq_plac=&cq_net=g&cq_pos=&cq_med=&ad_id=528014777176&ad_group_id=75206368707&keyword=%2Bpow%20%2Btoon%20%2Banimation&gclid=EAIaIQobChMI0JSzuKCI9gIVO5lmAh1rDga-EAAYASAAEgJXQfD_BwE)
+
 
 ### Health
 - [Last Resort Cancer Therapy](https://www.nature.com/articles/d41586-022-00241-0)
@@ -149,6 +168,8 @@
 
 ### Weird
 - [The man who gave it all away](https://mosaicscience.com/story/George-Price-altruism-equation/)
+- [The nocturnals - ultra-introverts and their sleep](https://www.theatlantic.com/family/archive/2022/02/ultra-introverts-nocturnal-lives/622856/)
+- [Segmented Sleep](https://www.nytimes.com/2022/02/12/style/segmented-sleep.html)
 
 ### Writing
 - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
