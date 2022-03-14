@@ -69,6 +69,10 @@
 - [Software Dev pushes us to get better as people](https://jessitron.com/2021/11/28/software-development-pushes-us-to-get-better-as-people/)
 - [Frugal Computing](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
 - [Basic Quantum Algorithms](https://arxiv.org/abs/2201.10574)
+- [Books for Engineering Managers](https://www.karllhughes.com/posts/reading-for-engineering-managers)
+- [Engineering Mgt Resources/books](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
+- [Non-standard books for Software developers](https://mihaiolteanu.me/books.html)
+- [To Save C, we must save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -101,6 +105,8 @@
 - [Setup Hugo and Cloudflare](https://smaller.fish/posts/hugo)
 - [Grist - modern relational spreadsheet](https://github.com/gristlabs/grist-core)
 - [Microsoft AI Builder to extract data from pdf](https://www.youtube.com/watch?v=J3d6bx3i4l0)
+- [Bubble - no code platform](https://bubble.io/blog/no-code-for-engineers/)
+- [Outsystems - no/low code platform](https://www.outsystems.com/free-edition/)
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -147,6 +153,9 @@
 - [Mastering Metacognition](https://www.activelylearn.com/post/metacognition)
 - [Lemon Law for Rotten College Education](https://www.washingtonpost.com/opinions/2022/02/14/lemon-law-for-rotten-college-educations/)
 - [Powtoon - Professional video animations ](https://www.powtoon.com/creators/?utm_source=google&utm_medium=cpc&utm_campaign=2021_04_brand_asia&cq_plac=&cq_net=g&cq_pos=&cq_med=&ad_id=528014777176&ad_group_id=75206368707&keyword=%2Bpow%20%2Btoon%20%2Banimation&gclid=EAIaIQobChMI0JSzuKCI9gIVO5lmAh1rDga-EAAYASAAEgJXQfD_BwE)
+- [Doodly](https://www.doodly.com/)
+- [H5P, Merlot, SkillsCommon - learning tech](https://h5p.org/merlot-skills-commons-h5p)
+- [Rustic Software - SCORM player etc.](https://rusticisoftware.com/job/software-developer/)
 
 
 ### Health
@@ -184,3 +193,6 @@
 
 ### Climate
 - [Collapse of Liangzhu and other cultures in lower Yangtze in response to climate change](https://www.science.org/doi/10.1126/sciadv.abi9275)
+
+### COVID, Processes
+- [Notarise - notarise your vaccination status](https://www.notarise.gov.sg/)
