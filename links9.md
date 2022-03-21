@@ -5,6 +5,7 @@
 - [Learn Python AST by building linter](https://sadh.life/post/ast/)
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 - [Python-WASM](https://github.com/ethanhs/python-wasm)
+- [Google IT Automation with Python Coursera course](https://www.coursera.org/professional-certificates/google-it-automation?utm_source=gg&utm_medium=sem&utm_campaign=11-GoogleITwithPython-ROW&utm_content=B2C&campaignid=9733806670&adgroupid=119184274733&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=507191775308&hide_mobile_promo&gclid=EAIaIQobChMI0MjenYH_9AIV1DMrCh0DpQoPEAAYASAAEgJK1fD_BwE#courses)
 
 ### Machine Learning, AI
 - [Backtest for time series models](https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/)
@@ -31,6 +32,11 @@
 - [book: Probabilistic machine learning](https://probml.github.io/pml-book/book2.html)
 - [Course: Computational Linear Algebra at FastAI](https://www.kdnuggets.com/2020/07/computational-linear-algebra-free-course.html)
 - [Gradients without backpropagation](https://arxiv.org/abs/2202.08587)
+- [Making Deep Learning go brrrr](https://horace.io/brrr_intro.html)
+- [LightGBM Wiki](https://en.wikipedia.org/wiki/LightGBM)
+- [Evaluating Linear Regression Model (LINE tests)](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
+- [Gentle Intro to autocorrelation and partial-autocorrelation](https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/)
+- [PACF - PennState](https://online.stat.psu.edu/stat510/lesson/2/2.2)
 
 ### Probability & Statistics
 - [Intro to Propensity Score Methods for reducing the effects of confounding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144483/)
@@ -73,6 +79,9 @@
 - [Engineering Mgt Resources/books](https://practicallyleading.dev/the-big-list-of-engineering-management-resources-march-2022)
 - [Non-standard books for Software developers](https://mihaiolteanu.me/books.html)
 - [To Save C, we must save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
+- [Practice coding GUI from scratch (resources)](https://news.ycombinator.com/item?id=30746110)
+- [Double precision is not good enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
+- [Hardest thing about engineering is requirements](https://michaeldehaan.substack.com/p/minimal-viable-product-is-old-and?s=r)
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -107,6 +116,8 @@
 - [Microsoft AI Builder to extract data from pdf](https://www.youtube.com/watch?v=J3d6bx3i4l0)
 - [Bubble - no code platform](https://bubble.io/blog/no-code-for-engineers/)
 - [Outsystems - no/low code platform](https://www.outsystems.com/free-edition/)
+- [Create Learning Platform with RoR](https://gilberttorchon.medium.com/creating-a-learning-platform-with-ruby-on-rails-part-i-9814d97f853d)
+
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -123,12 +134,15 @@
 - [My favorite essays of life advice](https://www.benkuhn.net/weeklyessays/)
 - [Get Computer Glasses](https://www.tbray.org/ongoing/When/202x/2022/03/04/Get-Computer-Glasses)
 - [MY Sparktype - The Advisor. Shadow: The Maven. Anti-Sparktype: The Advocate](https://sparketype.com/sparketest/results/?st=Advisor&sst=Maven&ss=no&as=Advocate)
+- [Plaintext productivity](https://plaintext-productivity.net/)
 
 ### Epistemology
 - [How to mislead with facts](https://consilienceproject.org/how-to-mislead-with-facts/)
 - [Plato and dashboards](https://ferd.ca/plato-s-dashboards.html)
 - [Journalists - stop writing stories, start monitoring consensus](https://glyph.twistedmatrix.com/2021/12/no-more-stories.html)
 - [In case I die](https://www.verekia.com/in-case-i-die)
+- [Modular Cognition](https://aeon.co/essays/how-evolution-hacked-its-way-to-intelligence-from-the-bottom-up)
+
 
 ### BizHack
 - [How we broke supply chain](https://prospect.org/economy/how-we-broke-the-supply-chain-intro/)
@@ -146,6 +160,11 @@
 - [A high-resilience org chart](https://jessitron.com/2021/05/26/a-high-resilience-org-chart/)
 - [How to intentionally structure and scale company communications](https://medium.com/levelshealth/how-to-intentionally-structure-scale-company-communications-2c4774e1f8c8)
 - [Working in companies with a culture of writing](https://founder-fodder.ghost.io/writing-cultures-win/)
+-[MVP is old!](https://michaeldehaan.substack.com/p/minimal-viable-product-is-old-and?s=r)
+
+### Agile / Scrum
+- [Product Backlog Refinement is scrum team responsibility](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility)
+- [Relevance of Project Mgt Skills in an agile world](https://dzone.com/articles/relevance-of-project-management-skills-in-an-agile-1)
 
 ### Teaching / Adult Education
 - [A New Engineering Education System](https://arstechnica.com/science/2021/12/a-year-on-the-highs-and-lows-of-a-new-engineering-education-system/)
@@ -182,17 +201,20 @@
 
 ### Writing
 - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
+- [Blog with Hugo, Docker, Python ](https://blog.ioces.com/matt/posts/everything-old-is-new-again/)
 
 ### Art/Media
 - [Chinese Painting Generator - Generative Art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
 - [Expressive Midi Generation Library](https://github.com/shimpe/expremigen)
 - [Waifu Labs - Anime portraits](https://waifulabs.com/)
+- [List of Generative Art Tools](https://opguides.info/design/generative-art/)
 
 ### Fun
 - [Odyssey Boards - Longboarding](https://odysseyboards.com/pages/our-story)
 
 ### Climate
 - [Collapse of Liangzhu and other cultures in lower Yangtze in response to climate change](https://www.science.org/doi/10.1126/sciadv.abi9275)
+- [Why America can't build big things anymore](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
 
 ### COVID, Processes
 - [Notarise - notarise your vaccination status](https://www.notarise.gov.sg/)
