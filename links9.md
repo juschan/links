@@ -44,17 +44,22 @@
 - [A comparison of propensity score methods: a case-study estimating the effectiveness of post-AMI statin use](https://pubmed.ncbi.nlm.nih.gov/16220490/)
 - [*** Introduction to Probability for Data Science - good book!!](https://probability4datascience.com/)
 - [institute of actuaries of australia - bootstrap modeling](https://www.actuaries.asn.au/Library/Events/GIS2010/GIS10_Paper_Shapland.pdf)
+- [American Causal Inference Conference 2022 Data Challenge](https://acic2022.mathematica.org/)
+- [Statistica Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/causal-inference/)
 
 ### Computer Science
 - [Hoare’s Rebuttal and Bubble Sort’s Comeback](https://blog.reverberate.org/2020/05/29/hoares-rebuttal-bubble-sorts-comeback.html)
 - [50 years of P vs Np vs possibility of the impossible](https://cacm.acm.org/magazines/2022/1/257448-fifty-years-of-p-vs-np-and-the-possibility-of-the-impossible/fulltext)
 - [Online book - Foundations of CS](http://infolab.stanford.edu/~ullman/focs.html)
+- [Compilers, the Forgotten Subject](https://www.tandfonline.com/doi/full/10.11120/ital.2011.10020032)
+- [YOu should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
 
 ### Programming languages, compilers, interpreter
 - [Writing a simple programming language from scratch](https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-1-54a2)
 - [How to approach writing an interpreter from scratch](https://www.toptal.com/scala/writing-an-interpreter)
 - [Bring your own interpreter - cybersecurity](https://synzack.github.io/Bring-Your-Own-Interpreter/)
-
+- [jDavid Beazley's Compiler Class (US, Online)](https://www.dabeaz.com/compiler.html)
+- [Chelsea Troy - Compiler 1 blog about Anatomy of a Compiler](https://chelseatroy.com/2021/07/12/compilers-1-anatomy-of-a-machine/)
 
 ### Software Engineering
 - [Writing in another language works](https://espadrine.github.io/blog/posts/sometimes-rewriting-in-another-language-works.html)
@@ -82,6 +87,9 @@
 - [Practice coding GUI from scratch (resources)](https://news.ycombinator.com/item?id=30746110)
 - [Double precision is not good enough](https://adambaskerville.github.io/posts/LespEigenvalues/)
 - [Hardest thing about engineering is requirements](https://michaeldehaan.substack.com/p/minimal-viable-product-is-old-and?s=r)
+- [Ian Sommerville - Website](https://iansommerville.com/professional/)
+- [In Defense of Simple Architecture](https://danluu.com/simple-architectures/)
+- [Nutcroft blog](https://nutcroft.com/)
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -135,6 +143,7 @@
 - [Get Computer Glasses](https://www.tbray.org/ongoing/When/202x/2022/03/04/Get-Computer-Glasses)
 - [MY Sparktype - The Advisor. Shadow: The Maven. Anti-Sparktype: The Advocate](https://sparketype.com/sparketest/results/?st=Advisor&sst=Maven&ss=no&as=Advocate)
 - [Plaintext productivity](https://plaintext-productivity.net/)
+- [Ability to see Expertise is a Milerstone Worth Aiming For](https://commoncog.com/blog/seeing-expertise-milestone-worth-aiming-for/)
 
 ### Epistemology
 - [How to mislead with facts](https://consilienceproject.org/how-to-mislead-with-facts/)
@@ -165,6 +174,7 @@
 ### Agile / Scrum
 - [Product Backlog Refinement is scrum team responsibility](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility)
 - [Relevance of Project Mgt Skills in an agile world](https://dzone.com/articles/relevance-of-project-management-skills-in-an-agile-1)
+- [Good books on managing hybrid/remote teams](https://news.ycombinator.com/item?id=30956245)
 
 ### Teaching / Adult Education
 - [A New Engineering Education System](https://arstechnica.com/science/2021/12/a-year-on-the-highs-and-lows-of-a-new-engineering-education-system/)
@@ -192,7 +202,7 @@
 ### Knowledge Mgt
 - [personal KM workshop through Social Learning Centre UK](https://activatelearning.wordpress.com/2012/09/29/personal-knowledge-management-workshop-through-social-learning-centre-uk/)
 - [KM Resources](https://stangarfield.medium.com/personal-knowledge-management-how-to-do-it-with-25-resources-and-10-books-on-pkm-2adce0e1d05c)
-
+- [Evergreen Notes](https://notes.andymatuschak.org/Evergreen_notes)
 
 ### Weird
 - [The man who gave it all away](https://mosaicscience.com/story/George-Price-altruism-equation/)
@@ -202,6 +212,7 @@
 ### Writing
 - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
 - [Blog with Hugo, Docker, Python ](https://blog.ioces.com/matt/posts/everything-old-is-new-again/)
+- [My Website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 
 ### Art/Media
 - [Chinese Painting Generator - Generative Art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
@@ -215,6 +226,10 @@
 ### Climate
 - [Collapse of Liangzhu and other cultures in lower Yangtze in response to climate change](https://www.science.org/doi/10.1126/sciadv.abi9275)
 - [Why America can't build big things anymore](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
+- [Food Climate Challenge](https://www.canarymedia.com/articles/food-and-farms/introducing-eating-the-earth-our-new-column-on-food-and-climate)
 
 ### COVID, Processes
 - [Notarise - notarise your vaccination status](https://www.notarise.gov.sg/)
+
+### Cryptography
+- [Master Problem in Cryptography](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/)
