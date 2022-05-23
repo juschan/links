@@ -10,6 +10,8 @@
 - [Python - Data Structures Tutorial](https://www.tutorialspoint.com/python_data_structure/index.htm)
 - [Working on virtualenv without magic](https://ruudvanasseldonk.com/2016/10/02/working-on-a-virtualenv-without-magic)
 - [JupyterLite - Notebook in the browser!](https://blog.jupyter.org/jupyter-everywhere-f8151c2cc6e8)
+- [Binary Search in Python](https://dzone.com/articles/binary-search-in-python)
+- [Code the Classics - Volume 1 (Game programming)](https://store.rpipress.cc/products/code-the-classics)
 
 ### Machine Learning, AI
 - [Backtest for time series models](https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/)
@@ -47,6 +49,18 @@
 - [Reinforcement Learning and Optimal Control](https://web.mit.edu/dimitrib/www/RLbook.html)
 - [Causalens - how ai can discover cause and effect](https://www.causalens.com/white-paper/how-can-ai-discover-cause-and-effect/)
 - [Causal AI outperforms Bayesian Networks](https://www.causalens.com/white-paper/why-causal-ai-models-outrun-bayesian-networks/)
+- [Contrast trees and distribution boosting](https://www.pnas.org/doi/10.1073/pnas.1921562117)
+- [NLP Demystified - free primer!](https://www.nlpdemystified.org/)
+- [Breaking down barriers to ML use](https://arstechnica.com/information-technology/2022/05/how-we-learned-to-break-down-barriers-to-machine-learning/)
+- [Memorizing Transformers - improving transformer performance with KNN](https://arxiv.org/abs/2203.08913)
+- [Programmer fights cancer with 50 Nvidia GPU cards](https://arxiv.org/abs/2203.08913)
+- [AI and ML explained](https://steveblank.com/2022/05/17/artificial-intelligence-and-machine-learning-explained/)
+- [Sentiment correlation in financial news networks and associated market movements](https://www.nature.com/articles/s41598-021-82338-6)
+- [Statquest Illustrated Guide to ML book](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B09ZCKR4H6/ref=sr_1_1?crid=33XM0D10SLAES&keywords=statquest+illustrated+guide+to+machine+learning&qid=1652449247&sprefix=statquest%2Caps%2C308&sr=8-1)
+- [SVM in Python - Statquest Coursera Course](https://www.coursera.org/projects/support-vector-machines-in-python)
+- [Classification Trees - Statquest Coursera Course](https://www.coursera.org/projects/support-vector-machines-in-python)
+- 
+
 
 ### Probability & Statistics
 - [Intro to Propensity Score Methods for reducing the effects of confounding](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3144483/)
@@ -58,10 +72,20 @@
 - [Statistica Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/category/causal-inference/)
 - [Propensity Score Analysis](http://web.hku.hk/~bcowling/examples/propensity.htm)
 - [Mathematical Foundations of Monte Carlo Methods](https://www.scratchapixel.com/lessons/mathematics-physics-for-computer-graphics/monte-carlo-methods-mathematical-foundations)
+- [Intro to Variance, Covariance and Correlation](https://www.alchemer.com/resources/blog/variance-covariance-correlation/)
+- [Understanding Variance, Covariance and Correlation](https://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
+- [Diff between VAR, COV and CORR](https://deep-r.medium.com/difference-between-variance-co-variance-and-correlation-ea0b7ddbaa1)
+- [John Wong's Confidence Interval Explanation](https://github.com/johnwck/my_da_ds_work/tree/master/2022_05_21_confidence_level_confidence_interval)
+- [Understanding Mathematics](https://www.math.utah.edu/~alfeld/math.html)
+
+### Synthetic Data Simulation
+- [MC Simulations with Correlated Variables in Python](https://towardsdatascience.com/journey-to-monte-carlo-mc-simulations-with-correlated-variables-in-python-1aef84d5742d)
+- [Generating correlated RV for a simulation model](https://www.jstor.org/stable/3010567)
 
 ### Data
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 - [RElational Algebra in DBMS: Operations with Examples](https://www.guru99.com/relational-algebra-dbms.html)
+- [Airbnb build 'Wall' to prevent data bugs](https://medium.com/airbnb-engineering/how-airbnb-built-wall-to-prevent-data-bugs-ad1b081d6e8f)
 
 
 ### Computer Science
@@ -117,7 +141,10 @@
 - [I was wrong. CRDTs are the future](https://josephg.com/blog/crdts-are-the-future/)
 - [Extensible File Systems for Go](https://news.ycombinator.com/item?id=30728348)
 - [5 koans of software architecture](https://bellmar.medium.com/five-koans-of-software-architecture-f9f7305598c2)
-
+- [Hundred Rabbits -  artist/programmers living on a yacht](https://www.theverge.com/22935074/hundred-rabbits-uxn-roms-preservation)
+- [Write the Docs Fest - Doc with runnable/testable code](https://www.writethedocs.org/conf/portland/2022/?ea-publisher=readthedocs&utm_source=readthedocs)
+- [Architecture of Open Source Applications](https://aosabook.org/en/index.html)
+- [Dive into Systems - CS Textbook on OS](https://diveintosystems.org/)
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -137,6 +164,10 @@
 - [Devbook](https://www.usedevbook.com/)
 - [Bridgetown - static site generator](https://bridgetown-v0.onrender.com/docs/)
 - [Single Binary Compiler Free Blog](https://flak.tedunangst.com/post/the-three-line-single-binary-compiler-free-blog)
+- [How to develop Magic](https://dzone.com/articles/how-to-develop-magic)
+- [Web3 Dev article example](https://dzone.com/articles/moving-from-full-stack-developer-to-web3-pioneer)
+- [Dokku0 - PaaS (for RoR)](https://dokku.com/)
+- [MS - Web Dev for Beginners course!](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ### Tools
 - [Audio-fingerprinting](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
@@ -165,7 +196,7 @@
 - [Open source platform for AR and VR](https://dzone.com/articles/open-source-platform-for-ar-and-vr)
 - [Inferno - OS for building X-platform distributed Systems](https://www.vitanuova.com/inferno/)
 - [Column - Developer Infrastructure Bank](https://column.com/)
-
+- [awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -185,6 +216,7 @@
 - [Plaintext productivity](https://plaintext-productivity.net/)
 - [Ability to see Expertise is a Milerstone Worth Aiming For](https://commoncog.com/blog/seeing-expertise-milestone-worth-aiming-for/)
 - [Hackathon teaches you more than books or course](https://analyticsindiamag.com/a-single-hackathon-teaches-you-more-than-any-book-or-course-ever-could-machinehack-grandmaster-tapas-das/)
+- [How to do hard things - ACT Therapy](https://every.to/superorganizers/how-to-do-hard-things)
 
 
 ### Epistemology
@@ -214,6 +246,8 @@
 - [MVP is old!](https://michaeldehaan.substack.com/p/minimal-viable-product-is-old-and?s=r)
 - [Zapier: The $5B unbundling opportunity](https://www.georgesequeira.com/writing/zapier-the-5b-unbundling-opportunity/)
 - [Strategy is no X](https://www.umr.io/blog/strategy-is-not-x)
+- [I spent 2 years launching Tiny Projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
+- [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity?s=r)
 
 ### Agile / Scrum
 - [Product Backlog Refinement is scrum team responsibility](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility)
@@ -253,6 +287,8 @@
 - [Cancer-Preventing vacinnes](https://www.science.org/content/article/new-generation-cancer-preventing-vaccines-wipe-tumors-form)
 - [Mitochondrial Transplant to heal dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
 - [H2E - System to harvest water from air](https://github.com/google/h2e_technical_documentation)
+- [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://www.sciencedirect.com/science/article/pii/S2352396422002225)
+
 
 ### Knowledge Mgt
 - [personal KM workshop through Social Learning Centre UK](https://activatelearning.wordpress.com/2012/09/29/personal-knowledge-management-workshop-through-social-learning-centre-uk/)
@@ -263,6 +299,7 @@
 - [The man who gave it all away](https://mosaicscience.com/story/George-Price-altruism-equation/)
 - [The nocturnals - ultra-introverts and their sleep](https://www.theatlantic.com/family/archive/2022/02/ultra-introverts-nocturnal-lives/622856/)
 - [Segmented Sleep](https://www.nytimes.com/2022/02/12/style/segmented-sleep.html)
+- [Idea Machines](https://nadia.xyz/idea-machines)
 
 ### Writing
 - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
@@ -275,14 +312,11 @@
 - [Waifu Labs - Anime portraits](https://waifulabs.com/)
 - [List of Generative Art Tools](https://opguides.info/design/generative-art/)
 - [Painting with Maths](https://www.youtube.com/c/InigoQuilez/videos)
-
+- [Khan Academy + Pixar - Pixar in a Box on how they use math/CS to make animation](https://www.khanacademy.org/computing/pixar)
 
 ### Fun
 - [Odyssey Boards - Longboarding](https://odysseyboards.com/pages/our-story)
 - [Lode Runner Game!](http://loderunnerwebgame.com/game/)
-
-
-
 
 ### Conflict
 - [Unrestricted War - China](https://www.wikiwand.com/zh-cn/%E8%B6%85%E9%99%90%E6%88%98)
@@ -298,6 +332,8 @@
 ### Cryptography and Security
 - [Master Problem in Cryptography](https://www.quantamagazine.org/researchers-identify-master-problem-underlying-all-cryptography-20220406/)
 - [SSO Wall of Shame (Single-sign on)](https://sso.tax/)
+- [Indexed FInance Hack](https://www.bloomberg.com/news/features/2022-05-19/crypto-platform-hack-rocks-blockchain-community)
+- [CS says Crypto should die](https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/)
 
 ### Free Learning Resource
 - [Singapore NLB - Udemy Business Access](https://eresources.nlb.gov.sg/main/resource/1361)
