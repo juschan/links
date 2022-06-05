@@ -15,7 +15,7 @@
 - [Pyscript - Pythin in your html](https://pyscript.net/)
 - [Modern Pandas - method chaining](https://tomaugspurger.github.io/method-chaining.html)
 - [Quarto - Publishing](https://quarto.org/)
-
+- [f-strings and re.VERBOSE](https://death.andgravity.com/f-re)
 
 ### Machine Learning, AI
 - [Backtest for time series models](https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/)
@@ -70,6 +70,10 @@
 - [Think Critically about ML, Ethical](https://news.mit.edu/2022/ethical-machine-learning-course-0415)
 - [NLP - Demystified (good for self-learning), 15 modules](https://www.nlpdemystified.org/)
 - [Data Science in Context - book by Peter Norvig](https://datascienceincontext.com/manuscript/)
+- [Quadratic - DS Spreadsheet](https://www.quadratic.to/)
+- [The Day I Became Friends with a Robot](https://tristrumtuttle.medium.com/the-day-i-became-friends-with-a-robot-86433f707fad)
+- [Auto Video Sueprcuts](https://lav.io/notes/videogrep-tutorial/)
+
 
 
 ### Probability & Statistics
@@ -85,6 +89,7 @@
 - [Intro to Variance, Covariance and Correlation](https://www.alchemer.com/resources/blog/variance-covariance-correlation/)
 - [Understanding Variance, Covariance and Correlation](https://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 - [Diff between VAR, COV and CORR](https://deep-r.medium.com/difference-between-variance-co-variance-and-correlation-ea0b7ddbaa1)
+- [Understanding Var, Cov and Corr](https://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 - [John Wong's Confidence Interval Explanation](https://github.com/johnwck/my_da_ds_work/tree/master/2022_05_21_confidence_level_confidence_interval)
 - [Understanding Mathematics](https://www.math.utah.edu/~alfeld/math.html)
 
@@ -193,6 +198,8 @@
 - [Virtual graph paper](https://virtual-graph-paper.com/)
 - [Fell in love with low-js](https://edofic.com/posts/2022-01-28-low-js/)
 - [wazero - zero dependency WebASsembly runtime for Go developers](https://github.com/tetratelabs/wazero)
+- [Digital Ocean - Serverless Functions](https://www.digitalocean.com/blog/introducing-digitalocean-functions-serverless-computing)
+- [Analyzing Data in Web3 with SQL](https://thisgoke.medium.com/analysing-data-in-web3-with-sql-6c205fff6364)
 
 
 ### Tools
@@ -225,7 +232,7 @@
 - [awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
 - [N8N - Automation system](https://n8n.io/)
 - [ModelRunner - speech-enabled data management platform](https://modelrunner.org/)
-
+- [Stripe Apps](https://stripe.com/en-sg/apps)
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -249,7 +256,7 @@
 - [Success determiuned by 3 Things](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
 - [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
 - [Great Junk Transfer Inheritance](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
-
+- [Donald Knuth on work habits, problem solving and happiness](https://shuvomoy.github.io/blogs/posts/Knuth-on-work-habits-and-problem-solving-and-happiness/)
 
 ### Epistemology
 - [How to mislead with facts](https://consilienceproject.org/how-to-mislead-with-facts/)
@@ -282,6 +289,8 @@
 - [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity?s=r)
 - [Photography and Ikigai](https://www.lkazphoto.com/blog/photography-and-ikigai)
 - [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
+- [Not my job](https://blog.dbsmasher.com/2022/05/24/not-my-job.html)
+- [When everything is important but nothing is getting done](https://sharedphysics.com/everything-is-important/)
 
 
 ### Agile / Scrum
@@ -328,6 +337,7 @@
 - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://www.sciencedirect.com/science/article/pii/S2352396422002225)
 - [Sea Squirts reverse aging (Japan Hoya, Korea Meongge)](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
 - [Heartbeats and heart attacks - EEC](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
+- [Personal Training Certification](https://www.personaltrainercertification.com.sg/reviews)
 
 
 ### Knowledge Mgt
@@ -347,6 +357,8 @@
 - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
 - [Blog with Hugo, Docker, Python ](https://blog.ioces.com/matt/posts/everything-old-is-new-again/)
 - [My Website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
+- [Monsterwriter App](https://www.monsterwriter.app/)
+
 
 ### Art/Media
 - [Chinese Painting Generator - Generative Art](https://zverok.github.io/blog/2021-12-28-grok-shan-shui.html)
@@ -370,6 +382,8 @@
 - [Collapse of Liangzhu and other cultures in lower Yangtze in response to climate change](https://www.science.org/doi/10.1126/sciadv.abi9275)
 - [Why America can't build big things anymore](https://fullstackeconomics.com/why-america-cant-build-big-things-any-more/)
 - [Food Climate Challenge](https://www.canarymedia.com/articles/food-and-farms/introducing-eating-the-earth-our-new-column-on-food-and-climate)
+- [Cheap gel film pulls water from air](https://newatlas.com/materials/drinking-water-harvester-air-gel-film/)
+
 
 ### COVID, Processes
 - [Notarise - notarise your vaccination status](https://www.notarise.gov.sg/)
