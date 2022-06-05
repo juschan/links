@@ -12,6 +12,10 @@
 - [JupyterLite - Notebook in the browser!](https://blog.jupyter.org/jupyter-everywhere-f8151c2cc6e8)
 - [Binary Search in Python](https://dzone.com/articles/binary-search-in-python)
 - [Code the Classics - Volume 1 (Game programming)](https://store.rpipress.cc/products/code-the-classics)
+- [Pyscript - Pythin in your html](https://pyscript.net/)
+- [Modern Pandas - method chaining](https://tomaugspurger.github.io/method-chaining.html)
+- [Quarto - Publishing](https://quarto.org/)
+
 
 ### Machine Learning, AI
 - [Backtest for time series models](https://machinelearningmastery.com/backtest-machine-learning-models-time-series-forecasting/)
@@ -59,7 +63,13 @@
 - [Statquest Illustrated Guide to ML book](https://www.amazon.com/StatQuest-Illustrated-Guide-Machine-Learning/dp/B09ZCKR4H6/ref=sr_1_1?crid=33XM0D10SLAES&keywords=statquest+illustrated+guide+to+machine+learning&qid=1652449247&sprefix=statquest%2Caps%2C308&sr=8-1)
 - [SVM in Python - Statquest Coursera Course](https://www.coursera.org/projects/support-vector-machines-in-python)
 - [Classification Trees - Statquest Coursera Course](https://www.coursera.org/projects/support-vector-machines-in-python)
-- 
+- [Medical Prognosis using AI](https://www.neuraldesigner.com/solutions/medical-prognosis)
+- [Interpretable DNN for cancer survival analysis by integrating genomic and clinical data](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-019-0624-2)
+- [Postgres ML](https://postgresml.org/)
+- [Training models for music creation (diffusion model)](https://nonint.com/2022/05/04/friends-dont-let-friends-train-small-diffusion-models/)
+- [Think Critically about ML, Ethical](https://news.mit.edu/2022/ethical-machine-learning-course-0415)
+- [NLP - Demystified (good for self-learning), 15 modules](https://www.nlpdemystified.org/)
+- [Data Science in Context - book by Peter Norvig](https://datascienceincontext.com/manuscript/)
 
 
 ### Probability & Statistics
@@ -95,6 +105,8 @@
 - [Compilers, the Forgotten Subject](https://www.tandfonline.com/doi/full/10.11120/ital.2011.10020032)
 - [YOu should be reading academic computer science papers](https://stackoverflow.blog/2022/04/07/you-should-be-reading-academic-computer-science-papers/)
 - [OpenDSA - Data Structures and Algorithms, CS materials](https://opendsa-server.cs.vt.edu/)
+- [GeeksForGeeks - Theory of Computation](https://www.geeksforgeeks.org/theory-of-computation-automata-tutorials/?ref=ghm#introduction)
+
 
 ### Programming languages, compilers, interpreter
 - [Writing a simple programming language from scratch](https://dev.to/evantypanski/writing-a-simple-programming-language-from-scratch-part-1-54a2)
@@ -106,7 +118,7 @@
 - [Compiler Construction Course at Oxford Brookes Uni](https://ssw.jku.at/Misc/CC/)
 - [Udemy - Intro to compiler construction and design](https://www.udemy.com/course/introduction-to-compiler-construction-and-design/)
 - [Hotbasic Compiler](https://www.angelfire.com/space/netcensus/hot/hotbest.html#DESIGN)
-
+- [Peter Naur, Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 
 ### Software Engineering
 - [Writing in another language works](https://espadrine.github.io/blog/posts/sometimes-rewriting-in-another-language-works.html)
@@ -145,6 +157,14 @@
 - [Write the Docs Fest - Doc with runnable/testable code](https://www.writethedocs.org/conf/portland/2022/?ea-publisher=readthedocs&utm_source=readthedocs)
 - [Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Dive into Systems - CS Textbook on OS](https://diveintosystems.org/)
+- [The beauty of Unix Pipelines](https://prithu.dev/posts/unix-pipeline/)
+- [Translating math into code with examples in Java, RAcket, Haskell and Python](https://matt.might.net/articles/discrete-math-and-code/)
+- [End of Big Data (hype)](https://benn.substack.com/p/the-end-of-big-data?s=r)
+- [A PHilosophy of Software Design](https://elvischidera.com/2022-04-29-philosphy-software-design)
+- [The Niche Programmer](https://ano.ee/blog/the-niche-programmer)
+- [State of Application Modernization](https://thenewstack.io/the-state-of-application-modernization-2022/)
+- [Racket is an acceptable Python](https://dustycloud.org/blog/racket-is-an-acceptable-python/)
+
 
 ### Web Dev
 - [HTML is a programming language](https://github.com/marianoguerra/hiapl)
@@ -168,6 +188,12 @@
 - [Web3 Dev article example](https://dzone.com/articles/moving-from-full-stack-developer-to-web3-pioneer)
 - [Dokku0 - PaaS (for RoR)](https://dokku.com/)
 - [MS - Web Dev for Beginners course!](https://github.com/microsoft/Web-Dev-For-Beginners)
+- [Smaller is better (flat file software](https://www.wilcosky.com/d/51-smaller-is-better-the-rise-fall-and-rise-of-flat-file-software)
+- [Feather Wiki](https://feather.wiki/)
+- [Virtual graph paper](https://virtual-graph-paper.com/)
+- [Fell in love with low-js](https://edofic.com/posts/2022-01-28-low-js/)
+- [wazero - zero dependency WebASsembly runtime for Go developers](https://github.com/tetratelabs/wazero)
+
 
 ### Tools
 - [Audio-fingerprinting](https://emysound.com/blog/open-source/2020/06/12/how-audio-fingerprinting-works.html)
@@ -197,6 +223,9 @@
 - [Inferno - OS for building X-platform distributed Systems](https://www.vitanuova.com/inferno/)
 - [Column - Developer Infrastructure Bank](https://column.com/)
 - [awk](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)
+- [N8N - Automation system](https://n8n.io/)
+- [ModelRunner - speech-enabled data management platform](https://modelrunner.org/)
+
 
 ### Life Hack
 - [Indie Hack Greencard](https://swizec.com/blog/how-i-used-indie-hacking-to-sponsor-my-own-greencard/)
@@ -217,6 +246,9 @@
 - [Ability to see Expertise is a Milerstone Worth Aiming For](https://commoncog.com/blog/seeing-expertise-milestone-worth-aiming-for/)
 - [Hackathon teaches you more than books or course](https://analyticsindiamag.com/a-single-hackathon-teaches-you-more-than-any-book-or-course-ever-could-machinehack-grandmaster-tapas-das/)
 - [How to do hard things - ACT Therapy](https://every.to/superorganizers/how-to-do-hard-things)
+- [Success determiuned by 3 Things](https://www.inc.com/justin-bariso/emotional-intelligence-mit-patrick-winston-how-to-communicate-effectively-how-to-write.html)
+- [Life Monitor](https://kevinkle.in/posts/2022-05-21-life_monitor/)
+- [Great Junk Transfer Inheritance](https://www.theglobeandmail.com/canada/article-the-great-junk-transfer-inheritance-decluttering-canada/)
 
 
 ### Epistemology
@@ -248,6 +280,9 @@
 - [Strategy is no X](https://www.umr.io/blog/strategy-is-not-x)
 - [I spent 2 years launching Tiny Projects](https://tinyprojects.dev/posts/i_spent_two_years_launching_tiny_projects)
 - [The diminishing returns of productivity culture](https://annehelen.substack.com/p/the-diminishing-returns-of-productivity?s=r)
+- [Photography and Ikigai](https://www.lkazphoto.com/blog/photography-and-ikigai)
+- [High Performance Individuals and Teams](https://pablasso.com/high-performance-individuals-and-teams/)
+
 
 ### Agile / Scrum
 - [Product Backlog Refinement is scrum team responsibility](https://www.scrum.org/resources/blog/scrum-trenches-product-backlog-refinement-scrum-team-responsibility)
@@ -255,6 +290,9 @@
 - [Good books on managing hybrid/remote teams](https://news.ycombinator.com/item?id=30956245)
 - [Organizing and scaling an effective data team](https://www.robdearborn.com/2022/03/13/organizing-and-scaling-an-effective-data-team/)
 
+### Game Engine
+- [Construct](https://www.construct.net/en)
+- [Monogame](https://www.monogame.net/)
 
 ### Teaching / Adult Education
 - [A New Engineering Education System](https://arstechnica.com/science/2021/12/a-year-on-the-highs-and-lows-of-a-new-engineering-education-system/)
@@ -288,6 +326,8 @@
 - [Mitochondrial Transplant to heal dying organs](https://www.nationalgeographic.com/science/article/how-a-game-changing-transplant-could-treat-dying-organs)
 - [H2E - System to harvest water from air](https://github.com/google/h2e_technical_documentation)
 - [Butyrylcholinesterase is a potential biomarker for Sudden Infant Death Syndrome](https://www.sciencedirect.com/science/article/pii/S2352396422002225)
+- [Sea Squirts reverse aging (Japan Hoya, Korea Meongge)](https://www.xjtlu.edu.cn/en/news/2022/may/eating-sea-squirts-may-reverse-the-signs-of-ageing-study-shows)
+- [Heartbeats and heart attacks - EEC](https://tabletopwhale.com/2016/10/19/heartbeats-and-heart-attacks.html)
 
 
 ### Knowledge Mgt
@@ -300,6 +340,8 @@
 - [The nocturnals - ultra-introverts and their sleep](https://www.theatlantic.com/family/archive/2022/02/ultra-introverts-nocturnal-lives/622856/)
 - [Segmented Sleep](https://www.nytimes.com/2022/02/12/style/segmented-sleep.html)
 - [Idea Machines](https://nadia.xyz/idea-machines)
+- [Insanely Useful Websites](https://www.insanelyusefulwebsites.com/)
+- [How the brain construcst the outside world](https://www.scientificamerican.com/article/how-the-brain-constructs-the-outside-world/#)
 
 ### Writing
 - [Evergreen note-writing helps insight accumulate](https://notes.andymatuschak.org/Evergreen_note-writing_helps_insight_accumulate)
@@ -313,6 +355,9 @@
 - [List of Generative Art Tools](https://opguides.info/design/generative-art/)
 - [Painting with Maths](https://www.youtube.com/c/InigoQuilez/videos)
 - [Khan Academy + Pixar - Pixar in a Box on how they use math/CS to make animation](https://www.khanacademy.org/computing/pixar)
+- [SG - Guitar Lessons](https://www.studio72.sg/guitar-trial-lesson/?gclid=EAIaIQobChMIie6Sz92C-AIVTiQrCh13fQ_BEAAYAyAAEgKkcfD_BwE)
+- [Making electronic music in SG](https://www.redbull.com/sg-en/how-the-pros-do-it-making-electronic-music)
+- [Grid-Culture - Ableton Certified Training Center, SG](https://www.grid-culture.com/)
 
 ### Fun
 - [Odyssey Boards - Longboarding](https://odysseyboards.com/pages/our-story)
