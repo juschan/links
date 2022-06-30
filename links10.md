@@ -1,7 +1,7 @@
-### links 10
+### Links 10
 
 ### Python
-[Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
+- [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
 
 ### Ruby on Rails
 - [Benefits of RoR](https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails)
@@ -9,6 +9,8 @@
 - [GoRails - learning](https://gorails.com/)
 - []()
 
+Golang
+- [gophercises](https://gophercises.com/)
 
 ### ML and AI
 - [Google engineer think company's AI has come to life](https://www.washingtonpost.com/technology/2022/06/11/google-ai-lamda-blake-lemoine/)
@@ -62,6 +64,8 @@
 - [Helping self-employed upskill and grow their careers](https://www.straitstimes.com/singapore/jobs/self-employed-freelancers-upskill-grow-careers-virtual-coaching-NTUC-NICA?utm_source=ron&utm_medium=dc-banner-lbimu&utm_campaign=apx58991)
 - [Translate value to executives using an outcome-driven mindset](https://dzone.com/articles/how-to-translate-value-to-executives-using-an-outc)
 - [Risk, Decisions and Scarcity](https://world.hey.com/jason/risk-decisons-and-scarcity-d4c7636c)
+- [Mgt is not Leadership and vice versa](https://www.mooreds.com/wordpress/archives/3516)
+
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
@@ -95,6 +99,7 @@
 ### Fun
 - [Game Crafter - create your own board games!](https://www.thegamecrafter.com/)
 - [Little Worlds](https://jason.today/little-worlds)
+- [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/)
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
