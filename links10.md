@@ -17,7 +17,15 @@ Golang
 - [YOLO6](https://dagshub.com/blog/yolov6/#)
 - [Going Critical](https://meltingasphalt.com/interactive/going-critical/)
 - [Why is computer generated music not as impressive as DALL-E 2?](https://news.ycombinator.com/item?id=31901499)
-
+- [RGA TrueRisk Life Population Study - Mortality Predictor using Credit Score](https://www.rgare.com/knowledge-center/media/research/truerisk-life-population-study-exploring-truerisk-life-as-a-mortality-predictor-in-the-contemporary-united-states-credit-active-population)
+- [Guide to Flower - Federated Learning](https://analyticsindiamag.com/guide-to-flower-a-framework-to-build-federated-learning-systems/)
+- [Top 10 papers on federated learning](https://analyticsindiamag.com/top-10-research-papers-on-federated-learning/)
+- [Featureform - Virtual Feature Store](https://www.featureform.com/)
+- [K-means clustering with Python (Real Python)](https://realpython.com/k-means-clustering-python/)
+- [Hands-on outlier detection using 1.5 IQR Rule](https://medium.com/@prashant.nair2050/hands-on-outlier-detection-and-treatment-in-python-using-1-5-iqr-rule-f9ff1961a414)
+- [IQR Rule](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
+- [Little - A test of MCAR for multivariate data with missing values](https://www.jstor.org/stable/2290157)
+- [almost-5-minute data science Pipeline](https://medium.com/propertyfinder-engineering/the-almost-5-minute-data-science-pipeline-df2879d4099e)
 
 ### Privacy
 - [Privacy-Preserving AI](https://www.kdnuggets.com/2020/05/privacy-preserving-ai.html)
@@ -48,6 +56,9 @@ Golang
 - [Concise Encoding - csv alternative](https://concise-encoding.org/support-ce.html)
 - [Indigo Stack - MacOS to run local web servers](https://indigostack.app/)
 - [Vaadin apps as native executables using Quarkus Native](https://vaadin.com/blog/vaadin-apps-as-native-executables-using-quarkus-native)
+- [Self-hosting on localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
+- [FXT - a library of algorithms](https://www.jjj.de/fxt/)
+- [HN - Toolset for frontend dev](https://news.ycombinator.com/item?id=32011439)
 
 ### Life Hack
 - [Entropy is fatal](https://kerkour.com/entropy-is-fatal)
@@ -55,7 +66,7 @@ Golang
 - [The Imperfectionist](https://ckarchive.com/b/75u7h8hkk9g9e)
 - [Are you a naive realist?](https://nautil.us/are-you-a-naive-realist-20403/)
 - [How smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
-
+- [On the use of a life](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
@@ -65,7 +76,7 @@ Golang
 - [Translate value to executives using an outcome-driven mindset](https://dzone.com/articles/how-to-translate-value-to-executives-using-an-outc)
 - [Risk, Decisions and Scarcity](https://world.hey.com/jason/risk-decisons-and-scarcity-d4c7636c)
 - [Mgt is not Leadership and vice versa](https://www.mooreds.com/wordpress/archives/3516)
-
+- [More training is not the default answer to poor work practices](https://www.channelnewsasia.com/commentary/hr-corporate-training-workshops-culture-productivity-burnout-team-building-2772571)
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
@@ -103,6 +114,7 @@ Golang
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
-
+- [Plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
+- [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
 
 
