@@ -26,9 +26,15 @@ Golang
 - [IQR Rule](https://www.thoughtco.com/what-is-the-interquartile-range-rule-3126244)
 - [Little - A test of MCAR for multivariate data with missing values](https://www.jstor.org/stable/2290157)
 - [almost-5-minute data science Pipeline](https://medium.com/propertyfinder-engineering/the-almost-5-minute-data-science-pipeline-df2879d4099e)
+- [Climate Warming Viz](https://twitter.com/marksubbarao/status/1544783827364679686)
+- [YOLOv7](https://arxiv.org/abs/2207.02696)
+- [Auto Insurance Fraud Analysis](https://towardsdatascience.com/for-real-auto-insurance-fraud-claim-detection-with-machine-learning-efcf957b38f3)
+- [Synthesized - Synthetic Data company](https://www.synthesized.io/)
+- [ML for change detection](https://makepath.com/machine-learning-change-detection-part-1/)
 
 ### Privacy
 - [Privacy-Preserving AI](https://www.kdnuggets.com/2020/05/privacy-preserving-ai.html)
+- [Bayes Rules! Great intro book](https://www.bayesrulesbook.com/)
 
 ### Probability and Stats
 - [Underprotection of Unpredictable Statistical Lives Compared to PRedictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
@@ -38,6 +44,10 @@ Golang
 
 ### Computer Science
 - [Weekly CS Paper](https://www.weeklycspaper.com/)
+- [Algorithms (book) - Jeff Erickson](https://jeffe.cs.illinois.edu/teaching/algorithms/)
+- [Galactic Algo](https://en.wikipedia.org/wiki/Galactic_algorithm)
+- [Book - Full Stack Computers](https://users.ece.cmu.edu/~koopman/stack_computers/contents.html)
+- [Prove of sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 
 ### Software Engineering
 - [Bash scripting](https://www.youtube.com/watch?v=7qd5sqazD7k)
@@ -48,17 +58,22 @@ Golang
 - [Some Assembly Required - Intro to Assembly](https://github.com/hackclub/some-assembly-required/)
 - [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
 - [Write documentation first. Then build.](https://reproof.app/blog/document-first-then-build)
+- [Case against CS master's degree](https://ozwrites.com/masters/)
 
 ### Projects
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
 
 ### Tools
 - [Concise Encoding - csv alternative](https://concise-encoding.org/support-ce.html)
-- [Indigo Stack - MacOS to run local web servers](https://indigostack.app/)
 - [Vaadin apps as native executables using Quarkus Native](https://vaadin.com/blog/vaadin-apps-as-native-executables-using-quarkus-native)
 - [Self-hosting on localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
 - [FXT - a library of algorithms](https://www.jjj.de/fxt/)
 - [HN - Toolset for frontend dev](https://news.ycombinator.com/item?id=32011439)
+
+### Web Dev
+- [Integer Math in JS](https://james.darpinian.com/blog/integer-math-in-javascript)
+- [Indigo Stack - MacOS to run local web servers](https://indigostack.app/)
+- [Self-host static website with OpenBSD, httpd and relayd](https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd/)
 
 ### Life Hack
 - [Entropy is fatal](https://kerkour.com/entropy-is-fatal)
@@ -77,6 +92,7 @@ Golang
 - [Risk, Decisions and Scarcity](https://world.hey.com/jason/risk-decisons-and-scarcity-d4c7636c)
 - [Mgt is not Leadership and vice versa](https://www.mooreds.com/wordpress/archives/3516)
 - [More training is not the default answer to poor work practices](https://www.channelnewsasia.com/commentary/hr-corporate-training-workshops-culture-productivity-burnout-team-building-2772571)
+- [Psychological Safety and Learning Behaviour](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf)
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
@@ -96,6 +112,9 @@ Golang
 - [Modern Diet is a Biosecurity Threat](https://palladiummag.com/2022/06/04/the-modern-diet-is-a-biosecurity-threat/)
 - [New molecule kills even the deadliest cancer](https://interestingengineering.com/new-molecule-kills-deadliest-cancer)
 - [Humans and wet-bulb endurance](https://www.psu.edu/news/research/story/humans-cant-endure-temperatures-and-humidities-high-previously-thought/)
+- [Hyperbaric Oxygen Therapy for post-COVID](https://www.nature.com/articles/s41598-022-15565-0)
+- [Population-level risk of alcohol consumption](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#seccestitle140)
+- [High-Intensity Exercise, some new news](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
 
 ### Adult Education
 - [Trainer Performance and Monitoring Assessment](https://www.happy.co.uk/leadership-and-personal-development/train-the-trainer-and-tpma-certification-programmes/tpma-certification-essentials/)
@@ -103,6 +122,8 @@ Golang
 ### Climate
 - [India not ready for deadly combi of heat and humidity](https://arstechnica.com/science/2022/06/india-isnt-ready-for-a-deadly-combination-of-heat-and-humidity/)
 - [Fertilize the ocean with iron - create carbon sink](https://www.youtube.com/watch?v=8ZO9M1_CJD0)
+- [Pacific Northwest Heat Wave Study](https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave)
+- [UN WArns of 'Total Societal Collapse'](https://bylinetimes.com/2022/05/26/un-warns-of-total-societal-collapse-due-to-breaching-of-planetary-boundaries/)
 
 ### Coaching
 - [Monk Fit Coaching](https://rajanshankara.com/)
@@ -111,10 +132,11 @@ Golang
 - [Game Crafter - create your own board games!](https://www.thegamecrafter.com/)
 - [Little Worlds](https://jason.today/little-worlds)
 - [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/)
+- [fluxus - #D graphics, sounds and games](https://www.pawfal.org/fluxus/)
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
 - [Plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
-
+- [Dool automaton that write programmable text](https://mymodernmet.com/jaquet-droz-automata/)
 
