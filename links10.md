@@ -41,6 +41,8 @@ Golang
 
 ### Compilers/Interpreters
 - [Crafting Interpreters - Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
+- [Crafting Interpreters - Book Review](https://eli.thegreenplace.net/2022/book-review-crafting-interpreters-by-robert-nystrom/)
+- [Pratt Parsers](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 
 ### Computer Science
 - [Weekly CS Paper](https://www.weeklycspaper.com/)
@@ -69,6 +71,7 @@ Golang
 - [Self-hosting on localhost](https://jo-m.ch/posts/2022/07/self-hosting-on-localhost/)
 - [FXT - a library of algorithms](https://www.jjj.de/fxt/)
 - [HN - Toolset for frontend dev](https://news.ycombinator.com/item?id=32011439)
+- [Unity vs Unreal game engines](https://circuitstream.com/blog/unity-vs-unreal/)
 
 ### Web Dev
 - [Integer Math in JS](https://james.darpinian.com/blog/integer-math-in-javascript)
@@ -82,6 +85,7 @@ Golang
 - [Are you a naive realist?](https://nautil.us/are-you-a-naive-realist-20403/)
 - [How smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 - [On the use of a life](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
+- [Long term plans don't work and how to fix them.](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
@@ -115,6 +119,8 @@ Golang
 - [Hyperbaric Oxygen Therapy for post-COVID](https://www.nature.com/articles/s41598-022-15565-0)
 - [Population-level risk of alcohol consumption](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(22)00847-9/fulltext#seccestitle140)
 - [High-Intensity Exercise, some new news](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
+- [Answer to lactose intolerance](https://www.popsci.com/story/science/lactose-intolerance-microbiome/)
+- [Ashwagandha - most powerful adaptogen](https://www.youtube.com/watch?v=vOsp52De41I)
 
 ### Adult Education
 - [Trainer Performance and Monitoring Assessment](https://www.happy.co.uk/leadership-and-personal-development/train-the-trainer-and-tpma-certification-programmes/tpma-certification-essentials/)
@@ -139,4 +145,5 @@ Golang
 - [Plane with no moving parts](https://news.mit.edu/2018/first-ionic-wind-plane-no-moving-parts-1121)
 - [The status of the book in the age of digital media](https://www.thesmartset.com/the-status-of-the-book-in-the-age-of-digital-media/)
 - [Dool automaton that write programmable text](https://mymodernmet.com/jaquet-droz-automata/)
-
+- [Strandbeest](https://www.youtube.com/watch?v=MYGJ9jrbpvg)
+- [Shrooly - mushroom growing](https://shrooly.com/)
