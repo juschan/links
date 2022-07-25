@@ -31,6 +31,17 @@ Golang
 - [Auto Insurance Fraud Analysis](https://towardsdatascience.com/for-real-auto-insurance-fraud-claim-detection-with-machine-learning-efcf957b38f3)
 - [Synthesized - Synthetic Data company](https://www.synthesized.io/)
 - [ML for change detection](https://makepath.com/machine-learning-change-detection-part-1/)
+- [Intro to Graph Network - Video, Google Tensorflow](https://www.youtube.com/watch?v=8owQBFAHw7E)
+- [Predicting Consumer Choices research paper](https://statmodeling.stat.columbia.edu/2022/07/21/predicting-consumers-choices-in-the-age-of-the-internet-ai-and-almost-perfect-tracking-some-things-change-the-key-challenges-do-not/)
+- [Distill.pub - ML papers that are clear and understandable. Good for learning!](https://distill.pub/)
+- [ML with PySpark and MLlib, Binary Classification](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
+- [Random Forest Classifier with Apache Spark](https://medium.com/rahasak/random-forest-classifier-with-apache-spark-c63b4a23a7cc)
+- [Demo Apache Spark MLlib - RF and GBT](https://swan-gallery.web.cern.ch/notebooks/apache_spark1/ML_Spark_MLlib.html)
+- [Intro to XAI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
+- [Spark 3.0 - Handling Class Imbalance Using Weights](http://blog.madhukaraphatak.com/spark-3-introduction-part-4/)
+
+### Data
+- [How to be uncertain with dates](https://www.datafix.com.au/BASHing/2020-02-12.html)
 
 ### Privacy
 - [Privacy-Preserving AI](https://www.kdnuggets.com/2020/05/privacy-preserving-ai.html)
@@ -61,6 +72,7 @@ Golang
 - [Explaining Code using ASCII Art](https://blog.regehr.org/archives/1653)
 - [Write documentation first. Then build.](https://reproof.app/blog/document-first-then-build)
 - [Case against CS master's degree](https://ozwrites.com/masters/)
+- [Mistaken-Resistant Engineering](https://github.com/EternityForest/AnyoneCanDoIt)
 
 ### Projects
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
@@ -72,6 +84,9 @@ Golang
 - [FXT - a library of algorithms](https://www.jjj.de/fxt/)
 - [HN - Toolset for frontend dev](https://news.ycombinator.com/item?id=32011439)
 - [Unity vs Unreal game engines](https://circuitstream.com/blog/unity-vs-unreal/)
+- [T2-SDE Linux distribution for building software](https://t2sde.org/)
+- [SpatiaLite - SQLite supporting Spatial functionality](https://www.gaia-gis.it/fossil/libspatialite/index)
+- [Writing PhD Thesis using groff](https://jstutter.netlify.app/)
 
 ### Web Dev
 - [Integer Math in JS](https://james.darpinian.com/blog/integer-math-in-javascript)
@@ -101,10 +116,14 @@ Golang
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
 
+### Knowledge Mgt
+- [Programmable Notes - Agent-based Note-Taking](https://maggieappleton.com/programmatic-notes)
+
 ### Web Dev
 - [50 projects, 50 days](https://github.com/bradtraversy/50projects50days)
 - [Ghost Blogging Platform](https://ghost.org)
 - [Code Academy - learn to code](https://www.codecademy.com/)
+- [Tao of Node - Design, Architecture & Best Practices](https://alexkondov.com/tao-of-node/)
 
 ### Writing
 - [Writing is hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
@@ -147,3 +166,7 @@ Golang
 - [Dool automaton that write programmable text](https://mymodernmet.com/jaquet-droz-automata/)
 - [Strandbeest](https://www.youtube.com/watch?v=MYGJ9jrbpvg)
 - [Shrooly - mushroom growing](https://shrooly.com/)
+- [Books to attact others to your field](https://news.ycombinator.com/item?id=30822339)
+
+### Economics
+- [The ownership crissi](https://ystrickler.medium.com/the-ownership-crisis-55a5f84c3e88)
