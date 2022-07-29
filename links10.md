@@ -2,12 +2,12 @@
 
 ### Python
 - [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
+- [How to use MQTT in Python](https://dzone.com/articles/how-to-use-mqtt-in-python-paho)
 
 ### Ruby on Rails
 - [Benefits of RoR](https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails)
 - [Sticking with RoR at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
 - [GoRails - learning](https://gorails.com/)
-- []()
 
 Golang
 - [gophercises](https://gophercises.com/)
@@ -39,6 +39,16 @@ Golang
 - [Demo Apache Spark MLlib - RF and GBT](https://swan-gallery.web.cern.ch/notebooks/apache_spark1/ML_Spark_MLlib.html)
 - [Intro to XAI with Shapley values](https://shap.readthedocs.io/en/latest/example_notebooks/overviews/An%20introduction%20to%20explainable%20AI%20with%20Shapley%20values.html)
 - [Spark 3.0 - Handling Class Imbalance Using Weights](http://blog.madhukaraphatak.com/spark-3-introduction-part-4/)
+- [Parallelize SHAP with MLlib and PySpark](https://towardsdatascience.com/parallelize-your-massive-shap-computations-with-mllib-and-pyspark-b00accc8667c)
+- [Detecting data bias using SHAP and Machine Learning](https://databricks.com/blog/2019/06/17/detecting-bias-with-shap.html)
+- [Identifying high-risk groups using SHAP values on healthcare data](https://towardsdatascience.com/identifying-high-risk-groups-using-shap-values-on-healthcare-data-e3e7198f30f6)
+- [Supervised Clustering: Use SHAP for Better Clusterin Analysis](https://www.aidancooper.co.uk/supervised-clustering-shap-values/)
+- [Learning language is harder than you think](https://garymarcus.substack.com/p/learning-language-is-harder-than)
+- [Explain Gradient Boosting - ExplainedAI](https://explained.ai/gradient-boosting/)
+- [PySpark extract ROC Curve](https://itecnote.com/tecnote/pyspark-extract-roc-curve/)
+- [Stacking with Scikit-Learn](https://michael-fuchs-python.netlify.app/2020/04/29/stacking-with-scikit-learn/)
+
+
 
 ### Data
 - [How to be uncertain with dates](https://www.datafix.com.au/BASHing/2020-02-12.html)
@@ -73,6 +83,10 @@ Golang
 - [Write documentation first. Then build.](https://reproof.app/blog/document-first-then-build)
 - [Case against CS master's degree](https://ozwrites.com/masters/)
 - [Mistaken-Resistant Engineering](https://github.com/EternityForest/AnyoneCanDoIt)
+- [Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
+- [Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decision](https://garymarcus.substack.com/p/learning-language-is-harder-than)
+- [x86 optimization manuals](https://www.agner.org/optimize/#manuals)
+
 
 ### Projects
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
@@ -87,11 +101,17 @@ Golang
 - [T2-SDE Linux distribution for building software](https://t2sde.org/)
 - [SpatiaLite - SQLite supporting Spatial functionality](https://www.gaia-gis.it/fossil/libspatialite/index)
 - [Writing PhD Thesis using groff](https://jstutter.netlify.app/)
+- [Peech - text format into speech](https://peechapp.co/)
+- [Free tier services for devs](https://free-for.dev/#/)
 
 ### Web Dev
 - [Integer Math in JS](https://james.darpinian.com/blog/integer-math-in-javascript)
 - [Indigo Stack - MacOS to run local web servers](https://indigostack.app/)
 - [Self-host static website with OpenBSD, httpd and relayd](https://citizen428.net/blog/self-hosting-static-site-openbsd-httpd-relayd/)
+- [Secure Web Apps with API gateway](https://dzone.com/articles/secure-your-web-apps-with-an-api-gateway)
+- [CSS Master STyles](https://css.master.co/)
+- [A magical AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
+- [SST - full-stack serverless apps](https://sst.dev/)
 
 ### Life Hack
 - [Entropy is fatal](https://kerkour.com/entropy-is-fatal)
@@ -101,6 +121,10 @@ Golang
 - [How smartphones fragment our attention span](https://idratherbewriting.com/blog/awakening-moment-to-how-smartphones-fragment-our-attention/)
 - [On the use of a life](https://www.daemonology.net/blog/2020-09-20-On-the-use-of-a-life.html)
 - [Long term plans don't work and how to fix them.](https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html)
+- [How to take things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading)
+- [Einstein Principle: Accomplish more by doing less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
+- [Happines and the Art of Being](https://www.happinessofbeing.com/happiness_art_being)
+
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
@@ -112,6 +136,13 @@ Golang
 - [Mgt is not Leadership and vice versa](https://www.mooreds.com/wordpress/archives/3516)
 - [More training is not the default answer to poor work practices](https://www.channelnewsasia.com/commentary/hr-corporate-training-workshops-culture-productivity-burnout-team-building-2772571)
 - [Psychological Safety and Learning Behaviour](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Group_Performance/Edmondson%20Psychological%20safety.pdf)
+- [Becoming a Full-Time Creator as a Software Engineer](https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)
+- [How to hire actually good engineers - Siliconvict blog - interesting!](https://siliconvict.com/articles/6-how-to-hire-actually-good-engineers)
+- [The games we play: understanding strategic culture through games](https://mwi.usma.edu/the-games-we-play-understanding-strategic-culture-through-games/)
+- [Churn - How it works operationally and ways to calculate it](https://www.causal.app/blog/churn-how-it-works-operationally-and-ways-to-calculate-it)
+- [On the craft of engineering mgt](https://practicallyleading.dev/on-the-craft-of-engineering-management)
+- [A case study in early-stage startup execution](https://www.wave.com/en/blog/early-execution/)
+
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
@@ -140,6 +171,9 @@ Golang
 - [High-Intensity Exercise, some new news](https://statmodeling.stat.columbia.edu/2022/06/23/high-intensity-exercise-some-new-news/)
 - [Answer to lactose intolerance](https://www.popsci.com/story/science/lactose-intolerance-microbiome/)
 - [Ashwagandha - most powerful adaptogen](https://www.youtube.com/watch?v=vOsp52De41I)
+- [The opposite of Autism](https://www.lesswrong.com/posts/4zuFpLi7bYbwmEhoX/the-opposite-of-autism)
+- [Stronger hands lengthen your life](https://www.axios.com/2022/03/17/hand-grip-strength-falling-deaths)
+- 
 
 ### Adult Education
 - [Trainer Performance and Monitoring Assessment](https://www.happy.co.uk/leadership-and-personal-development/train-the-trainer-and-tpma-certification-programmes/tpma-certification-essentials/)
@@ -167,6 +201,9 @@ Golang
 - [Strandbeest](https://www.youtube.com/watch?v=MYGJ9jrbpvg)
 - [Shrooly - mushroom growing](https://shrooly.com/)
 - [Books to attact others to your field](https://news.ycombinator.com/item?id=30822339)
+- [Magnasanti - largest most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
+
 
 ### Economics
 - [The ownership crissi](https://ystrickler.medium.com/the-ownership-crisis-55a5f84c3e88)
+- [The death spiral of an American family](https://www.washingtonpost.com/nation/2022/03/20/intergenerational-wealth-middle-class-spiral/)
