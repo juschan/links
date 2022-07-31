@@ -52,6 +52,7 @@ Golang
 
 ### Data
 - [How to be uncertain with dates](https://www.datafix.com.au/BASHing/2020-02-12.html)
+- [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/)
 
 ### Privacy
 - [Privacy-Preserving AI](https://www.kdnuggets.com/2020/05/privacy-preserving-ai.html)
@@ -86,7 +87,8 @@ Golang
 - [Dangers of Microsoft Pluton](https://gabrielsieben.tech/2022/07/25/the-power-of-microsoft-pluton-2/)
 - [Architectural Frameworks, Patterns, and Tactics Are No Substitute for Making Your Own Decision](https://garymarcus.substack.com/p/learning-language-is-harder-than)
 - [x86 optimization manuals](https://www.agner.org/optimize/#manuals)
-
+- [Actually Portable Executable](https://fly.io/blog/sqlite-internals-btree/)
+- [Avg Software Engineering Salaries by Country, 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/)
 
 ### Projects
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
@@ -112,6 +114,8 @@ Golang
 - [CSS Master STyles](https://css.master.co/)
 - [A magical AWS serverless developer experience](https://journal.plain.com/posts/2022-02-08-a-magical-aws-serverless-developer-experience/)
 - [SST - full-stack serverless apps](https://sst.dev/)
+- [millionjs - Virtual DOM](https://millionjs.org/)
+- [Playcode - JS Playground](https://playcode.io/)
 
 ### Life Hack
 - [Entropy is fatal](https://kerkour.com/entropy-is-fatal)
@@ -124,7 +128,7 @@ Golang
 - [How to take things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading)
 - [Einstein Principle: Accomplish more by doing less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
 - [Happines and the Art of Being](https://www.happinessofbeing.com/happiness_art_being)
-
+- [WAnt to start hacking - Dive in quickly. Get into Hacking quickly!!](https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/)
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
