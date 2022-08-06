@@ -72,6 +72,7 @@ Golang
 - [Galactic Algo](https://en.wikipedia.org/wiki/Galactic_algorithm)
 - [Book - Full Stack Computers](https://users.ece.cmu.edu/~koopman/stack_computers/contents.html)
 - [Prove of sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
+- [Project eXpOS - educational OS for learning](https://exposnitc.github.io/expos-docs/)
 
 ### Software Engineering
 - [Bash scripting](https://www.youtube.com/watch?v=7qd5sqazD7k)
@@ -89,6 +90,8 @@ Golang
 - [x86 optimization manuals](https://www.agner.org/optimize/#manuals)
 - [Actually Portable Executable](https://fly.io/blog/sqlite-internals-btree/)
 - [Avg Software Engineering Salaries by Country, 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/)
+- [Modern Problesm require old solutions - rant about reinventing the wheel on web solutions](https://www.doodles.dev/2022/08/06/modern-problems-require-old-solutions.html)
+- [SW Books](https://software-engineering-books.com/)
 
 ### Projects
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
@@ -105,6 +108,8 @@ Golang
 - [Writing PhD Thesis using groff](https://jstutter.netlify.app/)
 - [Peech - text format into speech](https://peechapp.co/)
 - [Free tier services for devs](https://free-for.dev/#/)
+- [arc42 - Software Architecture Documentation](https://www.innoq.com/en/blog/brief-introduction-to-arc42/)
+
 
 ### Web Dev
 - [Integer Math in JS](https://james.darpinian.com/blog/integer-math-in-javascript)
@@ -116,6 +121,8 @@ Golang
 - [SST - full-stack serverless apps](https://sst.dev/)
 - [millionjs - Virtual DOM](https://millionjs.org/)
 - [Playcode - JS Playground](https://playcode.io/)
+- [Superblock - Internal Tooling for developers](https://www.superblocks.com/)
+- [Budibase - Open source no-code development](https://budibase.com/)
 
 ### Life Hack
 - [Entropy is fatal](https://kerkour.com/entropy-is-fatal)
@@ -146,7 +153,7 @@ Golang
 - [Churn - How it works operationally and ways to calculate it](https://www.causal.app/blog/churn-how-it-works-operationally-and-ways-to-calculate-it)
 - [On the craft of engineering mgt](https://practicallyleading.dev/on-the-craft-of-engineering-management)
 - [A case study in early-stage startup execution](https://www.wave.com/en/blog/early-execution/)
-
+- [Learn Entrepreneurship as SW engineering - Sell something online](https://blog.pragmaticengineer.com/want-to-start-a-startup-sell-something-online/)
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
