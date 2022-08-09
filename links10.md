@@ -3,11 +3,17 @@
 ### Python
 - [Automated PDF Reports with Python](https://mljar.com/blog/automated-reports-python/)
 - [How to use MQTT in Python](https://dzone.com/articles/how-to-use-mqtt-in-python-paho)
+- [Dask Dataframe Best Practices](https://docs.dask.org/en/stable/dataframe-best-practices.html)
+- [You should Compile Your Python and Here's why](https://blog.glyph.im/2022/04/you-should-compile-your-python-and-heres-why.html)
+- [Introducing Pandas UDF for Pyspark](https://www.databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
 
 ### Ruby on Rails
 - [Benefits of RoR](https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails)
 - [Sticking with RoR at Gitlab](https://thenewstack.io/why-were-sticking-with-ruby-on-rails-at-gitlab/)
 - [GoRails - learning](https://gorails.com/)
+
+### Pharo
+- [Pharo](https://pharo.org/)
 
 Golang
 - [gophercises](https://gophercises.com/)
@@ -47,16 +53,20 @@ Golang
 - [Explain Gradient Boosting - ExplainedAI](https://explained.ai/gradient-boosting/)
 - [PySpark extract ROC Curve](https://itecnote.com/tecnote/pyspark-extract-roc-curve/)
 - [Stacking with Scikit-Learn](https://michael-fuchs-python.netlify.app/2020/04/29/stacking-with-scikit-learn/)
-
+- [Shapash - python lib for ML for interpretability](http://shapash.readthedocs.io/)
 
 
 ### Data
 - [How to be uncertain with dates](https://www.datafix.com.au/BASHing/2020-02-12.html)
 - [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/)
+- [Data's role in accountability - Ethics, Diversity](https://www.involvepeople.org/data-role-accountability/)
 
-### Privacy
+### AI, Data - Privacy, Ethics, Reg
 - [Privacy-Preserving AI](https://www.kdnuggets.com/2020/05/privacy-preserving-ai.html)
 - [Bayes Rules! Great intro book](https://www.bayesrulesbook.com/)
+- [Spain unveils Europe's first sandbox for AI](https://www.lexology.com/library/detail.aspx?g=09cd19b8-ec89-429a-a55c-b6a5ae84ba49)
+- [Europe's proposed AI regulation](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
+- [EC's AI Regulation - Ethical and Legal Requirements](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12527-Artificial-intelligence-ethical-and-legal-requirements)
 
 ### Probability and Stats
 - [Underprotection of Unpredictable Statistical Lives Compared to PRedictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
@@ -92,6 +102,8 @@ Golang
 - [Avg Software Engineering Salaries by Country, 2022](https://codesubmit.io/blog/software-engineer-salary-by-country/)
 - [Modern Problesm require old solutions - rant about reinventing the wheel on web solutions](https://www.doodles.dev/2022/08/06/modern-problems-require-old-solutions.html)
 - [SW Books](https://software-engineering-books.com/)
+- [JS - statements vs expressions](https://www.joshwcomeau.com/javascript/statements-vs-expressions/)
+- [Post-apocalyptic programming](https://zserge.com/posts/post-apocalyptic-programming/)
 
 ### Projects
 - [Learn Haskell by building a blog generator](https://lhbg-book.link/01-about.html)
@@ -123,6 +135,13 @@ Golang
 - [Playcode - JS Playground](https://playcode.io/)
 - [Superblock - Internal Tooling for developers](https://www.superblocks.com/)
 - [Budibase - Open source no-code development](https://budibase.com/)
+- [Typescript Lang, download, docs](https://www.typescriptlang.org/)
+- [WORND - signup flow](https://rownd.io/)
+- [botspam apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
+
+### Excel
+- [More Ujnit TEsting with Excel Lambdas](https://paul-samuels.com/blog/2022/04/25/more-unit-testing-with-excel-lambdas/)
+
 
 ### Life Hack
 - [Entropy is fatal](https://kerkour.com/entropy-is-fatal)
@@ -135,7 +154,9 @@ Golang
 - [How to take things less personally](https://psyche.co/guides/how-to-take-things-less-personally-and-avoid-mind-reading)
 - [Einstein Principle: Accomplish more by doing less](https://www.calnewport.com/blog/2007/10/10/the-einstein-principle-accomplish-more-by-doing-less/)
 - [Happines and the Art of Being](https://www.happinessofbeing.com/happiness_art_being)
-- [WAnt to start hacking - Dive in quickly. Get into Hacking quickly!!](https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/)
+- [Want to start hacking - Dive in quickly. Get into Hacking quickly!!](https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/)
+- [3 tricks to ](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)
+- [The Hero's Journey of Getting Laid (off)](https://backtohumanity.substack.com/p/getting-laid-off)
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
@@ -154,12 +175,17 @@ Golang
 - [On the craft of engineering mgt](https://practicallyleading.dev/on-the-craft-of-engineering-management)
 - [A case study in early-stage startup execution](https://www.wave.com/en/blog/early-execution/)
 - [Learn Entrepreneurship as SW engineering - Sell something online](https://blog.pragmaticengineer.com/want-to-start-a-startup-sell-something-online/)
+- [Why devs can't sell](https://growthlab.so/why-devs-can-t-sell)
+- [The solo developer](https://thesoloadmin.com/the-solo-developer/)
+- [Always own your platform](http://www.alwaysownyourplatform.com/)
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
 
-### Knowledge Mgt
+### Knowledge Mgt / Epistemology
 - [Programmable Notes - Agent-based Note-Taking](https://maggieappleton.com/programmatic-notes)
+- [Evaluating information: Find the signal in the noise](https://fs.blog/evaluating-information/)
+- [The Epistemic Virtues of a closed Mind](https://www.frontiersin.org/articles/10.3389/fcomm.2021.545429/full)
 
 ### Web Dev
 - [50 projects, 50 days](https://github.com/bradtraversy/50projects50days)
@@ -169,6 +195,8 @@ Golang
 
 ### Writing
 - [Writing is hard](https://blog.torh.net/2022/06/14/writing-is-hard/)
+- [Sell Short Stories](https://superamit.substack.com/p/short-stories-how-much-do-you-make)
+- [Brevity 500 - short games to be a better writer](https://news.ycombinator.com/item?id=31921830)
 
 ### Game Dev
 - [Monogame](https://www.monogame.net/downloads/)
@@ -184,7 +212,14 @@ Golang
 - [Ashwagandha - most powerful adaptogen](https://www.youtube.com/watch?v=vOsp52De41I)
 - [The opposite of Autism](https://www.lesswrong.com/posts/4zuFpLi7bYbwmEhoX/the-opposite-of-autism)
 - [Stronger hands lengthen your life](https://www.axios.com/2022/03/17/hand-grip-strength-falling-deaths)
-- 
+- [Role of Lactobacillus reuteri in Human Health and Diseases](https://pubmed.ncbi.nlm.nih.gov/29725324/)
+- [Increased emergency cardiovascular events among under-40s during vaccine rollout](https://www.nature.com/articles/s41598-022-10928-z)
+- [Why experts are terrified of a human-made pandemic — and what we can do to stop it](https://armscontrolcenter.org/why-experts-are-terrified-of-a-human-made-pandemic-and-what-we-can-do-to-stop-it/)
+
+### Teaching Raspberry Pi
+- [Hello World magazine - special edition](https://www.raspberrypi.org/blog/making-the-most-of-hello-world-18-five-years/)
+- [Creating engaging online courses for computing educators](https://www.raspberrypi.org/blog/creating-free-online-courses-training-computing-computer-science-teachers-educators/)
+
 
 ### Adult Education
 - [Trainer Performance and Monitoring Assessment](https://www.happy.co.uk/leadership-and-personal-development/train-the-trainer-and-tpma-certification-programmes/tpma-certification-essentials/)
@@ -203,6 +238,8 @@ Golang
 - [Little Worlds](https://jason.today/little-worlds)
 - [Technicolor Tokyo](https://neocha.com/magazine/technicolor-tokyo/)
 - [fluxus - #D graphics, sounds and games](https://www.pawfal.org/fluxus/)
+- [Cool things people do with their blkogs](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)
+- [Stanford's war on social life](https://www.reddit.com/r/slatestarcodex/comments/vbu0xk/stanfords_war_on_social_life/)
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
@@ -218,3 +255,6 @@ Golang
 ### Economics
 - [The ownership crissi](https://ystrickler.medium.com/the-ownership-crisis-55a5f84c3e88)
 - [The death spiral of an American family](https://www.washingtonpost.com/nation/2022/03/20/intergenerational-wealth-middle-class-spiral/)
+- [Why Sri Lanka is having an economic crisis](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
+
+
