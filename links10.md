@@ -54,6 +54,12 @@ Golang
 - [PySpark extract ROC Curve](https://itecnote.com/tecnote/pyspark-extract-roc-curve/)
 - [Stacking with Scikit-Learn](https://michael-fuchs-python.netlify.app/2020/04/29/stacking-with-scikit-learn/)
 - [Shapash - python lib for ML for interpretability](http://shapash.readthedocs.io/)
+- [AUC-ROC, Gains Chart, Lift Curve with business implications](https://gsarantitis.wordpress.com/2020/04/29/auc-roc-gains-chart-and-lift-curve-explained-with-business-implications/)
+- [Evaluate business value of ML models  - gains plot, lift charts](https://www.analyticsvidhya.com/blog/2021/09/how-to-evaluate-the-business-value-of-ml-model/)
+- [Practical ML trips](http://blog.david-andrzejewski.com/kdd2011-best.html)
+- [ML Cost Benefit Analysis](https://towardsdatascience.com/cost-benefit-analysis-by-predicting-lead-score-and-expected-value-fb2082eef50a)
+- [Evaluating a classification Model - Ritchie Ng - good and complex!](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
+- [ML Case Study - Prudential Financial](https://towardsdatascience.com/risk-classification-assessment-for-life-insurance-eligibility-476252c1cfd5)
 
 
 ### Data
@@ -75,6 +81,8 @@ Golang
 - [Crafting Interpreters - Review](https://chidiwilliams.com/post/crafting-interpreters-a-review/)
 - [Crafting Interpreters - Book Review](https://eli.thegreenplace.net/2022/book-review-crafting-interpreters-by-robert-nystrom/)
 - [Pratt Parsers](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
+- [Guide to Parsing](https://dzone.com/articles/a-guide-to-parsing-algorithms-and-technology-part?fromrel=true)
+
 
 ### Computer Science
 - [Weekly CS Paper](https://www.weeklycspaper.com/)
@@ -138,6 +146,11 @@ Golang
 - [Typescript Lang, download, docs](https://www.typescriptlang.org/)
 - [WORND - signup flow](https://rownd.io/)
 - [botspam apocalypse](https://memex.marginalia.nu/log/61-botspam-apocalypse.gmi)
+- [Launch Startup Idea in a day - Use Render](https://dzone.com/articles/launch-your-startup-idea-in-a-day)
+- [Use Render and Go for the first time](https://dzone.com/articles/using-render-and-go-for-the-first-time)
+- [Render Blog](https://render.com/blog)
+- [Amazon LightSail (VPS service)](https://dzone.com/articles/amazon-lightsail-virtual-cloud-server)
+
 
 ### Excel
 - [More Ujnit TEsting with Excel Lambdas](https://paul-samuels.com/blog/2022/04/25/more-unit-testing-with-excel-lambdas/)
@@ -157,6 +170,8 @@ Golang
 - [Want to start hacking - Dive in quickly. Get into Hacking quickly!!](https://about.gitlab.com/blog/2022/07/27/cracking-our-bug-bounty-top-10/)
 - [3 tricks to ](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)
 - [The Hero's Journey of Getting Laid (off)](https://backtohumanity.substack.com/p/getting-laid-off)
+- [Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
+
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
@@ -178,6 +193,9 @@ Golang
 - [Why devs can't sell](https://growthlab.so/why-devs-can-t-sell)
 - [The solo developer](https://thesoloadmin.com/the-solo-developer/)
 - [Always own your platform](http://www.alwaysownyourplatform.com/)
+- [Finish what you start to make teams more productive](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
+- [Simon Sinek - Leadership, YOutube](https://www.youtube.com/watch?v=RyTQ5-SQYTo)
+
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
