@@ -6,6 +6,7 @@
 - [Dask Dataframe Best Practices](https://docs.dask.org/en/stable/dataframe-best-practices.html)
 - [You should Compile Your Python and Here's why](https://blog.glyph.im/2022/04/you-should-compile-your-python-and-heres-why.html)
 - [Introducing Pandas UDF for Pyspark](https://www.databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
+- [Snake-based REST API - FAST API, Mamba, Hydra](https://dzone.com/articles/snake-based-rest-api)
 
 ### Ruby on Rails
 - [Benefits of RoR](https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails)
@@ -60,6 +61,7 @@ Golang
 - [ML Cost Benefit Analysis](https://towardsdatascience.com/cost-benefit-analysis-by-predicting-lead-score-and-expected-value-fb2082eef50a)
 - [Evaluating a classification Model - Ritchie Ng - good and complex!](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
 - [ML Case Study - Prudential Financial](https://towardsdatascience.com/risk-classification-assessment-for-life-insurance-eligibility-476252c1cfd5)
+- [Youtube- Implement deep learning RL papers](https://www.youtube.com/watch?v=GJJc1t0rtSU)
 
 
 ### Data
@@ -83,6 +85,8 @@ Golang
 - [Pratt Parsers](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 - [Guide to Parsing](https://dzone.com/articles/a-guide-to-parsing-algorithms-and-technology-part?fromrel=true)
 
+### Lambdaway
+[lambda calculus programming language(?)](http://lambdaway.free.fr/lambdawalks/)
 
 ### Computer Science
 - [Weekly CS Paper](https://www.weeklycspaper.com/)
@@ -150,7 +154,10 @@ Golang
 - [Use Render and Go for the first time](https://dzone.com/articles/using-render-and-go-for-the-first-time)
 - [Render Blog](https://render.com/blog)
 - [Amazon LightSail (VPS service)](https://dzone.com/articles/amazon-lightsail-virtual-cloud-server)
+- [time-tick charts with nodejs](https://dzone.com/articles/create-time-ticks-chart-with-nodejs-and-lightningchart-js)
 
+### Crypto
+- [TURN Token](https://dzone.com/articles/turn-time-into-value)
 
 ### Excel
 - [More Ujnit TEsting with Excel Lambdas](https://paul-samuels.com/blog/2022/04/25/more-unit-testing-with-excel-lambdas/)
@@ -171,6 +178,7 @@ Golang
 - [3 tricks to ](https://www.deprocrastination.co/blog/3-tricks-to-start-working-despite-not-feeling-like-it)
 - [The Hero's Journey of Getting Laid (off)](https://backtohumanity.substack.com/p/getting-laid-off)
 - [Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
+- [Operating Well - What I learned at STripe](https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at)
 
 
 ### Biz Hack
@@ -241,6 +249,8 @@ Golang
 
 ### Adult Education
 - [Trainer Performance and Monitoring Assessment](https://www.happy.co.uk/leadership-and-personal-development/train-the-trainer-and-tpma-certification-programmes/tpma-certification-essentials/)
+- [SChon REflective model - Reflection in action, reflection on action](https://nursinganswers.net/reflective-guides/schon-reflective-model.php)
+- [NHS Reflective Practice](https://london.hee.nhs.uk/reflective-writing-models-reflection-and-reflective-practice)
 
 ### Climate
 - [India not ready for deadly combi of heat and humidity](https://arstechnica.com/science/2022/06/india-isnt-ready-for-a-deadly-combination-of-heat-and-humidity/)
@@ -258,6 +268,7 @@ Golang
 - [fluxus - #D graphics, sounds and games](https://www.pawfal.org/fluxus/)
 - [Cool things people do with their blkogs](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)
 - [Stanford's war on social life](https://www.reddit.com/r/slatestarcodex/comments/vbu0xk/stanfords_war_on_social_life/)
+- [Fashion Designer Tomo Koizumi, Creativity, Lego](https://www.youtube.com/watch?v=-K2j40Ks0zU)
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
