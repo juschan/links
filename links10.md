@@ -7,6 +7,7 @@
 - [You should Compile Your Python and Here's why](https://blog.glyph.im/2022/04/you-should-compile-your-python-and-heres-why.html)
 - [Introducing Pandas UDF for Pyspark](https://www.databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
 - [Snake-based REST API - FAST API, Mamba, Hydra](https://dzone.com/articles/snake-based-rest-api)
+- [dogelang - compiles to CPython bytecode](http://pyos.github.io/dg/)
 
 ### Ruby on Rails
 - [Benefits of RoR](https://www.toptal.com/ruby-on-rails/after-two-decades-of-programming-i-use-rails)
@@ -62,19 +63,24 @@ Golang
 - [Evaluating a classification Model - Ritchie Ng - good and complex!](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
 - [ML Case Study - Prudential Financial](https://towardsdatascience.com/risk-classification-assessment-for-life-insurance-eligibility-476252c1cfd5)
 - [Youtube- Implement deep learning RL papers](https://www.youtube.com/watch?v=GJJc1t0rtSU)
+- [Simplicity is an Advantage, but Complexity Sells](https://eugeneyan.com/writing/simplicity/)
 
+### Geospatial
+- [BUilding a Vector Map from Scratch](https://ckochis.com/building-a-vector-map-from-scratch)
+-[Intro to Apache Sedona](https://getindata.com/blog/introduction-Apache-Sedona/)
 
 ### Data
 - [How to be uncertain with dates](https://www.datafix.com.au/BASHing/2020-02-12.html)
 - [SQLite Internals: Pages & B-trees](https://fly.io/blog/sqlite-internals-btree/)
 - [Data's role in accountability - Ethics, Diversity](https://www.involvepeople.org/data-role-accountability/)
 
-### AI, Data - Privacy, Ethics, Reg
+### AI, Data - Privacy, Ethics, Reg,Law
 - [Privacy-Preserving AI](https://www.kdnuggets.com/2020/05/privacy-preserving-ai.html)
 - [Bayes Rules! Great intro book](https://www.bayesrulesbook.com/)
 - [Spain unveils Europe's first sandbox for AI](https://www.lexology.com/library/detail.aspx?g=09cd19b8-ec89-429a-a55c-b6a5ae84ba49)
 - [Europe's proposed AI regulation](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai)
 - [EC's AI Regulation - Ethical and Legal Requirements](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12527-Artificial-intelligence-ethical-and-legal-requirements)
+- [Copyright Infringement in AI Art](https://www.technollama.co.uk/copyright-infringement-in-artificial-intelligence-art)
 
 ### Probability and Stats
 - [Underprotection of Unpredictable Statistical Lives Compared to PRedictable Ones](https://onlinelibrary.wiley.com/doi/abs/10.1111/risa.12658)
@@ -84,6 +90,7 @@ Golang
 - [Crafting Interpreters - Book Review](https://eli.thegreenplace.net/2022/book-review-crafting-interpreters-by-robert-nystrom/)
 - [Pratt Parsers](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 - [Guide to Parsing](https://dzone.com/articles/a-guide-to-parsing-algorithms-and-technology-part?fromrel=true)
+- [Elements of Programming](http://elementsofprogramming.com/)
 
 ### Lambdaway
 [lambda calculus programming language(?)](http://lambdaway.free.fr/lambdawalks/)
@@ -95,6 +102,7 @@ Golang
 - [Book - Full Stack Computers](https://users.ece.cmu.edu/~koopman/stack_computers/contents.html)
 - [Prove of sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort)
 - [Project eXpOS - educational OS for learning](https://exposnitc.github.io/expos-docs/)
+- [Quirky computing books](https://github.com/fogus/thunks/blob/main/reading/quirkeys.org)
 
 ### Software Engineering
 - [Bash scripting](https://www.youtube.com/watch?v=7qd5sqazD7k)
@@ -133,7 +141,7 @@ Golang
 - [Peech - text format into speech](https://peechapp.co/)
 - [Free tier services for devs](https://free-for.dev/#/)
 - [arc42 - Software Architecture Documentation](https://www.innoq.com/en/blog/brief-introduction-to-arc42/)
-
+- [oasis - small Linux OS, statistically linked](https://github.com/oasislinux/oasis)
 
 ### Web Dev
 - [Integer Math in JS](https://james.darpinian.com/blog/integer-math-in-javascript)
@@ -179,7 +187,7 @@ Golang
 - [The Hero's Journey of Getting Laid (off)](https://backtohumanity.substack.com/p/getting-laid-off)
 - [Arguing from Compassion](https://centerforinquiry.org/blog/how-to-star-man-arguing-from-compassion/)
 - [Operating Well - What I learned at STripe](https://samgerstenzang.substack.com/p/operating-well-what-i-learned-at)
-
+- [Second-Order Thinking: What Smart People Use to OutPerform](https://fs.blog/second-order-thinking/)
 
 ### Biz Hack
 - [Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)
@@ -203,7 +211,15 @@ Golang
 - [Always own your platform](http://www.alwaysownyourplatform.com/)
 - [Finish what you start to make teams more productive](https://lucasfcosta.com/2022/07/19/finish-what-you-start.html)
 - [Simon Sinek - Leadership, YOutube](https://www.youtube.com/watch?v=RyTQ5-SQYTo)
+- [Can't afford to be an artist, much less respected](https://www.cdahmedeh.net/)
+- [Epsilon Method](https://jakobgreenfeld.com/epsilon-method)
+- [How W$ plans to monetize Godot using Red Hat's Open-source playbook](https://techcrunch.com/2022/08/19/how-w4-plans-to-commercialize-the-godot-game-engine-by-following-red-hats-playbook/?guccounter=1&guce_referrer=aHR0cHM6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS8&guce_referrer_sig=AQAAAFnLFIdQFRXlEHTIh8tYqrCIVAJfkBDPecnBppPKfZITgZjrLmnc6MPgmoLG4ltSjEoioPIDIz3ufaEDkxfeptvmmcjWtpQFJ1HqI790BTn9JoI8waeMwsBQQKZ6D5fydp73bryk5J6A1JQYS5urMkDP7CUULTHuwl1EbGuGDUHK)
+- -[Easier ot Manage 4 People than 1](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
+- [Can you be a great leader without technical expertise](https://hbr.org/2017/11/can-you-be-a-great-leader-without-technical-expertise)
+- [Avoiding People at Work](https://matt-rickard.com/avoiding-people-at-work)
 
+### Biz Ideas
+- [https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr](https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr)
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
@@ -257,6 +273,7 @@ Golang
 - [Fertilize the ocean with iron - create carbon sink](https://www.youtube.com/watch?v=8ZO9M1_CJD0)
 - [Pacific Northwest Heat Wave Study](https://news.uchicago.edu/story/new-study-lays-out-hidden-backstory-behind-deadly-pacific-northwest-heat-wave)
 - [UN WArns of 'Total Societal Collapse'](https://bylinetimes.com/2022/05/26/un-warns-of-total-societal-collapse-due-to-breaching-of-planetary-boundaries/)
+- [Earth - 6th hotest july](https://www.noaa.gov/news/earth-had-its-6th-hottest-july-and-year-to-date-on-record)
 
 ### Coaching
 - [Monk Fit Coaching](https://rajanshankara.com/)
@@ -269,6 +286,7 @@ Golang
 - [Cool things people do with their blkogs](https://brainbaking.com/post/2022/04/cool-things-people-do-with-their-blogs/)
 - [Stanford's war on social life](https://www.reddit.com/r/slatestarcodex/comments/vbu0xk/stanfords_war_on_social_life/)
 - [Fashion Designer Tomo Koizumi, Creativity, Lego](https://www.youtube.com/watch?v=-K2j40Ks0zU)
+- [Severance - workplace thriller series](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
@@ -286,4 +304,6 @@ Golang
 - [The death spiral of an American family](https://www.washingtonpost.com/nation/2022/03/20/intergenerational-wealth-middle-class-spiral/)
 - [Why Sri Lanka is having an economic crisis](https://noahpinion.substack.com/p/why-sri-lanka-is-having-an-economic)
 
+### Accounting 
+-[Accounting for Developers](https://www.moderntreasury.com/journal/accounting-for-developers-part-i)
 
