@@ -64,6 +64,9 @@ Golang
 - [ML Case Study - Prudential Financial](https://towardsdatascience.com/risk-classification-assessment-for-life-insurance-eligibility-476252c1cfd5)
 - [Youtube- Implement deep learning RL papers](https://www.youtube.com/watch?v=GJJc1t0rtSU)
 - [Simplicity is an Advantage, but Complexity Sells](https://eugeneyan.com/writing/simplicity/)
+- [TigerGraphtry.tigergraph.com)
+- [ML for Computational Fluid Dynamics](https://www.youtube.com/watch?v=IXMSOSEj14Q&ab_channel=SteveBrunton)
+
 
 ### Geospatial
 - [BUilding a Vector Map from Scratch](https://ckochis.com/building-a-vector-map-from-scratch)
@@ -217,9 +220,12 @@ Golang
 - -[Easier ot Manage 4 People than 1](https://staysaasy.com/management/2020/07/24/Managing-One-Person.html)
 - [Can you be a great leader without technical expertise](https://hbr.org/2017/11/can-you-be-a-great-leader-without-technical-expertise)
 - [Avoiding People at Work](https://matt-rickard.com/avoiding-people-at-work)
+- [FreshRemote.work](https://freshremote.work/companies/)
+- [Online shopping from India to Singapore](https://www.shoppreparcels.com/online-shopping-from-india-to-singapore/)
 
 ### Biz Ideas
 - [https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr](https://founderbeats.com/andy-cloke-shares-how-he-grew-data-fetcher---a-no-code-tool-for-airtable---to-8600-mrr)
+
 
 ### VR/AR
 - [Virtual Maker - interactive #D and VR scenes in browser](https://www.virtualmaker.net/)
@@ -287,6 +293,7 @@ Golang
 - [Stanford's war on social life](https://www.reddit.com/r/slatestarcodex/comments/vbu0xk/stanfords_war_on_social_life/)
 - [Fashion Designer Tomo Koizumi, Creativity, Lego](https://www.youtube.com/watch?v=-K2j40Ks0zU)
 - [Severance - workplace thriller series](https://readpassage.com/severance-is-the-workplace-thriller-weve-needed/)
+- [Kent Nishimura - Guitar, 25 or 6 to 4](https://www.youtube.com/watch?v=e8W2KoooUzg&ab_channel=KentNishimura)
 
 ### Weird
 - [The book that tore the publishing world apart](https://www.theguardian.com/books/2022/jun/18/the-book-that-tore-publishing-apart-harm-has-been-done-and-now-everyones-afraid)
@@ -297,7 +304,8 @@ Golang
 - [Shrooly - mushroom growing](https://shrooly.com/)
 - [Books to attact others to your field](https://news.ycombinator.com/item?id=30822339)
 - [Magnasanti - largest most terrible city of SimCity](https://weekly-geekly.imtqy.com/articles/358180/index.html)
-
+- [Robotic Art - I can't help myself](https://www.loosetooth.com/blog/can-t-help-myself-by-sun-yuan-peng-yu)
+- [I became a Pro Artist with NO art school and No talent](https://www.youtube.com/watch?v=zmUMhMs5vFE)
 
 ### Economics
 - [The ownership crissi](https://ystrickler.medium.com/the-ownership-crisis-55a5f84c3e88)
