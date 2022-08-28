@@ -3,10 +3,14 @@
 ### Biz Hack
 - [Fraction Work](https://fraction.work/faq)
 - [Grow SW ideas to $6k MRR in 3 months](https://www.indiehackers.com/post/how-i-grew-software-ideas-to-6k-mrr-in-three-months-4b6598f378)
+- [The web is a harsh manager](https://daverupert.com/2022/08/web-is-a-harsh-manager/)
+- []()
 
 ### Life Hack
 - [Artists don't have to believe in themselves to have success](https://www.youtube.com/watch?v=F137IANXaF4)
 - [Relax for the same result](https://sive.rs/relax)
+- [Creativity requires solitude](https://dkb.show/post/creativity-requires-solitude)
+- [The value of owning more books than you can read](https://bigthink.com/neuropsych/do-i-own-too-many-books/)
 
 ### Learning Hacks
 - [System For Remembering Everything](https://www.youtube.com/watch?v=Rvey9g0VgY0)
@@ -19,6 +23,7 @@
 - [My Modern Met Academy - Art Courses](https://academy.mymodernmet.com/collections?category=courses)
 - [Designing Strategy](https://www.ideou.com/products/designing-strategy?utm_term=business%20strategy%20training&utm_campaign=MOF+-+Course+Themes+(PSDW)&utm_source=google&utm_medium=cpc&hsa_acc=2344323373&hsa_cam=17956796575&hsa_grp=140172727175&hsa_ad=614969866532&hsa_src=g&hsa_tgt=aud-1577921753423:kwd-470844772076&hsa_kw=business%20strategy%20training&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=EAIaIQobChMI-qDk4eG3-QIVKJNmAh0KFQVXEAAYBCAAEgIUzfD_BwE)
 - [GT - Online Masters CS](https://www.cc.gatech.edu/index.php/degree-programs/online-master-science-computer-science-oms-cs)
+- [Builderbook - build web apps](https://builderbook.org/)
 
 ### Writing
 - [Ultimate Guide to Writing Online](https://perell.com/essay/the-ultimate-guide-to-writing-online/)
@@ -30,9 +35,12 @@
 - [Awesome Cosmopolitan](https://github.com/shmup/awesome-cosmopolitan)
 - [System Design - Store passwords in Databases](https://www.youtube.com/watch?v=zt8Cocdy15c)
 - [Online book - Data-Centric Intro to Computing](https://dcic-world.org/2022-01-25/part_foundations.html)
+- [Running rust on logic gates](https://zdimension.fr/crabs-all-the-way-down/)
 
 ### SW Tools
 - [JPro](https://www.jpro.one/docs/current/1.1/Let's%20get%20started)
+- [Container support with .NET SDK](https://devblogs.microsoft.com/dotnet/announcing-builtin-container-support-for-the-dotnet-sdk/)
+- [nginx - future plans](https://www.nginx.com/blog/future-of-nginx-getting-back-to-our-open-source-roots/)
 
 ### Physical Therapy/Massage
 - [Stay in Touch - Lomi Lomi Training](https://stayintouch.earth/vision/)
@@ -61,6 +69,8 @@
 ###  Data
 - [Pure Data](https://puredata.info/)
 
+### Cryptocurrency, NFT
+- [9 Singapore firms into NFTs](https://newswwc.com/lifestyle/ahead-of-the-curve-these-9-sporean-companies-are-betting-big-on-nfts/)
 
 ### Interesting
 - [UK Excess Mortality](https://twitter.com/jburnmurdoch/status/1562004612172873728)
