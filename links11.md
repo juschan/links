@@ -18,7 +18,7 @@
 - [Podcast - From Prison to Programming](https://corecursive.com/prison-programming-with-rick-wolter/)
 - [The advice gap](https://seths.blog/2022/08/the-advice-gap/)
 - [Believability in Practice](https://commoncog.com/believability-in-practice/)
-
+- [How I tricked myself to exercising regularly](https://happychasing.substack.com/p/exercising-regularly)
 
 ### Learning Hacks
 - [System For Remembering Everything](https://www.youtube.com/watch?v=Rvey9g0VgY0)
@@ -50,6 +50,9 @@
 - [IEEE - Top Programming Languages](https://spectrum.ieee.org/top-programming-languages-2022)
 - [Why Snowflake is so expensive](https://blog.devgenius.io/why-is-snowflake-so-expensive-92b67203945)
 - [Typescript is terrible for library developers](https://erock.prose.sh/typescript-terrible-for-library-developers)
+- [Program Synthesis is Possible](https://www.cs.cornell.edu/~asampson/blog/minisynth.html)
+- [The Timeless Way of Programming - SW Architecture](http://tomasp.net/blog/2022/timeless-way/)
+
 
 
 ### SW Tools
@@ -66,6 +69,7 @@
 
 ### Web Dev
 - [Scaling a Node.js application](https://dzone.com/articles/scaling-a-node-js-application)
+= [w2ui - web gui framework](https://github.com/vitmalina/w2ui)
 
 ### Tool
 - [Owncast - self-hosted livestreaming tool](https://owncast.online)
@@ -97,7 +101,7 @@
 ### Interesting
 - [UK Excess Mortality](https://twitter.com/jburnmurdoch/status/1562004612172873728)
 - [Video - Solve climate change using iron powder](https://www.youtube.com/watch?v=i4Hnv_ZJSQY)
-- []()
+- [Virtual Ants - Nature, Complexity - Blog by Andrew Healey](https://healeycodes.com/virtual-ants)
 
 ### Health
 - [Improve eye vision](https://www.youtube.com/watch?v=AA9gyYbhG7I)
