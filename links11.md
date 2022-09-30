@@ -9,6 +9,8 @@
 - [Be good-argument driven, not data-driven](https://twitchard.github.io/posts/2022-08-26-metrics-schmetrics.html)
 - [Quiet quitting is about bad bossess, not bad employees](https://hbr.org/2022/08/quiet-quitting-is-about-bad-bosses-not-bad-employees)
 - [Fundamentals of a calm SaaS business](https://thebootstrappedfounder.com/fundamentals-of-a-calm-saas-business/)
+- [How to become a blockchain engineer](https://news.ycombinator.com/item?id=32934461)
+- [BlitzScaling - Book](https://thryft.asia/products/blitzscaling-the-lightning-fast-path-to-building-massively-valuable-companies)
 
 ### Life Hack
 - [Artists don't have to believe in themselves to have success](https://www.youtube.com/watch?v=F137IANXaF4)
@@ -19,6 +21,8 @@
 - [The advice gap](https://seths.blog/2022/08/the-advice-gap/)
 - [Believability in Practice](https://commoncog.com/believability-in-practice/)
 - [How I tricked myself to exercising regularly](https://happychasing.substack.com/p/exercising-regularly)
+- [Build Your Career doing Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
+
 
 ### Learning Hacks
 - [System For Remembering Everything](https://www.youtube.com/watch?v=Rvey9g0VgY0)
@@ -40,6 +44,8 @@
 - [Nature - Science must repsect the dignity and rights of all human beings](https://www.nature.com/articles/s41562-022-01443-2)
 - [AI-generated art illustrates another problem with technology](https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists)
 - [AI-Generated art won competition](https://www.cnbctv18.com/technology/ai-generated-artwork-wins-competition-in-us-and-artists-are-furious-14643761.htm)
+- [Artists finds medical photos in AI training set](https://arstechnica.com/information-technology/2022/09/artist-finds-private-medical-record-photos-in-popular-ai-training-data-set/)
+- [Neutralise cockroaches with laser automated machine vision](https://www.researchgate.net/publication/363699728_Selective_neutralisation_and_deterring_of_cockroaches_with_laser_automated_by_machine_vision)
 
 ### SW Engineering
 - [Awesome Cosmopolitan](https://github.com/shmup/awesome-cosmopolitan)
@@ -52,7 +58,8 @@
 - [Typescript is terrible for library developers](https://erock.prose.sh/typescript-terrible-for-library-developers)
 - [Program Synthesis is Possible](https://www.cs.cornell.edu/~asampson/blog/minisynth.html)
 - [The Timeless Way of Programming - SW Architecture](http://tomasp.net/blog/2022/timeless-way/)
-
+- [How to build a graph viz engine and why you shouldn't](https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt)
+- [It's a Unix system, I know this](https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878)
 
 
 ### SW Tools
@@ -69,16 +76,27 @@
 
 ### Web Dev
 - [Scaling a Node.js application](https://dzone.com/articles/scaling-a-node-js-application)
-= [w2ui - web gui framework](https://github.com/vitmalina/w2ui)
+- [w2ui - web gui framework](https://github.com/vitmalina/w2ui)
+- [Access user's camera with just HTML](https://austingil.com/html-capture-attribute/)
+
+### Cloud Dev
+- [Connect Azure Data Factory with Azure DevOps](https://dzone.com/articles/connect-azure-data-factory-adf-with-azure-devops)
+- [Running Python from the cloud in 3 mins](https://www.youtube.com/watch?v=gPXbfPy3f0k)
+
 
 ### Tool
 - [Owncast - self-hosted livestreaming tool](https://owncast.online)
 - [Motionity - motion graphics editor](https://github.com/alyssaxuu/motionity)
+- [Open Software for Science](https://medium.com/@QuantStack/open-software-packaging-for-science-61cecee7fc23)
+- [n8n - info transform and workflow automation - Youtube](https://www.youtube.com/watch?v=lpRsqiBc2JQ)
 
 ### Python
 - [Jupyter-Git problem is resolved](https://www.fast.ai/2022/08/25/jupyter-git/)
 - [Flet - interactive apps, multiple platforms, flutter-based](https://flet.dev/docs/)
-
+- [Mamba - Alternative to Anaconda](https://github.com/mamba-org/mamba)
+- [Mini-Forge](https://github.com/conda-forge/miniforge#mambaforge)
+- [Crimes with Python's Pattern Matching](https://www.hillelwayne.com/post/python-abc/)
+- [Someone's messing with my subnormals](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 
 ### Cryptography
 - [Fundamental Cryptography in Theory and Python - Youtube Course](https://www.youtube.com/playlist?list=PLWjMI9CAmVU4--SmpzgswTvxLkZqC9QWn)
@@ -91,25 +109,56 @@
 - [Silero - Text-to-Speech etc models](https://github.com/snakers4/silero-models)
 - [GLM - t-tests and ANOVA](https://www.youtube.com/watch?v=NF5_btOaCig)
 - [FILM - film interpolation for large motion](https://film-net.github.io/)
+- [Economic Causal Links - Youtube](https://www.youtube.com/watch?v=WpjaBupX1TI)
+- [Causal Inference - Youtube](https://www.youtube.com/watch?v=gRkUhg9Wb-I)
+- [Stable Diffusion - Youtube](https://www.youtube.com/watch?v=xbxe-x6wvRw)
+- [Build Recommender Engine](https://www.pi.exchange/blog/part-iii-building-a-recommendation-system-with-the-ai-analytics-engine)
+- [How to Learn From Streaming Data](https://analyticsindiamag.com/how-to-learn-from-streaming-data-with-creme-in-python/)
+- [scikit-learn multiflow](https://www.youtube.com/watch?v=B-NN-weo5e4)
+- [Midjourney - Generative AI ART](https://www.vice.com/en/article/wxn5wn/inside-midjourney-the-generative-art-ai-that-rivals-dall-e)
+- [Providing a good education in deep learning](https://www.fast.ai/posts/2016-10-08-teaching-philosophy.html)
+- [Explain - Gradient Boosting](https://explained.ai/gradient-boosting/L2-loss.html)
+- [Why tree-based outperforms NN - Twitter](https://twitter.com/gaelvaroquaux/status/1549422403889106944)
+
+### Computer Science
+- [Building Blocks of Computer Science - Book](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
+- [Process Algebra and Automata Theory](https://www.yodaiken.com/2022/05/07/process-algebra-and-automata-theory/)
+- [Xv6 - Simple Unix OS for teaching](https://pdos.csail.mit.edu/6.S081/2020/xv6.html)
 
 ###  Data
 - [Pure Data](https://puredata.info/)
+- [4 Free sources of satellite images](https://www.youtube.com/watch?v=OONjbRAR-TM)
+- [Open Knowledge Movement](https://rtnf.my.id/wiki-osm)
+- [Airlfow Problems](https://stkbailey.substack.com/p/airflows-problem)
 
 ### Cryptocurrency, NFT
 - [9 Singapore firms into NFTs](https://newswwc.com/lifestyle/ahead-of-the-curve-these-9-sporean-companies-are-betting-big-on-nfts/)
+- [Web3 first impressions](https://moxie.org/2022/01/07/web3-first-impressions.html)
+
 
 ### Interesting
 - [UK Excess Mortality](https://twitter.com/jburnmurdoch/status/1562004612172873728)
 - [Video - Solve climate change using iron powder](https://www.youtube.com/watch?v=i4Hnv_ZJSQY)
 - [Virtual Ants - Nature, Complexity - Blog by Andrew Healey](https://healeycodes.com/virtual-ants)
+- [David Ditchfield - NDE](https://www.shineonthestory.com/)
+- [Predicting Mass Lay-offs](https://www.youtube.com/watch?v=rMDt45ITv2w)
 
 ### Health
 - [Improve eye vision](https://www.youtube.com/watch?v=AA9gyYbhG7I)
 - [Long COVID responsible for 1/3 of unfilled jobs in US(https://www.cnbc.com/2022/08/26/brookings-long-covid-keeps-millions-of-americans-out-of-workforce.html)
+- [Soleus Pushup](https://neurosciencenews.com/soleus-pushups-metabolism-21471/)
 
+### Volunteer
+- [Singapore International Foundation - DigiLabs](https://www.sif.org.sg/Our-Work/Volunteer-Cooperation/E-volunteering-Programmes/DigiLABS)
 
+### Education, Pedagogy, Androgogy
+- [Efficacy of online proctoring](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
 
+### Cybersecurity
+- [SG - Cybersecurity Development Programme](https://www.csa.gov.sg/Careers/cybersecurity-development-programme/about)
+- [NTU - Masters in CyberSecurity](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-cyber-security-(mscs))
 
-
+### Content Creation, Multimedia
+- [Canva content creation - Youtube](https://www.youtube.com/watch?v=WXNg32zq6ic)
 
 
