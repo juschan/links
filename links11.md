@@ -64,6 +64,7 @@
 - [The Timeless Way of Programming - SW Architecture](http://tomasp.net/blog/2022/timeless-way/)
 - [How to build a graph viz engine and why you shouldn't](https://memgraph.com/blog/how-to-build-a-graph-visualization-engine-and-why-you-shouldnt)
 - [It's a Unix system, I know this](https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878)
+- [HN - I'm building an OS and blogging about it](https://news.ycombinator.com/item?id=33173158)
 
 
 ### SW Tools
@@ -135,6 +136,9 @@
 - [How you can use GPT-J](https://towardsdatascience.com/how-you-can-use-gpt-j-9c4299dd8526#:~:text=GPT%2DJ%20can%20be%20used,GPT%2DJ%20generates%20the%20rest.)
 - [DALL-E2](https://openai.com/dall-e-2/)
 - [Run Stable Diffusion on PC to Generate AI Images](https://www.howtogeek.com/830179/how-to-run-stable-diffusion-on-your-pc-to-generate-ai-images/)
+- [Generating Children Stories using GPT-3 and Dall-E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
+- [Meta's Text-to-Video tool](https://www.youtube.com/watch?v=rYP0OJHZRbc)
+- [The real fight over Art AI](https://www.youtube.com/watch?v=NiJeB2NJy1A)
 
 ### Computer Science
 - [Building Blocks of Computer Science - Book](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
@@ -162,6 +166,7 @@
 - [3pgc](https://3pgc.org/new-sydney-banks-videos/)
 - [Michael Neil - Coach](https://www.michaelneill.org/new/)
 - [Michael Neil - Humans aren't inanimate objects, the difference that makes the difference](https://www.michaelneill.org/cfts1210/)
+- [Relationship Handbook](https://www.amazon.com/Relationship-Handbook-Satisfying-Relationships-Anniversary/dp/0998874205/ref=d_pd_sim_sccl_4_5/130-9139458-0151828?pd_rd_w=LumZ6&content-id=amzn1.sym.cea269b5-2b99-44d4-a309-214a6674c0a9&pf_rd_p=cea269b5-2b99-44d4-a309-214a6674c0a9&pf_rd_r=NM4D2ZK4CZVTEAQCT4CT&pd_rd_wg=0QmuU&pd_rd_r=17c7094e-ec60-4642-b0a3-5c9e2ccdbf2f&pd_rd_i=0998874205&psc=1)
 
 ### Interesting
 - [UK Excess Mortality](https://twitter.com/jburnmurdoch/status/1562004612172873728)
@@ -175,6 +180,10 @@
 ### Stats
 - [What is Bayesian/Frequentist Inference](https://normaldeviate.wordpress.com/2012/11/17/what-is-bayesianfrequentist-inference/)
 
+### Causal Inference
+- [A causal inference approach for estimating effects of non-pharmaceutical interventions during Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2022.02.28.22271671v1.full)
+- [Bayesia - Training and software on Bayesian approach](https://library.bayesia.com/articles/#!bayesialab-knowledge-hub/what-is-bayesialab)
+
 ### Haskell
 - [Haskell Programming from First Principles - book](https://haskellbook.com/)
 
@@ -186,9 +195,15 @@
 - [Long COVID responsible for 1/3 of unfilled jobs in US](https://www.cnbc.com/2022/08/26/brookings-long-covid-keeps-millions-of-americans-out-of-workforce.html)
 - [Soleus Pushup](https://neurosciencenews.com/soleus-pushups-metabolism-21471/)
 - [Sauna use to extend healthspan](https://www.sciencedirect.com/science/article/pii/S0531556521002916)
+- [Semaglutide - drug to lose weight](https://chadnauseam.com/random/semaglutide-has-changed-the-world/)
+- [Nasal Saline Irrigation for COVID](https://journals.sagepub.com/doi/10.1177/01455613221123737)
+- [Lomi-Lomi UK training](https://stayintouch.earth/inperson/)
 
 ### Volunteer
 - [Singapore International Foundation - DigiLabs](https://www.sif.org.sg/Our-Work/Volunteer-Cooperation/E-volunteering-Programmes/DigiLABS)
+
+### Interesting Orgs
+- [The Declassified Network](https://www.declassified.network/)
 
 ### Education, Pedagogy, Androgogy
 - [Efficacy of online proctoring](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
@@ -196,9 +211,24 @@
 ### Cybersecurity
 - [SG - Cybersecurity Development Programme](https://www.csa.gov.sg/Careers/cybersecurity-development-programme/about)
 - [NTU - Masters in CyberSecurity](https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-cyber-security-(mscs))
+- [NexusGuard Certified Pentester](https://www.ntu.edu.sg/pace/programmes/detail/nexusguard-certified-pentester-(ncp)-course#fundings)
+- [Ice71 - Cybersecurity Singapore](https://ice71.sg/)
 
 ### Content Creation, Multimedia
 - [Canva content creation - Youtube](https://www.youtube.com/watch?v=WXNg32zq6ic)
+
+### Art
+- [Procreate Masterclass](https://procreate.courses/procreate-masterclass/enroll?utm_source=google&utm_medium=cpc&utm_campaign=17671083359&utm_content=149198385344&utm_term=procreate%20classes&gclid=EAIaIQobChMIh8jRk4Lv-gIVN5RmAh3hqwWOEAAYAiAAEgLnsPD_BwE)
+
+### Singapore
+- [Rice - Life lessons on home and being Singaporean from my Irish Mum](https://www.ricemedia.co/life-lessons-on-home-and-being-singaporean-from-my-irish-mum/)
+
+### Etsy Ideas
+- [Etsy - A Zine about Making Zine](https://www.etsy.com/sg-en/listing/495892837/a-zine-about-making-zines-make-your-own?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=&ref=sr_gallery-2-13&bes=1&sts=1)
+- [Etsy - So you're Anxious as f*ck](https://www.etsy.com/sg-en/listing/776068094/digital-version-so-youre-anxious-as-fck?click_key=da4eb5f9f6680c6a0a6ccc9555326adde1250e10%3A776068094&click_sum=50fd0830&ref=internal_similar_listing_bot-4)
+- [Etsy - Bear Sewing pattern](https://www.etsy.com/sg-en/listing/539790422/bear-sewing-pattern-teddy-bear-pattern?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=&ref=sr_gallery-5-39)
+- [Etsy - Toys and Entertainment](https://www.etsy.com/sg-en/c/toys-and-entertainment?ref=pagination&page=8)
+- [Youtube Video - Revealing my Etsy shops](https://www.youtube.com/watch?v=LnbxpbmGxhw)
 
 ### Coaching
 - [My coach taught me how to sit in an office chair](https://www.forbes.com/sites/michaelbarthur/2022/10/09/my-coach-taught-me-how-to-sit-in-an-office-chair--and-it-made-a-difference-the-evolving-story-of-sam-isaacsons-coaching-career/?sh=6395d7383053)
