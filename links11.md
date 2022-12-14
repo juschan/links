@@ -12,6 +12,22 @@
 - [How to become a blockchain engineer](https://news.ycombinator.com/item?id=32934461)
 - [BlitzScaling - Book](https://thryft.asia/products/blitzscaling-the-lightning-fast-path-to-building-massively-valuable-companies)
 - [How a camp marketplace was built, promoted and acquired](https://www.nocode-exits.com/p/6-how-a-camp-marketplace-was-built)
+- [HN Comments - money on the side using SRE and DevOps experience](https://news.ycombinator.com/item?id=32976840)
+- [Unpacking Boris - why conventional goal-setting is usually self-defeating](https://vaughntan.org/unpacking-boris)
+
+### Personal Branding
+- [Razy Shah](https://razyshah.com/about/)
+
+### Ecommerce
+- [Replatform with APIs and micro frontends](https://stackoverflow.blog/2022/12/12/the-next-step-in-ecommerce-replatform-with-apis-and-micro-frontends/)
+- [Miles Beckler Blog - Affiliate Marketing](https://www.milesbeckler.com/start-here/)
+
+### Content Creation
+- [Substack uses Ghost](https://twitter.com/johnonolan/status/1602330377812643850)
+
+### Agile
+- [Scrum has failed the developers](https://ageling.substack.com/p/scrum-has-failed-the-developers-547dfe09cc53)
+
 
 ### Life Hack
 - [Artists don't have to believe in themselves to have success](https://www.youtube.com/watch?v=F137IANXaF4)
@@ -25,6 +41,8 @@
 - [Build Your Career doing Dirty Work](https://staysaasy.com/career/2022/09/11/Dirty-Work.html)
 - [Take a break you idiot](https://www.robinrendle.com/notes/take-a-break-you-idiot/)
 - [How to stop feeling powerless and helpless in life](https://www.nerdycreator.com/blog/feeling-powerless/)
+- [Blog - ideas that changed my life](https://collabfund.com/blog/ideas-that-changed-my-life/)
+
 
 ### Learning Hacks
 - [System For Remembering Everything](https://www.youtube.com/watch?v=Rvey9g0VgY0)
@@ -66,6 +84,9 @@
 - [It's a Unix system, I know this](https://elaine-cao-93.medium.com/its-a-unix-system-i-know-this-a-highly-requested-tournament-report-for-f2f-toronto-134ad7cfa878)
 - [HN - I'm building an OS and blogging about it](https://news.ycombinator.com/item?id=33173158)
 
+### Compiler, Interpreters
+- [Up to Interpretation BLog](https://uptointerpretation.com/)
+- [Book Aug 2023 - Writing a C Compiler](https://nostarch.com/writing-c-compiler)
 
 ### SW Tools
 - [JPro](https://www.jpro.one/docs/current/1.1/Let's%20get%20started)
@@ -105,6 +126,7 @@
 - [Crimes with Python's Pattern Matching](https://www.hillelwayne.com/post/python-abc/)
 - [Someone's messing with my subnormals](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 - [How to run a Python Script 24/7 for Free](https://www.youtube.com/watch?v=BYvKv3kM9pk)
+- [Python Viz dashboard with Panel/Hvplot](https://www.youtube.com/watch?v=uhxiXOTKzfs)
 
 ### Cryptography
 - [Fundamental Cryptography in Theory and Python - Youtube Course](https://www.youtube.com/playlist?list=PLWjMI9CAmVU4--SmpzgswTvxLkZqC9QWn)
@@ -139,6 +161,7 @@
 - [Generating Children Stories using GPT-3 and Dall-E](https://www.surgehq.ai//blog/generating-childrens-stories-using-gpt-3-and-dall-e)
 - [Meta's Text-to-Video tool](https://www.youtube.com/watch?v=rYP0OJHZRbc)
 - [The real fight over Art AI](https://www.youtube.com/watch?v=NiJeB2NJy1A)
+- [Imbalanced Dataset - train/test before or after SMOTE](https://datascience.stackexchange.com/questions/104428/imbalanced-dataset-train-test-split-before-and-after-smote)
 
 ### Computer Science
 - [Building Blocks of Computer Science - Book](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
@@ -152,10 +175,15 @@
 - [4 Free sources of satellite images](https://www.youtube.com/watch?v=OONjbRAR-TM)
 - [Open Knowledge Movement](https://rtnf.my.id/wiki-osm)
 - [Airlfow Problems](https://stkbailey.substack.com/p/airflows-problem)
+- [Open Source Hospital Price Transparency](https://www.dolthub.com/blog/2022-12-02-open-source-hospital-price-transparency/)
+
 
 ### Cryptocurrency, NFT
 - [9 Singapore firms into NFTs](https://newswwc.com/lifestyle/ahead-of-the-curve-these-9-sporean-companies-are-betting-big-on-nfts/)
 - [Web3 first impressions](https://moxie.org/2022/01/07/web3-first-impressions.html)
+- [Reason Washington is silent on Crypto scandal](https://www.politico.com/news/magazine/2022/12/09/crypto-scandal-sam-bankman-fried-ftx-00073178)
+- [Create NFT Generative Art with Python](https://www.youtube.com/watch?v=BMq2Jrvp9AA)
+- [Create Evolving NFTs with on-chain, mutable data](https://www.youtube.com/watch?v=basCOqTlYb4)
 
 ### Three Principles
 - [Three Principles - Links](https://three-principles.com/links/)
@@ -183,6 +211,11 @@
 ### Causal Inference
 - [A causal inference approach for estimating effects of non-pharmaceutical interventions during Covid-19 pandemic](https://www.medrxiv.org/content/10.1101/2022.02.28.22271671v1.full)
 - [Bayesia - Training and software on Bayesian approach](https://library.bayesia.com/articles/#!bayesialab-knowledge-hub/what-is-bayesialab)
+- [SUSS - Applied Statistical Methods and Casual Analysis](https://www.suss.edu.sg/courses/detail/anl553?urlname=graduate-diploma-in-analytics-and-visualisation)
+-- [SUSS G Diploma in Analytics and Visualization ](https://www.suss.edu.sg/programmes/detail/graduate-diploma-in-analytics-and-visualisation#faqs)
+- [Causal REasoning with Probabilistic Graphical Models - Dept of C and IS, Linkoping Unviersity](https://www.chalmers.se/en/areas-of-advance/ict/research/big-data/Documents/JoseMPena_26Jan2017.pdf)
+- [Algos for Causal Reasoning in Probability Trees](https://arxiv.org/abs/2010.12237)
+- [Graphical Models for Probabilistic and Causal Reasoning - Judea Pearl](https://ftp.cs.ucla.edu/pub/stat_ser/r236-3ed.pdf)
 
 ### Haskell
 - [Haskell Programming from First Principles - book](https://haskellbook.com/)
@@ -205,8 +238,11 @@
 ### Interesting Orgs
 - [The Declassified Network](https://www.declassified.network/)
 
-### Education, Pedagogy, Androgogy
+### Education, Pedagogy, Androgogy, learning foreign languages
 - [Efficacy of online proctoring](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
+- [Comprehensible Input Hypothesis, TPRS](https://tprsquestionsandanswers.wordpress.com/2014/10/06/the-research-supporting-comprehensible-input/)
+- [German TPRS](https://www.fluentu.com/blog/educator-german/german-tprs/)
+- [Multistory Construction](https://www.languagemagazine.com/multistory-construction/)
 
 ### Cybersecurity
 - [SG - Cybersecurity Development Programme](https://www.csa.gov.sg/Careers/cybersecurity-development-programme/about)
@@ -219,6 +255,9 @@
 
 ### Art
 - [Procreate Masterclass](https://procreate.courses/procreate-masterclass/enroll?utm_source=google&utm_medium=cpc&utm_campaign=17671083359&utm_content=149198385344&utm_term=procreate%20classes&gclid=EAIaIQobChMIh8jRk4Lv-gIVN5RmAh3hqwWOEAAYAiAAEgLnsPD_BwE)
+- [Coding Art book](https://www.amazon.sg/Coding-Art-Creative-Programming-Processing/dp/1484262638/ref=asc_df_1484262638/?tag=googleshoppin-22&linkCode=df0&hvadid=404809574627&hvpos=&hvnetw=g&hvrand=11134417111237970281&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062546&hvtargid=pla-987130151184&psc=1)
+- [How this guy uses AI to create Art](https://www.youtube.com/watch?v=I-EIVlHvHRM)
+- [The Lego Engineer (book)](https://nostarch.com/lego-engineer)
 
 ### Singapore
 - [Rice - Life lessons on home and being Singaporean from my Irish Mum](https://www.ricemedia.co/life-lessons-on-home-and-being-singaporean-from-my-irish-mum/)
@@ -232,3 +271,19 @@
 
 ### Coaching
 - [My coach taught me how to sit in an office chair](https://www.forbes.com/sites/michaelbarthur/2022/10/09/my-coach-taught-me-how-to-sit-in-an-office-chair--and-it-made-a-difference-the-evolving-story-of-sam-isaacsons-coaching-career/?sh=6395d7383053)
+- [Process Work - one year training Jan-Jul2023](https://www.processworkuk.org/about-our-one-year-courses/)
+- [Career Opportunity - Consigliere](https://www.businesstoday.com.mt/people/people/451/_career_opportunity_consigliere)
+
+### Systems Thinking
+- [Cabrea Research - Supports SIM programmes](https://www.cabreraresearch.org/)
+- [SIM - Systems Leadership course](https://pd-csl.sim.edu.sg/system-leaderships/systems-leadership-301-sl301/)
+
+### Counselling
+- [SAC Singapore Recognised Counselling courses](https://sacsingapore.org/career-course-recognition/recognised-programmes/)
+
+### Health
+- [EnergyArts - Spinal Neigong](https://www.energyarts.com/event/spinal-neigong-the-inner-workings-of-stability-and-fluidity/?utm_source=ONTRAPORT-email-broadcast&utm_medium=ONTRAPORT-email-broadcast&utm_term=Main+List+Minus+Spinal+Neigong&utm_content=Registration+Closing%3A+Last+Chance+to+Join+the+Spinal+Neigong+Workshop%21&utm_campaign=12092022)
+
+
+### Video Editing + AI!
+- [Youtube - Descript](https://www.youtube.com/watch?v=sr-k1LWYsIg)
