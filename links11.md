@@ -14,6 +14,8 @@
 - [How a camp marketplace was built, promoted and acquired](https://www.nocode-exits.com/p/6-how-a-camp-marketplace-was-built)
 - [HN Comments - money on the side using SRE and DevOps experience](https://news.ycombinator.com/item?id=32976840)
 - [Unpacking Boris - why conventional goal-setting is usually self-defeating](https://vaughntan.org/unpacking-boris)
+- [Is Engineering Mgt Bullshit? (blog, with art)](https://www.makeartwithpython.com/blog/is-engineering-management-bullshit/)
+- [Some people don't deserve access to the machine room](https://rachelbythebay.com/w/2022/03/22/hopeless/)
 
 ### Personal Branding
 - [Razy Shah](https://razyshah.com/about/)
@@ -27,7 +29,7 @@
 
 ### Agile
 - [Scrum has failed the developers](https://ageling.substack.com/p/scrum-has-failed-the-developers-547dfe09cc53)
-
+- [Kanban guide for Scrum Teams](https://www.scrum.org/resources/kanban-guide-scrum-teams)
 
 ### Life Hack
 - [Artists don't have to believe in themselves to have success](https://www.youtube.com/watch?v=F137IANXaF4)
@@ -59,6 +61,7 @@
 
 ### Writing
 - [Ultimate Guide to Writing Online](https://perell.com/essay/the-ultimate-guide-to-writing-online/)
+- [Example Report - pathways to middle-class jobs in indonesia](https://www.worldbank.org/en/country/indonesia/publication/pathways-to-middle-class-jobs-in-indonesia)
 
 ### Ethics, AI, Legal, Reg
 - [Nature - Science must repsect the dignity and rights of all human beings](https://www.nature.com/articles/s41562-022-01443-2)
@@ -105,6 +108,9 @@
 - [w2ui - web gui framework](https://github.com/vitmalina/w2ui)
 - [Access user's camera with just HTML](https://austingil.com/html-capture-attribute/)
 - [WebVM - Linux Virtualization in WebAssembly with full networking via Tailscale](https://medium.com/leaningtech/webvm-linux-virtual-machine-in-the-browser-with-full-networking-via-tailscale-dac11f844b46)
+- [AssemblyScript book](https://www.assemblyscript.org/introduction.html)
+- [Quick guide to geo-distributed apps](https://dmagda.hashnode.dev/geo-what-a-quick-introduction-to-geo-distributed-apps)
+- [Bun - will it take node's crown](https://dzone.com/articles/a-first-look-at-bun-will-it-take-nodes-crown)
 
 ### Cloud Dev
 - [Connect Azure Data Factory with Azure DevOps](https://dzone.com/articles/connect-azure-data-factory-adf-with-azure-devops)
@@ -127,6 +133,7 @@
 - [Someone's messing with my subnormals](https://moyix.blogspot.com/2022/09/someones-been-messing-with-my-subnormals.html)
 - [How to run a Python Script 24/7 for Free](https://www.youtube.com/watch?v=BYvKv3kM9pk)
 - [Python Viz dashboard with Panel/Hvplot](https://www.youtube.com/watch?v=uhxiXOTKzfs)
+- [Make Art with Python](https://www.makeartwithpython.com/blog/)
 
 ### Cryptography
 - [Fundamental Cryptography in Theory and Python - Youtube Course](https://www.youtube.com/playlist?list=PLWjMI9CAmVU4--SmpzgswTvxLkZqC9QWn)
@@ -162,6 +169,9 @@
 - [Meta's Text-to-Video tool](https://www.youtube.com/watch?v=rYP0OJHZRbc)
 - [The real fight over Art AI](https://www.youtube.com/watch?v=NiJeB2NJy1A)
 - [Imbalanced Dataset - train/test before or after SMOTE](https://datascience.stackexchange.com/questions/104428/imbalanced-dataset-train-test-split-before-and-after-smote)
+
+### MLOps
+- [Build ML Services on Kubernetes](https://www.makeartwithpython.com/blog/building-ml-services-on-kubernetes/)
 
 ### Computer Science
 - [Building Blocks of Computer Science - Book](https://mfleck.cs.illinois.edu/building-blocks/updates-fa2017//whole-book.pdf)
@@ -231,12 +241,15 @@
 - [Semaglutide - drug to lose weight](https://chadnauseam.com/random/semaglutide-has-changed-the-world/)
 - [Nasal Saline Irrigation for COVID](https://journals.sagepub.com/doi/10.1177/01455613221123737)
 - [Lomi-Lomi UK training](https://stayintouch.earth/inperson/)
+- [You can unlearn chronic backpain](https://www.dw.com/en/you-can-unlearn-chronic-back-pain/a-63026547)
+- [Epigenetic biomarkers predictive of mortality risk](https://clinicalepigeneticsjournal.biomedcentral.com/articles/10.1186/s13148-021-01220-4)
 
 ### Volunteer
 - [Singapore International Foundation - DigiLabs](https://www.sif.org.sg/Our-Work/Volunteer-Cooperation/E-volunteering-Programmes/DigiLABS)
 
 ### Interesting Orgs
 - [The Declassified Network](https://www.declassified.network/)
+- [Indie developer Rob Hale has died, making their games free](https://www.mgrgaming.co.za/news-articles/indie-developer-rob-hale-has-died-making-their-games-free/)
 
 ### Education, Pedagogy, Androgogy, learning foreign languages
 - [Efficacy of online proctoring](https://ris.utwente.nl/ws/portalfiles/portal/275927505/3e2a9e5b2fad237a3d35f36fa2c5f44552f2.pdf)
