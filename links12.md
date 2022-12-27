@@ -6,6 +6,17 @@
 - [The Worst part of working from home is now haunting reopened offices](https://slate.com/human-interest/2022/03/hybrid-workplace-office-in-person-work-collaboration-hassle.html)
 - [Caleb Porzio - I just hit $100k/yr on Github Sponsors (How I did it)](https://calebporzio.com/i-just-hit-dollar-100000yr-on-github-sponsors-heres-how-i-did-it)
 - [Contracts OF Service vs Contracts FOR Service in Singapore: What’s the Difference?](https://singaporelegaladvice.com/law-articles/contract-of-service-contract-for-service-singapore-difference/)
+- [Input bias - how managers misuse information when making decisions](https://knowledge.wharton.upenn.edu/article/the-input-bias-how-managers-misuse-information-when-making-decisions/)
+- [Improve working across time zones in product development](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
+- [Atlanssian is unprofitable](https://www.smartcompany.com.au/startupsmart/analysis/atlassian-unprofitable-valuation-adam-schwab/)
+- [Startup Restructuring 101](https://cyrilgrislain.substack.com/p/startup-restructuring-101)
+- [Instagram Monetization](https://www.uscreen.tv/blog/how-to-monetize-instagram/)
+- [Contract for service vs contract of service](https://www.solutionsforhr.co.uk/services/employment-law/contracts-of-employment/)
+
+
+
+### Strategy
+- [Ideeo Course - Designing Strategy](https://www.ideou.com/products/designing-strategy)
 
 
 
@@ -13,10 +24,20 @@
 - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 - [Swiss Re - to Be or not to BE (Behavioural Economics in Insurance)](https://www.swissre.com/institute/research/topics-and-risk-dialogues/regulatory-and-governmental/to-be-or-not-to-be.html)
 
+
 ### Tech Hack
 - [Gwern Branwen blog - psychology, statis, technology](https://www.gwern.net/)
 - [t3x - Nils M Holm's Ephemeralia - Compilers, Statstics, Yoga]
 - [Adam Williamson - I don't like computers (blog)](https://www.happyassassin.net/posts/2016/11/04/i-dont-like-computers/)
+- [Crosscut - Tablet for drawing thoughts](https://www.inkandswitch.com/crosscut/)
+- [Rejop - Task Follow-up app](https://www.rejoy.io/)
+- [Indieweb](https://indieweb.org/)
+- [Foam - Personal Knowledge Mgt](https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode)
+- [Markdown notes integrated with Git](https://gitjournal.io/)
+- [Git Notes](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [Open Source can solve world's biggest problems faster](https://singaporeglobalnetwork.gov.sg/stories/tech/how-open-source-can-solve-some-of-the-worlds-biggest-problems/)
+
+
 
 ### Life Hacks
 - [The 5DC dimensions of curiosity and curious people](https://oxford-review.com/the-5dc-dimensions-of-curiosity-and-the-curious-people/)
@@ -25,11 +46,14 @@
 - [Be like a light bulb: The importance of resting ethic](https://hardfork.substack.com/p/be-like-a-light-bulb-the-importance)
 - [Give your ideas some legs: The positive effect of walking on creative thinking](https://www.apa.org/pubs/journals/releases/xlm-a0036577.pdf)
 - [The IKEA effect - Why people fall in love iwth their own ideas](https://mannhowie.com/ikea-effect)
-** - [Don't ignore hte janitor](https://happychasing.substack.com/p/see-people)
+** - [Don't ignore the janitor](https://happychasing.substack.com/p/see-people)
 - [untools - tools for better thinking](https://untools.co/)
+
 
 ### Finance
 - [Shannon’s Demon & How Returns Can Be Created Out Of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
+- [They get fired all the time and they have no idea why](https://www.institutionalinvestor.com/article/b1gq9tqwk8z108/They-Get-Fired-All-the-Time-And-They-Have-No-Idea-Why)
+
 
 
 ### Compilers, languages
@@ -38,6 +62,9 @@
 - [What is code?-](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 - [Rice Theorem](https://busy-beavers.tigyog.app/rice)
 - [Simplicity and Survival](https://borretti.me/article/simplicity-and-survival)
+- [HN: What is a modern Java Environment?](https://news.ycombinator.com/item?id=30841581)
+- [Comp[ilers.io - site dedicated to compilers, including books!](https://compilers.io/)
+
 
 
 ### Software Engineering
@@ -60,7 +87,7 @@
 - [Rise of J2CL: Java Web Dev after GWT](https://blog.kie.org/2022/04/rise-of-j2cl-java-web-development-after-gwt.html)
 - [The rise of RAD](https://dzone.com/articles/the-rise-of-rad-and-its-application-in-the-tech-in)
 - [Modernizing AWK by adding CSV support](https://benhoyt.com/writings/goawk-csv/)
-
+- [StereoKit - Mixed Reality library with C#](https://github.com/StereoKit/StereoKit)
 
 
 ### Engineering Mgt
@@ -74,12 +101,17 @@
 - [One Job, One Pay](https://stellate.co/blog/one-job-one-pay)
 
 
+
 ### Web Dev
 - [Solid.js feels like what I always wanted React to be-](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
 - [React Design Editor](https://github.com/layerhub-io/react-design-editor)
 - [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 - [Multy - deploy multi-cloud infrastructure](https://github.com/multycloud/multy)
 - [Nota- language for writing documents (compiles to js)](https://nota-lang.org/)
+- [PlayWrite - testing modern web apps](https://playwright.dev/)
+- [HN: Good resource on writing web app with plain JavaScript/HTML/CSS?](https://news.ycombinator.com/item?id=33635218)
+
+
 
 ### Data and Databases
 - [DB Design and Relational Theory](https://www.amazon.com/Database-Design-Relational-Theory-Normal/dp/1449328016)
@@ -93,9 +125,12 @@
 ### Embedded Systems
 - [Guide to getting started with embedded systems](https://yinka.dev/blog/a-guide-to-getting-started-with-embedded-systems/)
 
+
 ### Python
 - [Build Python project that summarizes your lectures(https://www.assemblyai.com/blog/python-project-lecture-summaries/)
 - [Saving and loading objects and using pickle](https://stackoverflow.com/questions/4530611/saving-and-loading-objects-and-using-pickle)
+- [Boring Python: code quality ](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
+
 
 ### ML/AI
 - [Identification of risk factors assocaited with obesity and oversight - a ML overview](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7248873/)
@@ -135,6 +170,16 @@
 - [Generalist Agent (DeepMind)](https://www.deepmind.com/publications/a-generalist-agent)
 - [Mubert text-to-music](https://huggingface.co/spaces/Mubert/Text-to-Music)
 - [Should one be concerned about multi-collinearity when using non-linear models?](https://stats.stackexchange.com/questions/266267/should-one-be-concerned-about-multi-collinearity-when-using-non-linear-models)
+- [MLOps Is a Mess But That's to be Expected](https://www.mihaileric.com/posts/mlops-is-a-mess/)
+- [What is model drift? Datatron](https://datatron.com/what-is-model-drift/)
+- [IBM - Model Drift](https://www.ibm.com/sg-en/cloud/watson-studio/drift)
+- [IBM - Drift Detection Overview](https://www.ibm.com/docs/en/cloud-paks/cp-data/4.6.x?topic=monitor-drift-detection-metrics-overview)
+- [XGBoost with different categorical encoding methods](https://songxia-sophia.medium.com/two-machine-learning-algorithms-to-predict-xgboost-neural-network-with-entity-embedding-caac68717dea)
+- [AI Fairness - Expalanation of Disparate Impact Remover](https://towardsdatascience.com/ai-fairness-explanation-of-disparate-impact-remover-ce0da59451f1)
+- [Fairlearn - Fariness in ML](https://fairlearn.org/main/user_guide/fairness_in_machine_learning.html)
+- [Minerva - Solving Quantitative Reasoning problems with language models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
+- [Multi-class vs multi-label classification](https://www.analyticsvidhya.com/blog/2021/07/demystifying-the-difference-between-multi-class-and-multi-label-classification-problem-statements-in-deep-learning/)
+- [Review: Snowflake aces Python machine learning](https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html)
 
 
 ### Apache Spark
@@ -151,14 +196,18 @@
 ### Racket
 - [Beautiful Racket - intro to language-oriented programming using racket](https://beautifulracket.com/)
 
+
+
 ### Writing
 - [Thoughts on Writing - Jerobison blog](http://jerobison.blogspot.com/2022/03/thoughts-on-writing.html)
 - [The tools I use to write Books - Thorsten Ball](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
-
+- [Pricing in GI (2nd edition, May 2023)](https://www.amazon.com/Pricing-General-Insurance-Pietro-Parodi/dp/0367769034/ref=sr_1_1?crid=2JQHV94VLP8ZG&keywords=pricing+in+general+insurance&qid=1672123456&s=books&sprefix=pricing+in+general+insuran%2Cstripbooks-intl-ship%2C359&sr=1-1)
 
 
 ### Actuarial
 - [Death in Indonesia: Estimating all cause mortality ...](https://digital.lib.washington.edu/researchworks/handle/1773/43910)
+- [Natural Catastrophe Risk Management and Modelling: A Practitioner's Guide](https://www.amazon.com/Natural-Catastrophe-Risk-Management-Modelling/dp/1118906047)
+
 
 
 ### Health
@@ -168,10 +217,14 @@
 - [Health outcomes 2 years after surviving COVID-19 hospitalisationdeep](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(22)00126-6/fulltext)
 - [Diabetes, arthritis, and multiple sclerosis trace their roots back to the Black Death](https://studyfinds.org/autoimmune-disease-black-death/)
 - [Smartphone fitness tracker data could predict death risk over the next 5 years](https://studyfinds.org/smartphone-fitness-apps-mortality/)
+- [Leprosy bacterial key to help liver regenerate](https://www.newscientist.com/article/2346967-leprosy-bacteria-may-hold-the-key-to-helping-the-liver-regenerate/)
+- [South Asian people undergo type 2 diabetes remission with low calorie diets](https://medicalxpress.com/news/2022-11-south-asian-people-diabetes-remission.html)
+
 
 ### Epistemology
 - [Too good to be true: when overwhelming evidence fails to convince](https://royalsocietypublishing.org/doi/10.1098/rspa.2015.0748)
 - [You have to follow your instincts in this business.](https://timmb.com/you-have-to-follow-your-instincts-in-this-business/)
+- [Scaling Knowledge](https://scalingknowledge.substack.com/)
 
 
 ### Interesting
@@ -179,14 +232,32 @@
 - [Jeff Kaufman blog - tech, music, effective altruism](https://www.jefftk.com/)
 - [The New Normal: The Coming Tsunami of Fakery](https://grandy.substack.com/p/the-new-normal-the-coming-tsunami)
 - [Freddy the Pig - Wikiped9a](https://en.wikipedia.org/wiki/Freddy_the_Pig)
+- [Robot Landlords are buying up houses](https://www.vice.com/en/article/dy7eaw/robot-landlords-are-buying-up-houses)
+- [Neoscope magazine - interesting articles!](https://futurism.com/neoscope)
+
+### Cybersecurity
+- [Okta mess is worse than it appears](https://thenewstack.io/the-okta-mess-is-even-worse-than-it-appears/)
+
+
+### Crypto
+- [FTX Contagion](https://www.mollywhite.net/etc/ftx-contagion)
+- [Molly White Blog - crypto](https://blog.mollywhite.net/)
+- [Digital artists' post-bubble hopes for NFTs don't need a blockchain](https://blog.mollywhite.net/digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain/)
+- [The NFT creation user journey](https://blog.mollywhite.net/the-nft-creation-user-journey/)
+- [Bitcoin is not a store-of-value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
+
+
 
 
 ### Social Fun
 - [Rec Room](https://recroom.com/)
 
+
 ### Literature
 - [Exploring the profound turths of Dante's Divine Comedy](https://online.hillsdale.edu/landing/dantes-divine-comedy)
 
+### Climate
+- [Global risk of deadly heat](https://www.nature.com/articles/nclimate3322)
 
 ###  Art
 - [Magma - online art collaboration platform](https://magma.com/index)
