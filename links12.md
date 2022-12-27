@@ -48,6 +48,9 @@
 - [The IKEA effect - Why people fall in love iwth their own ideas](https://mannhowie.com/ikea-effect)
 ** - [Don't ignore the janitor](https://happychasing.substack.com/p/see-people)
 - [untools - tools for better thinking](https://untools.co/)
+- [How Chem Lab made me a better dev](https://edweissman.com/chemistry.html)
+- [Your Work Matters. Build Your Schedule Accordingly.](https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/)
+
 
 
 ### Finance
@@ -63,7 +66,8 @@
 - [Rice Theorem](https://busy-beavers.tigyog.app/rice)
 - [Simplicity and Survival](https://borretti.me/article/simplicity-and-survival)
 - [HN: What is a modern Java Environment?](https://news.ycombinator.com/item?id=30841581)
-- [Comp[ilers.io - site dedicated to compilers, including books!](https://compilers.io/)
+- [Compilers.io - site dedicated to compilers, including books!](https://compilers.io/)
+- [Building the fastest Lua interpreter.. automatically! ](https://sillycross.github.io/2022/11/22/2022-11-22/)
 
 
 
@@ -80,7 +84,7 @@
 - [Not Your Grandmother's Textbook Exercise](https://cacm.acm.org/blogs/blog-cacm/264263-not-your-grandmothers-textbook-exercise/fulltext)
 - [The many problems with implementing Single Sign-On](https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/)
 - [A development process startup founders should use to ship features weirdly fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast)
-
+- [Lichess on scala3 - help needed](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
 
 
 ### Dev Tools
@@ -88,6 +92,7 @@
 - [The rise of RAD](https://dzone.com/articles/the-rise-of-rad-and-its-application-in-the-tech-in)
 - [Modernizing AWK by adding CSV support](https://benhoyt.com/writings/goawk-csv/)
 - [StereoKit - Mixed Reality library with C#](https://github.com/StereoKit/StereoKit)
+- [Monica - Open Source Personal CRM](https://www.monicahq.com/)
 
 
 ### Engineering Mgt
@@ -180,6 +185,13 @@
 - [Minerva - Solving Quantitative Reasoning problems with language models](https://ai.googleblog.com/2022/06/minerva-solving-quantitative-reasoning.html)
 - [Multi-class vs multi-label classification](https://www.analyticsvidhya.com/blog/2021/07/demystifying-the-difference-between-multi-class-and-multi-label-classification-problem-statements-in-deep-learning/)
 - [Review: Snowflake aces Python machine learning](https://www.infoworld.com/article/3668629/review-snowflake-aces-python-machine-learning.html)
+- [Evaluating Fairness Using Permutation Tests](https://arxiv.org/abs/2007.05124)
+- [Using Permutation Tests to Evaluate Fairness](https://www.kinjalbasu.com/assets/talks/FairTestingFull.pdf)
+- [IKEA’s Knowledge Graph and Why It Has Three Layers](https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349)
+
+
+
+
 
 
 ### Apache Spark
@@ -190,7 +202,7 @@
 - [Weighted Random Forest with Spark 3](https://blog.vlgdata.io/post/spark_3_weighted_random_forest/)
 - [Classification Example Notebook - Spark](https://github.com/gtolomei/big-data-computing/blob/master/notebooks/Classification.ipynb)
 - [Spark 3: Class Imbalance using Weights](https://blog.madhukaraphatak.com/spark-3-introduction-part-4)
-
+- [Guide to exploit RFC in PySpark](https://towardsdatascience.com/a-guide-to-exploit-random-forest-classifier-in-pyspark-46d6999cb5db)
 
 
 ### Racket
@@ -207,6 +219,8 @@
 ### Actuarial
 - [Death in Indonesia: Estimating all cause mortality ...](https://digital.lib.washington.edu/researchworks/handle/1773/43910)
 - [Natural Catastrophe Risk Management and Modelling: A Practitioner's Guide](https://www.amazon.com/Natural-Catastrophe-Risk-Management-Modelling/dp/1118906047)
+- [An Embedded Deductible and How It Works](https://www.verywellhealth.com/what-is-an-embedded-deductible-how-does-it-work-1738719)
+- [The impact of social inflation on the liability insurance industry](https://www.reuters.com/legal/legalindustry/impact-social-inflation-liability-insurance-industry-2022-11-28/)
 
 
 
@@ -219,6 +233,9 @@
 - [Smartphone fitness tracker data could predict death risk over the next 5 years](https://studyfinds.org/smartphone-fitness-apps-mortality/)
 - [Leprosy bacterial key to help liver regenerate](https://www.newscientist.com/article/2346967-leprosy-bacteria-may-hold-the-key-to-helping-the-liver-regenerate/)
 - [South Asian people undergo type 2 diabetes remission with low calorie diets](https://medicalxpress.com/news/2022-11-south-asian-people-diabetes-remission.html)
+- [The great Covid and fags cover-up](https://www.spiked-online.com/2022/12/05/the-great-covid-and-fags-cover-up/)
+
+
 
 
 ### Epistemology
@@ -234,6 +251,8 @@
 - [Freddy the Pig - Wikiped9a](https://en.wikipedia.org/wiki/Freddy_the_Pig)
 - [Robot Landlords are buying up houses](https://www.vice.com/en/article/dy7eaw/robot-landlords-are-buying-up-houses)
 - [Neoscope magazine - interesting articles!](https://futurism.com/neoscope)
+- [Jim Henson's Red Book](https://jillianhess.substack.com/p/jim-hensons-red-book)
+
 
 ### Cybersecurity
 - [Okta mess is worse than it appears](https://thenewstack.io/the-okta-mess-is-even-worse-than-it-appears/)
@@ -245,7 +264,7 @@
 - [Digital artists' post-bubble hopes for NFTs don't need a blockchain](https://blog.mollywhite.net/digital-artists-post-bubble-hopes-for-nfts-dont-need-a-blockchain/)
 - [The NFT creation user journey](https://blog.mollywhite.net/the-nft-creation-user-journey/)
 - [Bitcoin is not a store-of-value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
-
+- [Nobody’s using CBDCs. India’s piloting one anyway.](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
 
 
 
@@ -262,5 +281,8 @@
 ###  Art
 - [Magma - online art collaboration platform](https://magma.com/index)
 
+### Archival
+- [Flickr Foundation](https://www.flickr.org/)
+- [Everything is Amazing, But Nothing is Ours](https://alexdanco.com/2019/10/26/everything-is-amazing-but-nothing-is-ours/)
 
 
