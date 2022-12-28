@@ -12,12 +12,16 @@
 - [Startup Restructuring 101](https://cyrilgrislain.substack.com/p/startup-restructuring-101)
 - [Instagram Monetization](https://www.uscreen.tv/blog/how-to-monetize-instagram/)
 - [Contract for service vs contract of service](https://www.solutionsforhr.co.uk/services/employment-law/contracts-of-employment/)
+- [Refactoring Restaurants](https://www.thediff.co/archive/refactoring-restaurants/)
+- [How Confirmation Bias Reduces Business Profits](https://disasteravoidanceexperts.com/how-confirmation-bias-reduces-business-profits/)
+
 
 
 
 ### Strategy
 - [Ideeo Course - Designing Strategy](https://www.ideou.com/products/designing-strategy)
-
+- [Gitlab Handbook](https://about.gitlab.com/handbook/)
+- [I Shutdown 2 Start-Ups — Here’s what I learned the Hard Way](https://medium.com/@Sbloomfield/i-shutdown-2-start-ups-heres-what-i-learned-the-hard-way-41e6f4c6ef1a)
 
 
 ### Marketing
@@ -50,7 +54,7 @@
 - [untools - tools for better thinking](https://untools.co/)
 - [How Chem Lab made me a better dev](https://edweissman.com/chemistry.html)
 - [Your Work Matters. Build Your Schedule Accordingly.](https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/)
-
+- [Create a positive feedback loop to become motivated](https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated)
 
 
 ### Finance
@@ -68,6 +72,8 @@
 - [HN: What is a modern Java Environment?](https://news.ycombinator.com/item?id=30841581)
 - [Compilers.io - site dedicated to compilers, including books!](https://compilers.io/)
 - [Building the fastest Lua interpreter.. automatically! ](https://sillycross.github.io/2022/11/22/2022-11-22/)
+- [Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
+- [tVarun Gandhi blog - compilers, developer tools SE](https://typesanitizer.com/)
 
 
 
@@ -85,6 +91,14 @@
 - [The many problems with implementing Single Sign-On](https://stackoverflow.blog/2022/09/12/the-many-problems-with-implementing-single-sign-on/)
 - [A development process startup founders should use to ship features weirdly fast](https://growing-products.paralect.com/a-development-process-startup-founders-should-use-to-ship-features-weirdly-fast)
 - [Lichess on scala3 - help needed](https://lichess.org/@/thibault/blog/lichess-on-scala3-help-needed/2bpotLb0)
+- [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge)
+- [Github - Securing developer accounts with 2FA](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/)
+- [online book - Dive into Systems](https://diveintosystems.org/)
+
+
+### Automation
+- [Windmill - build workflows and internal UIs](https://docs.windmill.dev/)
+- [Automation is the serialization of understanding](https://changelog.com/posts/automation-is-the-serialization-of-understanding)
 
 
 ### Dev Tools
@@ -93,6 +107,8 @@
 - [Modernizing AWK by adding CSV support](https://benhoyt.com/writings/goawk-csv/)
 - [StereoKit - Mixed Reality library with C#](https://github.com/StereoKit/StereoKit)
 - [Monica - Open Source Personal CRM](https://www.monicahq.com/)
+- [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
+
 
 
 ### Engineering Mgt
@@ -104,7 +120,8 @@
 - [How to be a senior leader](https://staysaasy.com/leadership/2022/08/15/how-to-break-into-senior-management.html)
 - [Data Engineer Salary - Interview QUery](https://www.interviewquery.com/salaries/data-engineer-salary)
 - [One Job, One Pay](https://stellate.co/blog/one-job-one-pay)
-
+- [A new job site just for open-source jobs opens its doors](https://www.zdnet.com/article/a-new-job-site-just-for-open-source-jobs-opens-its-doors/)
+- [The Software Industry IS STILL the Problem](https://queue.acm.org/detail.cfm?id=3489045)
 
 
 ### Web Dev
@@ -115,7 +132,11 @@
 - [Nota- language for writing documents (compiles to js)](https://nota-lang.org/)
 - [PlayWrite - testing modern web apps](https://playwright.dev/)
 - [HN: Good resource on writing web app with plain JavaScript/HTML/CSS?](https://news.ycombinator.com/item?id=33635218)
-
+- [Twelve-factor app anno 2022](https://xenitab.github.io/blog/2022/02/23/12factor/)
+- [Triple Entry Blogging](https://tomcritchlow.com/2022/04/27/triple-entry-blogging/)
+- [Modern Javascript Tutorial](https://javascript.info/)
+- [Render - web hosting](https://render.com/)
+- [Glitch - web tool](https://glitch.com/)
 
 
 ### Data and Databases
@@ -124,6 +145,7 @@
 - [Why SQL syntax sucks, and why it matters - Carlin Eng](https://carlineng.com/?postid=sql-bad-syntax#blog)
 - [A trillion prices - health insurers just published close to a trillion hospital prices](https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/)
 - [Modern Data Modeling: Start with the End](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/)
+- [Litestream - I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 
 
 
@@ -135,6 +157,15 @@
 - [Build Python project that summarizes your lectures(https://www.assemblyai.com/blog/python-project-lecture-summaries/)
 - [Saving and loading objects and using pickle](https://stackoverflow.com/questions/4530611/saving-and-loading-objects-and-using-pickle)
 - [Boring Python: code quality ](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
+- [Intro to Constraint Programming in Python](https://mlabonne.github.io/blog/constraintprogramming/)
+- [Web Scraping with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
+- [Understanding Bloom Filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
+
+
+
+### Studies
+- [Online Masters Computer Science - Georgia Tech](https://omscs.gatech.edu/)
+
 
 
 ### ML/AI
@@ -188,10 +219,17 @@
 - [Evaluating Fairness Using Permutation Tests](https://arxiv.org/abs/2007.05124)
 - [Using Permutation Tests to Evaluate Fairness](https://www.kinjalbasu.com/assets/talks/FairTestingFull.pdf)
 - [IKEA’s Knowledge Graph and Why It Has Three Layers](https://medium.com/flat-pack-tech/ikeas-knowledge-graph-and-why-it-has-three-layers-a38fca436349)
-
-
-
-
+- [Tune multiple ML models with GridsearchCV](https://towardsdatascience.com/how-to-tune-multiple-ml-models-with-gridsearchcv-at-once-9fcebfcc6c23)
+- [online book - applied ML in Python](https://amueller.github.io/aml/)
+- [SHAP - census income classification with scikit-learn (KNN, SHAP)](https://shap.readthedocs.io/en/latest/example_notebooks/tabular_examples/model_agnostic/Census%20income%20classification%20with%20scikit-learn.html)
+- [Recommendation Systems - Not so discussed areas](https://arkid.substack.com/p/recommendation-systems-not-so-discussed)
+- [Recursive Feature Elimination (RFE) for Feature Selection in Python](https://machinelearningmastery.com/rfe-feature-selection-in-python/)
+- [Breaking into the black box of artificial intelligence](https://www.nature.com/articles/d41586-022-00858-1)
+- [How to load and store MLFlow models in R on DataBricks](https://towardsdatascience.com/how-to-load-and-store-mlflow-models-in-r-on-databricks-hacking-the-constraints-93ce458af7ff)
+- [Postgres ML - ML using SQL](https://github.com/postgresml/postgresml)
+- [Configure XGBoost for Imbalanced Classification](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
+- [scikit-learn - Pipelining example](https://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html)
+** - [DataTechNotes - Lots of ML notebook examples!!](https://www.datatechnotes.com/)
 
 
 ### Apache Spark
@@ -203,6 +241,10 @@
 - [Classification Example Notebook - Spark](https://github.com/gtolomei/big-data-computing/blob/master/notebooks/Classification.ipynb)
 - [Spark 3: Class Imbalance using Weights](https://blog.madhukaraphatak.com/spark-3-introduction-part-4)
 - [Guide to exploit RFC in PySpark](https://towardsdatascience.com/a-guide-to-exploit-random-forest-classifier-in-pyspark-46d6999cb5db)
+- [Scaling SHAP Calculations With PySpark and Pandas UDF](https://www.databricks.com/blog/2022/02/02/scaling-shap-calculations-with-pyspark-and-pandas-udf.html)
+- [Solving 5 Mysterious Spark Errors](https://medium.com/@yhoso/resolving-weird-spark-errors-f34324943e1c)
+
+
 
 
 ### Racket
@@ -221,7 +263,7 @@
 - [Natural Catastrophe Risk Management and Modelling: A Practitioner's Guide](https://www.amazon.com/Natural-Catastrophe-Risk-Management-Modelling/dp/1118906047)
 - [An Embedded Deductible and How It Works](https://www.verywellhealth.com/what-is-an-embedded-deductible-how-does-it-work-1738719)
 - [The impact of social inflation on the liability insurance industry](https://www.reuters.com/legal/legalindustry/impact-social-inflation-liability-insurance-industry-2022-11-28/)
-
+- [Predictive Modeling in Underwriting - Case Study](https://www.soa.org/research/opportunities/2019-predictive-modeling-underwriting/)
 
 
 ### Health
@@ -234,7 +276,7 @@
 - [Leprosy bacterial key to help liver regenerate](https://www.newscientist.com/article/2346967-leprosy-bacteria-may-hold-the-key-to-helping-the-liver-regenerate/)
 - [South Asian people undergo type 2 diabetes remission with low calorie diets](https://medicalxpress.com/news/2022-11-south-asian-people-diabetes-remission.html)
 - [The great Covid and fags cover-up](https://www.spiked-online.com/2022/12/05/the-great-covid-and-fags-cover-up/)
-
+- [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
 
 
 
@@ -252,6 +294,9 @@
 - [Robot Landlords are buying up houses](https://www.vice.com/en/article/dy7eaw/robot-landlords-are-buying-up-houses)
 - [Neoscope magazine - interesting articles!](https://futurism.com/neoscope)
 - [Jim Henson's Red Book](https://jillianhess.substack.com/p/jim-hensons-red-book)
+- [Criminals pour money into Dubai Real Estate](https://e24.no/internasjonal-oekonomi/i/Bj97B0/dubai-uncovered-data-leak-exposes-how-criminals-officials-and-sanctioned-politicians-poured-money-into-dubai-real-estate)
+- [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
+- [efabless - make your own chips for free](https://efabless.com/open_shuttle_program)
 
 
 ### Cybersecurity
@@ -278,8 +323,12 @@
 ### Climate
 - [Global risk of deadly heat](https://www.nature.com/articles/nclimate3322)
 
-###  Art
+###  Art/Design
 - [Magma - online art collaboration platform](https://magma.com/index)
+- [Shillington Education = Graphic Design](https://www.shillingtoneducation.com/au/)
+
+
+
 
 ### Archival
 - [Flickr Foundation](https://www.flickr.org/)
