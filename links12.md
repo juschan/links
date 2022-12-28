@@ -160,11 +160,13 @@
 - [Intro to Constraint Programming in Python](https://mlabonne.github.io/blog/constraintprogramming/)
 - [Web Scraping with Python](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 - [Understanding Bloom Filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
-
+- [Automate the boring stuff book](https://automatetheboringstuff.com/)
+- [How to Use Pip with a Proxy Server](https://www.activestate.com/resources/quick-reads/pip-install-proxy/)
 
 
 ### Studies
 - [Online Masters Computer Science - Georgia Tech](https://omscs.gatech.edu/)
+- [Shillington Education = Graphic Design](https://www.shillingtoneducation.com/au/)
 
 
 
@@ -230,6 +232,8 @@
 - [Configure XGBoost for Imbalanced Classification](https://machinelearningmastery.com/xgboost-for-imbalanced-classification/)
 - [scikit-learn - Pipelining example](https://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html)
 ** - [DataTechNotes - Lots of ML notebook examples!!](https://www.datatechnotes.com/)
+- [AI Homework - ChatGPT not doing so well](https://stratechery.com/2022/ai-homework/)
+- [Random Forest Feature Importance Computed in 3 Ways with Python](https://mljar.com/blog/feature-importance-in-random-forest/)
 
 
 ### Apache Spark
@@ -264,6 +268,7 @@
 - [An Embedded Deductible and How It Works](https://www.verywellhealth.com/what-is-an-embedded-deductible-how-does-it-work-1738719)
 - [The impact of social inflation on the liability insurance industry](https://www.reuters.com/legal/legalindustry/impact-social-inflation-liability-insurance-industry-2022-11-28/)
 - [Predictive Modeling in Underwriting - Case Study](https://www.soa.org/research/opportunities/2019-predictive-modeling-underwriting/)
+- [Quality of random number generators significantly affects results of Monte Carlo simulations for organic and biological system](https://pubmed.ncbi.nlm.nih.gov/20734313/)
 
 
 ### Health
@@ -325,7 +330,7 @@
 
 ###  Art/Design
 - [Magma - online art collaboration platform](https://magma.com/index)
-- [Shillington Education = Graphic Design](https://www.shillingtoneducation.com/au/)
+
 
 
 
