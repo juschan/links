@@ -14,6 +14,7 @@
 - [Contract for service vs contract of service](https://www.solutionsforhr.co.uk/services/employment-law/contracts-of-employment/)
 - [Refactoring Restaurants](https://www.thediff.co/archive/refactoring-restaurants/)
 - [How Confirmation Bias Reduces Business Profits](https://disasteravoidanceexperts.com/how-confirmation-bias-reduces-business-profits/)
+- [Cofounders Are A Dumb Requirement](https://arisx.com/read/cofounders-are-a-dumb-requirement)
 
 
 
@@ -27,6 +28,7 @@
 ### Marketing
 - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 - [Swiss Re - to Be or not to BE (Behavioural Economics in Insurance)](https://www.swissre.com/institute/research/topics-and-risk-dialogues/regulatory-and-governmental/to-be-or-not-to-be.html)
+- [Fake Door Test (Painted Door Test)](https://userpilot.com/blog/fake-door-testing/)
 
 
 ### Tech Hack
@@ -55,6 +57,7 @@
 - [How Chem Lab made me a better dev](https://edweissman.com/chemistry.html)
 - [Your Work Matters. Build Your Schedule Accordingly.](https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/)
 - [Create a positive feedback loop to become motivated](https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated)
+- [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
 
 
 ### Finance
@@ -63,7 +66,7 @@
 
 
 
-### Compilers, languages
+### Compilers, languages, OS
 - [Schroer blog](https://schroer.ca/archives)
 - [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
 - [What is code?-](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -74,6 +77,7 @@
 - [Building the fastest Lua interpreter.. automatically! ](https://sillycross.github.io/2022/11/22/2022-11-22/)
 - [Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
 - [tVarun Gandhi blog - compilers, developer tools SE](https://typesanitizer.com/)
+- [A Journey in Creating an Operating System Kernel ](http://539kernel.com/book/)
 
 
 
@@ -108,6 +112,7 @@
 - [StereoKit - Mixed Reality library with C#](https://github.com/StereoKit/StereoKit)
 - [Monica - Open Source Personal CRM](https://www.monicahq.com/)
 - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
+- [Nuklear - ANSI C GUI]([https://github.com/vurtun/nuklear](https://github.com/Immediate-Mode-UI/Nuklear))
 
 
 
@@ -122,6 +127,11 @@
 - [One Job, One Pay](https://stellate.co/blog/one-job-one-pay)
 - [A new job site just for open-source jobs opens its doors](https://www.zdnet.com/article/a-new-job-site-just-for-open-source-jobs-opens-its-doors/)
 - [The Software Industry IS STILL the Problem](https://queue.acm.org/detail.cfm?id=3489045)
+- [Why deadlines are pointless and what to do instead](https://lucasfcosta.com/2022/09/15/deadlines.html)
+- [Where Did Software Go Wrong?](https://blog.jse.li/posts/software/)
+- [Engineering in a Hybrid World](https://www.iconiqcapital.com/growth/insights/2022-engineering-report)
+- [What I learned at GitLab that I don't want to forget](https://boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+
 
 
 ### Web Dev
@@ -137,6 +147,7 @@
 - [Modern Javascript Tutorial](https://javascript.info/)
 - [Render - web hosting](https://render.com/)
 - [Glitch - web tool](https://glitch.com/)
+- [NightDrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
 
 
 ### Data and Databases
@@ -146,7 +157,8 @@
 - [A trillion prices - health insurers just published close to a trillion hospital prices](https://www.dolthub.com/blog/2022-09-02-a-trillion-prices/)
 - [Modern Data Modeling: Start with the End](https://www.adventofdata.com/modern-data-modeling-start-with-the-end/)
 - [Litestream - I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
-
+- [BetterData - AI Synthetic Data](https://www.betterdata.ai/)
+- [Grist - spreadsheet database](https://www.getgrist.com/)
 
 
 ### Embedded Systems
@@ -162,6 +174,7 @@
 - [Understanding Bloom Filters by building one](https://ricardoanderegg.com/posts/understanding-bloom-filters-by-building-one/)
 - [Automate the boring stuff book](https://automatetheboringstuff.com/)
 - [How to Use Pip with a Proxy Server](https://www.activestate.com/resources/quick-reads/pip-install-proxy/)
+- [NiceGUI - browser frontend for Python](https://nicegui.io/)
 
 
 ### Studies
@@ -260,7 +273,9 @@
 - [Thoughts on Writing - Jerobison blog](http://jerobison.blogspot.com/2022/03/thoughts-on-writing.html)
 - [The tools I use to write Books - Thorsten Ball](https://thorstenball.com/blog/2018/09/04/the-tools-i-use-to-write-books/)
 - [Pricing in GI (2nd edition, May 2023)](https://www.amazon.com/Pricing-General-Insurance-Pietro-Parodi/dp/0367769034/ref=sr_1_1?crid=2JQHV94VLP8ZG&keywords=pricing+in+general+insurance&qid=1672123456&s=books&sprefix=pricing+in+general+insuran%2Cstripbooks-intl-ship%2C359&sr=1-1)
-
+- [Is it worth writing about?](https://notes.eatonphil.com/is-it-worth-writing-about.html)
+** - [The essayist on not having a career](https://yalereview.org/article/surowiecki-geoff-dyer)
+- 
 
 ### Actuarial
 - [Death in Indonesia: Estimating all cause mortality ...](https://digital.lib.washington.edu/researchworks/handle/1773/43910)
@@ -269,6 +284,7 @@
 - [The impact of social inflation on the liability insurance industry](https://www.reuters.com/legal/legalindustry/impact-social-inflation-liability-insurance-industry-2022-11-28/)
 - [Predictive Modeling in Underwriting - Case Study](https://www.soa.org/research/opportunities/2019-predictive-modeling-underwriting/)
 - [Quality of random number generators significantly affects results of Monte Carlo simulations for organic and biological system](https://pubmed.ncbi.nlm.nih.gov/20734313/)
+- [Australia Excess Deaths 2022](https://www.news.com.au/lifestyle/health/health-problems/excess-deaths-in-2022-incredibly-high-at-13-per-cent/news-story/2a33dfeeb7476765da4e237c59f59bf7)
 
 
 ### Health
@@ -284,11 +300,11 @@
 - [The Medical Power of Hypnosis](https://www.bbc.com/future/article/20220519-does-hypnosis-work)
 
 
-
 ### Epistemology
 - [Too good to be true: when overwhelming evidence fails to convince](https://royalsocietypublishing.org/doi/10.1098/rspa.2015.0748)
 - [You have to follow your instincts in this business.](https://timmb.com/you-have-to-follow-your-instincts-in-this-business/)
 - [Scaling Knowledge](https://scalingknowledge.substack.com/)
+- [The sum of all knowledge](https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/)
 
 
 ### Interesting
@@ -302,6 +318,7 @@
 - [Criminals pour money into Dubai Real Estate](https://e24.no/internasjonal-oekonomi/i/Bj97B0/dubai-uncovered-data-leak-exposes-how-criminals-officials-and-sanctioned-politicians-poured-money-into-dubai-real-estate)
 - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
 - [efabless - make your own chips for free](https://efabless.com/open_shuttle_program)
+- [Horror stories of cryonics](https://bigthink.com/the-future/cryonics-horror-stories/)
 
 
 ### Cybersecurity
@@ -330,7 +347,7 @@
 
 ###  Art/Design
 - [Magma - online art collaboration platform](https://magma.com/index)
-
+- [The Matrix screen](https://github.com/Rezmason/matrix)
 
 
 
