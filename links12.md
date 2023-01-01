@@ -15,6 +15,8 @@
 - [Refactoring Restaurants](https://www.thediff.co/archive/refactoring-restaurants/)
 - [How Confirmation Bias Reduces Business Profits](https://disasteravoidanceexperts.com/how-confirmation-bias-reduces-business-profits/)
 - [Cofounders Are A Dumb Requirement](https://arisx.com/read/cofounders-are-a-dumb-requirement)
+- [The scourge of job-title inflation](https://www.economist.com/business/2022/12/08/the-scourge-of-job-title-inflation)
+- [You Have Too Many Metrics](https://breakingpoint.substack.com/p/you-have-too-many-metrics)
 
 
 
@@ -23,6 +25,10 @@
 - [Ideeo Course - Designing Strategy](https://www.ideou.com/products/designing-strategy)
 - [Gitlab Handbook](https://about.gitlab.com/handbook/)
 - [I Shutdown 2 Start-Ups — Here’s what I learned the Hard Way](https://medium.com/@Sbloomfield/i-shutdown-2-start-ups-heres-what-i-learned-the-hard-way-41e6f4c6ef1a)
+- [How Airlines Quietly Became Bank](https://www.youtube.com/watch?v=ggUduBmvQ_4)
+- [Why the Age of American Progress Ended](https://www.theatlantic.com/magazine/archive/2023/01/science-technology-vaccine-invention-history/672227/)
+- [SMU - 2 day strategic thinking and business acumen](https://academy.smu.edu.sg/strategic-thinking-and-business-acumen)
+
 
 
 ### Marketing
@@ -58,11 +64,13 @@
 - [Your Work Matters. Build Your Schedule Accordingly.](https://www.calnewport.com/blog/2022/09/20/your-work-matters-build-your-schedule-accordingly/)
 - [Create a positive feedback loop to become motivated](https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated)
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
+- [Interview: Anna Richardson: 'Should I be wearing a T-shirt saying: I’ve had a breakdown?](https://www.theguardian.com/tv-and-radio/2020/may/13/anna-richardson-should-i-be-wearing-a-t-shirt-saying-ive-had-a-breakdown)
 
 
 ### Finance
 - [Shannon’s Demon & How Returns Can Be Created Out Of Thin Air](https://www.richmondquant.com/news/2021/9/21/shannons-demon-amp-how-portfolio-returns-can-be-created-out-of-thin-air)
 - [They get fired all the time and they have no idea why](https://www.institutionalinvestor.com/article/b1gq9tqwk8z108/They-Get-Fired-All-the-Time-And-They-Have-No-Idea-Why)
+- [South Korea: the corruption that built its economy](https://www.iias.asia/the-newsletter/article/south-korea-corruption-built-its-economy)
 
 
 
@@ -78,6 +86,7 @@
 - [Cobol Programming Course](https://github.com/openmainframeproject/cobol-programming-course)
 - [tVarun Gandhi blog - compilers, developer tools SE](https://typesanitizer.com/)
 - [A Journey in Creating an Operating System Kernel ](http://539kernel.com/book/)
+- [Programming Languages: Application and Interpretation](https://www.plai.org/)
 
 
 
@@ -98,6 +107,7 @@
 - [Knowledge is like a house of cards](https://fhur.me/posts/collapsing-knowledge)
 - [Github - Securing developer accounts with 2FA](https://github.blog/2022-05-04-software-security-starts-with-the-developer-securing-developer-accounts-with-2fa/)
 - [online book - Dive into Systems](https://diveintosystems.org/)
+- [The End of Programming](https://cacm.acm.org/magazines/2023/1/267976-the-end-of-programming/fulltext)
 
 
 ### Automation
@@ -112,8 +122,8 @@
 - [StereoKit - Mixed Reality library with C#](https://github.com/StereoKit/StereoKit)
 - [Monica - Open Source Personal CRM](https://www.monicahq.com/)
 - [Using Java's Project Loom to build more reliable distributed systems](https://jbaker.io/2022/05/09/project-loom-for-distributed-systems/)
-- [Nuklear - ANSI C GUI]([https://github.com/vurtun/nuklear](https://github.com/Immediate-Mode-UI/Nuklear))
-
+- [Nuklear - ANSI C GUI](https://github.com/Immediate-Mode-UI/Nuklear))
+- [Pixelmator Pro - image processing software](https://www.pixelmator.com/pro/)
 
 
 ### Engineering Mgt
@@ -148,6 +158,8 @@
 - [Render - web hosting](https://render.com/)
 - [Glitch - web tool](https://glitch.com/)
 - [NightDrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
+- [WebAssembly and its platform targets](https://snarky.ca/webassembly-and-its-platform-targets/)
+- [Protocols, not platforms](https://allenbrunson.com/posts/protocols-not-platforms/)
 
 
 ### Data and Databases
@@ -166,7 +178,7 @@
 
 
 ### Python
-- [Build Python project that summarizes your lectures(https://www.assemblyai.com/blog/python-project-lecture-summaries/)
+- [Build Python project that summarizes your lectures](https://www.assemblyai.com/blog/python-project-lecture-summaries/)
 - [Saving and loading objects and using pickle](https://stackoverflow.com/questions/4530611/saving-and-loading-objects-and-using-pickle)
 - [Boring Python: code quality ](https://www.b-list.org/weblog/2022/dec/19/boring-python-code-quality/)
 - [Intro to Constraint Programming in Python](https://mlabonne.github.io/blog/constraintprogramming/)
@@ -175,11 +187,16 @@
 - [Automate the boring stuff book](https://automatetheboringstuff.com/)
 - [How to Use Pip with a Proxy Server](https://www.activestate.com/resources/quick-reads/pip-install-proxy/)
 - [NiceGUI - browser frontend for Python](https://nicegui.io/)
+- [Python Magic Methods You Haven't Heard About](https://martinheinz.dev/blog/87)
+- [Atoti - Free Python BI analytics platform](https://www.atoti.io/)
 
 
 ### Studies
 - [Online Masters Computer Science - Georgia Tech](https://omscs.gatech.edu/)
 - [Shillington Education = Graphic Design](https://www.shillingtoneducation.com/au/)
+- [Marisa Peer - Therapist](https://marisapeer.com/about-marisa/)
+- [Emerging Leaders Programme - NUS, Subsidised](https://executive-education.nus.edu.sg/programmes/emerging-leaders-programme/)
+- [SUSS - G Dip in analytics and Viz](https://www.suss.edu.sg/programmes/detail/graduate-diploma-in-analytics-and-visualisation)
 
 
 
@@ -247,6 +264,12 @@
 ** - [DataTechNotes - Lots of ML notebook examples!!](https://www.datatechnotes.com/)
 - [AI Homework - ChatGPT not doing so well](https://stratechery.com/2022/ai-homework/)
 - [Random Forest Feature Importance Computed in 3 Ways with Python](https://mljar.com/blog/feature-importance-in-random-forest/)
+- [How to Predict Customer Churn Using Machine Learning, Data Science, and Survival Analysis - censored concordance index](https://dzone.com/articles/how-to-predict-customer-churn-using-machine-learni)
+- [University students recruit AI to write essays for them. Now what?](https://www.theregister.com/2022/12/27/university_ai_essays_students/)
+- [riffusion - create music](https://www.riffusion.com/about)
+- [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- [AI for Control Engineering](https://www.controleng.com/articles/artificial-intelligence-for-control-engineering/)
+
 
 
 ### Apache Spark
@@ -285,6 +308,7 @@
 - [Predictive Modeling in Underwriting - Case Study](https://www.soa.org/research/opportunities/2019-predictive-modeling-underwriting/)
 - [Quality of random number generators significantly affects results of Monte Carlo simulations for organic and biological system](https://pubmed.ncbi.nlm.nih.gov/20734313/)
 - [Australia Excess Deaths 2022](https://www.news.com.au/lifestyle/health/health-problems/excess-deaths-in-2022-incredibly-high-at-13-per-cent/news-story/2a33dfeeb7476765da4e237c59f59bf7)
+- [Azure - Actuarial risk analysis and financial modeling ](https://learn.microsoft.com/en-us/azure/architecture/industries/finance/actuarial-risk-analysis-financial-model)
 
 
 ### Health
@@ -305,6 +329,7 @@
 - [You have to follow your instincts in this business.](https://timmb.com/you-have-to-follow-your-instincts-in-this-business/)
 - [Scaling Knowledge](https://scalingknowledge.substack.com/)
 - [The sum of all knowledge](https://christianheilmann.com/2022/08/29/the-sum-of-all-knowledge/)
+- [The rise and fall of peer review](https://experimentalhistory.substack.com/p/the-rise-and-fall-of-peer-review)
 
 
 ### Interesting
@@ -319,6 +344,10 @@
 - [Surprises in Logic](https://math.ucr.edu/home/baez/surprises.html)
 - [efabless - make your own chips for free](https://efabless.com/open_shuttle_program)
 - [Horror stories of cryonics](https://bigthink.com/the-future/cryonics-horror-stories/)
+- [A Century of Serious Difficulty - Modernism, Literature](https://www.bostonreview.net/articles/a-century-of-serious-difficulty/)
+- [The enduring value of an analogue technology](https://www.economist.com/business/2022/12/15/the-enduring-value-of-an-analogue-technology)
+- [Books - learn by doing](https://news.ycombinator.com/item?id=34019549)
+- [The War on Merit Takes a Bizarre Turn](https://www.city-journal.org/war-on-merit-takes-bizarre-turn)
 
 
 ### Cybersecurity
@@ -334,6 +363,9 @@
 - [Nobody’s using CBDCs. India’s piloting one anyway.](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
 
 
+### Volunteer, Mentoring, Coaching
+- [Mentoring SG](https://mentoring.sg/)
+
 
 ### Social Fun
 - [Rec Room](https://recroom.com/)
@@ -348,8 +380,6 @@
 ###  Art/Design
 - [Magma - online art collaboration platform](https://magma.com/index)
 - [The Matrix screen](https://github.com/Rezmason/matrix)
-
-
 
 
 ### Archival
