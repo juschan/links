@@ -35,6 +35,9 @@
 - [Forget personalisation, it’s impossible and it doesn’t work](https://www.marketingweek.com/peter-weinberg-jon-lombardo-personalisation-impersonalisation/)
 - [Swiss Re - to Be or not to BE (Behavioural Economics in Insurance)](https://www.swissre.com/institute/research/topics-and-risk-dialogues/regulatory-and-governmental/to-be-or-not-to-be.html)
 - [Fake Door Test (Painted Door Test)](https://userpilot.com/blog/fake-door-testing/)
+- [
+Our Answer To The Inconvenient Truth Of Marketing Integrations: Say Hello To The App Connector
+](https://outfunnel.com/meet-our-new-app-connector/)
 
 
 ### Tech Hack
@@ -65,6 +68,7 @@
 - [Create a positive feedback loop to become motivated](https://www.deprocrastination.co/blog/create-a-positive-feedback-loop-to-become-motivated)
 - [Coping strategies for the serial project hoarder](https://simonwillison.net/2022/Nov/26/productivity/)
 - [Interview: Anna Richardson: 'Should I be wearing a T-shirt saying: I’ve had a breakdown?](https://www.theguardian.com/tv-and-radio/2020/may/13/anna-richardson-should-i-be-wearing-a-t-shirt-saying-ive-had-a-breakdown)
+- [The non-linear workdays changing the shape of productivity](https://www.bbc.com/worklife/article/20220928-the-non-linear-workdays-changing-the-shape-of-productivity)
 
 
 ### Finance
@@ -141,6 +145,8 @@
 - [Where Did Software Go Wrong?](https://blog.jse.li/posts/software/)
 - [Engineering in a Hybrid World](https://www.iconiqcapital.com/growth/insights/2022-engineering-report)
 - [What I learned at GitLab that I don't want to forget](https://boleary.dev/what-i-learned-at-gitlab-that-i-dont-want-to-forget/)
+- [Is Software Development a Fool’s Paradise?](https://blog.devgenius.io/is-software-development-a-fools-paradise-725dc55cc9ba)
+- [Software Development Has a Watermelon Problem](https://itnext.io/software-development-has-a-watermelon-problem-f47e023ee443)
 
 
 
@@ -160,6 +166,8 @@
 - [NightDrive](https://incoherency.co.uk/blog/stories/nightdrive.html)
 - [WebAssembly and its platform targets](https://snarky.ca/webassembly-and-its-platform-targets/)
 - [Protocols, not platforms](https://allenbrunson.com/posts/protocols-not-platforms/)
+- [Deno - The Future of the Web is on the Edge](https://deno.com/blog/the-future-of-web-is-on-the-edge)
+- [Deno - Create a project](https://fresh.deno.dev/docs/getting-started/create-a-project)
 
 
 ### Data and Databases
@@ -171,6 +179,12 @@
 - [Litestream - I'm All-In on Server-Side SQLite](https://fly.io/blog/all-in-on-sqlite-litestream/)
 - [BetterData - AI Synthetic Data](https://www.betterdata.ai/)
 - [Grist - spreadsheet database](https://www.getgrist.com/)
+- [An Introduction to Synthetic Data](https://statisticallyrelevant.com/an-introduction-to-synthetic-data/)
+- [Deepnote - where data teams do their work](https://deepnote.com/)
+- [Synthetic Data Vault](https://sdv.dev/)
+- [NC State datasets for teaching and learning](https://www.lib.ncsu.edu/teaching-and-learning-datasets)
+- [DrivenData - projects at the intersection of data science and social impact](https://www.drivendata.org/)
+
 
 
 ### Embedded Systems
@@ -189,6 +203,8 @@
 - [NiceGUI - browser frontend for Python](https://nicegui.io/)
 - [Python Magic Methods You Haven't Heard About](https://martinheinz.dev/blog/87)
 - [Atoti - Free Python BI analytics platform](https://www.atoti.io/)
+- [Numba - https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f](https://towardsdatascience.com/this-decorator-will-make-python-30-times-faster-715ca5a66d5f)
+- [Jupyterlite - Jupyterlab entirely in the browser](https://github.com/jupyterlite/jupyterlite)
 
 
 ### Studies
@@ -269,6 +285,7 @@
 - [riffusion - create music](https://www.riffusion.com/about)
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [AI for Control Engineering](https://www.controleng.com/articles/artificial-intelligence-for-control-engineering/)
+- [MAGE 1.2 - temporal graph networks](https://memgraph.com/blog/mage-1-2-release)
 
 
 
@@ -283,6 +300,7 @@
 - [Guide to exploit RFC in PySpark](https://towardsdatascience.com/a-guide-to-exploit-random-forest-classifier-in-pyspark-46d6999cb5db)
 - [Scaling SHAP Calculations With PySpark and Pandas UDF](https://www.databricks.com/blog/2022/02/02/scaling-shap-calculations-with-pyspark-and-pandas-udf.html)
 - [Solving 5 Mysterious Spark Errors](https://medium.com/@yhoso/resolving-weird-spark-errors-f34324943e1c)
+- [Smoothly Transition from Pandas to PySpark](https://towardsdatascience.com/equivalents-between-pandas-and-pyspark-c8b5ba57dc1d)
 
 
 
@@ -361,6 +379,7 @@
 - [The NFT creation user journey](https://blog.mollywhite.net/the-nft-creation-user-journey/)
 - [Bitcoin is not a store-of-value](https://cryptostackers.substack.com/p/bitcoin-is-not-a-store-of-value)
 - [Nobody’s using CBDCs. India’s piloting one anyway.](https://techmonitor.ai/policy/digital-economy/nobodys-using-cbdcs-indias-piloting-one-anyway)
+- [Bitcoin and economic nihilism](https://xeiaso.net/blog/cryptocurrency-ownership)
 
 
 ### Volunteer, Mentoring, Coaching
