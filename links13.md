@@ -5,8 +5,9 @@
 - [Theory of constraints](http://theoryofconstraints.blogspot.com/2007/06/toc-stories-2-blue-light-creating.html)
 - [Be where your business is](https://steveblank.com/2023/01/10/be-where-your-business-is/)
 - [Risk of Embarrassment has the highest returns](https://mrsteinberg.com/risk-of-embarrassment-has-the-highest-returns/)
-
-
+- [The Elephant in the room: The myth of exponential hypergrowth](https://longform.asmartbear.com/docs/exponential-growth/)
+- [Build vs Buy](https://two-wrongs.com/build-vs-buy)
+- [Advice for Sundar Pichai: How to Solve Google’s Billion-Dollar Productivity Problem](https://gradle.com/blog/advice-for-sundar-pichai-how-to-solve-googles-billion-dollar-productivity-problem/)
 
 ### Engineering Mgt
 - [Measuring an engineering organization.](https://lethain.com/measuring-engineering-organizations/)
@@ -20,12 +21,15 @@
 - [Google Should Fire Sundar Pichai ](https://ez.substack.com/p/google-should-fire-sundar-pichai)
 - [Great DevRel Content is a process, not a project with Jason Lengstorf](https://podcast.bitreach.io/episodes/jason-lengstorf)
 - [Make It Work Make It Right Make It Fast](https://wiki.c2.com/?MakeItWorkMakeItRightMakeItFast)
+- [Resilience and Waste in Software Teams](https://jessitron.com/2023/01/16/resilience-and-waste-in-software-teams/)
+- [Bosses are obsessed with returning to the office. Here's why it's already out of their hands](https://finance.yahoo.com/news/bosses-obsessed-returning-office-heres-175344745.html)
+- [Three-quarters of developers are willing to quit for a new job. And it's not just about the money](https://www.zdnet.com/article/three-quarters-of-developers-are-willing-to-quit-for-a-new-job-and-its-not-just-about-the-money/)
 
 
 ### Project Mgt
 - [Bayes Theorem for project managers](https://eight2late.wordpress.com/2010/03/11/bayes-theorem-for-project-managers/)
-
-
+- [ChatGPT Prompts for Agile Practitioners](https://dzone.com/articles/chatgpt-prompts-for-agile-practitioners)
+- [Bayesian Project Mgt](http://www.maxwideman.com/guests/bayesian/intro.htm)
 
 ### Life Hack
 - [Theories of Procrastination](https://procrastinus.com/piers-steel/theories-of-procrastination/)
@@ -33,7 +37,7 @@
 - [Be less scared of overconfidence - when to be!](https://www.benkuhn.net/overconfidence/)
 - [Linus Lee is Living with AI - use generative AI to think better and get more done](https://every.to/chain-of-thought/linus-lee-is-living-with-ai)
 - [I am the only user](https://blubsblog.bearblog.dev/i-am-the-only-user/)
-
+- [How to prioritise tasks](https://jimmyislive.dev/posts/how-to-prioritize/)
 
 
 ### Strategy
@@ -57,6 +61,8 @@
 
 ### Software Engineering
 - [Ray breaks the $1/TB barrier as the world’s most cost-efficient sorting system](https://www.anyscale.com/blog/ray-breaks-the-usd1-tb-barrier-as-the-worlds-most-cost-efficient-sorting)
+- [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
+
 
 ### Career
 - [Ask HN: Are you a “lifer”? If so why?](https://news.ycombinator.com/item?id=33794293&p=2)
@@ -87,7 +93,7 @@
 - [Hyperview - integrate thin/thick web clients](https://hyperview.org/docs/guide_introduction)
 - [Intro to web components](https://htmlwithsuperpowers.netlify.app/get-started/)
 - [Nostr protocol (social media)](https://github.com/nostr-protocol/nostr)
-
+- [astro - web framework](https://astro.build/)
 
 ### Tools
 - [Rows - data comes to life](https://rows.com/)
@@ -96,6 +102,11 @@
 - [Learn D3.js from the ground up](https://www.d3indepth.com/)
 - [Switching from Windows to Linux Desktop](https://tongwing.woon.sg/blog/switching-from-windows-to-linux/)
 - [Make a Resume in LaTeX!](https://drshika.me/2022/04/15/latex-resumes)
+- [Automatisch - Zapier Alternative](https://automatisch.io/)
+- [Nnaovms](https://nanovms.com/)
+- [Cal - Scheduling infrastructure](https://cal.com/)
+- [Development containers](https://containers.dev/)
+
 
 ### Cybersecurity
 - [Web Hackers vs. The Auto Industry](https://samcurry.net/web-hackers-vs-the-auto-industry/)
@@ -113,6 +124,11 @@
 - [How AI will change your team's knowledge forever](https://slite.com/blog/gpt-knowledge-revolution-is-coming)
 - [An IP Attorney’s Reading of the Stable Diffusion Class Action Lawsuit](https://katedowninglaw.com/2023/01/26/an-ip-attorneys-reading-of-the-stable-diffusion-class-action-lawsuit/)
 - [Is AI the solution to search's problem?](https://lucaserb.substack.com/p/brief-bear)
+- [Weighted Random Forest with Spark 3 - Weight calculations](https://blog.vlgdata.io/post/spark_3_weighted_random_forest/)
+- [Software glitch revokes copyright protection for AI-generated comic book](https://www.theregister.com/2023/01/25/glitch_us_copyright_office_ai/)
+** - [Quantum SVM 101](https://dzone.com/articles/quantum-support-vector-machine-101)
+- [Core ML Metrics](https://dzone.com/articles/core-machine-learning-metrics)
+- [AI-Powered Knowledge Graphs](https://dzone.com/articles/ai-powered-knowledge-graphs)
 
 
 ### Data
@@ -132,6 +148,9 @@
 - [‘Everything is fake’: how global crime gangs are using UK shell companies in multi-million pound crypto scams](https://www.theguardian.com/world/2023/jan/29/everything-is-fake-how-global-gangs-are-using-uk-shell-companies-in-multi-million-pound-crypto-scams)
 - [Australia regulator to probe social media influencers for false endorsements](https://www.euronews.com/next/2023/01/28/australia-socialmedia)
 - [Humans Retain ‘Ancestral’ Understanding of Ape Gestures](https://www.vice.com/en/article/n7zxvg/humans-retain-ancestral-understanding-of-ape-gestures-study-says)
+- [UK Strike Dates](https://www.bbc.com/news/business-62134314)
+- [forgotten Existentialist](https://aeon.co/essays/karl-jaspers-the-forgotten-father-of-existentialism)
+
 
 
 ### Health, Fitness, Nutrition
@@ -140,7 +159,7 @@
 - [Doctor reveals how she cured her autoimmune disease - Dr Cynthia Li](https://www.youtube.com/watch?v=_VZrY2vSbws)
 - [The team from Catholic High School coded a Discord bot to detect distress](https://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh)
 - [The Cause of Depression Is Probably Not What You Think](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
-
+- [Gut Microbes That Can Boost the Motivation To Exercise](https://scitechdaily.com/scientists-discover-species-of-gut-microbes-that-can-boost-the-motivation-to-exercise/)
 
 ### Coaching
 - [Think, Coach, Thrive - book](https://epigrambookshop.sg/products/think-coach-thrive-fortifying-antifragility-in-organisations-through-workplace-coaching?variant=40061946003569)
