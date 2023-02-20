@@ -62,6 +62,7 @@
 ### Software Engineering
 - [Ray breaks the $1/TB barrier as the world’s most cost-efficient sorting system](https://www.anyscale.com/blog/ray-breaks-the-usd1-tb-barrier-as-the-worlds-most-cost-efficient-sorting)
 - [The Ultimate Guide To Software Architecture Documentation](https://www.workingsoftware.dev/software-architecture-documentation-the-ultimate-guide/)
+- [Errors are not failures](https://blog.charliemeyer.co/errors-are-not-failures/)
 
 
 ### Career
@@ -75,6 +76,7 @@
 ### Python
 - [Signed distance functions in 46 lines of Python](https://vgel.me/posts/donut/)
 - [Pythonnet – A Simple Union of .NET Core and Python You’ll Love](https://www.devleader.ca/2023/01/20/pythonnet-a-simple-union-of-net-core-and-python-youll-love/)
+- [Pyomo - Optimization library](https://jckantor.github.io/ND-Pyomo-Cookbook/README.html)
 
 
 
@@ -94,6 +96,9 @@
 - [Intro to web components](https://htmlwithsuperpowers.netlify.app/get-started/)
 - [Nostr protocol (social media)](https://github.com/nostr-protocol/nostr)
 - [astro - web framework](https://astro.build/)
+- [Staticrypt - encrypt html!](https://github.com/robinmoisson/staticrypt)
+
+
 
 ### Tools
 - [Rows - data comes to life](https://rows.com/)
@@ -106,6 +111,8 @@
 - [Nnaovms](https://nanovms.com/)
 - [Cal - Scheduling infrastructure](https://cal.com/)
 - [Development containers](https://containers.dev/)
+- [b4x - RAD VB tool](https://www.b4x.com/)
+- [Noya - draw wireframes, get designs and code](https://www.noya.io/home)
 
 
 ### Cybersecurity
@@ -129,6 +136,9 @@
 ** - [Quantum SVM 101](https://dzone.com/articles/quantum-support-vector-machine-101)
 - [Core ML Metrics](https://dzone.com/articles/core-machine-learning-metrics)
 - [AI-Powered Knowledge Graphs](https://dzone.com/articles/ai-powered-knowledge-graphs)
+- [The Norvig - Chomsky debate](http://web.cse.ohio-state.edu/~stiff.4/cse3521/norvig-chomsky.html)
+- [AI won’t make artists redundant - thanks to information theory](https://p.migdal.pl/blog/2023/02/ai-arts-information-theory/)
+- [Introducing the AI Mirror Test, which very smart people keep failing](https://www.theverge.com/23604075/ai-chatbots-bing-chatgpt-intelligent-sentient-mirror-test)
 
 
 ### Data
@@ -150,6 +160,9 @@
 - [Humans Retain ‘Ancestral’ Understanding of Ape Gestures](https://www.vice.com/en/article/n7zxvg/humans-retain-ancestral-understanding-of-ape-gestures-study-says)
 - [UK Strike Dates](https://www.bbc.com/news/business-62134314)
 - [forgotten Existentialist](https://aeon.co/essays/karl-jaspers-the-forgotten-father-of-existentialism)
+- [What does it mean for there to be “excess liquidity sloshing around the financial system”?](https://renormalizetheworld.wordpress.com/2023/02/17/what-does-it-mean-for-there-to-be-excess-liquidity-sloshing-around-the-financial-system/)
+- [Imageworks - Image Consulting](https://imageworks.sg/professional-image-workshop/)
+- [Haque Centre of Acting and Creativity - method acting]([https://methodactingasia.com/library-hcac/?doing_wp_cron=1676647103.6635329723358154296875](https://methodactingasia.com/))
 
 
 
@@ -160,6 +173,7 @@
 - [The team from Catholic High School coded a Discord bot to detect distress](https://www.channelnewsasia.com/brandstudio/imc-youthawards/catholichigh)
 - [The Cause of Depression Is Probably Not What You Think](https://www.quantamagazine.org/the-cause-of-depression-is-probably-not-what-you-think-20230126/)
 - [Gut Microbes That Can Boost the Motivation To Exercise](https://scitechdaily.com/scientists-discover-species-of-gut-microbes-that-can-boost-the-motivation-to-exercise/)
+- [‘Bond villain’ DNA could transform cancer treatment, scientists say](https://www.theguardian.com/science/2023/feb/18/bond-villain-dna-could-transform-cancer-treatment-scientists-say)
 
 ### Coaching
 - [Think, Coach, Thrive - book](https://epigrambookshop.sg/products/think-coach-thrive-fortifying-antifragility-in-organisations-through-workplace-coaching?variant=40061946003569)
