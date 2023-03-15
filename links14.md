@@ -4,7 +4,7 @@
 - [Minimum Stakeholder Business](https://gordonc.bearblog.dev/minimum-stakeholder-businesses/)
 - [World’s 123rd Richest Person Says if You Understand the Stanford Experiment, You’ll Become Wealthy.](https://levelup.gitconnected.com/worlds-123rd-richest-person-says-if-you-understand-the-stanford-experiment-you-ll-become-wealthy-e846014e9fc0)
 - [RailsCasts Retrospective](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
-
+- [Why people make a living online out of courses on how to make a living online?](https://news.ycombinator.com/item?id=35136947)
 
 
 ### Life Hack
@@ -24,7 +24,7 @@
 - [More than five whys and "layer eight" problems](http://rachelbythebay.com/w/2023/02/13/broken/)
 - [The maze is in the mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a)
 - [For leaders, playing favorites can be a smart strategy](https://phys.org/news/2023-02-leaders-playing-favorites-smart-strategy.html)
-
+- [5 Software Developer Competencies (How to Recognize a Good Programmer)](https://levelup.gitconnected.com/5-software-developer-competencies-how-to-recognize-a-good-programmer-2e2ed9a3f448)
 
 
 ### Python
@@ -32,11 +32,12 @@
 - [Write faster Python code, and ship your code faster](https://pythonspeed.com/about/)
 - [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/)
 - [Python Revisited](https://www.computerenhance.com/p/python-revisited)
+- [Learn Django](https://builtwithdjango.com/)
 
-
-### Databases, data, SQL
+### Databases, data, SQL, data gov
 - [Ace The SQL Interview](https://datalemur.com/)
 - [An introduction to Datalog](https://blogit.michelin.io/an-introduction-to-datalog/)
+- [Designing Data Governance from the Ground Up](https://media.pragprog.com/newsletters/2023-02-22.html)
 
 ### Containers
 - [Learn the fundamentals of Docker packaging—in just one afternoon](https://pythonspeed.com/products/justenoughdockerpackaging/?mtm_campaign=products)
@@ -47,7 +48,7 @@
 - [Git Immersive](https://gitimmersion.com/lab_01.html)
 - [Ask HN: What Git branching strategy do you use in 2023, and why?](https://news.ycombinator.com/item?id=34959801)
 - [Playground IT - Org Culture waste](https://bitslap.it/blog/posts/playground-it.html)
-
+- [Journey to Event Driven, Part 1: Why Event-First Programming Changes Everything](https://dzone.com/articles/journey-to-event-driven-part-1-why-event-first-pro)
 
 ### Programming languages - Nix, Rust, Clojure, JAI
 - [Some notes on using nix](https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/)
@@ -66,6 +67,8 @@
 - [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)
 - [Machine Learning Rules of Thumb](https://towardsdatascience.com/machine-learning-rules-of-thumb-b50232b4b2f8)
 - [The Little Learner](https://mitpress.mit.edu/9780262546379/the-little-learner/)
+- [Y Combinator–backed Patterns is building a platform to abstract away data science busywork](https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/)
+- [From Books to Knowledge Graphs](https://arxiv.org/abs/2204.10766)
 
 ### Generative AI
 - [Creating Isometric RPG Game Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
@@ -74,6 +77,8 @@
 - [ChatGPT is a bullshit generator. But it can still be amazingly useful](https://aisnakeoil.substack.com/p/chatgpt-is-a-bullshit-generator-but)
 - [We come to bury ChatGBP, not to praise it](https://www.danmcquillan.org/chatgpt.html)
 - [https://javascript.plainenglish.io/coding-wont-exist-in-5-years-this-is-why-6da748ba676c](Coding Won’t Exist In 5 Years. This Is Why)
+- [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
+- [GPT-4](https://openai.com/research/gpt-4)
 
 ### AI ethics, regulation, law, education
 - [Push for new law to regulate facial recognition technology in Australia](https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition)
@@ -87,7 +92,7 @@
 - [Optimality is the tiger, and agents are its teeth](https://www.lesswrong.com/posts/kpPnReyBC54KESiSn/optimality-is-the-tiger-and-agents-are-its-teeth)
 - [How Google Ran Out of Ideas](https://www.theatlantic.com/ideas/archive/2023/02/google-ai-chatbots-microsoft-bing-chatgpt/673052/)
 - [Generative AI could be an authoritarian breakthrough in brainwashing](https://thehill.com/opinion/technology/3871841-generative-ai-could-be-an-authoritarian-breakthrough-in-brainwashing/)
-
+- [Regulators Look at Potential Bias in Life-Insurance Algorithms](https://www.wsj.com/articles/regulators-look-at-potential-bias-in-life-insurance-algorithms-c7d838f2)
 
 
 ### Personal Knowledge Mgt
@@ -96,10 +101,14 @@
 
 ### Dev Tools
 - [Pencil - GUI prototyping, open source](https://pencil.evolus.vn/)
+- [STC - Smart Template Containers for C](https://github.com/tylov/STC)
+
+
 
 ### Computer Science
 - [You Cannot Have Exactly-Once Delivery](https://bravenewgeek.com/you-cannot-have-exactly-once-delivery/)
 - [Logical Time and Deterministic Execution](https://concerningquality.com/logical-time-determinism/)
+- [Tiny-C compiler code](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
 
 ### Interesting
 - [‘Torture porn or serious literature?’: the love-hate phenomenon of cult novel A Little Life](https://www.theguardian.com/books/2023/mar/11/torture-porn-or-serious-literature-the-love-hate-phenomenon-of-cult-novel-a-little-life)
@@ -136,7 +145,7 @@
 - [Web Push for Web Apps on iOS and iPadOS](https://webkit.org/blog/13878/web-push-for-web-apps-on-ios-and-ipados/)
 - [Writing Javascript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
 - [Equals - dashboards](https://equals.app/dashboards/)
-
+- [Typescript Magic](https://artsy.github.io/blog/2023/03/01/typescript-magic/)
 
 ### Healthcare
 - [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
@@ -145,6 +154,8 @@
 - [Doctors Are Disappearing From Emergency Rooms as Hospitals Look to Cut Costs](https://khn.org/news/article/doctors-are-disappearing-from-emergency-rooms-as-hospitals-look-to-cut-costs/)
 - [Physically Demanding Work Tied to Male Fertility](https://hms.harvard.edu/news/physically-demanding-work-tied-male-fertility)
 - [Crying over spilled milk? FDA made the right choice on plant-based labeling — with one exception](https://thehill.com/opinion/energy-environment/3877938-crying-over-spilled-milk-fda-made-the-right-choice-on-plant-based-labeling-with-one-exception/)
+- [The battle to boost our deep sleep – and help stop dementia](https://www.theguardian.com/lifeandstyle/2023/mar/13/the-battle-to-boost-our-deep-sleep-and-help-stop-dementia)
+
 
 
 ### Finance
@@ -165,9 +176,10 @@
 - [Yes, Crypto is ALL a Scam](https://www.stephendiehl.com/blog/crypto-is-a-scam.html)
 - [Cardano](https://cardano.org/)
 
-
-
-
+# Coaching
+- [Team Transformation](https://teamtransformation.com/)
+- [Facilitating and Coaching Teams: Tips and Techniques - paper](http://www.phf.org/resourcestools/Documents/Facilitating_and_Coaching_Teams.pdf)
+- [ATlas of the Heart](https://www.amazon.com/Atlas-Heart-Meaningful-Connection-Experience/dp/B0979HG8R3/ref=sr_1_1?keywords=brene+brown+atlas+of+the+heart&qid=1675751534&sprefix=rene+brown%2Caps%2C614&sr=8-1)
 
 
 
