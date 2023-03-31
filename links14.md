@@ -109,7 +109,7 @@
 - [It’s Game Over on Vocal Deepfakes](https://daringfireball.net/2023/03/game_over_vocal_deepfakes)
 - [PaLM API & MakerSuite: an approachable way to start prototyping and building generative AI applications](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
-- 
+- [https://encord.com/blog/generative-ai-and-gpt4-is-overrated-long-live-old-school-ai/](https://encord.com/blog/generative-ai-and-gpt4-is-overrated-long-live-old-school-ai/)
 
 ### AI ethics, regulation, law, education
 - [Push for new law to regulate facial recognition technology in Australia](https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition)
@@ -211,6 +211,8 @@
 - [The collapse of SVB shows why monetary policy is the wrong tool to fight inflation](https://thehill.com/opinion/congress-blog/3905479-the-collapse-of-svb-shows-why-monetary-policy-is-the-wrong-tool-to-fight-inflation/)
 
 
+### Teaching
+- [Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology](https://journals.sagepub.com/stoken/rbtfl/Z10jaVH/60XQM/full)
 
 
 ### Philosophy
