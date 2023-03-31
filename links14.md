@@ -5,13 +5,16 @@
 - [World’s 123rd Richest Person Says if You Understand the Stanford Experiment, You’ll Become Wealthy.](https://levelup.gitconnected.com/worlds-123rd-richest-person-says-if-you-understand-the-stanford-experiment-you-ll-become-wealthy-e846014e9fc0)
 - [RailsCasts Retrospective](https://rbates.dev/railscasts-retrospective-part-1-the-fuel)
 - [Why people make a living online out of courses on how to make a living online?](https://news.ycombinator.com/item?id=35136947)
+- [Deeply, truly, very sorry: How tech CEOs talk when they lay off workers](https://www.washingtonpost.com/business/interactive/2023/tech-layoffs-company-memos/)
+
 
 
 ### Life Hack
 - [Ask HN: Habits that have improved your life in many dimensions](https://news.ycombinator.com/item?id=34689709)
 - [A Beautiful Girl I Knew Became a High-Class Escort — And Paid a Terrible Price](https://medium.com/mind-cafe/a-beautiful-girl-i-knew-became-a-high-class-escort-and-paid-a-terrible-price-f2cd51c7ad)
 - [Cross-Domain Thinking Drives Insights & Innovation](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
-
+- [1 Year From Quitting My Full-Time PM Job. What Do I Miss The Most?](https://www.harshal-patil.com/post/1-year-from-quitting-my-full-time-pm-job-what-do-i-miss-the-most)
+- [I’ve been “working” at a job for 7 months with no boss and no work to do.](https://old.reddit.com/r/antiwork/comments/11t0vov/ive_been_working_at_a_job_for_7_months_with_no/)
 
 
 ### Engineering Mgt
@@ -25,6 +28,7 @@
 - [The maze is in the mouse](https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a)
 - [For leaders, playing favorites can be a smart strategy](https://phys.org/news/2023-02-leaders-playing-favorites-smart-strategy.html)
 - [5 Software Developer Competencies (How to Recognize a Good Programmer)](https://levelup.gitconnected.com/5-software-developer-competencies-how-to-recognize-a-good-programmer-2e2ed9a3f448)
+- [De-cloud and de-k8s — bringing our apps back home](https://dev.37signals.com/bringing-our-apps-back-home/)
 
 
 ### Python
@@ -33,14 +37,19 @@
 - [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/)
 - [Python Revisited](https://www.computerenhance.com/p/python-revisited)
 - [Learn Django](https://builtwithdjango.com/)
+- [Python bytearray](https://www.programiz.com/python-programming/methods/built-in/bytearray)
+
 
 ### Databases, data, SQL, data gov
 - [Ace The SQL Interview](https://datalemur.com/)
 - [An introduction to Datalog](https://blogit.michelin.io/an-introduction-to-datalog/)
 - [Designing Data Governance from the Ground Up](https://media.pragprog.com/newsletters/2023-02-22.html)
+- [Show HN: Harmonized Data Platform](https://news.ycombinator.com/item?id=35222817)
+
 
 ### Containers
 - [Learn the fundamentals of Docker packaging—in just one afternoon](https://pythonspeed.com/products/justenoughdockerpackaging/?mtm_campaign=products)
+
 
 ### Software Engineering
 - [Reduce technical debt by valuing comments as much as code](https://blogs.oracle.com/javamagazine/post/java-comments-reduce-technical-debt)
@@ -49,6 +58,13 @@
 - [Ask HN: What Git branching strategy do you use in 2023, and why?](https://news.ycombinator.com/item?id=34959801)
 - [Playground IT - Org Culture waste](https://bitslap.it/blog/posts/playground-it.html)
 - [Journey to Event Driven, Part 1: Why Event-First Programming Changes Everything](https://dzone.com/articles/journey-to-event-driven-part-1-why-event-first-pro)
+- [Reliability Is Slowing You Down](https://dzone.com/articles/reliability-is-slowing-you-down)
+- [The Software Architect Elevator: Transforming Enterprises with Technology and Business Architecture](https://dzone.com/articles/engineering-manager-the-4-books-you-absolutely-mus)
+- [The Simplicity of Single-File Golang Deployments](https://www.amazingcto.com/simplicity-of-golang-systemd-deployments/)
+- [Software Design: Tidy First?](https://tidyfirst.substack.com/p/how-i-came-to-write-tidy-first)
+- [Write Predictable software, not Ergonomic](https://serce.me/posts/21-03-2023-write-predictable-software-not-ergonomic)
+
+
 
 ### Programming languages - Nix, Rust, Clojure, JAI
 - [Some notes on using nix](https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/)
@@ -69,6 +85,14 @@
 - [The Little Learner](https://mitpress.mit.edu/9780262546379/the-little-learner/)
 - [Y Combinator–backed Patterns is building a platform to abstract away data science busywork](https://techcrunch.com/2023/03/09/y-combinator-backed-patterns-is-building-a-platform-to-abstract-away-data-science-busywork/)
 - [From Books to Knowledge Graphs](https://arxiv.org/abs/2204.10766)
+- [Deep Learning Book Series 3.4 and 3.5 Marginal and Conditional Probability](https://towardsdatascience.com/deep-learning-book-series-3-4-and-3-5-marginal-and-conditional-probability-8c6239e453b8)
+- [Book - Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+  - [book slides on hypothesis sets](https://cs.nyu.edu/~mohri/mls/ml_learning_with_finite_hypothesis_sets.pdf)
+- [Online book - Applied ML in Python ](https://amueller.github.io/aml/01-ml-workflow/00-ml-workflow.html)
+- [Predicting the true probability in Neural Networks: Confidence Calibration](https://medium.com/codex/predicting-the-true-probability-in-neural-networks-confidence-calibration-fa6c6d712ff)
+- [Predicting Good Probabilities With Supervised Learning](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)
+- [How and When to Use a Calibrated Classification Model with scikit-learn](https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/)
+
 
 ### Generative AI
 - [Creating Isometric RPG Game Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
@@ -79,6 +103,13 @@
 - [https://javascript.plainenglish.io/coding-wont-exist-in-5-years-this-is-why-6da748ba676c](Coding Won’t Exist In 5 Years. This Is Why)
 - [A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT](https://arxiv.org/abs/2302.11382)
 - [GPT-4](https://openai.com/research/gpt-4)
+- [Github Copilot](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+- [Everything ChatGPT](https://github.com/terminalcommandnewsletter/everything-chatgpt)
+- [Virtual Face](https://virtualface.app/#/)
+- [It’s Game Over on Vocal Deepfakes](https://daringfireball.net/2023/03/game_over_vocal_deepfakes)
+- [PaLM API & MakerSuite: an approachable way to start prototyping and building generative AI applications](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
+- [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
+- 
 
 ### AI ethics, regulation, law, education
 - [Push for new law to regulate facial recognition technology in Australia](https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition)
@@ -93,6 +124,12 @@
 - [How Google Ran Out of Ideas](https://www.theatlantic.com/ideas/archive/2023/02/google-ai-chatbots-microsoft-bing-chatgpt/673052/)
 - [Generative AI could be an authoritarian breakthrough in brainwashing](https://thehill.com/opinion/technology/3871841-generative-ai-could-be-an-authoritarian-breakthrough-in-brainwashing/)
 - [Regulators Look at Potential Bias in Life-Insurance Algorithms](https://www.wsj.com/articles/regulators-look-at-potential-bias-in-life-insurance-algorithms-c7d838f2)
+- [Chatbots, deepfakes, and voice clones: AI deception for sale](https://www.ftc.gov/business-guidance/blog/2023/03/chatbots-deepfakes-voice-clones-ai-deception-sale)
+- [Commentary: Competing with robots is making work worse](https://www.channelnewsasia.com/commentary/work-ai-openai-gpt-4-technology-replace-human-efficient-empathy-3365621)
+- [70% Of Workers Using ChatGPT At Work Are Not Telling Their Boss; Overall Usage Among Professionals Jumps To 43%](https://www.fishbowlapp.com/insights/70-percent-of-workers-using-chatgpt-at-work-are-not-telling-their-boss/)
+- [How OpenAI Sold its Soul for $1 Billion](https://onezero.medium.com/openai-sold-its-soul-for-1-billion-cf35ff9e8cd4)
+- [AI art and copyright: Does the law need to cover more?](https://www.channelnewsasia.com/singapore/ai-art-copyright-law-artificial-intelligence-authorship-originality-3339396)
+
 
 
 ### Personal Knowledge Mgt
@@ -102,6 +139,9 @@
 ### Dev Tools
 - [Pencil - GUI prototyping, open source](https://pencil.evolus.vn/)
 - [STC - Smart Template Containers for C](https://github.com/tylov/STC)
+- [https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro/)
+- [Forgejo – Launching a Fork of Gitea](https://news.ycombinator.com/item?id=33749757)
+- [typst](https://github.com/typst/typst)
 
 
 
@@ -110,6 +150,7 @@
 - [Logical Time and Deterministic Execution](https://concerningquality.com/logical-time-determinism/)
 - [Tiny-C compiler code](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c)
 
+
 ### Interesting
 - [‘Torture porn or serious literature?’: the love-hate phenomenon of cult novel A Little Life](https://www.theguardian.com/books/2023/mar/11/torture-porn-or-serious-literature-the-love-hate-phenomenon-of-cult-novel-a-little-life)
 - [The Case for Hanging Out](https://slate.com/culture/2023/02/hanging-out-sheila-liming-book-friendship-crisis.html)
@@ -117,6 +158,7 @@
 - [Zero Energy Ready Homes Are Coming to a Neighborhood Near You](https://www.energy.gov/eere/articles/zero-energy-ready-homes-are-coming-neighborhood-near-you)
 - [The Lights Wink Out in Asia](https://scholars-stage.org/the-lights-wink-out-in-asia/)
 - [Scientists leave Japan for China, wooed by better teamwork, jobs](https://www.asahi.com/ajw/articles/14800258)
+- [An aperiodic monotile](https://cs.uwaterloo.ca/~csk/hat/)
 
 
 ### Employment / Work / Career
@@ -126,7 +168,7 @@
 - [Research: The Transformative Power of Sabbaticals ](https://hbr.org/2023/02/research-the-transformative-power-of-sabbaticals)
 - [Overemployed](https://overemployed.com/)
 - [As war enters year two, Ukrainians are filling Japan’s tech gap](https://www.aljazeera.com/economy/2023/2/22/ukrainians-find-home-in-japans-talent-starved-tech-sector?traffic_source=KeepReading)
-
+- [Career Choices, A Short Story [Slightly Updated Version]](http://blog.geekpress.com/2023/03/career-choices-short-story.html)
 
 ### Writing
 - [Why Write?](https://fs.blog/why-write/)
@@ -146,6 +188,8 @@
 - [Writing Javascript without a build system](https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/)
 - [Equals - dashboards](https://equals.app/dashboards/)
 - [Typescript Magic](https://artsy.github.io/blog/2023/03/01/typescript-magic/)
+* - [HelioHost's Sparkie Server - free web hosting](https://www.gofundme.com/f/sparkie-server)
+- [Motion Canvas](https://motioncanvas.io/)
 
 ### Healthcare
 - [A broad-spectrum synthetic antibiotic that does not evoke bacterial resistance](https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00026-9/fulltext)
@@ -155,7 +199,7 @@
 - [Physically Demanding Work Tied to Male Fertility](https://hms.harvard.edu/news/physically-demanding-work-tied-male-fertility)
 - [Crying over spilled milk? FDA made the right choice on plant-based labeling — with one exception](https://thehill.com/opinion/energy-environment/3877938-crying-over-spilled-milk-fda-made-the-right-choice-on-plant-based-labeling-with-one-exception/)
 - [The battle to boost our deep sleep – and help stop dementia](https://www.theguardian.com/lifeandstyle/2023/mar/13/the-battle-to-boost-our-deep-sleep-and-help-stop-dementia)
-
+- [The Kids are Not Okay](https://thezvi.wordpress.com/2023/03/08/the-kids-are-not-okay/)
 
 
 ### Finance
@@ -164,6 +208,9 @@
 - [Inflation will remain ‘sticky’ for a decade because Gen Z and millennials are in their prime spending years, an investment chief says](https://fortune.com/2023/02/14/smead-sticky-inflation-decade-millennials-gen-z-spending/)
 - [Household debt hit record $16.9 trillion last quarter, as consumers loaded up their credit cards](https://abc7.com/us-household-debt-credit-cards-record-card-balance/12825921/)
 - [How the Fed “Went Broke”](https://www.lynalden.com/broke-federal-reserve/)
+- [The collapse of SVB shows why monetary policy is the wrong tool to fight inflation](https://thehill.com/opinion/congress-blog/3905479-the-collapse-of-svb-shows-why-monetary-policy-is-the-wrong-tool-to-fight-inflation/)
+
+
 
 
 ### Philosophy
@@ -180,6 +227,11 @@
 - [Team Transformation](https://teamtransformation.com/)
 - [Facilitating and Coaching Teams: Tips and Techniques - paper](http://www.phf.org/resourcestools/Documents/Facilitating_and_Coaching_Teams.pdf)
 - [ATlas of the Heart](https://www.amazon.com/Atlas-Heart-Meaningful-Connection-Experience/dp/B0979HG8R3/ref=sr_1_1?keywords=brene+brown+atlas+of+the+heart&qid=1675751534&sprefix=rene+brown%2Caps%2C614&sr=8-1)
+- [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
+
+
+
+
 
 
 
