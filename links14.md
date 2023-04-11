@@ -15,6 +15,10 @@
 - [Cross-Domain Thinking Drives Insights & Innovation](https://markmcneilly.substack.com/p/cross-domain-thinking-drives-insights)
 - [1 Year From Quitting My Full-Time PM Job. What Do I Miss The Most?](https://www.harshal-patil.com/post/1-year-from-quitting-my-full-time-pm-job-what-do-i-miss-the-most)
 - [I’ve been “working” at a job for 7 months with no boss and no work to do.](https://old.reddit.com/r/antiwork/comments/11t0vov/ive_been_working_at_a_job_for_7_months_with_no/)
+- [The real "must have" tools for programmers](https://jamesdunne.dev/posts/must-have-programming-tools/)
+- [Effective Spaced Repetition](https://borretti.me/article/effective-spaced-repetition)
+- [Use GitHub Actions to Make Your GitHub Profile Dynamic](https://www.bengreenberg.dev/posts/2023-04-09-github-profile-dynamic-content/)
+
 
 
 ### Engineering Mgt
@@ -47,6 +51,12 @@
 - [Show HN: Harmonized Data Platform](https://news.ycombinator.com/item?id=35222817)
 - [DB Browser for sqlite wiki](https://github.com/sqlitebrowser/sqlitebrowser/wiki)
   - [DB Browser for sqlite wiki - Views](https://github.com/sqlitebrowser/sqlitebrowser/wiki/Views) 
+- [w3schools - sql. Playground to test for MySQL](https://www.w3schools.com/sql/)
+- [SQLite Window Functions](https://www.sqlitetutorial.net/sqlite-window-functions/)
+- [s03-Window Functions within SQLite](https://github.com/royalosyin/Practice-SQL-with-SQLite-and-Jupyter-Notebook/blob/master/s03-Window%20Functions%20within%20SQLite.ipynb)
+- [5 Window Function Examples to Take Your SQL Skills to the Next Level](https://towardsdatascience.com/5-window-function-examples-to-take-your-sql-skills-to-the-next-level-2b3306650bb6)
+
+
 
 ### Containers
 - [Learn the fundamentals of Docker packaging—in just one afternoon](https://pythonspeed.com/products/justenoughdockerpackaging/?mtm_campaign=products)
@@ -93,6 +103,7 @@
 - [Predicting the true probability in Neural Networks: Confidence Calibration](https://medium.com/codex/predicting-the-true-probability-in-neural-networks-confidence-calibration-fa6c6d712ff)
 - [Predicting Good Probabilities With Supervised Learning](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)
 - [How and When to Use a Calibrated Classification Model with scikit-learn](https://machinelearningmastery.com/calibrated-classification-model-in-scikit-learn/)
+- [Fastest way to turn a Jupyter notebook into a website these days?](https://news.ycombinator.com/item?id=35435253)
 
 
 ### Generative AI
@@ -111,6 +122,10 @@
 - [PaLM API & MakerSuite: an approachable way to start prototyping and building generative AI applications](https://developers.googleblog.com/2023/03/announcing-palm-api-and-makersuite.html)
 - [Web Stable Diffusion](https://github.com/mlc-ai/web-stable-diffusion)
 - [https://encord.com/blog/generative-ai-and-gpt4-is-overrated-long-live-old-school-ai/](https://encord.com/blog/generative-ai-and-gpt4-is-overrated-long-live-old-school-ai/)
+- [HAROLD COHEN: ‘ONCE UPON A TIME THERE WAS AN ENTITY NAMED AARON’](https://www.katevassgalerie.com/blog/harold-cohen-aaron-computer-art)
+- [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+
+
 
 ### AI ethics, regulation, law, education
 - [Push for new law to regulate facial recognition technology in Australia](https://www.choice.com.au/consumers-and-data/data-collection-and-use/how-your-data-is-used/articles/new-law-to-regulate-facial-recognition)
@@ -160,6 +175,8 @@
 - [The Lights Wink Out in Asia](https://scholars-stage.org/the-lights-wink-out-in-asia/)
 - [Scientists leave Japan for China, wooed by better teamwork, jobs](https://www.asahi.com/ajw/articles/14800258)
 - [An aperiodic monotile](https://cs.uwaterloo.ca/~csk/hat/)
+- ["Inside-out Wankel" rotary engine delivers 5X the power of a diesel](https://newatlas.com/automotive/inside-out-wankel/)
+
 
 
 ### Employment / Work / Career
@@ -173,6 +190,9 @@
 
 ### Writing
 - [Why Write?](https://fs.blog/why-write/)
+
+### Product Mgt
+- [Who Will Amplify This? And Why?](https://sparktoro.com/blog/who-will-amplify-this-and-why/)
 
 
 
@@ -210,6 +230,9 @@
 - [Household debt hit record $16.9 trillion last quarter, as consumers loaded up their credit cards](https://abc7.com/us-household-debt-credit-cards-record-card-balance/12825921/)
 - [How the Fed “Went Broke”](https://www.lynalden.com/broke-federal-reserve/)
 - [The collapse of SVB shows why monetary policy is the wrong tool to fight inflation](https://thehill.com/opinion/congress-blog/3905479-the-collapse-of-svb-shows-why-monetary-policy-is-the-wrong-tool-to-fight-inflation/)
+- [‘It says I owe $179,000’: Options traders hit with massive margin calls as winning bets against failing banks are left in limbo for weeks](https://www.marketwatch.com/story/it-says-i-owe-179-000-option-traders-hit-with-massive-margin-calls-as-winning-bets-against-failing-banks-left-in-limbo-for-weeks-61296242)
+
+
 
 
 ### Teaching
