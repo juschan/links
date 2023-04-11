@@ -45,7 +45,8 @@
 - [An introduction to Datalog](https://blogit.michelin.io/an-introduction-to-datalog/)
 - [Designing Data Governance from the Ground Up](https://media.pragprog.com/newsletters/2023-02-22.html)
 - [Show HN: Harmonized Data Platform](https://news.ycombinator.com/item?id=35222817)
-
+- [DB Browser for sqlite wiki](https://github.com/sqlitebrowser/sqlitebrowser/wiki)
+  - [DB Browser for sqlite wiki - Views](https://github.com/sqlitebrowser/sqlitebrowser/wiki/Views) 
 
 ### Containers
 - [Learn the fundamentals of Docker packaging—in just one afternoon](https://pythonspeed.com/products/justenoughdockerpackaging/?mtm_campaign=products)
