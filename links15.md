@@ -93,6 +93,7 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Public documentation Tools](https://news.ycombinator.com/item?id=29264374)
 - [Docusaurus](https://docusaurus.io/)
 - [defer - zero infra Node.js background jobs](https://www.defer.run/)
+- [Makefile Tutorial](https://makefiletutorial.com/#top)
 
 ### Actuarial
 - [Akur8 pricing software for P&C and Health - GLM](https://www.akur8.com/why-akur8)
@@ -170,6 +171,10 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Tomorrow Corporation](https://tomorrowcorporation.com/humanresourcemachine)
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)
 - [Characters, Symbols and the Unicode Miracle - Computerphile - video](https://www.youtube.com/watch?v=MijmeoH9LT4)
+
+
+### Music
+- [Learning Music using Ableton](https://learningmusic.ableton.com/)
 
 
 ### Courses!
