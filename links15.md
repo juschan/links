@@ -4,6 +4,12 @@
 - [My Microstartups make $500/day while I'm sleeping](https://news.ycombinator.com/item?id=29790964)
 - [Meet a 23-year old from India running a $20,000,000 company in the US - Video](https://www.youtube.com/watch?v=J7Qeh7oE5_U)
 - [Aesthetics of Indeterminancy: The architecture of conglomerates](https://journal.eahn.org/article/id/8305/)
+- [Designing the Ideal Bootstrapped Business with Jason Cohen](https://www.youtube.com/watch?v=otbnC2zE2rw)
+- [Tom Bilyeu: From Broke & Sleeping On The Floor To A $1 Billion Business | E146](https://www.youtube.com/watch?v=ct2k6iXLurg)
+- [Value Creation: The Single Skill That Built My $1M Solo Business](https://www.youtube.com/watch?v=iAYVVLHm5Oc)
+- [I Make $1.3M/Year With One Skill](https://www.youtube.com/watch?v=dXKzST0FE-A)
+- [10+ Must-Read Books For Solopreneurs And Freelancers](https://magnet4blogging.net/books-for-solopreneurs/)
+
 
 ### Life Hack
 - [https://fs.blog/how-to-think/](https://fs.blog/how-to-think/)
@@ -14,6 +20,11 @@
 - [Why Finding Purpose Is SO HARD Today - video](https://www.youtube.com/watch?v=NuHEY7CjjTI)
 - [Sticky notes alternative software](https://beebom.com/best-sticky-notes-alternatives-windows-10/)
 - [Save 20 Hours a Week By Removing These 4 Useless Things In Your Life](https://dariusforoux.medium.com/save-20-hours-a-week-by-removing-these-4-useless-things-in-your-life-c0d831b09a3a)
+** - [Deadlines as Technology](https://blog.jim-nielsen.com/2023/deadlines-as-technology/)
+- [Use of Timers (ie. Pomodoro)](https://github.com/madprops/blog/blob/main/docs/timers.md)
+- [I learned a productivity system for organizing life](https://www.youtube.com/watch?v=0_44XEVOwek)
+- [How to manifest anything you want | 3 BEST TECHNIQUES FOR 2023](https://www.youtube.com/watch?v=TJfrdMNjIus)
+- [Do Shadow Work... It Will Change Your Life (Best Technique)](https://www.youtube.com/watch?v=_2CjGIVXjBo)
 
 
 ### Intellectual Property
@@ -25,6 +36,8 @@
 - [Interpret-Community](https://github.com/interpretml/interpret-community)
 - [Stable Diffusion copyright lawsuits could be a legal earthquake for AI](https://arstechnica.com/tech-policy/2023/04/stable-diffusion-copyright-lawsuits-could-be-a-legal-earthquake-for-ai/)
 - [Fairness Measures for ML in Finance](https://pages.awscloud.com/rs/112-TZM-766/images/Fairness.Measures.for.Machine.Learning.in.Finance.pdf)
+- [Why AI can’t do hiring](https://interviewing.io/blog/why-ai-cant-do-hiring)
+
 
 ### Python
 - [conda - Managing environments](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#cloning-an-environment)
@@ -32,14 +45,29 @@
 - [A Deep Dive Into Variables in Python](https://medium.com/swlh/a-deep-dive-into-variables-in-python-8f55f69c3653)
 - [Creating a Zelda style game in Python [with some Dark Souls elements] - video](https://www.youtube.com/watch?v=QU1pPzEGrqw)
 - [Allison Kaptur - Bytes in the Machine: Inside the CPython interpreter - PyCon 2015](https://www.youtube.com/watch?v=HVUTjQzESeo)
+- [Codon: Python Compiler](https://www.usenix.org/publications/loginonline/codon-python-compiler#Rik%20Farrow)
+- [Mojo - programming language for AI Developers](https://www.modular.com/mojo)
+- [Python - DNS Look-up](https://www.tutorialspoint.com/python_network_programming/python_dns_look_up.htm)
+- [Python Sockets](https://realpython.com/python-sockets/)
+- [22. Python C extensions](https://book.pythontips.com/en/latest/python_c_extension.html)
+- [Struct in Python](https://www.scaler.com/topics/struct-in-python/)
+- [ast — Abstract Syntax Trees](https://docs.python.org/3/library/ast.html)
+- [PyScript is officially here!🚀 Build web apps with Python & HTML](https://www.youtube.com/watch?v=owopzp436jM)
+
 
 ### Generative AI
 - [How ChatGPT is changing the job hiring process, from the HR department to coders](https://www.cnbc.com/2023/04/08/chatgpt-is-being-used-for-coding-and-to-write-job-descriptions.html)
 - [I’m an ER doctor: Here’s what I found when I asked ChatGPT to diagnose my patients](https://inflecthealth.medium.com/im-an-er-doctor-here-s-what-i-found-when-i-asked-chatgpt-to-diagnose-my-patients-7829c375a9da)
 - [JARVIS - AI + Agent/Tasks](https://github.com/microsoft/JARVIS)
+- [GPT-4 - How does it work, and how do I build apps with it? - CS50 Tech Talk](https://www.youtube.com/watch?v=vw-KWfKwvTQ)
+- [Masterclass: AI-driven Development for Programmers](https://www.youtube.com/watch?v=iO1mwxPNP5A)
+- [Build and Deploy Your Own GPT AI Website with React and Turn it Into a SaaS Business ($$$)](https://www.youtube.com/watch?v=vpvtZZi5ZWk)
+- [How I Use AI + No Code to Validate any SaaS Idea](https://www.youtube.com/watch?v=aSMxdBVTcLg)
 
 ### Jobs, Career
 - [The next big thing in Big Tech career path is an AI-based ‘bilingual’ job skillset](https://www.cnbc.com/2023/04/02/next-big-thing-in-big-tech-career-is-ai-based-bilingual-job-skillset.html)
+- [Why you have to fail to have a great career: Michael Litt at TEDxUW](https://www.youtube.com/watch?v=hNQRRsL3R4A)
+** - [This Book Made Me Quit My Job](https://www.youtube.com/watch?v=xxPdTjk7beo)
 
 ### Software Eng
 - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
@@ -47,6 +75,8 @@
 - [Make your code scriptable](https://medium.com/@tylerneylon/make-your-code-scriptable-19be885dda69)
 - [Keep the monolith, but split the workloads](https://incident.io/blog/monolith)
 - [Steel threads are a technique that will make you a better engineer](https://www.rubick.com/steel-threads/)
+- [New talk: Learning DNS in 10 years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
+- [The absurdity of stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
 
 ### Engineering Mgt
 - [Why are developers expected to estimate tasks at all?](https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all)
@@ -54,6 +84,8 @@
 - [Scott Logic - On the importance of a Team Manifesto](https://blog.scottlogic.com/2021/01/26/on-the-importance-of-a-team-manifesto.html)
 - [Technical solutions vs processes](https://lucaskostka.com/posts/technical-vs-processes-solutions)
 - [Guides / What do Staff engineers actually do?](https://staffeng.com/guides/what-do-staff-engineers-actually-do/)
+- [Code Red: The Business Impact of Code Quality](https://www.youtube.com/watch?v=aRR0EDazxIk)
+
 
 ### Programming languages, compilers, interpreters
 - [Building a Programming Language](https://classpert.com/classpertx/courses/building-a-programming-language/cohort)
@@ -94,6 +126,14 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Docusaurus](https://docusaurus.io/)
 - [defer - zero infra Node.js background jobs](https://www.defer.run/)
 - [Makefile Tutorial](https://makefiletutorial.com/#top)
+- [Developer Tools That Shouldn't Be Secrets](https://www.youtube.com/watch?v=lz-nUdotdx4)
+- [Infrastructure as actual Code](https://www.youtube.com/watch?v=uzc6p3qvH_k)
+- [Vim Beginner's Guide](https://www.freecodecamp.org/news/vim-beginners-guide/)
+- [cheerpJ 3.0 - JVM to replace HTML5 and WebASsembly to run Java apps on browser](https://leaningtech.com/announcing-cheerpj-3-0-a-jvm-replacement-in-html5-and-webassembly-to-run-java-applications-and-applets-on-modern-browsers/)
+- [This Open-Source NextJS Project is a Game-Changer](https://www.youtube.com/watch?v=elvwguckWjQ)
+- [you NEED to use VS Code RIGHT NOW!!](https://www.youtube.com/watch?v=1ZfO149BJvg)
+- [2023 Zettelkasten Obsidian Workflow](https://www.youtube.com/watch?v=HSTOSWOhNo4)
+
 
 ### Actuarial
 - [Akur8 pricing software for P&C and Health - GLM](https://www.akur8.com/why-akur8)
@@ -108,12 +148,26 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 
 ### Cloud
 - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
+- [The REAL Cost Of AWS](https://www.youtube.com/watch?v=kK-iR6g-V1g)
+
 
 ### Janet (Prog language)
 - [Janet for Mortals](https://janet.guide/)
 
+### Data and Databases
+- [Fixing Slow PostgreSQL Queries: How to Make a Smart Optimizer More Stupid](https://ottertune.com/blog/how-to-fix-slow-postgresql-queries/)
+- [B+ Tree](https://www.programiz.com/dsa/b-plus-tree)
+- [How sql engine handle join internally-part 1](https://dev.to/amitiwary999/how-join-works-in-sql-2ja4)
+- [Install and use Postgres in WSL](https://dev.to/sfpear/install-and-use-postgres-in-wsl-423d)
+- [10.2 B Trees and B+ Trees. How they are useful in Databases](https://www.youtube.com/watch?v=aZjYr87r1b8)
+- [Assembly 2: Calling convention](https://cs61.seas.harvard.edu/site/2018/Asm2/)
+- [https://www.geeksforgeeks.org/insertion-in-binary-search-tree/](https://www.geeksforgeeks.org/insertion-in-binary-search-tree/)
+- [Slow Indexes, Part I](https://use-the-index-luke.com/sql/anatomy/slow-indexes)
+- [Tutorial Presented by Bruce Momjian of EnterpriseDB at PGConf Silicon Valley 2015](https://www.youtube.com/watch?v=JFh22atXTRQ)
+
+
 ### Text-to-speech tools
-- [ Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
+- [Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
 - [Murf.ai - text to speech (real human voice)](https://murf.ai/pricing)
 
 ### Writing
@@ -125,10 +179,17 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 ### Actuarial
 - [Using Aumann-Shapley Values to Allocate Insurance Risk: The Case of Inhomogeneous Losses](https://www.researchgate.net/publication/279984131_Using_Aumann-Shapley_Values_to_Allocate_Insurance_Risk_The_Case_of_Inhomogeneous_Losses)
 
+### Maths / Stats
+- [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
+** - [Mathematician uncovers methods to shrink sampling errors in large-dimensional data sets](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
+
 ### Interesting
 - [Xerox scanners/photocopiers randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 - [THE SCIENTIFIC PAPER IS OBSOLETE](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
+- [GitHub availability this week - OUtage](https://github.blog/2012-09-14-github-availability-this-week/)
 
+### Networking
+- [RFC 1035](https://datatracker.ietf.org/doc/html/rfc1035)
 
 ### Cybersecurity
 - [BingBang: AAD misconfiguration led to Bing.com results manipulation and account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
@@ -153,7 +214,14 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Exercism - X86-64 Assembly](https://exercism.org/tracks/x86-64-assembly/)
 ** - [Compiler Explorer](https://godbolt.org/)
 ** - [Baby’s First Garbage Collector ](https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-- [](https://observablehq.com/@ballingt/stupid-trick-writing-webassembly-from-scratch)
+- [Stupid trick of writing webassembly from scratch](https://observablehq.com/@ballingt/stupid-trick-writing-webassembly-from-scratch)
+- [What is the home directory on Windows Subsystem for Linux?](https://superuser.com/questions/1185033/what-is-the-home-directory-on-windows-subsystem-for-linux)
+- [ASCII Table](https://www.asciitable.com/)
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+- [Assembly - Procedures](https://www.tutorialspoint.com/assembly_programming/assembly_procedures.htm)
+- [pmap to report memory map of process](https://support.hpe.com/hpesc/public/docDisplay?docId=c01996216&docLocale=en_US)
+- [Loops in Assembly](https://www.educative.io/answers/what-are-loops-in-assembly-language)
+
 
 ### Protocols
 - [Transmission Control Protocol](https://en.wikipedia.org/wiki/Transmission_Control_Protocol#TCP_segment_structure)
@@ -166,17 +234,30 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 
 ### Books
 - [MIT Press - CS books :) ](https://mitpress.mit.edu/textbooks/computer-science/)
+- [Don't Believe Everything You Think: Why Your Thinking Is The Beginning & End Of Suffering](https://www.amazon.sg/Dont-Believe-Everything-You-Think/dp/B09WPP7R6S/ref=pd_rhf_d_dp_s_ci_mcx_mr_hp_d_sccl_1_8/355-0171918-6052406?pd_rd_w=nsw8S&content-id=amzn1.sym.fa04e2d1-559e-4580-b3c9-023a26b2e192&pf_rd_p=fa04e2d1-559e-4580-b3c9-023a26b2e192&pf_rd_r=1AWQ9RZA3QM1AVF4VH7W&pd_rd_wg=d0M7h&pd_rd_r=eea475a7-8612-4147-b1bc-a57b6fc7d062&pd_rd_i=B09WPP7R6S&psc=1)
+
+### Coaching, Reflective Practice
+- [books by chris argyris](https://www.google.com/search?client=firefox-b-d&q=books+by+chris+argyris)
+- [CHRIS ARGYRIS IMMATURITY MATURITY THEORY | Single Double Triple Loop Learning](https://www.youtube.com/watch?v=OmTktQ74be0)
+- [The Neuroscience of Coaching: Why You Want to Focus on Vision, Mindfulness and Relationships](https://www.youtube.com/watch?v=lyeV9J4sO6g)
 
 ### Interesting Games!
 - [Tomorrow Corporation](https://tomorrowcorporation.com/humanresourcemachine)
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)
 - [Characters, Symbols and the Unicode Miracle - Computerphile - video](https://www.youtube.com/watch?v=MijmeoH9LT4)
 
+### System Thinking
+- [From Chaos to Coherence: The Emergence of Inspired Organizations and Enlightened Communities](https://thesystemsthinker.com/from-chaos-to-coherence-the-emergence-of-inspired-organizations-and-enlightened-communities/)
 
-### Music
+### Health
+- [Killing cancer with a breakthrough therapy](https://www.youtube.com/watch?v=FEA6BQARqE8)
+
+### Art/Music
 - [Learning Music using Ableton](https://learningmusic.ableton.com/)
-
+- [Art Projects - Processing/Digital Sketches](https://yasoob.me/arts/)
 
 ### Courses!
 - [Nathaniel Drew - Master the art of Video Editing & Animation](https://www.fxfcourse.com/)
 - [Stay in touch - Lomi Lomi Training London](https://stayintouch.earth/inperson/)
+- [10 Udemy Courses Every Developer SHOULD Own (NOT just coding)](https://www.youtube.com/watch?v=hexfXc7-SsU)
+- [Dr Teoh - Hypnotherapy, Malaysia](https://www.newtoninstitute.org/alliance/dr-teoh-hypnotherapy-training/)
