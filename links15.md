@@ -10,6 +10,10 @@
 - [I Make $1.3M/Year With One Skill](https://www.youtube.com/watch?v=dXKzST0FE-A)
 - [10+ Must-Read Books For Solopreneurs And Freelancers](https://magnet4blogging.net/books-for-solopreneurs/)
 
+### Digital Strategy
+- [BCG - Bionic Company](https://www.bcg.com/capabilities/digital-technology-data/digital-transformation/overview)
+- [Vision for a data team](https://medium.com/alan/vision-for-a-data-team-2eae845b8052)
+
 
 ### Life Hack
 - [https://fs.blog/how-to-think/](https://fs.blog/how-to-think/)
@@ -63,6 +67,8 @@
 - [Masterclass: AI-driven Development for Programmers](https://www.youtube.com/watch?v=iO1mwxPNP5A)
 - [Build and Deploy Your Own GPT AI Website with React and Turn it Into a SaaS Business ($$$)](https://www.youtube.com/watch?v=vpvtZZi5ZWk)
 - [How I Use AI + No Code to Validate any SaaS Idea](https://www.youtube.com/watch?v=aSMxdBVTcLg)
+- [You’re Using ChatGPT Wrong! Here’s How to Be Ahead of 99% of ChatGPT Users](https://artificialcorner.com/youre-using-chatgpt-wrong-here-s-how-to-be-ahead-of-99-of-chatgpt-users-886a50dabc54?gi=f37940620edc)
+
 
 ### Jobs, Career
 - [The next big thing in Big Tech career path is an AI-based ‘bilingual’ job skillset](https://www.cnbc.com/2023/04/02/next-big-thing-in-big-tech-career-is-ai-based-bilingual-job-skillset.html)
@@ -133,6 +139,12 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [This Open-Source NextJS Project is a Game-Changer](https://www.youtube.com/watch?v=elvwguckWjQ)
 - [you NEED to use VS Code RIGHT NOW!!](https://www.youtube.com/watch?v=1ZfO149BJvg)
 - [2023 Zettelkasten Obsidian Workflow](https://www.youtube.com/watch?v=HSTOSWOhNo4)
+- [Kanaries - Rath - Auto data analytics, Tableau-like](https://github.com/Kanaries/Rath)
+
+
+### Web Dev
+- [HTMX is the future](https://quii.dev/)
+- [Bullet Train - Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
 
 
 ### Actuarial
@@ -164,7 +176,7 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [https://www.geeksforgeeks.org/insertion-in-binary-search-tree/](https://www.geeksforgeeks.org/insertion-in-binary-search-tree/)
 - [Slow Indexes, Part I](https://use-the-index-luke.com/sql/anatomy/slow-indexes)
 - [Tutorial Presented by Bruce Momjian of EnterpriseDB at PGConf Silicon Valley 2015](https://www.youtube.com/watch?v=JFh22atXTRQ)
-
+- [Data Quality in Python Pipelines](https://jlgjosue.medium.com/data-quality-in-python-pipelines-4ad1e8eb6603)
 
 ### Text-to-speech tools
 - [Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
