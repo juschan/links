@@ -9,6 +9,11 @@
 - [Value Creation: The Single Skill That Built My $1M Solo Business](https://www.youtube.com/watch?v=iAYVVLHm5Oc)
 - [I Make $1.3M/Year With One Skill](https://www.youtube.com/watch?v=dXKzST0FE-A)
 - [10+ Must-Read Books For Solopreneurs And Freelancers](https://magnet4blogging.net/books-for-solopreneurs/)
+- [The Micro Education Business Model (How To Monetize Your Knowledge)](https://www.youtube.com/watch?v=XgAMayF-JZY)
+- [Getting rid of phishing training mails](https://blog.koehntopp.info/2023/05/23/getting-rid-of-phishing-training-mails.html)
+** - [Adama Platform](https://www.adama-platform.com/)
+- [Ask HN: When do independent people realize they don't want a boss?](https://news.ycombinator.com/item?id=36070001)
+- [This Unknown AI Actually Makes Money Online in 2023! BYE CHATGPT…](https://www.youtube.com/watch?v=4QRTkP0_O3M)
 
 ### Digital Strategy
 - [BCG - Bionic Company](https://www.bcg.com/capabilities/digital-technology-data/digital-transformation/overview)
@@ -29,6 +34,11 @@
 - [I learned a productivity system for organizing life](https://www.youtube.com/watch?v=0_44XEVOwek)
 - [How to manifest anything you want | 3 BEST TECHNIQUES FOR 2023](https://www.youtube.com/watch?v=TJfrdMNjIus)
 - [Do Shadow Work... It Will Change Your Life (Best Technique)](https://www.youtube.com/watch?v=_2CjGIVXjBo)
+- [How To Unlock Insane Focus On Command](https://www.youtube.com/watch?v=l86xggdQcKQ)
+- [How to change your life in a year](https://www.youtube.com/watch?v=Olzc15hIcyI)
+- [Finish Work Faster by Copying How Olympic Athletes Train](https://www.youtube.com/watch?v=_1YqTQeUlu8)
+- [Why You Should Give Up On Your Dreams](https://every.to/no-small-plans/dream-bankruptcy-why-you-should-give-up-on-your-holy-grail)
+- [What if you did the exact opposite? (like the rogue bees do)](https://www.mrdbourke.com/what-if-you-did-the-exact-opposite-like-the-rogue-bees-do/)
 
 
 ### Intellectual Property
@@ -57,7 +67,7 @@
 - [Struct in Python](https://www.scaler.com/topics/struct-in-python/)
 - [ast — Abstract Syntax Trees](https://docs.python.org/3/library/ast.html)
 - [PyScript is officially here!🚀 Build web apps with Python & HTML](https://www.youtube.com/watch?v=owopzp436jM)
-
+- [Tracing Python](https://blog.koehntopp.info/2023/03/14/tracing-python.html)
 
 ### Generative AI
 - [How ChatGPT is changing the job hiring process, from the HR department to coders](https://www.cnbc.com/2023/04/08/chatgpt-is-being-used-for-coding-and-to-write-job-descriptions.html)
@@ -74,6 +84,7 @@
 - [The next big thing in Big Tech career path is an AI-based ‘bilingual’ job skillset](https://www.cnbc.com/2023/04/02/next-big-thing-in-big-tech-career-is-ai-based-bilingual-job-skillset.html)
 - [Why you have to fail to have a great career: Michael Litt at TEDxUW](https://www.youtube.com/watch?v=hNQRRsL3R4A)
 ** - [This Book Made Me Quit My Job](https://www.youtube.com/watch?v=xxPdTjk7beo)
+- [How some people get away with doing nothing at work](https://www.vox.com/money/23733244/bullshit-jobs-work-employment-lazy-jobless-employed-nothing-to-do)
 
 ### Software Eng
 - [Getting the ^D](https://owengage.com/writing/2023-04-08-getting-the-ctrl-d/)
@@ -83,6 +94,13 @@
 - [Steel threads are a technique that will make you a better engineer](https://www.rubick.com/steel-threads/)
 - [New talk: Learning DNS in 10 years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 - [The absurdity of stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
+- [Applied Category Theory • Ken Scambler • YOW! 2019](https://www.youtube.com/watch?v=M3qQFBGC9tk)
+
+### Golang
+- [
+How to start a Go project in 2023
+2023/05/16 (3566 words)
+](https://boyter.org/posts/how-to-start-go-project-2023/)
 
 ### Engineering Mgt
 - [Why are developers expected to estimate tasks at all?](https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all)
@@ -91,6 +109,9 @@
 - [Technical solutions vs processes](https://lucaskostka.com/posts/technical-vs-processes-solutions)
 - [Guides / What do Staff engineers actually do?](https://staffeng.com/guides/what-do-staff-engineers-actually-do/)
 - [Code Red: The Business Impact of Code Quality](https://www.youtube.com/watch?v=aRR0EDazxIk)
+- [Too Many Meetings Is Not Your Problem](https://medium.com/onebigthought/too-many-meetings-is-not-your-problem-7eafa7ae477c)
+- [The SPACE Framework for Developer Productivity](https://dzone.com/articles/the-space-framework-for-developer-productivity-exp)
+- [Wellbeing Should Be the Biggest Factor to Project Success](https://blog.howareyou.work/developer-wellbeing-project-success/)
 
 
 ### Programming languages, compilers, interpreters
@@ -100,8 +121,9 @@
 - [https://www.toptal.com/scala/writing-an-interpreter](https://www.toptal.com/scala/writing-an-interpreter)
 - [REINTERPRETING THE LUA INTERPRETER](https://hackaday.com/2022/11/26/interpreting-the-lua-interpreter/)
 - [Implementation of Lua 5.0](http://www.lua.org/doc/jucs05.pdf)
-- [The Architecture of Open Source Applications (Vol 1)
-LLVM](https://aosabook.org/en/v1/llvm.html)
+- [The Architecture of Open Source Applications (Vol 1) LLVM](https://aosabook.org/en/v1/llvm.html)
+- [Let's make a Teeny Tiny compiler, part 1](https://austinhenley.com/blog/teenytinycompiler1.html)
+- [Why Learn Compilers](https://amasad.me/compilers)
 
 ### ML
 - [Heart failure clinical records Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records)
@@ -119,6 +141,11 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [VerifyML - Credit Card Fraud](https://github.com/cylynx/verifyml/blob/main/examples/credit_card_fraud_example.ipynb)
 - [Why TinyML is still so hard to get excited about](https://staceyoniot.com/why-tinyml-is-still-so-hard-to-get-excited-about/)
 ** - [Transformers (from scratch)](https://e2eml.school/transformers.html)
+- [Memorizing without overfitting: Bias, variance, and interpolation in overparameterized models](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013201)
+- [How millions of parameters can avoid overfitting](https://medium.com/@jeanimal/technical-even-linear-regression-can-escape-the-bias-variance-tradeoff-263abe6acb1c)
+- [Overfitting, Generalization, and the Bias-Variance Tradeoff](https://dzone.com/articles/overfitting-generalization-amp-the-bias-variance-t)
+- [Neural Network Architecture Beyond Width and Depth](https://arxiv.org/abs/2205.09459)
+** - [Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees (TMLR) - XAI](https://www.youtube.com/watch?v=JZOzo-K05F0)
 
 ### Disease Forecasting
 - [Forecasting the burden of type 2 diabetes in Singapore using a demographic epidemiological model of Singapore](https://pubmed.ncbi.nlm.nih.gov/25452860/)
@@ -140,14 +167,21 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [you NEED to use VS Code RIGHT NOW!!](https://www.youtube.com/watch?v=1ZfO149BJvg)
 - [2023 Zettelkasten Obsidian Workflow](https://www.youtube.com/watch?v=HSTOSWOhNo4)
 - [Kanaries - Rath - Auto data analytics, Tableau-like](https://github.com/Kanaries/Rath)
-
+- [IUP - GUI library free](https://www.tecgraf.puc-rio.br/iup/)
+- [Git Merge – The Definitive Guide](https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/)
+- [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
 
 ### Web Dev
 - [HTMX is the future](https://quii.dev/)
 - [Bullet Train - Open Source Ruby on Rails SaaS Framework](https://bullettrain.co/)
+- [Hardening Drupal with WebAssembly](https://wasmlabs.dev/articles/hardening-drupal-with-webassembly/)
+- [Why I switched from JS to Rust](https://www.youtube.com/watch?v=Tsb9IQ3e8F8)
+- [Create an online IDE with Angular 6 + NodeJS ~ Part #1](https://medium.com/@ofir3322/create-an-online-ide-with-angular-6-nodejs-part-1-163a939a7929)
+- [How to Build Your Development Stack in the Cloud from Scratch](https://www.sudeep.co/cloud-computing/2017/06/17/How-to-Build-Your-Development-Stack-in-the-Cloud-from-Scratch.html)
 
 
-### Actuarial
+
+### Actuarial / Maths
 - [Akur8 pricing software for P&C and Health - GLM](https://www.akur8.com/why-akur8)
 ** - [GLM - glum and tabmat](https://tbenthompson.com/post/glum_tabmat/)
 - [Book - Pricing in GI](https://www.routledge.com/Pricing-in-General-Insurance/Parodi/p/book/9780367769031)
@@ -157,10 +191,18 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Revolutions - R/Microsoft](https://blog.revolutionanalytics.com/page/2/)
 - [A deep dive on GLM's in frequency severity models](https://bpostance.github.io/posts/glm-deep-dive/)
 - [actuatech - Data science and tech training and services](https://www.actuartech.com/)
+- [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook)
+- [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
+** - [Mathematician uncovers methods to shrink sampling errors in large-dimensional data sets](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
+- [Using Aumann-Shapley Values to Allocate Insurance Risk: The Case of Inhomogeneous Losses](https://www.researchgate.net/publication/279984131_Using_Aumann-Shapley_Values_to_Allocate_Insurance_Risk_The_Case_of_Inhomogeneous_Losses)
 
 ### Cloud
 - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
 - [The REAL Cost Of AWS](https://www.youtube.com/watch?v=kK-iR6g-V1g)
+
+### Functional Programming
+- [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean/)
+- [Cadenza: Building Fast Functional Languages Fast • Edward Kmett • YOW! 2020](https://www.youtube.com/watch?v=gbmURWs_SaU)
 
 
 ### Janet (Prog language)
@@ -177,6 +219,10 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Slow Indexes, Part I](https://use-the-index-luke.com/sql/anatomy/slow-indexes)
 - [Tutorial Presented by Bruce Momjian of EnterpriseDB at PGConf Silicon Valley 2015](https://www.youtube.com/watch?v=JFh22atXTRQ)
 - [Data Quality in Python Pipelines](https://jlgjosue.medium.com/data-quality-in-python-pipelines-4ad1e8eb6603)
+- [How WebAssembly is Eating the Database, One UDF At a Time](https://dylibso.com/blog/wasm-udf/)
+- [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)
+- [Why the Document Model Is More Cost-Efficient Than RDBMS](https://thenewstack.io/why-the-document-model-is-more-cost-efficient-than-rdbms/)
+
 
 ### Text-to-speech tools
 - [Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
@@ -184,16 +230,14 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 
 ### Writing
 - [Can “Distraction-Free” Devices Change the Way We Write?](https://www.newyorker.com/magazine/2021/12/20/can-distraction-free-devices-change-the-way-we-write)
+- [Escape from Big Publishing](https://systemsapproach.substack.com/p/escape-from-big-publishing)
+
+### Projects
+- [I Built a NAS: One Year Later. EVERYTHING I Learned and the Mistakes](https://www.youtube.com/watch?v=Ap8QrMao0No)
+
 
 ### Crypto
 - [The Real-World Costs of the Digital Race for Bitcoin](https://www.nytimes.com/2023/04/09/business/bitcoin-mining-electricity-pollution.html)
-
-### Actuarial
-- [Using Aumann-Shapley Values to Allocate Insurance Risk: The Case of Inhomogeneous Losses](https://www.researchgate.net/publication/279984131_Using_Aumann-Shapley_Values_to_Allocate_Insurance_Risk_The_Case_of_Inhomogeneous_Losses)
-
-### Maths / Stats
-- [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
-** - [Mathematician uncovers methods to shrink sampling errors in large-dimensional data sets](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
 
 ### Interesting
 - [Xerox scanners/photocopiers randomly alter numbers in scanned documents](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
@@ -205,9 +249,12 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 
 ### Cybersecurity
 - [BingBang: AAD misconfiguration led to Bing.com results manipulation and account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
+** - [OpenSecurityTraining2](https://p.ost2.fyi/)
 
 ### Teaching
 - [The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One tutoring](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
+- [How AI Could Save (Not Destroy) Education | Sal Khan | TED](https://www.youtube.com/watch?v=hJP5GqnTrNo)
+
 
 ### Linux/C/Assembly
 - [Linux Assembly Tutorial](https://montcs.bloomu.edu/Information/LowLevel/Assembly/assembly-tutorial.html)
@@ -240,6 +287,9 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [BMP file format](https://en.wikipedia.org/wiki/BMP_file_format)
 - [Stupid trick: Writing WebAssembly from Scratch](https://www.youtube.com/embed/MijmeoH9LT4)
 - [ASCII Table](https://www.rapidtables.com/code/text/ascii-table.html)
+- [Deep-Dive into TCP Connection Establishment Process](https://medium.com/@wrong.about/deep-dive-into-tcp-connection-establishment-process-f6cfb7b4e8e1)
+
+
 
 ### Containers
 - [Creating Your Own Containers](https://cesarvr.github.io/post/2018-05-22-create-containers/)
@@ -258,18 +308,35 @@ LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/)
 - [Characters, Symbols and the Unicode Miracle - Computerphile - video](https://www.youtube.com/watch?v=MijmeoH9LT4)
 
+### Interesting
+- [Quantum Computers Explained in a Way Anyone Can Understand](https://www.youtube.com/watch?v=zhQItO6_WoI)
+- [Engineers harvest abundant clean energy from thin air, 24/7](https://www.sciencedaily.com/releases/2023/05/230524181948.htm)
+
 ### System Thinking
 - [From Chaos to Coherence: The Emergence of Inspired Organizations and Enlightened Communities](https://thesystemsthinker.com/from-chaos-to-coherence-the-emergence-of-inspired-organizations-and-enlightened-communities/)
 
 ### Health
 - [Killing cancer with a breakthrough therapy](https://www.youtube.com/watch?v=FEA6BQARqE8)
+- [HeartMath Institute](https://www.heartmath.com/)
+- [Decision making and heart rate variability: A systematic review](https://onlinelibrary.wiley.com/doi/full/10.1002/acp.3901)
 
 ### Art/Music
 - [Learning Music using Ableton](https://learningmusic.ableton.com/)
 - [Art Projects - Processing/Digital Sketches](https://yasoob.me/arts/)
+- [WebXR - AR/VR](https://immersiveweb.dev/)
+
+### Hypnotherapy / Psychotherapy
+- [Learn SELF-HYPNOSIS Today (Powerfully CHANGE YOUR LIFE) | Marisa Peer](https://www.youtube.com/watch?v=2An_K4o21io)
+- [To People Who Believe There Is Something Wrong with Them -- Thoughts from a Former Psychotherapist](https://www.youtube.com/watch?v=TnL7i35fWQk)
+- [WildTruth - Daniel Mackler](https://wildtruth.net/)
+- [Activating Your Soul's Purpose Hypnosis and Meditation | Marisa Peer](https://www.youtube.com/watch?v=aMPgJ_0tbMM)
+
+### Lua
+- [Lua: The Little Language That Could](https://matt.blwt.io/post/lua-the-little-language-that-could/)
 
 ### Courses!
 - [Nathaniel Drew - Master the art of Video Editing & Animation](https://www.fxfcourse.com/)
 - [Stay in touch - Lomi Lomi Training London](https://stayintouch.earth/inperson/)
 - [10 Udemy Courses Every Developer SHOULD Own (NOT just coding)](https://www.youtube.com/watch?v=hexfXc7-SsU)
 - [Dr Teoh - Hypnotherapy, Malaysia](https://www.newtoninstitute.org/alliance/dr-teoh-hypnotherapy-training/)
+- [Tsubasa Language Services - Japanese](https://learnjapanese.sg/courses/)
