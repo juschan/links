@@ -124,6 +124,8 @@ How to start a Go project in 2023
 - [The Architecture of Open Source Applications (Vol 1) LLVM](https://aosabook.org/en/v1/llvm.html)
 - [Let's make a Teeny Tiny compiler, part 1](https://austinhenley.com/blog/teenytinycompiler1.html)
 - [Why Learn Compilers](https://amasad.me/compilers)
+- [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
+- [Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)
 
 ### ML
 - [Heart failure clinical records Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records)
@@ -178,7 +180,7 @@ How to start a Go project in 2023
 - [Why I switched from JS to Rust](https://www.youtube.com/watch?v=Tsb9IQ3e8F8)
 - [Create an online IDE with Angular 6 + NodeJS ~ Part #1](https://medium.com/@ofir3322/create-an-online-ide-with-angular-6-nodejs-part-1-163a939a7929)
 - [How to Build Your Development Stack in the Cloud from Scratch](https://www.sudeep.co/cloud-computing/2017/06/17/How-to-Build-Your-Development-Stack-in-the-Cloud-from-Scratch.html)
-
+- [VanJS: The Smallest Reactive UI Framework in the World](https://github.com/vanjs-org/van)
 
 
 ### Actuarial / Maths
