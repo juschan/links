@@ -19,6 +19,13 @@
 - [BCG - Bionic Company](https://www.bcg.com/capabilities/digital-technology-data/digital-transformation/overview)
 - [Vision for a data team](https://medium.com/alan/vision-for-a-data-team-2eae845b8052)
 
+### CEO Hacks
+- [THE ROLE OF A CEO IN A COMPANY | 4 Things Every CEO Should Be Doing](https://www.youtube.com/watch?v=oNUj-4NJDqQ)
+- [What Does A CEO Do?](https://www.youtube.com/watch?v=t7FQ7T6bLq4)
+- [Matterhorn Biz Dev](https://www.youtube.com/@MatterhornBusinessDevelopment)
+- [What makes a good CEO?](https://www.youtube.com/watch?v=IBzV_c0tk3I)
+- []()
+
 
 ### Life Hack
 - [https://fs.blog/how-to-think/](https://fs.blog/how-to-think/)
@@ -177,6 +184,8 @@
 - [spreadsheet gear](https://www.spreadsheetgear.com/)
 - [D2 - dynamic scripting language, text to diagram](https://d2lang.com/tour/intro)
 - [MUX - video tools on the web](https://www.mux.com/pricing/data)
+- [aarthficial - Motion Canvas and other tools. ](https://www.youtube.com/@aarthificial/videos)
+
 
 ### Web Dev
 - [HTMX is the future](https://quii.dev/)
