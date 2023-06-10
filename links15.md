@@ -102,6 +102,8 @@
 - [New talk: Learning DNS in 10 years](https://jvns.ca/blog/2023/05/08/new-talk-learning-dns-in-10-years/)
 - [The absurdity of stacks](https://www.tfeb.org/fragments/2023/03/25/the-absurdity-of-stacks/)
 - [Applied Category Theory • Ken Scambler • YOW! 2019](https://www.youtube.com/watch?v=M3qQFBGC9tk)
+- [Counterexamples in Type Systems](https://counterexamples.org/intro.html)
+
 
 ### Golang
 - [How to start a Go project in 2023 2023/05/16 (3566 words)](https://boyter.org/posts/how-to-start-go-project-2023/)
@@ -197,7 +199,7 @@
 - [VanJS: The Smallest Reactive UI Framework in the World](https://github.com/vanjs-org/van)
 - [From SVG to Canvas](https://felt.com/blog/from-svg-to-canvas-part-1-making-felt-faster)
 - [ports.live - free http tunnel for localhost app](https://hello.ports.live/)
-
+- [SQLPage - low-code web framework using db queries](https://sql.ophir.dev/)
 
 
 ### Actuarial / Maths
@@ -218,6 +220,8 @@
 - [James–Stein for the leading eigenvector](https://www.pnas.org/doi/10.1073/pnas.2207046120)
 - [James-Stein Estimation and Ridge Regression](https://grbio.upc.edu/en/shared/material-seminaris/20210223_TALKFReverter.pdf)
 - [The Risk of James–Stein and Lasso Shrinkage](https://users.ssc.wisc.edu/~bhansen/papers/er_16.pdf)
+- [Understanding Stein's paradox](https://joe-antognini.github.io/machine-learning/steins-paradox)
+- [Stein's paradox](http://www.statslab.cam.ac.uk/~rjs57/SteinParadox.pdf)
 
 ### Cloud
 - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
@@ -245,7 +249,7 @@
 - [How WebAssembly is Eating the Database, One UDF At a Time](https://dylibso.com/blog/wasm-udf/)
 - [Vector Databases simply explained! (Embeddings & Indexes)](https://www.youtube.com/watch?v=dN0lsF2cvm4)
 - [Why the Document Model Is More Cost-Efficient Than RDBMS](https://thenewstack.io/why-the-document-model-is-more-cost-efficient-than-rdbms/)
-
+- [Data Mastery Made Easy: Exploring the Magic of Vector Databases in Jupyter Notebooks](https://zilliz.com/blog/exploring-magic-vector-databases-jupyter-notebooks)
 
 ### Text-to-speech tools
 - [Text to Speech Converter - FREE & No Limits](https://www.youtube.com/watch?v=kfqpFKdDVMU)
@@ -369,3 +373,4 @@
 - [Dr Teoh - Hypnotherapy, Malaysia](https://www.newtoninstitute.org/alliance/dr-teoh-hypnotherapy-training/)
 - [Tsubasa Language Services - Japanese](https://learnjapanese.sg/courses/)
 - [Physics as Information Processing](https://coda.io/@active-inference-institute/fields-physics-2023/course-syllabus-2)
+- [Google - Generative AI learning path](https://www.cloudskillsboost.google/paths/118)
