@@ -97,10 +97,7 @@
 - [Applied Category Theory • Ken Scambler • YOW! 2019](https://www.youtube.com/watch?v=M3qQFBGC9tk)
 
 ### Golang
-- [
-How to start a Go project in 2023
-2023/05/16 (3566 words)
-](https://boyter.org/posts/how-to-start-go-project-2023/)
+- [How to start a Go project in 2023 2023/05/16 (3566 words)](https://boyter.org/posts/how-to-start-go-project-2023/)
 
 ### Engineering Mgt
 - [Why are developers expected to estimate tasks at all?](https://pm.stackexchange.com/questions/34768/why-are-developers-expected-to-estimate-tasks-at-all)
@@ -126,6 +123,8 @@ How to start a Go project in 2023
 - [Why Learn Compilers](https://amasad.me/compilers)
 - [SectorC: A C Compiler in 512 bytes](https://xorvoid.com/sectorc.html)
 - [Let's build a compiler](https://xmonader.github.io/letsbuildacompiler-pretty/tutor01_introduction.html)
+- [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
+- [cuneicode, and the Future of Text in C](https://thephd.dev/cuneicode-and-the-future-of-text-in-c)
 
 ### ML
 - [Heart failure clinical records Data Set](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records)
@@ -172,6 +171,12 @@ How to start a Go project in 2023
 - [IUP - GUI library free](https://www.tecgraf.puc-rio.br/iup/)
 - [Git Merge – The Definitive Guide](https://www.freecodecamp.org/news/the-definitive-guide-to-git-merge/)
 - [Super Colliding Nix Stores: Nix Flakes for Millions of Developers](https://blog.replit.com/super-colliding-nix-stores)
+- [hyperformula - headless spreadsheet](https://github.com/handsontable/hyperformula)
+- [handsontable - js data grid with spreadsheet ux](https://handsontable.com/)
+- [Open Document Format for Office Applications](http://docs.oasis-open.org/office/v1.2/OpenDocument-v1.2-part2.html)
+- [spreadsheet gear](https://www.spreadsheetgear.com/)
+- [D2 - dynamic scripting language, text to diagram](https://d2lang.com/tour/intro)
+- [MUX - video tools on the web](https://www.mux.com/pricing/data)
 
 ### Web Dev
 - [HTMX is the future](https://quii.dev/)
@@ -181,6 +186,9 @@ How to start a Go project in 2023
 - [Create an online IDE with Angular 6 + NodeJS ~ Part #1](https://medium.com/@ofir3322/create-an-online-ide-with-angular-6-nodejs-part-1-163a939a7929)
 - [How to Build Your Development Stack in the Cloud from Scratch](https://www.sudeep.co/cloud-computing/2017/06/17/How-to-Build-Your-Development-Stack-in-the-Cloud-from-Scratch.html)
 - [VanJS: The Smallest Reactive UI Framework in the World](https://github.com/vanjs-org/van)
+- [From SVG to Canvas](https://felt.com/blog/from-svg-to-canvas-part-1-making-felt-faster)
+- [ports.live - free http tunnel for localhost app](https://hello.ports.live/)
+
 
 
 ### Actuarial / Maths
@@ -197,6 +205,10 @@ How to start a Go project in 2023
 - [What is Jacobian? | The right way of thinking derivatives and integrals](https://www.youtube.com/watch?v=wCZ1VEmVjVo)
 ** - [Mathematician uncovers methods to shrink sampling errors in large-dimensional data sets](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
 - [Using Aumann-Shapley Values to Allocate Insurance Risk: The Case of Inhomogeneous Losses](https://www.researchgate.net/publication/279984131_Using_Aumann-Shapley_Values_to_Allocate_Insurance_Risk_The_Case_of_Inhomogeneous_Losses)
+- [Mathematician uncovers methods to shrink sampling errors in large-dimensional data sets](https://phys.org/news/2023-03-mathematician-uncovers-methods-sampling-errors.html)
+- [James–Stein for the leading eigenvector](https://www.pnas.org/doi/10.1073/pnas.2207046120)
+- [James-Stein Estimation and Ridge Regression](https://grbio.upc.edu/en/shared/material-seminaris/20210223_TALKFReverter.pdf)
+- [The Risk of James–Stein and Lasso Shrinkage](https://users.ssc.wisc.edu/~bhansen/papers/er_16.pdf)
 
 ### Cloud
 - [How Ahrefs Saved US$400M in 3 Years by NOT Going to the Cloud](https://tech.ahrefs.com/how-ahrefs-saved-us-400m-in-3-years-by-not-going-to-the-cloud-8939dd930af8)
@@ -246,12 +258,16 @@ How to start a Go project in 2023
 - [THE SCIENTIFIC PAPER IS OBSOLETE](https://www.theatlantic.com/science/archive/2018/04/the-scientific-paper-is-obsolete/556676/)
 - [GitHub availability this week - OUtage](https://github.blog/2012-09-14-github-availability-this-week/)
 
+
+
 ### Networking
 - [RFC 1035](https://datatracker.ietf.org/doc/html/rfc1035)
 
 ### Cybersecurity
 - [BingBang: AAD misconfiguration led to Bing.com results manipulation and account takeover](https://www.wiz.io/blog/azure-active-directory-bing-misconfiguration)
 ** - [OpenSecurityTraining2](https://p.ost2.fyi/)
+- [A Blueprint for Supply Chain Security](https://thenewstack.io/ebooks/)
+
 
 ### Teaching
 - [The 2 Sigma Problem: The Search for Methods of Group Instruction as Effective as One-to-One tutoring](https://web.mit.edu/5.95/readings/bloom-two-sigma.pdf)
@@ -292,9 +308,10 @@ How to start a Go project in 2023
 - [Deep-Dive into TCP Connection Establishment Process](https://medium.com/@wrong.about/deep-dive-into-tcp-connection-establishment-process-f6cfb7b4e8e1)
 
 
-
 ### Containers
 - [Creating Your Own Containers](https://cesarvr.github.io/post/2018-05-22-create-containers/)
+- [Mini.WebVM: Your own Linux box from Dockerfile, virtualized in the browser via WebAssembly](https://leaningtech.com/mini-webvm-your-linux-box-from-dockerfile-via-wasm/)
+
 
 ### Books
 - [MIT Press - CS books :) ](https://mitpress.mit.edu/textbooks/computer-science/)
@@ -342,3 +359,4 @@ How to start a Go project in 2023
 - [10 Udemy Courses Every Developer SHOULD Own (NOT just coding)](https://www.youtube.com/watch?v=hexfXc7-SsU)
 - [Dr Teoh - Hypnotherapy, Malaysia](https://www.newtoninstitute.org/alliance/dr-teoh-hypnotherapy-training/)
 - [Tsubasa Language Services - Japanese](https://learnjapanese.sg/courses/)
+- [Physics as Information Processing](https://coda.io/@active-inference-institute/fields-physics-2023/course-syllabus-2)
