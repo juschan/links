@@ -10,16 +10,18 @@
 - [Life Is So Terrible and Beautiful at the Same Time](https://johnpweiss.com/blog/187270/life-is-so-terrible-and-beautiful-at-the-same-time)
 - [The Pathless Path](https://www.youtube.com/watch?v=xxPdTjk7beo)
 - [Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
-- [](https://www.youtube.com/watch?v=WSAWp-nLysQ)
+- [Find Your True Self When You Feel Lost, Authenticity | Dr. Gabor Gabor Mate](https://www.youtube.com/watch?v=WSAWp-nLysQ)
 
 
 ### Enterprenurship/Startup
 - [tzvc's startup projects](https://tzvc.me/projects)
 - [This Book Made Me Quit My Job](https://www.youtube.com/watch?v=xxPdTjk7beo)
+- [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
 
 ### Biz Hack
 - [When Talent is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 - [my office ignored my surgery, undergrad using ChatGPT to network badly, and more](https://www.askamanager.org/2023/06/my-office-ignored-my-surgery-undergrad-using-chatgpt-to-network-badly-and-more.html)
+- [Why Everyone Is OBSESSED With Notion ](https://www.youtube.com/watch?v=aWGviOMQqSw)
 
 
 ### Engineering Mgt
@@ -68,6 +70,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [asyncio](https://charlesleifer.com/blog/asyncio/)
 - [This is valid Python](https://www.bitecode.dev/p/this-is-valid-python-syntax)
 - [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
+- [Mojo, Modular](https://www.youtube.com/watch?v=-3Kf2ZZU-dg)
+
 
 ### Golang
 - [The power of Go: Tests](https://bitfieldconsulting.com/golang/examples)
@@ -141,3 +145,4 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - ["In search of the Man" - How I think Islam possibly began (ELF-FOCL)](https://www.youtube.com/watch?v=ZZE_TXn3qxw)
 - [Rebel Microscope](https://discover-echo.com/rebel/)
 - [The Moral Hazards of Being Beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
+- [Microsoft - slpj book??](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987.pdf)
