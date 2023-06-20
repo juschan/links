@@ -11,7 +11,7 @@
 - [The Pathless Path](https://www.youtube.com/watch?v=xxPdTjk7beo)
 - [Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
 - [Find Your True Self When You Feel Lost, Authenticity | Dr. Gabor Gabor Mate](https://www.youtube.com/watch?v=WSAWp-nLysQ)
-
+- [https://blog.briankitano.com/compromise-values/](https://blog.briankitano.com/compromise-values/)
 
 ### Enterprenurship/Startup
 - [tzvc's startup projects](https://tzvc.me/projects)
@@ -87,8 +87,11 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [How to create a Node.js web app using no external packages](https://www.freecodecamp.org/news/a-no-frills-guide-to-node-js-how-to-create-a-node-js-web-app-without-external-packages-a7b480b966d2/)
 - [Build and Deploy a Modern Next.js 13 Application | React, Next JS 13, TypeScript, Tailwind CSS ](https://www.youtube.com/watch?v=pUNSHPyVryU)
 
+### Computer Science
+- [guide for people who want to self-study the basics of Computer Scienc](https://github.com/Lesabotsy/bootcamp)
 
-
+### Tools
+- [Openjob - open source scheduler](https://habr.com/en/articles/742470/)
 
 ### Climate Change
 - [WTF is Happening? An Overview](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
@@ -114,6 +117,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [A Mechanistic Interpretability Analysis of Grokking](https://www.lesswrong.com/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 - [Gauss Divergence Theorem. Get the DEEPEST Intuition. ](https://www.youtube.com/watch?v=zZqxbwl3Dno)
 
+### Projects
+- [Next level data privacy with easy, free and secure self hosting at home](https://dev.to/maxime1992/next-level-data-privacy-with-easy-free-and-secure-self-hosting-at-home-2c84)
 
 ### Actuarial
 - [https://www.casact.org/sites/default/files/presentation/rpm_2012_handouts_session_4738_presentation_1022_0.pdf](https://www.casact.org/sites/default/files/presentation/rpm_2012_handouts_session_4738_presentation_1022_0.pdf) - Ratemaking
