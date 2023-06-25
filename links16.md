@@ -12,6 +12,10 @@
 - [Why I'm able to work 12 hours a day with 100% focus - 6 ONE-MINUTE Habits](https://www.youtube.com/watch?v=y1oFxKxAmWE)
 - [Find Your True Self When You Feel Lost, Authenticity | Dr. Gabor Gabor Mate](https://www.youtube.com/watch?v=WSAWp-nLysQ)
 - [https://blog.briankitano.com/compromise-values/](https://blog.briankitano.com/compromise-values/)
+- [It wasn't for me - books not meant for you to read](https://austinkleon.com/2016/10/18/it-wasnt-for-me/)
+- [25 Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
+
+
 
 ### Enterprenurship/Startup
 - [tzvc's startup projects](https://tzvc.me/projects)
@@ -22,6 +26,7 @@
 - [When Talent is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 - [my office ignored my surgery, undergrad using ChatGPT to network badly, and more](https://www.askamanager.org/2023/06/my-office-ignored-my-surgery-undergrad-using-chatgpt-to-network-badly-and-more.html)
 - [Why Everyone Is OBSESSED With Notion ](https://www.youtube.com/watch?v=aWGviOMQqSw)
+- [The Riddle of the Well-Paying, Pointless Job](https://moretothat.com/pointless-job/)
 
 
 ### Engineering Mgt
@@ -111,7 +116,7 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [The 512KB Club](https://512kb.club/faq)
 - [writ css](https://writ.cmcenroe.me/)
 - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
-
+- [anime.js](25 Anti-Mimetic Tactics for Living a Counter-Cultural Life)
 
 
 
@@ -170,6 +175,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 
 ### Writing
 - [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
+- [Thinking in Stories - Lawrence Yeo](https://thinkinginstories.com/)
+
 
 ### Creativity
 - [Building a brand identity with code](https://zchry.org/words/building-a-brand-identity-with-code)
