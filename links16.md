@@ -14,13 +14,17 @@
 - [https://blog.briankitano.com/compromise-values/](https://blog.briankitano.com/compromise-values/)
 - [It wasn't for me - books not meant for you to read](https://austinkleon.com/2016/10/18/it-wasnt-for-me/)
 - [25 Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
-
+- [When Silence is Power](https://thefrailestthing.com/2013/12/21/silence-is-power/)
 
 
 ### Enterprenurship/Startup
 - [tzvc's startup projects](https://tzvc.me/projects)
 - [This Book Made Me Quit My Job](https://www.youtube.com/watch?v=xxPdTjk7beo)
 - [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
+- [Designing the Ideal Bootstrapped Business](https://mtlynch.io/notes/designing-the-ideal-bootstrapped-business/)
+- [Generating income from open source](https://vadimdemedes.com/posts/generating-income-from-open-source)
+- [The unexpected (but proven) way to find your niche in the creator economy](https://ghost.org/resources/find-your-niche-creator-economy/)
+
 
 ### Biz Hack
 - [When Talent is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
@@ -53,6 +57,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [MIT ML OpenCourseWare](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/pages/lecture-notes/)
 
 
+### Career
+- [The Career Hackers Manifesto](https://careerhackers.com/the-careerhackers-manifesto/)
 
 
 ### Old Tech
@@ -83,6 +89,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [LLMs are good at playing you](https://lcamtuf.substack.com/p/llms-are-better-than-you-think-at)
 - [How to Prepare for the Deluge of Generative AI on Social Media](https://knightcolumbia.org/content/how-to-prepare-for-the-deluge-of-generative-ai-on-social-media)
 - [AI has poisoned its own well](https://tracydurnell.com/2023/06/18/ai-has-poisoned-its-own-well/)
+- [Companies That Replace People with AI Will Get Left Behind ](https://hbr.org/2023/06/companies-that-replace-people-with-ai-will-get-left-behind)
+- [A New Approach to Computation Reimagines Artificial Intelligence](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
 
 ### UX/UI
 - [Good UI design isn't all magic, but a design system sure is](https://blaring.net/blog/good-ui-isnt-magic/)
@@ -105,6 +113,10 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Functional Programming HOWTO](https://docs.python.org/3/howto/functional.html)
 - [Mojo, Modular](https://www.youtube.com/watch?v=-3Kf2ZZU-dg)
 - [Compiling typed Python](https://bernsteinbear.com/blog/typed-python/)
+- [Poetry - package mgt](https://python-poetry.org/docs/#installing-with-pipx)
+- [Getting started with Mambaforge and Python](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html#starting-napari)
+- [How to Install Python 3.8 on Ubuntu 18.04](https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/)
+
 
 ### Golang
 - [The power of Go: Tests](https://bitfieldconsulting.com/golang/examples)
@@ -142,6 +154,7 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 ### Tools
 - [Openjob - open source scheduler](https://habr.com/en/articles/742470/)
 - [Billabear - host billing](https://github.com/billabear/billabear)
+- [ghostwriter](https://github.com/KDE/ghostwriter/releases/tag/2.1.6)
 
 ### Climate Change
 - [WTF is Happening? An Overview](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
@@ -192,10 +205,14 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Secrest of Insurance Premium Calc](https://www.quantee.ai/resources/the-devil-is-in-the-details-uncovering-the-secrets-of-insurance-premium-calculation)
 - [Joint Claims Frequency and Severity Distribution Modelling: A Copulas Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377522)
 - [Aggregate loss distribution from claim severity and claim count distribution](https://www.casact.org/sites/default/files/2021-02/pubs_proceed_proceed83_83022.pdf)
+** - [modelx](https://modelx.io/)
 
 ### Writing
 - [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
 - [Thinking in Stories - Lawrence Yeo](https://thinkinginstories.com/)
+- [A tech writer's letter to software developers](https://passo.uno/tech-writers-letter-to-developers/)
+
+
 
 ###3 Knowledge Mgt
 - [AFFINE](https://github.com/toeverything/AFFiNE)
@@ -210,6 +227,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [THE TYRANNY of STRUCTURELESSNESS](https://www.jofreeman.com/joreen/tyranny.htm)
 - [In the company of men – and Zen: a male-only wellness retreat in Wiltshire](https://www.theguardian.com/travel/2023/jun/10/male-only-wellness-retreat-in-wiltshire)
 - [From surfing to self discovery: five of the best male-only wellness camps in Europe](https://www.theguardian.com/travel/2023/jun/10/five-best-male-only-wellness-camps-in-europe-from-surfing-to-self-discovery)
+- [School Is Not Enough](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
+
 
 ### Training
 - [LifeSkills Institutje - Certified Behavioural Consultant, career coach, stress mgt](https://lifeskillsinstitute.sg/cbc/)
