@@ -34,7 +34,8 @@
 - [Growing from engineer to manager and thriving ](https://newsletter.eng-leadership.com/p/growing-from-engineer-to-manager)
 - [You're neither in control nor responsible for their failures](https://www.sudarkoff.blog/p/youre-neither-in-control-nor-responsible)
 - [A paradigm for developer productivity](https://ktheory.com/paradigm-for-developer-productivity/)
-
+- [Don't Skip 1 on 1s](https://blog.danielna.com/dont-skip-1-on-1s/)
+- [The Inverted Org Chart: Putting Employees at the Top](https://hypercontext.com/blog/employee-motivation/the-inverted-org-chart-putting-employees-at-the-top)
 
 ### ML
 - [Computing SHAP values from scratch](https://afiodorov.github.io/2019/05/20/shap-values-explained/)
@@ -44,6 +45,14 @@
 - [Multi-Agent Reinforcement Learning:
 Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Smol AI tutorial in 5 mins | Build ENTIRE codebase with a single prompt](https://www.youtube.com/watch?v=BMRywudsqtY)
+- [How to calculate shapley values from scratch](https://www.depends-on-the-definition.com/shapley-values-from-scratch/)
+- [Computing SHAP values from scratch](https://afiodorov.github.io/2019/05/20/shap-values-explained/)
+- [How To Implement The Decision Tree Algorithm From Scratch In Python](https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/)
+- [How to program a decision tree in Python from 0](https://anderfernandez.com/en/blog/code-decision-tree-python-from-scratch/)
+- [Support Vector Machine Algorithm (SVM) – Understanding Kernel Trick](https://datamites.com/blog/support-vector-machine-algorithm-svm-understanding-kernel-trick/)
+- [MIT ML OpenCourseWare](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/pages/lecture-notes/)
+
+
 
 
 ### Old Tech
@@ -57,7 +66,10 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Writing a C Compiler, Part 1](https://docs.python.org/3/howto/functional.html)
 - [Why Tcl?](https://gist.github.com/nat-418/bdccb2428cde750c9f42bf9bbc1a50d3)
 - [Ruby Hacking Guide](https://ruby-hacking-guide.github.io/)
-
+- [Hotbasic](https://www.angelfire.com/space/netcensus/hotbasic.html)
+- [Hotbasic Compiler Forum](https://groups.io/g/HotBasic)
+- [Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C (Fourth Edition)](https://web.eece.maine.edu/~zhu/book/)
+- [From Theory to Systems: A Grounded Approach to Programming Language Education](https://arxiv.org/abs/1904.06750)
 
 ### Zig
 - [My game development journey & why I'm increasing my contribution to Zig to $200/mo](https://devlog.hexops.com/2021/increasing-my-contribution-to-zig-to-200-a-month/)
@@ -75,7 +87,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 ### UX/UI
 - [Good UI design isn't all magic, but a design system sure is](https://blaring.net/blog/good-ui-isnt-magic/)
 
-
+### Generative AI
+- [AI Search engine for developers](https://www.phind.com/)
 
 ### No Self
 - [Eastern philosophy says there is no “self.” Science agrees](https://bigthink.com/the-well/eastern-philosophy-neuroscience-no-self/)
@@ -117,15 +130,18 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [writ css](https://writ.cmcenroe.me/)
 - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 - [anime.js](25 Anti-Mimetic Tactics for Living a Counter-Cultural Life)
-
-
+- [BLocksuite - solution for collaborative projects](https://blocksuite.affine.pro/blocksuite-overview.html)
+- [Captive POrtal Detection](https://support.mozilla.org/en-US/kb/captive-portal)
 
 
 ### Computer Science
 - [guide for people who want to self-study the basics of Computer Scienc](https://github.com/Lesabotsy/bootcamp)
+- [Distributed systems](http://book.mixu.net/distsys/index.html)
+- [axle OS](https://axleos.com/)
 
 ### Tools
 - [Openjob - open source scheduler](https://habr.com/en/articles/742470/)
+- [Billabear - host billing](https://github.com/billabear/billabear)
 
 ### Climate Change
 - [WTF is Happening? An Overview](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
@@ -159,6 +175,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [The applications of eigenvectors and eigenvalues | That thing you heard in Endgame has other uses](https://www.youtube.com/watch?v=i8FukKfMKCI)
 - [A Mechanistic Interpretability Analysis of Grokking](https://www.lesswrong.com/posts/N6WM6hs7RQMKDhYjB/a-mechanistic-interpretability-analysis-of-grokking)
 - [Gauss Divergence Theorem. Get the DEEPEST Intuition. ](https://www.youtube.com/watch?v=zZqxbwl3Dno)
+** - [Convolutions and adding random variables, visually explained](https://www.youtube.com/watch?v=IaSGqQa5O-M)
+
 
 ### Projects
 - [Next level data privacy with easy, free and secure self hosting at home](https://dev.to/maxime1992/next-level-data-privacy-with-easy-free-and-secure-self-hosting-at-home-2c84)
@@ -172,11 +190,15 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Personal Automobile](https://www.casact.org/sites/default/files/database/forum_97wforum_97wf317.pdf)
 - [Personal Lins Pricing](https://www.casstudentcentral.org/about/this-actuarial-life/personal-lines-pricing/)
 - [Secrest of Insurance Premium Calc](https://www.quantee.ai/resources/the-devil-is-in-the-details-uncovering-the-secrets-of-insurance-premium-calculation)
+- [Joint Claims Frequency and Severity Distribution Modelling: A Copulas Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4377522)
+- [Aggregate loss distribution from claim severity and claim count distribution](https://www.casact.org/sites/default/files/2021-02/pubs_proceed_proceed83_83022.pdf)
 
 ### Writing
 - [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
 - [Thinking in Stories - Lawrence Yeo](https://thinkinginstories.com/)
 
+###3 Knowledge Mgt
+- [AFFINE](https://github.com/toeverything/AFFiNE)
 
 ### Creativity
 - [Building a brand identity with code](https://zchry.org/words/building-a-brand-identity-with-code)
@@ -189,6 +211,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [In the company of men – and Zen: a male-only wellness retreat in Wiltshire](https://www.theguardian.com/travel/2023/jun/10/male-only-wellness-retreat-in-wiltshire)
 - [From surfing to self discovery: five of the best male-only wellness camps in Europe](https://www.theguardian.com/travel/2023/jun/10/five-best-male-only-wellness-camps-in-europe-from-surfing-to-self-discovery)
 
+### Training
+- [LifeSkills Institutje - Certified Behavioural Consultant, career coach, stress mgt](https://lifeskillsinstitute.sg/cbc/)
 
 ### Interesting
 - [Saudi Arabian Muslim becomes a Christian - Al Fadi at Understanding the Times 2019](https://www.youtube.com/watch?v=gRF2Y-n5FkQ)
@@ -196,6 +220,9 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Rebel Microscope](https://discover-echo.com/rebel/)
 - [The Moral Hazards of Being Beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
 - [Microsoft - slpj book??](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987.pdf)
+- [How dyslexia changes in other languages](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
+
+
 - [Nigerian engineering students’ favorite teachers are Indian YouTubers](https://restofworld.org/2023/nigerian-engineering-students-indian-youtubers/)
 - [I Was Sentenced to 18 Months in Prison for Hacking Back - My Story](https://hackernoon.com/i-was-sentenced-to-18-months-in-prison-for-hacking-back-my-story)
 - [European Implementation Collaboration](https://implementation.eu/resources/)
