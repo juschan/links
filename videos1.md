@@ -16,7 +16,7 @@
 - [The End of Earth's 26,000-Year Cycle Revealed! Dawn of a New Time for Mankind | Rob Schwartz](https://www.youtube.com/watch?v=Us5fqUqWrF4)
 - [Doctor Did 700+ Past Life Regressions & What She Discover Left Her SPEECHLESS! | Joanne Dimaggio](https://www.youtube.com/watch?v=E1T59lkxSkY)
 - [The GREAT SHIFT Has Begun! The Guides REVEAL Future of Humanity's Oversoul | Paul Selig](https://www.youtube.com/watch?v=EJrqJRu3oOQ)
-
+* - [The RAW TRUTH About Reincarnation & the Afterlife: The SHOCKING Process! | Grandmaster Wolf](https://www.youtube.com/watch?v=1xKJ8DWRYYs)
 
 ### ?
 - [Saying Thank You and Goodbye](https://www.youtube.com/watch?v=a04GIIIFuFA)
@@ -44,6 +44,8 @@
 - [Statistical Machine Learning Part 1 - Machine learning and inductive bias](https://www.youtube.com/watch?v=WB8eYZSZyaE&list=RDCMUCupmCsCA5CFXmm31PkUhEbA&index=4)
 - [Statistical Learning: 4.9 Quadratic Discriminant Analysis and Naive Bayes](https://www.youtube.com/watch?v=giCZkipHEmA&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&index=24)
 ** - [Backpropagation in Neural Network with an Example By hand - TensorFlow Tutorial](https://www.youtube.com/watch?v=8gFrim7cTzI)
+- [ Kernels : Data Science Concepts](https://www.youtube.com/watch?v=OKFMZQyDROI)
+- [The Kernel Trick - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=wBVSbVktLIY)
 
 ### Coaching
 - [The Neuroscience of Coaching](https://www.youtube.com/watch?v=7Xo50Ky3NYQ)
@@ -82,7 +84,7 @@
 - [18 Hero Section Designs You Can Steal](https://www.youtube.com/watch?v=kJb6BZwqCGM)
 - [Reacting to a NO-CODE Three.js 3D WEBSITE BUILDER! WOW!](https://www.youtube.com/watch?v=FUVdeEzzbCk)
 - [The Webflow Niche is a Goldmine - Here’s why…](https://www.youtube.com/watch?v=20jCjLe0Pe8)
-
+- [Learn Framer in 20 Minutes (Crash Course)](https://www.youtube.com/watch?v=P5H7zs0RsUM)
 
 
 ### Life Hack
