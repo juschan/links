@@ -39,6 +39,11 @@
 - [EMERGENCY EPISODE: Ex-Google Officer Finally Speaks Out On The Dangers Of AI! - Mo Gawdat | E252](https://www.youtube.com/watch?v=bk-nQ7HF6k4)
 - [New Book!!! Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://www.youtube.com/watch?v=oEXR9EnAtm4)
 - [Why Do Neural Networks Love the Softmax?](https://www.youtube.com/watch?v=p-6wUOXaVqs)
+- [The Kernel Trick in Support Vector Machine (SVM)](https://www.youtube.com/watch?v=Q7vT0--5VII)
+- [Beyond Empirical Risk Minimization: the lessons of deep learning](https://www.youtube.com/watch?v=JS-Bl36aVPs)
+- [Statistical Machine Learning Part 1 - Machine learning and inductive bias](https://www.youtube.com/watch?v=WB8eYZSZyaE&list=RDCMUCupmCsCA5CFXmm31PkUhEbA&index=4)
+- [Statistical Learning: 4.9 Quadratic Discriminant Analysis and Naive Bayes](https://www.youtube.com/watch?v=giCZkipHEmA&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&index=24)
+** - [Backpropagation in Neural Network with an Example By hand - TensorFlow Tutorial](https://www.youtube.com/watch?v=8gFrim7cTzI)
 
 ### Coaching
 - [The Neuroscience of Coaching](https://www.youtube.com/watch?v=7Xo50Ky3NYQ)
