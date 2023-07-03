@@ -17,6 +17,9 @@
 - [Doctor Did 700+ Past Life Regressions & What She Discover Left Her SPEECHLESS! | Joanne Dimaggio](https://www.youtube.com/watch?v=E1T59lkxSkY)
 - [The GREAT SHIFT Has Begun! The Guides REVEAL Future of Humanity's Oversoul | Paul Selig](https://www.youtube.com/watch?v=EJrqJRu3oOQ)
 * - [The RAW TRUTH About Reincarnation & the Afterlife: The SHOCKING Process! | Grandmaster Wolf](https://www.youtube.com/watch?v=1xKJ8DWRYYs)
+- [What's Your DIVINE PLAN and Your DESTINY! The Divine Council Speaks! Sara Landon](https://www.youtube.com/watch?v=APQ3-8JRJvo)
+
+
 
 ### ?
 - [Saying Thank You and Goodbye](https://www.youtube.com/watch?v=a04GIIIFuFA)
@@ -46,6 +49,15 @@
 ** - [Backpropagation in Neural Network with an Example By hand - TensorFlow Tutorial](https://www.youtube.com/watch?v=8gFrim7cTzI)
 - [ Kernels : Data Science Concepts](https://www.youtube.com/watch?v=OKFMZQyDROI)
 - [The Kernel Trick - THE MATH YOU SHOULD KNOW!](https://www.youtube.com/watch?v=wBVSbVktLIY)
+- [GPT Engineer: Things Are Starting to Get Weird](https://www.youtube.com/watch?v=FPZONhA0C60)
+- [Neural Compression — Lecture 02.2 — The Source Coding Theorem ](https://www.youtube.com/watch?v=oP5nls7ZO6w)
+- [Textbooks Are All You Need](https://www.youtube.com/watch?v=ZW3dcu8H4gI)
+- [The Future of Knowledge Graphs in a World of Large Language Models](https://www.youtube.com/watch?v=WqYBx2gB6vA)
+
+
+### Manifestation
+- [The Money Expert: From $0 to Millions In 2 Years Without Any Hard Work!: Codie Sanchez | E258](https://www.youtube.com/watch?v=XkxZCJ2pYqs)
+- [Neuroscientist REVEALS How The Law of Attraction ACTUALLY Works | Dr. Tara Swart](https://www.youtube.com/watch?v=k48ieWKiudE)
 
 ### Coaching
 - [The Neuroscience of Coaching](https://www.youtube.com/watch?v=7Xo50Ky3NYQ)
@@ -72,6 +84,9 @@
 - [Switch to these open source apps if you're stuck on Windows or MacOS!] (https://www.youtube.com/watch?v=uundIaRNJ6A)
 - [Used Macs are getting REALLY cheap (Why I bought one!)](https://www.youtube.com/watch?v=E96LCzkdSOo)
 - [How to Build a Budget Home Server and WHY You Should!](https://www.youtube.com/watch?v=irW0AiRED3w)
+- [build your own cloud](https://www.youtube.com/watch?v=xBIowQ0WaR8)
+- [Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 202](https://www.youtube.com/watch?v=rC4FCS-oMpg)
+
 
 ### Knowledge Mgt
 - [Obsidian As A Second Brain: The ULTIMATE Tutorial](https://www.youtube.com/watch?v=WqKluXIra70)
@@ -108,6 +123,10 @@
 - [My Next Passive Income Idea | Framer Templates Themes](https://www.youtube.com/watch?v=kWCJThevrLU)
 - [如何摆脱无意义的工作？](https://www.youtube.com/watch?v=dlv97OHFnGY)
 - [How to Get Millions of Subscribers in Your Spare Time](https://www.youtube.com/watch?v=gpEzAnz5h2U)
+- [From 2 Weeks of Runway to a $1.5B Valuation: The Founder Playbook with Loom's CEO and Co-Founder](https://www.youtube.com/watch?v=AxX2CmVw1ZQ)
+- [I spent $50,000 on a business coach so you don’t have to](https://www.youtube.com/watch?v=Jcoam1CeAq4)
+- [Why I Quit my Job With No Backup Plan | The Perspective That Changed My Life](https://www.youtube.com/watch?v=PgfzN1xfgLc)
+
 
 ### Art
 - [How to find your art style FAST in 3 easy steps (yeah, really)](https://www.youtube.com/watch?v=SLfH9yOGs3o)
@@ -115,15 +134,21 @@
 - [The Untold Secrets of Pokémon’s Monster Mythology | Monstrum](https://www.youtube.com/watch?v=zHCGdyhHlRs)
 - [How I created a Photo Project that Launched my Art Career](https://www.youtube.com/watch?v=bUgTfQNLJ4E)
 - [The Copy and Paste Culture of YouTube](https://www.youtube.com/watch?v=gbDunxRfbgg)
-
+- [I Tried Selling AI Art For 30 Days (Realistic Results)](https://www.youtube.com/watch?v=GXPQ-fg507o)
 
 ### Health
- - [How to do the Splits Fast -- This Technique Changed Everything! -- (Science Based)](https://www.youtube.com/watch?v=OeJSgrqIxVc)
+- [How to do the Splits Fast -- This Technique Changed Everything! -- (Science Based)](https://www.youtube.com/watch?v=OeJSgrqIxVc)
+- [Lion's Mane Mushrooms Actually DO SOMETHING!](https://www.youtube.com/watch?v=tSUURvSBR-4)
 
 ### Interesting
 - [比山海經早一千年！和《周易》並列的神書，竟說夏啟是妖？上古神話隱瞞著另一個真相| 腦補大轟炸](https://www.youtube.com/watch?v=l0mKS8JVp2k)
 - [10000 USD for Appwrite online hackathon](https://www.youtube.com/watch?v=N5EbQyRUFYs)
 - [Paul A. M. Dirac, Interview by Friedrich Hund (1982)](https://www.youtube.com/watch?v=xJzrU38pGWc)
+- [Hacking Bacteria Programming Using Control Theory & Math](https://www.youtube.com/watch?v=MNzFcOaThIg)
+- [POPULATION COLLAPSE: How Modern Life Is Making Men & Women INFERTILE | Shanna Swan](https://www.youtube.com/watch?v=C9aqGqjC1kE)
+- [The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora](https://www.youtube.com/watch?v=6aKI2C61jVE)
+- [The Biggest Scandal In Speed Typing History](https://www.youtube.com/watch?v=maCHHSussS4)
+
 
 ### Psychology
 - [How To Know What You Really WANT](https://www.youtube.com/watch?v=lhJOlZaAuLY)
