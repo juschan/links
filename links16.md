@@ -15,7 +15,7 @@
 - [It wasn't for me - books not meant for you to read](https://austinkleon.com/2016/10/18/it-wasnt-for-me/)
 - [25 Anti-Mimetic Tactics for Living a Counter-Cultural Life](https://www.epsilontheory.com/25-anti-mimetic-tactics-for-living-a-counter-cultural-life/)
 - [When Silence is Power](https://thefrailestthing.com/2013/12/21/silence-is-power/)
-
+- [Working on the Right Problems](https://matt-rickard.com/working-on-the-right-problems)
 
 ### Enterprenurship/Startup
 - [tzvc's startup projects](https://tzvc.me/projects)
@@ -24,14 +24,14 @@
 - [Designing the Ideal Bootstrapped Business](https://mtlynch.io/notes/designing-the-ideal-bootstrapped-business/)
 - [Generating income from open source](https://vadimdemedes.com/posts/generating-income-from-open-source)
 - [The unexpected (but proven) way to find your niche in the creator economy](https://ghost.org/resources/find-your-niche-creator-economy/)
-
+- [Get a Personal Teacher](https://sebastian.bearblog.dev/get-a-personal-teacher/)
 
 ### Biz Hack
 - [When Talent is Not Enough](https://albertcory50.substack.com/p/when-talent-is-not-enough)
 - [my office ignored my surgery, undergrad using ChatGPT to network badly, and more](https://www.askamanager.org/2023/06/my-office-ignored-my-surgery-undergrad-using-chatgpt-to-network-badly-and-more.html)
 - [Why Everyone Is OBSESSED With Notion ](https://www.youtube.com/watch?v=aWGviOMQqSw)
 - [The Riddle of the Well-Paying, Pointless Job](https://moretothat.com/pointless-job/)
-
+- [How to negotiate a contract like a boss](https://www.pandadoc.com/blog/how-to-negotiate-a-contract/)
 
 ### Engineering Mgt
 - [The Game Outcomes Project, Part 2: Building Effective Teams](https://www.gamedeveloper.com/business/the-game-outcomes-project-part-2-building-effective-teams)
@@ -40,6 +40,8 @@
 - [A paradigm for developer productivity](https://ktheory.com/paradigm-for-developer-productivity/)
 - [Don't Skip 1 on 1s](https://blog.danielna.com/dont-skip-1-on-1s/)
 - [The Inverted Org Chart: Putting Employees at the Top](https://hypercontext.com/blog/employee-motivation/the-inverted-org-chart-putting-employees-at-the-top)
+- [What Do We Owe Our Teams?](https://www.mironov.com/owe/)
+- [PM is the choose-your-own-adventure role](https://austinhenley.com/blog/pmadventure.html)
 
 ### ML
 - [Computing SHAP values from scratch](https://afiodorov.github.io/2019/05/20/shap-values-explained/)
@@ -55,7 +57,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [How to program a decision tree in Python from 0](https://anderfernandez.com/en/blog/code-decision-tree-python-from-scratch/)
 - [Support Vector Machine Algorithm (SVM) – Understanding Kernel Trick](https://datamites.com/blog/support-vector-machine-algorithm-svm-understanding-kernel-trick/)
 - [MIT ML OpenCourseWare](https://ocw.mit.edu/courses/15-097-prediction-machine-learning-and-statistics-spring-2012/pages/lecture-notes/)
-
+** - [Project S.A.T.U.R.D.A.Y  - toolbox for vocal computing](https://github.com/GRVYDEV/S.A.T.U.R.D.A.Y)
+- [Linear Regression T-test: Formula, Example](https://vitalflux.com/linear-regression-t-test-formula-example/)
 
 ### Career
 - [The Career Hackers Manifesto](https://careerhackers.com/the-careerhackers-manifesto/)
@@ -64,6 +67,10 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 ### Old Tech
 - [Why You Should Still Love Telnet](https://bash-prompt.net/guides/telnet/)
 - [How Shapley Values Work](https://www.aidancooper.co.uk/how-shapley-values-work/)
+
+### C
+- [Deep C, C++](https://www.slideshare.net/olvemaudal/deep-c)
+- [Structures in C: From Basics to Memory Alignment](https://abstractexpr.com/2023/06/29/structures-in-c-from-basics-to-memory-alignment/)
 
 
 ### Compiler, Interpreter, Computer Languages
@@ -76,6 +83,9 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Hotbasic Compiler Forum](https://groups.io/g/HotBasic)
 - [Embedded Systems with ARM Cortex-M Microcontrollers in Assembly Language and C (Fourth Edition)](https://web.eece.maine.edu/~zhu/book/)
 - [From Theory to Systems: A Grounded Approach to Programming Language Education](https://arxiv.org/abs/1904.06750)
+- [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
+- [Building a Toy Programming Language in Python](https://blog.miguelgrinberg.com/post/building-a-toy-programming-language-in-python)
+- [Essentials of Compilation - Racket, Python](https://iucompilercourse.github.io/tutorial-web-page/)
 
 ### Zig
 - [My game development journey & why I'm increasing my contribution to Zig to $200/mo](https://devlog.hexops.com/2021/increasing-my-contribution-to-zig-to-200-a-month/)
@@ -91,6 +101,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [AI has poisoned its own well](https://tracydurnell.com/2023/06/18/ai-has-poisoned-its-own-well/)
 - [Companies That Replace People with AI Will Get Left Behind ](https://hbr.org/2023/06/companies-that-replace-people-with-ai-will-get-left-behind)
 - [A New Approach to Computation Reimagines Artificial Intelligence](https://www.quantamagazine.org/a-new-approach-to-computation-reimagines-artificial-intelligence-20230413/)
+- [Language Is a Poor Heuristic For Intelligence](https://karawynn.substack.com/p/language-is-a-poor-heuristic-for)
+
 
 ### UX/UI
 - [Good UI design isn't all magic, but a design system sure is](https://blaring.net/blog/good-ui-isnt-magic/)
@@ -116,6 +128,8 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Poetry - package mgt](https://python-poetry.org/docs/#installing-with-pipx)
 - [Getting started with Mambaforge and Python](https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html#starting-napari)
 - [How to Install Python 3.8 on Ubuntu 18.04](https://linuxize.com/post/how-to-install-python-3-8-on-ubuntu-18-04/)
+- [Job Queues and Workers in Django](https://www.honeybadger.io/blog/job-queues-workers-django/)
+- [Exploring Data and Sharing Findings with Pygwalker and Streamlit](https://docs.kanaries.net/pygwalker/use-pygwalker-with-streamlit.en)
 
 
 ### Golang
@@ -143,18 +157,25 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [Why I Use Elm in 2023](https://taylor.town/elm-2023)
 - [anime.js](25 Anti-Mimetic Tactics for Living a Counter-Cultural Life)
 - [BLocksuite - solution for collaborative projects](https://blocksuite.affine.pro/blocksuite-overview.html)
-- [Captive POrtal Detection](https://support.mozilla.org/en-US/kb/captive-portal)
-
+- [Captive Portal Detection](https://support.mozilla.org/en-US/kb/captive-portal)
+- [Deploying a Ruby on Rails App on Render with a Database, Redis, Sidekiq, and Cron Jobs](https://railsnotes.xyz/blog/deploying-ruby-on-rails-on-render-with-databse-redis-sidekiq-cron)
 
 ### Computer Science
 - [guide for people who want to self-study the basics of Computer Scienc](https://github.com/Lesabotsy/bootcamp)
 - [Distributed systems](http://book.mixu.net/distsys/index.html)
 - [axle OS](https://axleos.com/)
+- [A Functional Introduction To Computer Science (Part I)](https://cs.uwaterloo.ca/~plragde/flaneries/FICS/)
+
+### Confidential Computing
+- [VMware, AMD, Samsung and RISC-V push for confidential computing standards](https://www.theregister.com/2023/06/30/confidential_computing_standards/)
+
 
 ### Tools
 - [Openjob - open source scheduler](https://habr.com/en/articles/742470/)
 - [Billabear - host billing](https://github.com/billabear/billabear)
 - [ghostwriter](https://github.com/KDE/ghostwriter/releases/tag/2.1.6)
+- [The AWK Programming Language, Second Edition](https://awk.dev/)
+- [mdBook](https://rust-lang.github.io/mdBook/)
 
 ### Climate Change
 - [WTF is Happening? An Overview](https://climatecasino.net/2023/06/wtf-is-happening-an-overview/)
@@ -172,6 +193,12 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [So you want to write a GUI framework](http://www.cmyr.net/blog/gui-framework-ingredients.html)
 - [IKEA-Oriented Development](https://taylor.town/ikea-oriented-development)
 ** - [Allen Holub!!](https://holub.com/patterns/)
+- [Running Too Much Kubernetes](https://blog.fahhem.com/2023/07/running-too-much-kubernetes/)
+- [Ericsson to WhatsApp : The Story of Erlang](https://thechipletter.substack.com/p/ericsson-to-whatsapp-the-story-of)
+- [The complete guide to publishing free software video games](https://writefreesoftware.org/blog/free-software-games/)
+- [Tree-Structured Concurrency](https://blog.yoshuawuyts.com/tree-structured-concurrency/)
+- [Working ternary ALU ](https://louis-dr.github.io/ternalu3.html)
+
 
 ### Self-Hosting Apps
 - [4 Self-hosting Web Application Platforms](https://geekflare.com/self-hosting-web-apps/)
@@ -211,10 +238,10 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [How Writing Online Made me a Millionaire](https://www.youtube.com/watch?v=vyVpRiqOvt4)
 - [Thinking in Stories - Lawrence Yeo](https://thinkinginstories.com/)
 - [A tech writer's letter to software developers](https://passo.uno/tech-writers-letter-to-developers/)
+- [Writing as a Form of Thinking](https://lopespm.com/notes/2023/07/02/writing-as-a-form-of-thinking.html)
 
 
-
-###3 Knowledge Mgt
+### Knowledge Mgt
 - [AFFINE](https://github.com/toeverything/AFFiNE)
 
 ### Creativity
@@ -230,8 +257,18 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [School Is Not Enough](https://www.palladiummag.com/2023/06/06/school-is-not-enough/)
 
 
+### Coaching
+- [The Prosperous Coach: Increase Income and Impact for You and Your Clients (The Prosperous Series)](https://www.amazon.com/Prosperous-Coach-Increase-Income-Clients/dp/1600250300/ref=pd_vtp_h_vft_none_pd_vtp_h_vft_none_sccl_4/145-2840150-2318764?pd_rd_w=CabVE&content-id=amzn1.sym.a5610dee-0db9-4ad9-a7a9-14285a430f83&pf_rd_p=a5610dee-0db9-4ad9-a7a9-14285a430f83&pf_rd_r=W9JZ0PBFWJFDQXY5PQ54&pd_rd_wg=PZ0bZ&pd_rd_r=0093cf12-f411-42fd-adb1-8355dfba48b3&pd_rd_i=1600250300&psc=1)
+- [A Shift in Being: The Art and Practices of Deep Transformational Coachin](https://www.amazon.com/Shift-Being-Practices-Transformational-Coaching-ebook/dp/B07QV25CYB/ref=sr_1_2?crid=B7R30HJ497U6&keywords=transformational+coaching&qid=1688385042&s=digital-text&sprefix=transformational+coachi%2Cdigital-text%2C340&sr=1-2)
+
+
 ### Training
 - [LifeSkills Institutje - Certified Behavioural Consultant, career coach, stress mgt](https://lifeskillsinstitute.sg/cbc/)
+- [WalkActive Certification Academy](https://walk-active.com/certification/)
+- [Building a Programming Language](https://classpert.com/classpertx/courses/building-a-programming-language/cohort)
+- [MAS.S68: Generative AI for Constructive Communication](https://ai4comm.media.mit.edu/)
+- [Deep Learning Systems - course, CMU](https://dlsyscourse.org/)
+- [Recurse Center](https://www.recurse.com/apply)
 
 ### Interesting
 - [Saudi Arabian Muslim becomes a Christian - Al Fadi at Understanding the Times 2019](https://www.youtube.com/watch?v=gRF2Y-n5FkQ)
@@ -240,9 +277,12 @@ Foundations and Modern Approaches](https://www.marl-book.com/)
 - [The Moral Hazards of Being Beautiful](https://www.wsj.com/articles/the-moral-hazards-of-being-beautiful-94346e61)
 - [Microsoft - slpj book??](https://www.microsoft.com/en-us/research/uploads/prod/1987/01/slpj-book-1987.pdf)
 - [How dyslexia changes in other languages](https://www.bbc.com/future/article/20230302-can-dyslexia-change-in-other-languages) 
-
-
 - [Nigerian engineering students’ favorite teachers are Indian YouTubers](https://restofworld.org/2023/nigerian-engineering-students-indian-youtubers/)
 - [I Was Sentenced to 18 Months in Prison for Hacking Back - My Story](https://hackernoon.com/i-was-sentenced-to-18-months-in-prison-for-hacking-back-my-story)
 - [European Implementation Collaboration](https://implementation.eu/resources/)
-
+- [Ask HN: We just lost 100s of files on GCP, is there any way to recover them?](https://news.ycombinator.com/item?id=36400065)
+- [‘It was an accident’: the scientists who have turned humid air into renewable power](https://www.theguardian.com/science/2023/jul/02/it-was-an-accident-the-scientists-who-have-turned-humid-air-into-renewable-power)
+- [Industrial Civilization Needs a Biological Future](https://www.palladiummag.com/2023/05/18/industrial-civilization-needs-a-biological-future/) 
+- [Instant Coffee Is Negatively Associated with Telomere Length](https://www.mdpi.com/2072-6643/15/6/1354)
+- [Why do Ivy League students self-sabotage? ](https://movingthelimit.com/why-do-ivy-league-students-self-sabotage/)
+- [Ex-accountant sells handmade beancurd with Taiwanese-style toppings at Hong Lim Market & Food Centre](https://cnalifestyle.channelnewsasia.com/dining/ddsd-hong-lim-beancurd-359891)
