@@ -12,6 +12,9 @@
 ### R-Python Conversion
 - [Data manipulation R-Python conversion guide ](https://www.mit.edu/~amidi/teaching/data-science-tools/conversion-guide/r-python-data-manipulation/#data-frame-transformation)
 
+### Python
+- [An oral history of Bank Python](https://calpaterson.com/bank-python.html)
+
 ### ML
 - [Building Autograd Engine & Neural Network Library: An Interactive Guide](https://x0axz.com/blog/autograd.html)
 - [GPT Engineer: Things Are Starting to Get Weird](https://www.youtube.com/watch?v=FPZONhA0C60)
@@ -23,12 +26,19 @@
 - [Introduction to Generative AI Studio](https://www.youtube.com/watch?v=-7nf5EJ2Fsc)
 - [SVM10 The Kernel Trick (Part1: Basis Expansion)](https://www.youtube.com/watch?v=as-uwuiu5H8)
 - [Master Prompting with LLM - agents.blue](http://www.agents.blue/)
+- [An Introduction to Statistical Learning - Python edition!!](https://www.statlearning.com/)
+
 
 ### Tools
 - [mmhmm - better video calls](https://www.mmhmm.app/product)
 - [Hack Your Brain With Obsidian.md](https://www.youtube.com/watch?v=DbsAQSIKQXk)
 - [How to make great videos ANYWHERE with AI ENVIRONMENTS](https://www.youtube.com/watch?v=ytMWxwPs4eM)
 - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network)
+- [Railway Platform](https://railway.app/)
+- [Railway $5 Plan](https://blog.railway.app/p/introducing-trial-hobby-pro-plans)
+- [Boa - Js lexer, parser etc.](https://boajs.dev/about/)
+- [The Definitive Guide To Docker in 2023:](https://masteringbackend.com/posts/docker-tutorial)
+- [How To Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
 
 
 ### Software Engineering
@@ -37,11 +47,17 @@
 - [Data Oriented Design Resources](https://github.com/dbartolini/data-oriented-design)
 - [ How Coders Can Survive—and Thrive—in a ChatGPT World 4 tips for programmers to stay ahead of generative AI](https://spectrum.ieee.org/ai-programming)
 - [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - NDC London 2023](https://www.youtube.com/watch?v=vw2XffPmlYo)
-
+- [Git and Jupyter Notebooks: The Ultimate Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
+- [oftware engineers hate code.](https://www.dancowell.com/software-engineers-hate-code/)
+- [The controller pattern is awful (and other OO heresy) ](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
 
 ### Web
 - [Unstyled Component Libraries Are A Game Changer](https://www.youtube.com/watch?v=yn6vFCRkC3c)
 - [Deploy Your First Server](https://deploy.equinix.com/developers/guides/deploy-first-server/?ls=Advertising%20-%20Web&lsd=23q1_cross-vertical_no-program--metal_/developers/guides/deploy-first-server/_metal-ent_Equinix-run_paid-search_google_us-en_AMER_guideme_demand-gen&utm_campaign=us-en_google_paid-search_guideme_metal-ent&utm_source=google&utm_medium=paid-search&utm_content=no-program--metal_deploy-first-server&gad=1&gclid=EAIaIQobChMIqLuoo5PS_wIVWEorCh17-QTIEAAYAyAAEgLMyvD_BwE)
+- [WebAssembly and replayable functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
+- [Every person on the planet should have their own website](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/)
+- [Let The Internet Be Grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
+
 
 ### Math
 - [Linear Algebra Done Right - Videos, Slides](https://linear.axler.net/LADRvideos.html)
@@ -53,6 +69,8 @@
 
 ### Computer Languages
 - [Lookup Tables – Forth Dimensions](https://benhoyt.com/writings/forth-lookup-tables/)
+- [Pyret - Interesting programming language](https://pyret.org/pyret-code/)
+
 
 ### Spiritual, Body-Mind
 - [The Light After Death: My Journey To Heaven and Back](https://www.amazon.com/Light-After-Death-Journey-Experience/dp/B0BD3YV9M5)
@@ -84,21 +102,23 @@
 - [The Slavery of the 9 to 5 by Charles Bukowski](https://www.youtube.com/watch?v=FhTotq77Q1Y)
 - [Mind-Blowing NEW Research On Attraction, Loneliness & How To Get Unstuck In Love & Life! Adam Alter](https://www.youtube.com/watch?v=cI2rMEd6GW4)
 - [Change your story, rewrite your life | Stranger than Fiction](https://www.youtube.com/watch?v=V3BoFc2kEl8)
+- [The Peculiar Blindness of Experts](https://www.theatlantic.com/magazine/archive/2019/06/how-to-predict-the-future/588040/)
+
 
 ### Interesting
 - [Computer Built Using Swarms Of Soldier Crabs](https://www.wired.com/2012/04/soldier-crabs/)
 - [The Making Of Noctis, The 'No Man's Sky' Forerunner Whose Creator Retreated From The World](https://www.timeextension.com/features/the-making-of-noctis-the-no-mans-sky-forerunner-whose-creator-retreated-from-the-world)
 - [Ray Dalio - How to Prepare For The Changing World Order | Modern Wisdom 620](https://www.youtube.com/watch?v=GDuXvOs0d_k)
-
-
+- [These cities are ending fees on transit](https://edition.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
+- [How We Ended Up in the Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
 
 ### Biz Hack
 - [Turning my Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
 - [Why Your Less-Experienced Colleagues Are Promoted Instead of You!](https://www.youtube.com/watch?v=OPiXobBnCKI)
 - [半小時學會鬼谷子的操控朮，古代駕馭帝王的禁術！弱者操控強者的方法...](https://www.youtube.com/watch?v=2vMF9N_Q_S8)
 - [Why we always end up with waterfall](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
-
-
+- [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/)
+- [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
 
 ### Population Collapse
 - [Empty Planet: The Shock of Global Population Decline](https://www.amazon.com/Empty-Planet-audiobook/dp/B07MGSC2X5/ref=sr_1_1?crid=1HQNENKHKO24N&keywords=empty+planet&qid=1688282423&sprefix=empty+%2Caps%2C921&sr=8-1)
