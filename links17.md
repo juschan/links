@@ -70,7 +70,7 @@
 ### Computer Languages
 - [Lookup Tables – Forth Dimensions](https://benhoyt.com/writings/forth-lookup-tables/)
 - [Pyret - Interesting programming language](https://pyret.org/pyret-code/)
-
+- [Petalisp - JIT compiler for parallel Lisp](https://github.com/marcoheisig/Petalisp)
 
 ### Spiritual, Body-Mind
 - [The Light After Death: My Journey To Heaven and Back](https://www.amazon.com/Light-After-Death-Journey-Experience/dp/B0BD3YV9M5)
@@ -119,6 +119,8 @@
 - [Why we always end up with waterfall](https://www.amazingcto.com/why-we-always-endup-with-waterfall-even-scrum/)
 - [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/)
 - [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
+- [The Perfect Business](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
+
 
 ### Population Collapse
 - [Empty Planet: The Shock of Global Population Decline](https://www.amazon.com/Empty-Planet-audiobook/dp/B07MGSC2X5/ref=sr_1_1?crid=1HQNENKHKO24N&keywords=empty+planet&qid=1688282423&sprefix=empty+%2Caps%2C921&sr=8-1)
