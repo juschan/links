@@ -2,7 +2,7 @@
 
 ### Learning
 - [How to Learn Better in the Digital Age](https://giansegato.com/essays/edutainment-is-not-learning)
-
+- [UK Govt Skills Bootcamp](https://www.gov.uk/guidance/find-a-skills-bootcamp)
 
 ### TinyCorp - ML!!
 - [the tiny corp raised $5.1M](https://geohot.github.io//blog/jekyll/update/2023/05/24/the-tiny-corp-raised-5M.html)
@@ -14,6 +14,9 @@
 
 ### Python
 - [An oral history of Bank Python](https://calpaterson.com/bank-python.html)
+- [https://training.talkpython.fm/home/about](https://training.talkpython.fm/home/about)
+- [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
+- [PyHAT: Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
 
 ### ML
 - [Building Autograd Engine & Neural Network Library: An Interactive Guide](https://x0axz.com/blog/autograd.html)
@@ -27,7 +30,12 @@
 - [SVM10 The Kernel Trick (Part1: Basis Expansion)](https://www.youtube.com/watch?v=as-uwuiu5H8)
 - [Master Prompting with LLM - agents.blue](http://www.agents.blue/)
 - [An Introduction to Statistical Learning - Python edition!!](https://www.statlearning.com/)
-
+- [snakemake](https://snakemake.github.io/)
+- [Study notes on making word vectors from scratch](https://ljvmiranda921.github.io/notebook/2021/12/11/word-vectors/)
+- [Andrej Karpathy](https://karpathy.ai/)
+- [GPT might be an information virus](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
+** - [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
+- [Faster Neural Networks Straight from JPEG](https://www.uber.com/en-SG/blog/neural-networks-jpeg/)
 
 ### Tools
 - [mmhmm - better video calls](https://www.mmhmm.app/product)
@@ -39,8 +47,10 @@
 - [Boa - Js lexer, parser etc.](https://boajs.dev/about/)
 - [The Definitive Guide To Docker in 2023:](https://masteringbackend.com/posts/docker-tutorial)
 - [How To Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
+- [Raspberry Pi Code Editor is Open Source](https://www.raspberrypi.org/blog/code-editor-open-source/)
+- [Announcing Floneum: A Graph Editor for Local AI Workflows](https://floneum.com/blog/anouncing_floneum)
 
-
+- 
 ### Software Engineering
 - [The 80% abstraction - A method for simplifying large monoliths](https://engineering.gusto.com/the-80-abstraction/)
 - [The hardest part of building software is not coding, it’s requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
@@ -50,6 +60,15 @@
 - [Git and Jupyter Notebooks: The Ultimate Guide](https://www.reviewnb.com/git-jupyter-notebook-ultimate-guide)
 - [oftware engineers hate code.](https://www.dancowell.com/software-engineers-hate-code/)
 - [The controller pattern is awful (and other OO heresy) ](https://eev.ee/blog/2013/03/03/the-controller-pattern-is-awful-and-other-oo-heresy/)
+- [.dotfiles](https://dotfiles.substack.com/)
+- [Breaking the rules: I threw away 10 months of work after 2 months on the job.](https://www.dancowell.com/breaking-the-rules/)
+- [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
+
+
+### Data
+- [There is no Data Engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
+
+
 
 ### Web
 - [Unstyled Component Libraries Are A Game Changer](https://www.youtube.com/watch?v=yn6vFCRkC3c)
@@ -57,7 +76,13 @@
 - [WebAssembly and replayable functions](https://www.bartoszsypytkowski.com/wasm-replayable-functions/)
 - [Every person on the planet should have their own website](https://eftegarie.com/every-person-on-the-planet-should-have-their-own-website/)
 - [Let The Internet Be Grimy](https://tedium.co/2023/07/08/threads-social-media-brand-safety/)
+- [Crockford - Plain Old JavaScript and the DOM](https://www.crockford.com/domjs.html)
+- [Look ma, no React! Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
+- [WordPress Playground - in Browser](https://developer.wordpress.org/playground/)
+- [Tokenized Tokens ](https://fly.io/blog/tokenized-tokens/)
 
+### Regex
+- [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
 
 ### Math
 - [Linear Algebra Done Right - Videos, Slides](https://linear.axler.net/LADRvideos.html)
@@ -92,6 +117,12 @@
 - [Pixels, Process & Prototypes: UI Design for Engineers](https://www.uidesignforengineers.com/?mail)
 - [Multimodal Interaction](https://sites.cs.ucsb.edu/~mturk/Papers/TurkPRL2013.pdf)
 
+### Writing, Publishing
+- [Ask HN: How to start selling self-written eBooks online in 2023](https://news.ycombinator.com/item?id=36680225)
+- [APE: Author, Publisher, Entrepreneur-How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish/dp/0988523108)
+- [The Anti-Ownership Ebook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
+
+
 ### Coffee
 - [Coffee - Drink THIS for Massive Autophagy Benefits](https://www.youtube.com/watch?v=tla7Tdyl0cI)
 - [Caffeine - The Easiest Way to Unlock Insane Focus](https://www.youtube.com/watch?v=cD_FWDYeBMg)
@@ -103,6 +134,8 @@
 - [Mind-Blowing NEW Research On Attraction, Loneliness & How To Get Unstuck In Love & Life! Adam Alter](https://www.youtube.com/watch?v=cI2rMEd6GW4)
 - [Change your story, rewrite your life | Stranger than Fiction](https://www.youtube.com/watch?v=V3BoFc2kEl8)
 - [The Peculiar Blindness of Experts](https://www.theatlantic.com/magazine/archive/2019/06/how-to-predict-the-future/588040/)
+- [The New Trick to Getting Work Done: Have a Stranger Watch You](https://www.wsj.com/articles/need-to-quit-procrastinating-hire-a-body-double-ebdeefc8)
+- [Why it's necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 
 
 ### Interesting
@@ -111,6 +144,14 @@
 - [Ray Dalio - How to Prepare For The Changing World Order | Modern Wisdom 620](https://www.youtube.com/watch?v=GDuXvOs0d_k)
 - [These cities are ending fees on transit](https://edition.cnn.com/2023/07/08/business/free-buses-us-public-transit/index.html)
 - [How We Ended Up in the Era of ‘Quantitative Aesthetics,’ Where Data Points Dictate Taste](https://news.artnet.com/opinion/quantitative-aesthetics-2276351)
+- [‘Bread is much easier’: how Japan fell out of love with rice](https://www.theguardian.com/world/2023/jul/09/bread-easier-japan-rice-staple-food)
+- ["balls": The day I locked everyone out of the company intranet](https://www.dancowell.com/balls-the-day-i-locked-ev/)
+- [The algorithmic anti-culture of scale](https://www.garbageday.email/p/the-algorithmic-anti-culture-of-scale)
+- [Are we ‘Amusing Ourselves to Death’ in 2023? ](https://www.thefire.org/news/are-we-amusing-ourselves-death-2023)
+- [An Update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
+- [The deinfluencing trend reflects a growing desire for authenticity online](https://phys.org/news/2023-07-deinfluencing-trend-desire-authenticity-online.html)
+
+
 
 ### Biz Hack
 - [Turning my Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
@@ -120,6 +161,11 @@
 - [Manifesto for Half-Arsed Agile Software Development](https://www.halfarsedagilemanifesto.org/)
 - [Engineering Intensity](https://ruiper.es/posts/engineering_intensity/)
 - [The Perfect Business](https://www.beterinbeleggen.nl/pdf/tsm/The-Perfect-Business-Richard-Russell.pdf)
+** - [You only compete with one thing](https://world.hey.com/jason/you-only-compete-with-one-thing-48a20d93)
+
+### Engineering Mgt
+- [On Personal Relations As A Manager](https://fev.al/posts/personal-relations/)
+- [Kaz Nejatian (COO, Shopify): Why Shopify Elevated the Non-Manager Career Path and Ditched Meetings](https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings)
 
 
 ### Population Collapse
