@@ -36,6 +36,8 @@
 - [GPT might be an information virus](https://nonint.com/2023/03/09/gpt-might-be-an-information-virus/)
 ** - [“Low-Resource” Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
 - [Faster Neural Networks Straight from JPEG](https://www.uber.com/en-SG/blog/neural-networks-jpeg/)
+- [Hallucinate This!](https://markcmarino.com/chatgpt/)
+- [WormGPT – The Generative AI Tool Cybercriminals Are Using to Launch Business Email Compromise Attacks](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 
 ### Tools
 - [mmhmm - better video calls](https://www.mmhmm.app/product)
@@ -49,8 +51,9 @@
 - [How To Write a Computer Emulator](http://fms.komkon.org/EMUL8/HOWTO.html)
 - [Raspberry Pi Code Editor is Open Source](https://www.raspberrypi.org/blog/code-editor-open-source/)
 - [Announcing Floneum: A Graph Editor for Local AI Workflows](https://floneum.com/blog/anouncing_floneum)
+- [Penrose - diagramming](https://penrose.cs.cmu.edu/docs/ref)
 
-- 
+ 
 ### Software Engineering
 - [The 80% abstraction - A method for simplifying large monoliths](https://engineering.gusto.com/the-80-abstraction/)
 - [The hardest part of building software is not coding, it’s requirements](https://stackoverflow.blog/2023/06/26/the-hardest-part-of-building-software-is-not-coding-its-requirements/)
@@ -63,6 +66,8 @@
 - [.dotfiles](https://dotfiles.substack.com/)
 - [Breaking the rules: I threw away 10 months of work after 2 months on the job.](https://www.dancowell.com/breaking-the-rules/)
 - [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
+- [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
+- [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
 
 
 ### Data
@@ -80,6 +85,10 @@
 - [Look ma, no React! Why I recoded my portfolio site with vanilla everything](https://clairefro.dev/blog/p/look-ma-no-react-why-i-recoded-my-portfolio-site-with-vanilla-everything)
 - [WordPress Playground - in Browser](https://developer.wordpress.org/playground/)
 - [Tokenized Tokens ](https://fly.io/blog/tokenized-tokens/)
+- [No CSS Club](https://nocss.club/)
+- [No HTML](https://no-ht.ml/)
+- [No JS Club](https://no-js.club/)
+
 
 ### Regex
 - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
@@ -96,6 +105,10 @@
 - [Lookup Tables – Forth Dimensions](https://benhoyt.com/writings/forth-lookup-tables/)
 - [Pyret - Interesting programming language](https://pyret.org/pyret-code/)
 - [Petalisp - JIT compiler for parallel Lisp](https://github.com/marcoheisig/Petalisp)
+- [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
+- [Why numbering should start at zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
+
+
 
 ### Spiritual, Body-Mind
 - [The Light After Death: My Journey To Heaven and Back](https://www.amazon.com/Light-After-Death-Journey-Experience/dp/B0BD3YV9M5)
@@ -116,11 +129,16 @@
 ### UI, Design
 - [Pixels, Process & Prototypes: UI Design for Engineers](https://www.uidesignforengineers.com/?mail)
 - [Multimodal Interaction](https://sites.cs.ucsb.edu/~mturk/Papers/TurkPRL2013.pdf)
+- [SVGMix- Free SVG logos](https://svgmix.com/)
 
 ### Writing, Publishing
 - [Ask HN: How to start selling self-written eBooks online in 2023](https://news.ycombinator.com/item?id=36680225)
 - [APE: Author, Publisher, Entrepreneur-How to Publish a Book](https://www.amazon.com/APE-Author-Publisher-Entrepreneur-How-Publish/dp/0988523108)
 - [The Anti-Ownership Ebook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
+- [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
+
+
+
 
 
 ### Coffee
@@ -136,6 +154,8 @@
 - [The Peculiar Blindness of Experts](https://www.theatlantic.com/magazine/archive/2019/06/how-to-predict-the-future/588040/)
 - [The New Trick to Getting Work Done: Have a Stranger Watch You](https://www.wsj.com/articles/need-to-quit-procrastinating-hire-a-body-double-ebdeefc8)
 - [Why it's necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
+- [Are you a “harbinger of failure”? ](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
+- [A Nihilist's Guide to Meaning](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
 
 
 ### Interesting
@@ -150,7 +170,9 @@
 - [Are we ‘Amusing Ourselves to Death’ in 2023? ](https://www.thefire.org/news/are-we-amusing-ourselves-death-2023)
 - [An Update on the Federal Reserve’s Instant Payments Service: FedNow](https://www.clevelandfed.org/collections/speeches/2023/sp-20230712-update-on-the-federal-reserves-instant-payments-service)
 - [The deinfluencing trend reflects a growing desire for authenticity online](https://phys.org/news/2023-07-deinfluencing-trend-desire-authenticity-online.html)
-
+- [Japan’s love affair with the fax machine – a strange relic of technological fantasies](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)
+- [Eddiots - Comics!](https://eddiots.com/1)
+- [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
 
 
 ### Biz Hack
@@ -166,12 +188,17 @@
 ### Engineering Mgt
 - [On Personal Relations As A Manager](https://fev.al/posts/personal-relations/)
 - [Kaz Nejatian (COO, Shopify): Why Shopify Elevated the Non-Manager Career Path and Ditched Meetings](https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings)
-
+- [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
 
 ### Population Collapse
 - [Empty Planet: The Shock of Global Population Decline](https://www.amazon.com/Empty-Planet-audiobook/dp/B07MGSC2X5/ref=sr_1_1?crid=1HQNENKHKO24N&keywords=empty+planet&qid=1688282423&sprefix=empty+%2Caps%2C921&sr=8-1)
 - [The Epidemic That Dare Not Speak Its Name | Stephen J Shaw | EP 338](https://www.youtube.com/watch?v=Qrg8t34yXRs)
 
+### Health
+- [A functional cure for diabetes is now available in the US](https://www.freethink.com/health/brittle-diabetes)
+
+### Cybersecurity
+- [Hackers already infiltrate EV chargers. It could only get worse. ](https://grist.org/technology/hackers-already-infiltrate-ev-chargers-it-could-only-get-worse/)
 
 ### Academic Scandal
 - [Academia is BROKEN! - Harvard Fake Data Scandal Explained](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
