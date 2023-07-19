@@ -38,6 +38,10 @@
 - [Faster Neural Networks Straight from JPEG](https://www.uber.com/en-SG/blog/neural-networks-jpeg/)
 - [Hallucinate This!](https://markcmarino.com/chatgpt/)
 - [WormGPT – The Generative AI Tool Cybercriminals Are Using to Launch Business Email Compromise Attacks](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
+- [From Dating to Vector Search - "Stable Marriages" on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
+
+
+
 
 ### Tools
 - [mmhmm - better video calls](https://www.mmhmm.app/product)
@@ -72,7 +76,7 @@
 
 ### Data
 - [There is no Data Engineering roadmap](https://www.alasdairb.com/posts/there-is-no-data-engineering-roadmap/)
-
+- [Data-Oriented Design Principles](https://data-oriented.design/)
 
 
 ### Web
@@ -98,7 +102,7 @@
 - [On breaking changes in transitive dependencies](https://dmytro.sh/blog/on-breaking-changes-in-transitive-dependencies/)
 - [CalcWorkshop - learn maths!](https://calcworkshop.com/pricing/)
 - [The Extended Kalman Filter (EKF): Why Taylor Expansions are Awesome](https://www.youtube.com/watch?v=9X3jGGnbcvU)
-
+- [Chapter 7: Correlation and Simple Linear Regression](https://milnepublishing.geneseo.edu/natural-resources-biometrics/chapter/chapter-7-correlation-and-simple-linear-regression/)
 
 
 ### Computer Languages
@@ -189,6 +193,8 @@
 - [On Personal Relations As A Manager](https://fev.al/posts/personal-relations/)
 - [Kaz Nejatian (COO, Shopify): Why Shopify Elevated the Non-Manager Career Path and Ditched Meetings](https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings)
 - [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
+** - [Yes! And... How to be effective in the theatre of work](https://tomcritchlow.com/2019/11/18/yes-and/)
+
 
 ### Population Collapse
 - [Empty Planet: The Shock of Global Population Decline](https://www.amazon.com/Empty-Planet-audiobook/dp/B07MGSC2X5/ref=sr_1_1?crid=1HQNENKHKO24N&keywords=empty+planet&qid=1688282423&sprefix=empty+%2Caps%2C921&sr=8-1)
