@@ -17,6 +17,8 @@
 - [https://training.talkpython.fm/home/about](https://training.talkpython.fm/home/about)
 - [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
 - [PyHAT: Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
+- [Easy-Graph](https://github.com/easy-graph/Easy-Graph)
+
 
 ### ML
 - [Building Autograd Engine & Neural Network Library: An Interactive Guide](https://x0axz.com/blog/autograd.html)
@@ -39,8 +41,10 @@
 - [Hallucinate This!](https://markcmarino.com/chatgpt/)
 - [WormGPT – The Generative AI Tool Cybercriminals Are Using to Launch Business Email Compromise Attacks](https://slashnext.com/blog/wormgpt-the-generative-ai-tool-cybercriminals-are-using-to-launch-business-email-compromise-attacks/)
 - [From Dating to Vector Search - "Stable Marriages" on a Global Scale](https://ashvardanian.com/posts/searching-stable-marriages/)
-
-
+- [Arch toolbox - time series, unit root testing, cointegration analysis](https://bashtage.github.io/arch/doc/index.html)
+- [Machine Learning in C (Episode 1)](https://www.youtube.com/watch?v=PGSba51aRYU&list=PLpM-Dvs8t0VZPZKggcql-MmjaBdZKeDMw&index=1)
+- [Learn to Spell: Prompt Engineering (LLM Bootcamp)](https://www.youtube.com/watch?v=JnBHR_yL2w8)
+- [Google's NEW TERRYIFYING AI 'Soundstorm' Shocks The ENTIRE WORLD! LIFELIKE human conversations](https://www.youtube.com/watch?v=flRh_GKpKSU)
 
 
 ### Tools
@@ -56,6 +60,8 @@
 - [Raspberry Pi Code Editor is Open Source](https://www.raspberrypi.org/blog/code-editor-open-source/)
 - [Announcing Floneum: A Graph Editor for Local AI Workflows](https://floneum.com/blog/anouncing_floneum)
 - [Penrose - diagramming](https://penrose.cs.cmu.edu/docs/ref)
+- [dot_ix: Interactive Dot graph](https://azriel.im/dot_ix/)
+- [MiniZinc ](https://www.minizinc.org/)
 
  
 ### Software Engineering
@@ -72,6 +78,8 @@
 - [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
 - [It Takes 6 Days to Change 1 Line of Code](https://edw519.posthaven.com/it-takes-6-days-to-change-1-line-of-code)
 - [Why software projects take longer than you think: a statistical model](https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html)
+** - [We Built an App in 24 Hours [No Code]](https://www.youtube.com/watch?v=tB18tcMgnP4)
+- [AWS Networking Concepts](https://miparnisariblog.wordpress.com/2023/03/29/aws-networking-concepts/)
 
 
 ### Data
@@ -92,7 +100,7 @@
 - [No CSS Club](https://nocss.club/)
 - [No HTML](https://no-ht.ml/)
 - [No JS Club](https://no-js.club/)
-
+- [Primo CMS - self-host ](https://primocms.org/)
 
 ### Regex
 - [Regex Isn't Hard](https://timkellogg.me/blog/2023/07/11/regex)
@@ -111,7 +119,10 @@
 - [Petalisp - JIT compiler for parallel Lisp](https://github.com/marcoheisig/Petalisp)
 - [Forth: The programming language that writes itself: The Web Page](http://ratfactor.com/forth/the_programming_language_that_writes_itself.html)
 - [Why numbering should start at zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
-
+- [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+- [How to Master C++ - Jim Pascoe - ACCU 2023](https://www.youtube.com/watch?v=7AJYDHix5kE)
+- [Functional Programming in C++](https://www.amazon.com/Functional-Programming-programs-functional-techniques/dp/1617293814/ref=sr_1_1?crid=24ZXRLNMPCR1J&keywords=functional+programming+in+C%2B%2B&qid=1690041349&sprefix=functional+programming+in+c%2B%2B%2Caps%2C325&sr=8-1)
+- [How to read Haskell code (in 7 minutes)](https://www.youtube.com/watch?v=gK0hMxJhqwM)
 
 
 ### Spiritual, Body-Mind
@@ -141,7 +152,8 @@
 - [The Anti-Ownership Ebook Economy](https://www.nyuengelberg.org/outputs/the-anti-ownership-ebook-economy/)
 - [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
 
-
+### Systems Thinking
+- [Embrace Complexity; Tighten Your Feedback Loops](https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html)
 
 
 
@@ -160,7 +172,7 @@
 - [Why it's necessary to shoot yourself in the foot](https://g-w1.github.io/blog/observation/2023/07/08/shoot-yourself-in-the-foot.html)
 - [Are you a “harbinger of failure”? ](https://news.mit.edu/2015/harbinger-failure-consumers-unpopular-products-1223)
 - [A Nihilist's Guide to Meaning](https://meltingasphalt.com/a-nihilists-guide-to-meaning/)
-
+- [Visiting Death](https://www.overcomingbias.com/p/visiting-death)
 
 ### Interesting
 - [Computer Built Using Swarms Of Soldier Crabs](https://www.wired.com/2012/04/soldier-crabs/)
@@ -177,7 +189,7 @@
 - [Japan’s love affair with the fax machine – a strange relic of technological fantasies](https://theconversation.com/japans-love-affair-with-the-fax-machine-a-strange-relic-of-technological-fantasies-168674)
 - [Eddiots - Comics!](https://eddiots.com/1)
 - [Surfactants safely take down mosquitoes without using insecticides](https://newatlas.com/science/surfactants-safely-take-down-mosquitoes-without-using-insecticides/)
-
+- [In Phoenix, 4.5 million residents are living in hell: this is life at 113 degrees for more than 20 days ](https://english.elpais.com/international/2023-07-22/in-phoenix-45-million-residents-are-living-in-hell-this-is-life-at-113-degrees-for-more-than-20-days.html)
 
 ### Biz Hack
 - [Turning my Passion/Hobby into a Business Made Me Hate It](https://shant.nu/turning-my-passion-hobby-into-a-business-made-me-hate-it/)
@@ -194,6 +206,9 @@
 - [Kaz Nejatian (COO, Shopify): Why Shopify Elevated the Non-Manager Career Path and Ditched Meetings](https://creatoreconomy.so/p/kaz-coo-shopify-craft-and-no-meetings)
 - [What makes developers productive?](https://jeremymikkola.com/posts/developer_productivity.html)
 ** - [Yes! And... How to be effective in the theatre of work](https://tomcritchlow.com/2019/11/18/yes-and/)
+- [Simple Sabotage Field Manual - How to Destroy Your Organizations](https://butwhatfor.beehiiv.com/p/simple-sabotage-field-manual-destroy-organizations)
+- [Inside Deutsche Bank's "dysfunctional" IT division](https://www.efinancialcareers.co.uk/news/2018/04/technology-at-deutsche-bank)
+
 
 
 ### Population Collapse
@@ -202,9 +217,13 @@
 
 ### Health
 - [A functional cure for diabetes is now available in the US](https://www.freethink.com/health/brittle-diabetes)
+- [Reinventing the E.R. for America’s Mental-Health Crisis](https://www.newyorker.com/science/annals-of-medicine/reinventing-the-er-for-americas-mental-health-crisis)
+- [The enigma of the girl who turns into bone while her identical twin remains healthy](https://english.elpais.com/science-tech/2023-07-18/the-enigma-of-the-girl-who-turns-into-bone-while-her-identical-twin-remains-healthy.html)
 
 ### Cybersecurity
 - [Hackers already infiltrate EV chargers. It could only get worse. ](https://grist.org/technology/hackers-already-infiltrate-ev-chargers-it-could-only-get-worse/)
+- [On the trail of the Dark Avenger: the most dangerous virus writer in the world](https://www.theguardian.com/news/2023/may/09/on-the-trail-of-the-dark-avenger-the-most-dangerous-virus-writer-in-the-world)
+
 
 ### Academic Scandal
 - [Academia is BROKEN! - Harvard Fake Data Scandal Explained](https://www.youtube.com/watch?v=d2Tm3Yx4HWI)
