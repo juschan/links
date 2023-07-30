@@ -53,6 +53,10 @@
 - [Neural Compression — Lecture 02.2 — The Source Coding Theorem ](https://www.youtube.com/watch?v=oP5nls7ZO6w)
 - [Textbooks Are All You Need](https://www.youtube.com/watch?v=ZW3dcu8H4gI)
 - [The Future of Knowledge Graphs in a World of Large Language Models](https://www.youtube.com/watch?v=WqYBx2gB6vA)
+- [Word Embedding and Word2Vec, Clearly Explained!!!](https://www.youtube.com/watch?v=viZrOnJclY0)
+- [Transformer Neural Networks, ChatGPT's foundation, Clearly Explained!!!](https://www.youtube.com/watch?v=zxQyTK8quyY)
+- [Lecture 7 - Kernels | Stanford CS229: Machine Learning Andrew Ng (Autumn 2018)](https://www.youtube.com/watch?v=8NYoQiRANpg)
+- [Common Loss Functions in Neural Networks - TensorFlow Tutorial](https://www.youtube.com/watch?v=mWINLzMcosY)
 
 
 ### Manifestation
@@ -86,10 +90,14 @@
 - [How to Build a Budget Home Server and WHY You Should!](https://www.youtube.com/watch?v=irW0AiRED3w)
 - [build your own cloud](https://www.youtube.com/watch?v=xBIowQ0WaR8)
 - [Makepad: Designing modern UIs with Rust - Rik Arends - RustNL 202](https://www.youtube.com/watch?v=rC4FCS-oMpg)
+- [How to tell if your PC is Hacked? Process Forensics](https://www.youtube.com/watch?v=dykc9YC9Z6U)
+- [Debloating Windows 11 The Easy Way!](https://www.youtube.com/watch?v=8ReoMuCUdKE)
 
 
-### Knowledge Mgt
+### Knowledge Mgt, Learning
 - [Obsidian As A Second Brain: The ULTIMATE Tutorial](https://www.youtube.com/watch?v=WqKluXIra70)
+- [How to turn information into intelligence | Barbara Oakley](https://www.youtube.com/watch?v=GlTDRuwKb_g)
+
 
 ### Web Dev
 ** - [Node.js is a serious thing now… (2023)](https://www.youtube.com/watch?v=_Im4_3Z1NxQ)
@@ -100,7 +108,7 @@
 - [Reacting to a NO-CODE Three.js 3D WEBSITE BUILDER! WOW!](https://www.youtube.com/watch?v=FUVdeEzzbCk)
 - [The Webflow Niche is a Goldmine - Here’s why…](https://www.youtube.com/watch?v=20jCjLe0Pe8)
 - [Learn Framer in 20 Minutes (Crash Course)](https://www.youtube.com/watch?v=P5H7zs0RsUM)
-
+- [How Hackers Write Malware and Evade Antivirus(Nim)](https://www.youtube.com/watch?v=vq6wNGYzdDE)
 
 ### Life Hack
 - [OUTWORK Everyone By Being Bored](https://www.youtube.com/watch?v=1iNyqomXQt8)
@@ -139,6 +147,8 @@
 ### Health
 - [How to do the Splits Fast -- This Technique Changed Everything! -- (Science Based)](https://www.youtube.com/watch?v=OeJSgrqIxVc)
 - [Lion's Mane Mushrooms Actually DO SOMETHING!](https://www.youtube.com/watch?v=tSUURvSBR-4)
+- [This Vitamin Resolved His Chronic Fatigue and Body Pain - Bentfotiamin, B1](https://www.youtube.com/watch?v=R-CzXcijTIc)
+
 
 ### Interesting
 - [比山海經早一千年！和《周易》並列的神書，竟說夏啟是妖？上古神話隱瞞著另一個真相| 腦補大轟炸](https://www.youtube.com/watch?v=l0mKS8JVp2k)
@@ -148,6 +158,16 @@
 - [POPULATION COLLAPSE: How Modern Life Is Making Men & Women INFERTILE | Shanna Swan](https://www.youtube.com/watch?v=C9aqGqjC1kE)
 - [The Metacrisis: Making Sense in a Nonsensical World with Daniel Schmachtenberger & Thomas Ermacora](https://www.youtube.com/watch?v=6aKI2C61jVE)
 - [The Biggest Scandal In Speed Typing History](https://www.youtube.com/watch?v=maCHHSussS4)
+
+### Tech Bust ups
+- [Kevin Fang - Videos of tech gone wrong](https://www.youtube.com/@kevinfaang/videos)
+
+### Projects, Tools
+- [I Built a NAS: One Year Later. EVERYTHING I Learned and the Mistakes](https://www.youtube.com/watch?v=Ap8QrMao0No)
+
+
+
+
 
 
 ### Psychology
@@ -162,3 +182,6 @@
 - [Uncover Toxic People Before it's Too Late: Robert Greene's Life-Changing Hack!](https://www.youtube.com/watch?v=bKUmbMDvnuU)
 - [The Desire to Not Exist](https://www.youtube.com/watch?v=8msOPSbJUKo)
 - [Cyrus Ausar](https://www.youtube.com/@CyrusAusar/videos)
+- [Jordan Peterson: Antisocial psy.cho.pathic males](https://www.youtube.com/watch?v=udGiTW3TBiQ)
+- [Jordan Peterson: P.s.y.c.h.o.pathic traits, antisocial behavior & hedonism](https://www.youtube.com/watch?v=GHYVwnVbaxw)
+- [Dark Triad Personalities: Narcissism, Machiavellianism, and Psychopathy](https://www.youtube.com/watch?v=VpX6ts5Z2cU)
