@@ -10,6 +10,8 @@
 - [Many people feel their jobs are pointless](https://www.eurekalert.org/news-releases/996953)
 - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
 - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
+- [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
+- [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 
 
 ### Engineering Mgt
@@ -19,10 +21,14 @@
 - [17 Reasons NOT To Be A Manager](https://charity.wtf/2019/09/08/reasons-not-to-be-a-manager/)
 - [Helicopter Management and Other Mistakes](https://charity.wtf/)
 - [Don't Skip 1 on 1s](https://blog.danielna.com/dont-skip-1-on-1s/)
+- [Why we'll stay remote](https://supabase.com/blog/why-supabase-remote)
+
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 - [Documentation as Code for Cloud - PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
+- [The Power of Conventions in Software Development](https://jorzel.github.io/the-power-of-conventions-in-software-development/)
+- [How does event-driven programming even work?](https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work)
 
 ### Python
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
@@ -30,6 +36,8 @@
 - [How to use a Python multiprocessing module](https://developers.redhat.com/articles/2023/07/27/how-use-python-multiprocessing-module?sc_cid=7013a000003Sd9sAAC&gclid=CjwKCAjww7KmBhAyEiwA5-PUSjlm92KjvkNwnTLfFZllfxIYFYYhRr6hbXPSWjb5fIIh3URtHOB-fxoCTm8QAvD_BwE)
 - [Huffman Coding with Python Implementation (full code)](https://favtutor.com/blogs/huffman-coding)
 - [Python Multiprocessing: The Complete Guide](https://superfastpython.com/multiprocessing-in-python/)
+** - [SuperFastPython - Concurrency](https://superfastpython.com/learning-paths/)
+
 
 ### ML/AI
 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -41,6 +49,8 @@
 - [Attention Is Off By One](https://www.evanmiller.org/attention-is-off-by-one.html)
 - [Monarch Mixer: Revisiting BERT, Without Attention or MLPs](https://hazyresearch.stanford.edu/blog/2023-07-25-m2-bert)
 - [Will GPT models choke on their own exhaust?](https://www.lightbluetouchpaper.org/2023/06/06/will-gpt-models-choke-on-their-own-exhaust/)
+- [Stanford's FREE data science book and course are the best yet](https://www.youtube.com/watch?v=yNYflGw6kJI)
+- [Data Mining:Practical Machine Learning Tools and Techniques - Weka](https://www.cs.waikato.ac.nz/ml/weka/book.html)
 
 
 ### Web
@@ -56,6 +66,8 @@
 ### Local-first Software
 - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 - [My Journey Away from the JAMstack](https://www.spicyweb.dev/farewell-jamstack/)
+- [Local-first software](https://www.inkandswitch.com/local-first/)
+- [Local-first Web Development](https://localfirstweb.dev/)
 
 ### Data
 - [Why treemaps?](https://blog.phronemophobic.com/treemaps-are-awesome.html)
@@ -66,7 +78,7 @@
 - [neetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 - [Ep 5: Taskfile: a modern alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 - [Risor - Fast and flexible scripting for Go developers and DevOps.](https://risor.io/)
-
+- [Jailer Database Tool](https://github.com/Wisser/Jailer)
 
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
@@ -78,7 +90,7 @@
 - [Putting the “You” in CPU](https://cpu.land/)
 - [Compilers](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers)
 ** - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
-
+- [SIC - Single-instruction programming game](https://jaredkrinke.itch.io/sic-1)
 
 ### Complexity, Systems
 - [Resilience in Complex Systems](https://irhum.github.io/blog/resilientsystems/)
@@ -91,14 +103,22 @@
 - [Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users](https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/)
 - [Autoenshittification ](https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon)
 - [There Are at Least 10 Cities With Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
+- [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
+
+### Blog
+= [Dan [the] Salmon](https://danthesalmon.com/)
 
 ### Health
 - [Abodybagcansaveyourlife:anovelmethodofcoldwaterimmersionforheatstroketreatment](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
 - [New research suggests coffee has unique cognitive benefits beyond caffeine](https://www.psypost.org/2023/07/new-research-suggests-coffee-has-unique-cognitive-benefits-beyond-caffeine-167305)
+- [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+- [An electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
+- [The way out of burnout](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
+
 
 ### Security
 - [Code Kept Secret for Years Reveals Its Flaw—a Backdoor](https://www.wired.com/story/tetra-radio-encryption-backdoor/)
-
+- [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 
 ### Population
 - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
@@ -113,6 +133,8 @@
 
 ### Maths/Stat
 - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
+- [Golay Code](https://blogs.ams.org/visualinsight/2015/12/01/golay-code/)
+
 
 ### Health
 - [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://thewire.in/health/covid-19-india-greatest-mortality-crisis-since-independence)
