@@ -3,6 +3,8 @@
 ### Life Hack
 - [Choosing Boredom](https://jordankoschei.com/i-want-to-be-bored/)
 - [Confronting Failure as a Core Life Skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
+- [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
+- [Doodling for self-development](https://school.iqdoodle.com/dsd-course/)
 
 ### Biz Hack
 - [Many people feel their jobs are pointless](https://www.eurekalert.org/news-releases/996953)
@@ -63,6 +65,8 @@
 - [Snapify allows you to record and share recordings asynchronously](https://github.com/MarconLP/snapify)
 - [neetoCal, a calendly alternative, is a commodity and is priced accordingly](https://blog.neeto.com/p/neetocal-a-calendly-alternative-is)
 - [Ep 5: Taskfile: a modern alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
+- [Risor - Fast and flexible scripting for Go developers and DevOps.](https://risor.io/)
+
 
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
@@ -72,6 +76,9 @@
 
 ### Computers!
 - [Putting the “You” in CPU](https://cpu.land/)
+- [Compilers](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers)
+** - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
+
 
 ### Complexity, Systems
 - [Resilience in Complex Systems](https://irhum.github.io/blog/resilientsystems/)
@@ -107,11 +114,21 @@
 ### Maths/Stat
 - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
 
+### Health
+- [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://thewire.in/health/covid-19-india-greatest-mortality-crisis-since-independence)
+- [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
+
 
 ### Programming Languages
 - [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
 - [Raku Fundamentals](https://link.springer.com/book/10.1007/978-1-4842-6109-5)
 - [Part 0: Designing a Language without a Parser](https://thunderseethe.dev/posts/type-inference/)
+- [Livebook - Elixir's Notebook](https://fly.io/blog/livebook-for-app-documentation/)
+
+
+### Interesting
+- [America Is Drowning in Packages](https://www.theatlantic.com/technology/archive/2023/07/ups-strike-union-contract-package-deliveries/674864/)
+
 
 ### Finance
 - [US SEC adopts new cyber rule, unveils brokerage AI proposal](https://www.channelnewsasia.com/business/us-sec-adopts-new-cyber-rule-unveils-brokerage-ai-proposal-3656326)
