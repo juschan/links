@@ -5,6 +5,8 @@
 - [Confronting Failure as a Core Life Skill](https://buildinghealthier.substack.com/p/confronting-failure-as-a-core-life)
 - [The Real Question Behind 'What Do You Want?'](https://lopespm.com/notes/2023/08/05/real_question_behind_what_you_want.html)
 - [Doodling for self-development](https://school.iqdoodle.com/dsd-course/)
+- [Not everyone can be the best](https://world.hey.com/dhh/not-everyone-can-be-the-best-ef9ebacd)
+- [Self-Efficacy](https://en.wikipedia.org/wiki/Self-efficacy)
 
 ### Biz Hack
 - [Many people feel their jobs are pointless](https://www.eurekalert.org/news-releases/996953)
@@ -22,7 +24,7 @@
 - [Helicopter Management and Other Mistakes](https://charity.wtf/)
 - [Don't Skip 1 on 1s](https://blog.danielna.com/dont-skip-1-on-1s/)
 - [Why we'll stay remote](https://supabase.com/blog/why-supabase-remote)
-
+- [Team management tips: 10 more ways to kill a team](https://www.dsebastien.net/2020-08-26-10-more-ways-to-kill-a-team/)
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
@@ -51,7 +53,9 @@
 - [Will GPT models choke on their own exhaust?](https://www.lightbluetouchpaper.org/2023/06/06/will-gpt-models-choke-on-their-own-exhaust/)
 - [Stanford's FREE data science book and course are the best yet](https://www.youtube.com/watch?v=yNYflGw6kJI)
 - [Data Mining:Practical Machine Learning Tools and Techniques - Weka](https://www.cs.waikato.ac.nz/ml/weka/book.html)
-
+- [The Fear Of AI Just Killed A Very Useful Tool ](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
+- [Research finds ChatGPT & Bard headed for 'Model Collapse'](https://aimagazine.com/articles/research-finds-chatgpt-headed-for-model-collapse)
+- [Llama from scratch (or how to implement a paper without crying) ](https://blog.briankitano.com/llama-from-scratch/)
 
 ### Web
 - [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
@@ -62,6 +66,8 @@
 - [Ask HN: Does a framework exist for “open-source SaaS”?](https://news.ycombinator.com/item?id=36861409)
 - [The Cloud Is a Prison. Can the Local-First Software Movement Set Us Free?](https://www.wired.com/story/the-cloud-is-a-prison-can-the-local-first-software-movement-set-us-free/)
 - [PostOwl - Just Write](https://postowl.com/)
+- [Project IDX](https://idx.dev/)
+- [og:screen](https://ogscreen.com/)
 
 ### Local-first Software
 - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
@@ -80,6 +86,8 @@
 - [Risor - Fast and flexible scripting for Go developers and DevOps.](https://risor.io/)
 - [Jailer Database Tool](https://github.com/Wisser/Jailer)
 
+
+
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
 
@@ -91,22 +99,22 @@
 - [Compilers](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers)
 ** - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 - [SIC - Single-instruction programming game](https://jaredkrinke.itch.io/sic-1)
+- [The Garden of Computational Delights](https://arbesman.net/computationaldelights/)
 
 ### Complexity, Systems
 - [Resilience in Complex Systems](https://irhum.github.io/blog/resilientsystems/)
 - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
 - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
 
-### Interesting
-- [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
-- [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
-- [Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users](https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/)
-- [Autoenshittification ](https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon)
-- [There Are at Least 10 Cities With Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
-- [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
+
 
 ### Blog
 = [Dan [the] Salmon](https://danthesalmon.com/)
+- [Hi, I’m Alexey.](https://chernikov.xyz/)
+
+### E-Commerce
+- [Easyful](https://www.easyful.com/)
+
 
 ### Health
 - [Abodybagcansaveyourlife:anovelmethodofcoldwaterimmersionforheatstroketreatment](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
@@ -119,13 +127,15 @@
 ### Security
 - [Code Kept Secret for Years Reveals Its Flaw—a Backdoor](https://www.wired.com/story/tetra-radio-encryption-backdoor/)
 - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
+- [Kubernetes Exposed: One Yaml away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
+- [CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 
 ### Population
 - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
 
 ### Write
 - [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
-
+- [Amazon Reverses Course on ‘Garbage Books’ After Public Uproar](https://decrypt.co/151780/amazon-authors-writers-fake-books-trademark)
 
 ### Climate Change
 - [New Research Sparks Concerns That Ocean Circulation Will Collapse](https://e360.yale.edu/features/climate-change-ocean-circulation-collapse-antarctica)
@@ -150,7 +160,14 @@
 
 ### Interesting
 - [America Is Drowning in Packages](https://www.theatlantic.com/technology/archive/2023/07/ups-strike-union-contract-package-deliveries/674864/)
-
+- [Reimagining the Bioreactor](https://www.growbyginkgo.com/2023/07/11/reimagining-the-bioreactor/)
+- [Experiment with Everything](https://www.forkingpaths.co/p/experiment-with-everything)
+- [The Fall of Stack Overflow](https://observablehq.com/@ayhanfuat/the-fall-of-stack-overflow)
+- [The IBM mainframe: How it runs and why it survives](https://arstechnica.com/information-technology/2023/07/the-ibm-mainframe-how-it-runs-and-why-it-survives/)
+- [Deception, exploited workers, and cash handouts: How Worldcoin recruited its first half a million test users](https://www.technologyreview.com/2022/04/06/1048981/worldcoin-cryptocurrency-biometrics-web3/)
+- [Autoenshittification ](https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon)
+- [There Are at Least 10 Cities With Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
+- [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
 
 ### Finance
 - [US SEC adopts new cyber rule, unveils brokerage AI proposal](https://www.channelnewsasia.com/business/us-sec-adopts-new-cyber-rule-unveils-brokerage-ai-proposal-3656326)
