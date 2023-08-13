@@ -14,6 +14,8 @@
 - [LTS == 15 Years Not 5](https://www.logikalsolutions.com/wordpress/information-technology/lts/)
 - [Excuse me, is there a problem?](https://longform.asmartbear.com/problem/)
 - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
+- [Productize Yourself With A Unique Brand, Profitable Offer, and AI-Proof Content Strategy.](https://digitaleconomics.school/)
+- [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
 
 
 ### Engineering Mgt
@@ -25,12 +27,16 @@
 - [Don't Skip 1 on 1s](https://blog.danielna.com/dont-skip-1-on-1s/)
 - [Why we'll stay remote](https://supabase.com/blog/why-supabase-remote)
 - [Team management tips: 10 more ways to kill a team](https://www.dsebastien.net/2020-08-26-10-more-ways-to-kill-a-team/)
+- [I'm OK; The Bull Is Dead](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
+
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
 - [Documentation as Code for Cloud - PlantUML](https://blog.dornea.nu/2023/07/30/documentation-as-code-for-cloud-plantuml/)
 - [The Power of Conventions in Software Development](https://jorzel.github.io/the-power-of-conventions-in-software-development/)
 - [How does event-driven programming even work?](https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work)
+- [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
+
 
 ### Python
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
@@ -68,16 +74,23 @@
 - [PostOwl - Just Write](https://postowl.com/)
 - [Project IDX](https://idx.dev/)
 - [og:screen](https://ogscreen.com/)
+- [Snappy UIs With WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
+
 
 ### Local-first Software
 - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 - [My Journey Away from the JAMstack](https://www.spicyweb.dev/farewell-jamstack/)
 - [Local-first software](https://www.inkandswitch.com/local-first/)
 - [Local-first Web Development](https://localfirstweb.dev/)
+- [Every Phone Should Be Able to Run Personal Website ](https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/)
+- [Cheapskate's Guide
+
+
+](https://cheapskatesguide.org/articles/best-mini-servers.html)
 
 ### Data
 - [Why treemaps?](https://blog.phronemophobic.com/treemaps-are-awesome.html)
-
+- [Outliers carry information. Don’t leave them on the table](https://blog.danslimmon.com/category/descriptive-engineering/)
 
 ### Tools
 - [Snapify allows you to record and share recordings asynchronously](https://github.com/MarconLP/snapify)
@@ -85,8 +98,8 @@
 - [Ep 5: Taskfile: a modern alternative to Makefile](https://cloudnativeengineer.substack.com/p/ep-5-taskfile-a-modern-alternative)
 - [Risor - Fast and flexible scripting for Go developers and DevOps.](https://risor.io/)
 - [Jailer Database Tool](https://github.com/Wisser/Jailer)
-
-
+- [HubSpot](https://www.hubspot.com)
+- [Power Planner](https://shop.thedankoe.com/planner?r_done=1)
 
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
@@ -107,6 +120,10 @@
 - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
 
 
+### Games
+- [Games by Lucas Pope](https://dukope.com/)
+- [while True: learn()](https://store.steampowered.com/app/619150/while_True_learn/)
+- [10 Games to Level Up Your Programming Skills](https://builtin.com/software-engineering-perspectives/programming-games)
 
 ### Blog
 = [Dan [the] Salmon](https://danthesalmon.com/)
@@ -129,6 +146,8 @@
 - [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 - [Kubernetes Exposed: One Yaml away from Disaster](https://blog.aquasec.com/kubernetes-exposed-one-yaml-away-from-disaster)
 - [CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
+- [Inception: how a simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
+- [Your Computer Should Say What You Tell It To Say](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
 
 ### Population
 - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
@@ -136,6 +155,8 @@
 ### Write
 - [Nobody cares about your blog.](https://www.alexmolas.com/2023/07/15/nobody-cares-about-your-blog.html)
 - [Amazon Reverses Course on ‘Garbage Books’ After Public Uproar](https://decrypt.co/151780/amazon-authors-writers-fake-books-trademark)
+- [Learn The Recession Proof Skill For The Digital Economy (Without Spending 4 Years & $42,599 On A Degree)](https://2hourwriter.com/)
+- [Publish Everything (Pretty Much)](https://tidyfirst.substack.com/p/publish-everything-pretty-much)
 
 ### Climate Change
 - [New Research Sparks Concerns That Ocean Circulation Will Collapse](https://e360.yale.edu/features/climate-change-ocean-circulation-collapse-antarctica)
@@ -157,6 +178,11 @@
 - [Part 0: Designing a Language without a Parser](https://thunderseethe.dev/posts/type-inference/)
 - [Livebook - Elixir's Notebook](https://fly.io/blog/livebook-for-app-documentation/)
 
+### Art
+- [Long Term Art Programs ](https://www.laca.sg/collections/long-term-art-programs)
+- [Learn Abstract Painting With John Beckley](https://pae-en.paintinglesson.tv/home)
+- [Unleash Your Creativity: Create Your Own Pop Art Masterpiece with an Astronaut Stencil](https://my-stencils.com/unleash-your-creativity-create-your-own-pop-art-masterpiece-with-an-astronaut-stencil)
+- [sketchbookskool](https://sketchbookskool.com/)
 
 ### Interesting
 - [America Is Drowning in Packages](https://www.theatlantic.com/technology/archive/2023/07/ups-strike-union-contract-package-deliveries/674864/)
@@ -168,9 +194,20 @@
 - [Autoenshittification ](https://pluralistic.net/2023/07/24/rent-to-pwn/#kitt-is-a-demon)
 - [There Are at Least 10 Cities With Their Own Psychological Disorders](https://www.atlasobscura.com/articles/cities-with-psychological-syndromes-stockholm)
 - [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it%27s-just-not-evenly-distributed.html)
+- [Context Changes Everything: How Constraints Create Coherence](https://direct.mit.edu/books/oa-monograph/5600/Context-Changes-EverythingHow-Constraints-Create)
+- [MIT Press’s Direct to Open (D2O) achieves second year goal, opens access to eighty-two new books in 2023](https://mitpress.mit.edu/mit-presss-direct-to-open-d2o-achieves-second-year-goal-opens-access-to-eighty-two-new-books-in-2023/)
+- [30 Signs You Are Living in an Information Crap-pocalypse](https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information)
+
+
+### 42
+- [42 Singapore](https://www.42singapore.sg/about-us/)
+- [42sp-piscine](https://github.com/appinha/42sp-piscine/tree/master)
+- [ALL_SCHOOL_42](https://github.com/evgenkarlson/ALL_SCHOOL_42)
 
 ### Finance
 - [US SEC adopts new cyber rule, unveils brokerage AI proposal](https://www.channelnewsasia.com/business/us-sec-adopts-new-cyber-rule-unveils-brokerage-ai-proposal-3656326)
 - [Expiring money (Part I)](https://blogs.worldbank.org/allaboutfinance/expiring-money-part-i)
 - [Blame capitalism? Why hundreds of decades-old yet vital drugs are nearly impossible to find](https://theconversation.com/blame-capitalism-why-hundreds-of-decades-old-yet-vital-drugs-are-nearly-impossible-to-find-206848)
 - [Federal Reserve announces that its new system for instant payments, the FedNow® Service, is now live](https://www.federalreserve.gov/newsevents/pressreleases/other20230720a.htm)
+- [“Winners Take None:” Coworking, Self Storage, Scooters Have Burned Billions of Investor Dollars and Maybe Were Never ‘Tech Companies’](https://hunterwalk.com/2023/08/07/winners-take-none-coworking-self-storage-scooters-have-burned-billions-of-investor-dollars-and-maybe-were-never-tech-companies/)
+
