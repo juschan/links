@@ -7,6 +7,10 @@
 - [Doodling for self-development](https://school.iqdoodle.com/dsd-course/)
 - [Not everyone can be the best](https://world.hey.com/dhh/not-everyone-can-be-the-best-ef9ebacd)
 - [Self-Efficacy](https://en.wikipedia.org/wiki/Self-efficacy)
+- [The grindset has left us depressed. Here’s one thing that can save us. | Lisa Miller](https://www.youtube.com/watch?v=ieBEEYsrNSQ)
+- [Become Who You're Afraid To Be | The Philosophy of Carl Jung ](https://www.youtube.com/watch?v=EGM_Pl8j_QU)
+- ["Identity shifting" made me a millionaire at 22...this is how](https://www.youtube.com/watch?v=R0H9vqWzdGk)
+
 
 ### Biz Hack
 - [Many people feel their jobs are pointless](https://www.eurekalert.org/news-releases/996953)
@@ -16,6 +20,9 @@
 - [Eventual Business Consistency](https://tidyfirst.substack.com/p/eventual-business-consistency)
 - [Productize Yourself With A Unique Brand, Profitable Offer, and AI-Proof Content Strategy.](https://digitaleconomics.school/)
 - [How a startup loses its spark](https://blog.johnqian.com/startup-spark)
+- [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
+- [How To Leave Your Dead-end Job And Pursue Your Passions. For Real.](https://www.youtube.com/watch?v=Z17nqVcW5ZU)
+- [Watch this to get your first 5 customers](https://www.youtube.com/watch?v=w7g08dVTwaE)
 
 
 ### Engineering Mgt
@@ -28,7 +35,9 @@
 - [Why we'll stay remote](https://supabase.com/blog/why-supabase-remote)
 - [Team management tips: 10 more ways to kill a team](https://www.dsebastien.net/2020-08-26-10-more-ways-to-kill-a-team/)
 - [I'm OK; The Bull Is Dead](https://www.computerworld.com/article/2565077/i-m-ok--the-bull-is-dead.html)
-
+- [Employees in Asia are spending the most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
+- [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
+- [The Art of Leadership: Lessons from Art Blakey](https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from)
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
@@ -36,7 +45,9 @@
 - [The Power of Conventions in Software Development](https://jorzel.github.io/the-power-of-conventions-in-software-development/)
 - [How does event-driven programming even work?](https://www.thesystemsprogrammer.com/posts/how-does-event-driven-programming-even-work)
 - [Squeeze the hell out of the system you have](https://blog.danslimmon.com/2023/08/11/squeeze-the-hell-out-of-the-system-you-have/#like-2777)
-
+- [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
+- [Unit Tests are Overrated](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
+- [If you succeed, you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
 
 ### Python
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
@@ -45,7 +56,7 @@
 - [Huffman Coding with Python Implementation (full code)](https://favtutor.com/blogs/huffman-coding)
 - [Python Multiprocessing: The Complete Guide](https://superfastpython.com/multiprocessing-in-python/)
 ** - [SuperFastPython - Concurrency](https://superfastpython.com/learning-paths/)
-
+- [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 
 ### ML/AI
 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -62,6 +73,18 @@
 - [The Fear Of AI Just Killed A Very Useful Tool ](https://www.techdirt.com/2023/08/08/the-fear-of-ai-just-killed-a-very-useful-tool/)
 - [Research finds ChatGPT & Bard headed for 'Model Collapse'](https://aimagazine.com/articles/research-finds-chatgpt-headed-for-model-collapse)
 - [Llama from scratch (or how to implement a paper without crying) ](https://blog.briankitano.com/llama-from-scratch/)
+- [Why host your own LLM?](http://marble.onl/posts/why_host_your_own_llm.html)
+- [AI Town](https://github.com/a16z-infra/ai-town)
+- [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
+- [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
+- [Why are so many giants of AI getting GPTs so badly wrong?](https://medium.com/@fergal.reid/why-are-so-many-giants-of-ai-getting-gpts-so-badly-wrong-f8dadfac4f61)
+
+### AI Issues
+- [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
+- [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
+- [How to lo-fi with A.I.](https://www.youtube.com/watch?v=87AxqAiipQE)
+- [College professors are going back to paper exams and handwritten essays to fight students using ChatGPT](https://www.businessinsider.com/chatgpt-driving-return-to-paper-exams-written-essays-at-universities-2023-8)
+
 
 ### Web
 - [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
@@ -75,7 +98,9 @@
 - [Project IDX](https://idx.dev/)
 - [og:screen](https://ogscreen.com/)
 - [Snappy UIs With WebAssembly and Web Workers](https://mofi.loud.red/blog/wasm-and-workers)
-
+- [CSS - component by component](https://fffuel.co/css-selectors/)
+- [XML is the future](https://www.bitecode.dev/p/hype-cycles)
+- [Utopia - Fluid Grid Calculator](https://utopia.fyi/space/calculator/)
 
 ### Local-first Software
 - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
@@ -83,14 +108,15 @@
 - [Local-first software](https://www.inkandswitch.com/local-first/)
 - [Local-first Web Development](https://localfirstweb.dev/)
 - [Every Phone Should Be Able to Run Personal Website ](https://rohanrd.xyz/posts/every-phone-should-be-able-to-run-personal-website/)
-- [Cheapskate's Guide
-
-
-](https://cheapskatesguide.org/articles/best-mini-servers.html)
+- [Cheapskate's Guide](https://cheapskatesguide.org/articles/best-mini-servers.html)
 
 ### Data
 - [Why treemaps?](https://blog.phronemophobic.com/treemaps-are-awesome.html)
 - [Outliers carry information. Don’t leave them on the table](https://blog.danslimmon.com/category/descriptive-engineering/)
+- [trafilatura - Python text scraping tool](https://github.com/adbar/trafilatura)
+- [Red book - Readings in Database Systems](http://www.redbook.io/)
+- [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
+
 
 ### Tools
 - [Snapify allows you to record and share recordings asynchronously](https://github.com/MarconLP/snapify)
@@ -100,9 +126,13 @@
 - [Jailer Database Tool](https://github.com/Wisser/Jailer)
 - [HubSpot](https://www.hubspot.com)
 - [Power Planner](https://shop.thedankoe.com/planner?r_done=1)
+- [Netmaker - Wireguard VPN](https://www.netmaker.io/)
+- [WebAssembly runtimes will replace container-based runtimes by 2030](https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030)
+- [Graphics for JVM](https://tonsky.me/blog/skija/)
 
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
+- [Chrome delivered without any sprints](https://threadreaderapp.com/thread/1427137725119959046.html)
 
 ### Reproducible Research
 - [Framework for Open and Reproducible Research Training](https://forrt.org/)
@@ -114,10 +144,19 @@
 - [SIC - Single-instruction programming game](https://jaredkrinke.itch.io/sic-1)
 - [The Garden of Computational Delights](https://arbesman.net/computationaldelights/)
 
+### Unix/Linux
+- [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
+- [I Didn’t Learn Unix By Reading All The Manpages](https://www.owlfolio.org/research/i-didnt-learn-unix-by-reading-all-the-manpages/)
+
+
 ### Complexity, Systems
 - [Resilience in Complex Systems](https://irhum.github.io/blog/resilientsystems/)
 - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
 - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
+
+### Computer Languages
+- [Stanford CS242 - Lambda Calculus](https://stanford-cs242.github.io/f18/lectures/01-2-lambda-calculus.html)
+- [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 
 
 ### Games
@@ -132,6 +171,8 @@
 ### E-Commerce
 - [Easyful](https://www.easyful.com/)
 
+### Math
+- [A gentle introduction to information geometry](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
 
 ### Health
 - [Abodybagcansaveyourlife:anovelmethodofcoldwaterimmersionforheatstroketreatment](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
@@ -148,6 +189,8 @@
 - [CISA Releases its Cybersecurity Strategic Plan](https://www.cisa.gov/news-events/alerts/2023/08/04/cisa-releases-its-cybersecurity-strategic-plan)
 - [Inception: how a simple XOR can cause a Microarchitectural Stack Overflow](https://comsec.ethz.ch/research/microarch/inception/)
 - [Your Computer Should Say What You Tell It To Say](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
+- [LinkedIn accounts hacked in widespread hijacking campaign](https://www.bleepingcomputer.com/news/security/linkedin-accounts-hacked-in-widespread-hijacking-campaign/)
+- [Don’t use VPN services](https://tilde.club/wiki/vpnwhy.html)
 
 ### Population
 - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
@@ -170,7 +213,7 @@
 ### Health
 - [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://thewire.in/health/covid-19-india-greatest-mortality-crisis-since-independence)
 - [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
-
+- [Psychologist Enrique Echeburúa: ‘People who die by suicide want to stop suffering, not to stop living’](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 
 ### Programming Languages
 - [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
@@ -183,6 +226,8 @@
 - [Learn Abstract Painting With John Beckley](https://pae-en.paintinglesson.tv/home)
 - [Unleash Your Creativity: Create Your Own Pop Art Masterpiece with an Astronaut Stencil](https://my-stencils.com/unleash-your-creativity-create-your-own-pop-art-masterpiece-with-an-astronaut-stencil)
 - [sketchbookskool](https://sketchbookskool.com/)
+- [The Painting Ritual I Wish I Knew as a BEGINNER Artist](https://www.youtube.com/watch?v=ZsitnYtdOsg)
+- [Symmetry in Chaos](http://paulbourke.net/fractals/symmetryinchaos/)
 
 ### Interesting
 - [America Is Drowning in Packages](https://www.theatlantic.com/technology/archive/2023/07/ups-strike-union-contract-package-deliveries/674864/)
@@ -197,7 +242,11 @@
 - [Context Changes Everything: How Constraints Create Coherence](https://direct.mit.edu/books/oa-monograph/5600/Context-Changes-EverythingHow-Constraints-Create)
 - [MIT Press’s Direct to Open (D2O) achieves second year goal, opens access to eighty-two new books in 2023](https://mitpress.mit.edu/mit-presss-direct-to-open-d2o-achieves-second-year-goal-opens-access-to-eighty-two-new-books-in-2023/)
 - [30 Signs You Are Living in an Information Crap-pocalypse](https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information)
+- [Rashomom Effect](https://en.wikipedia.org/wiki/Rashomon)
 
+### UX/UI
+- [How to teach yourself UX Design (no bootcamps, no courses)](https://www.youtube.com/watch?v=hvBGy8ewZNc)
+- [Clojure is a product design tool.](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
 
 ### 42
 - [42 Singapore](https://www.42singapore.sg/about-us/)
