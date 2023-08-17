@@ -23,7 +23,7 @@
 - [Thinking Fast and Slopes](https://www.drorpoleg.com/thinking-fast-and-slopes/)
 - [How To Leave Your Dead-end Job And Pursue Your Passions. For Real.](https://www.youtube.com/watch?v=Z17nqVcW5ZU)
 - [Watch this to get your first 5 customers](https://www.youtube.com/watch?v=w7g08dVTwaE)
-
+- [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
 
 ### Engineering Mgt
 - [why is everything so hard in a large organization?](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
@@ -78,12 +78,16 @@
 - [Risky Giant Steps Can Solve Optimization Problems Faster](https://www.quantamagazine.org/risky-giant-steps-can-solve-optimization-problems-faster-20230811/)
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
 - [Why are so many giants of AI getting GPTs so badly wrong?](https://medium.com/@fergal.reid/why-are-so-many-giants-of-ai-getting-gpts-so-badly-wrong-f8dadfac4f61)
+- [Welcome to Learning Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
+
 
 ### AI Issues
 - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
 - [Ask HN: I learned useless skill of prompt engineering, how relevant will it be?](https://news.ycombinator.com/item?id=37130531)
 - [How to lo-fi with A.I.](https://www.youtube.com/watch?v=87AxqAiipQE)
 - [College professors are going back to paper exams and handwritten essays to fight students using ChatGPT](https://www.businessinsider.com/chatgpt-driving-return-to-paper-exams-written-essays-at-universities-2023-8)
+- [Why the Great AI Backlash Came for a Tiny Startup You’ve Probably Never Heard Of](https://www.wired.com/story/prosecraft-backlash-writers-ai/)
+- [What if Generative AI turned out to be a Dud?](https://garymarcus.substack.com/p/what-if-generative-ai-turned-out)
 
 
 ### Web
@@ -101,6 +105,10 @@
 - [CSS - component by component](https://fffuel.co/css-selectors/)
 - [XML is the future](https://www.bitecode.dev/p/hype-cycles)
 - [Utopia - Fluid Grid Calculator](https://utopia.fyi/space/calculator/)
+- [WebStudio - Visual Webpage Dev](https://webstudio.is/)
+- [erxes - experience analytics](https://erxes.io/pricing)
+- [Cal.com - calender booking](https://cal.com/)
+- [Github Open Accelerator, HTMX](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 
 ### Local-first Software
 - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
@@ -116,6 +124,8 @@
 - [trafilatura - Python text scraping tool](https://github.com/adbar/trafilatura)
 - [Red book - Readings in Database Systems](http://www.redbook.io/)
 - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
+- [Getting Started With Postgres: Three Free and Easy Ways](https://dzone.com/articles/getting-started-with-postgres-three-free-and-easy)
+- [Python: Just write SQL](https://joaodlf.com/python-just-write-sql)
 
 
 ### Tools
@@ -129,6 +139,8 @@
 - [Netmaker - Wireguard VPN](https://www.netmaker.io/)
 - [WebAssembly runtimes will replace container-based runtimes by 2030](https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030)
 - [Graphics for JVM](https://tonsky.me/blog/skija/)
+- [CodeLite IDE](https://docs.codelite.org/)
+
 
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
@@ -157,7 +169,7 @@
 ### Computer Languages
 - [Stanford CS242 - Lambda Calculus](https://stanford-cs242.github.io/f18/lectures/01-2-lambda-calculus.html)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
-
+- [Book Review: "OpenJDK Migration for Dummies"](https://dzone.com/articles/book-review-openjdk-migration-for-dummies)
 
 ### Games
 - [Games by Lucas Pope](https://dukope.com/)
