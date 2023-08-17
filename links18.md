@@ -24,6 +24,8 @@
 - [How To Leave Your Dead-end Job And Pursue Your Passions. For Real.](https://www.youtube.com/watch?v=Z17nqVcW5ZU)
 - [Watch this to get your first 5 customers](https://www.youtube.com/watch?v=w7g08dVTwaE)
 - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
+- [How to Start a Startup](http://www.paulgraham.com/start.html)
+- [Entrepreneurship for Engineers: Selling Open Source Software ](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
 
 ### Engineering Mgt
 - [why is everything so hard in a large organization?](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
@@ -48,6 +50,8 @@
 - [The Cost of Convenience](https://surma.dev/things/cost-of-convenience/)
 - [Unit Tests are Overrated](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
 - [If you succeed, you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
+- [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
+
 
 ### Python
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
@@ -57,6 +61,8 @@
 - [Python Multiprocessing: The Complete Guide](https://superfastpython.com/multiprocessing-in-python/)
 ** - [SuperFastPython - Concurrency](https://superfastpython.com/learning-paths/)
 - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
+- [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
+
 
 ### ML/AI
 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -79,7 +85,7 @@
 - [Awesome AI-Powered Developer Tools](https://github.com/jamesmurdza/awesome-ai-devtools)
 - [Why are so many giants of AI getting GPTs so badly wrong?](https://medium.com/@fergal.reid/why-are-so-many-giants-of-ai-getting-gpts-so-badly-wrong-f8dadfac4f61)
 - [Welcome to Learning Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
-
+- [How is LLaMa.cpp possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 
 ### AI Issues
 - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
@@ -88,6 +94,8 @@
 - [College professors are going back to paper exams and handwritten essays to fight students using ChatGPT](https://www.businessinsider.com/chatgpt-driving-return-to-paper-exams-written-essays-at-universities-2023-8)
 - [Why the Great AI Backlash Came for a Tiny Startup You’ve Probably Never Heard Of](https://www.wired.com/story/prosecraft-backlash-writers-ai/)
 - [What if Generative AI turned out to be a Dud?](https://garymarcus.substack.com/p/what-if-generative-ai-turned-out)
+- [Google Search is over](https://mastodon.social/@rodhilton/110894818243613681)
+- [What do I think about Community Notes? ](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
 
 
 ### Web
@@ -170,6 +178,9 @@
 - [Stanford CS242 - Lambda Calculus](https://stanford-cs242.github.io/f18/lectures/01-2-lambda-calculus.html)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 - [Book Review: "OpenJDK Migration for Dummies"](https://dzone.com/articles/book-review-openjdk-migration-for-dummies)
+- [Writing a basic code formatter ](https://ntietz.com/blog/writing-basic-code-formatter/)
+
+
 
 ### Games
 - [Games by Lucas Pope](https://dukope.com/)
@@ -185,6 +196,7 @@
 
 ### Math
 - [A gentle introduction to information geometry](https://www.robots.ox.ac.uk/~lsgs/posts/2019-09-27-info-geom.html)
+- [Lecture Notes for 8.370/18.435 Quantum Computation from Fall 2022 ](https://math.mit.edu/~shor/435-LN/)
 
 ### Health
 - [Abodybagcansaveyourlife:anovelmethodofcoldwaterimmersionforheatstroketreatment](https://onlinelibrary.wiley.com/doi/epdf/10.1002/emp2.12007)
@@ -192,6 +204,8 @@
 - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
 - [An electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 - [The way out of burnout](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
+- [A protein that disrupts cells’ energy centers may be a culprit in chronic fatigue syndrome](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
+
 
 
 ### Security
@@ -203,6 +217,8 @@
 - [Your Computer Should Say What You Tell It To Say](https://www.eff.org/deeplinks/2023/08/your-computer-should-say-what-you-tell-it-say-1)
 - [LinkedIn accounts hacked in widespread hijacking campaign](https://www.bleepingcomputer.com/news/security/linkedin-accounts-hacked-in-widespread-hijacking-campaign/)
 - [Don’t use VPN services](https://tilde.club/wiki/vpnwhy.html)
+- [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
+
 
 ### Population
 - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
@@ -226,6 +242,8 @@
 - [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://thewire.in/health/covid-19-india-greatest-mortality-crisis-since-independence)
 - [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
 - [Psychologist Enrique Echeburúa: ‘People who die by suicide want to stop suffering, not to stop living’](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
+- [Occupational exposure to radio frequency/microwave radiation and the risk of brain tumors: Interphone Study Group, Germany ](https://pubmed.ncbi.nlm.nih.gov/16873421/)
+
 
 ### Programming Languages
 - [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
@@ -255,6 +273,8 @@
 - [MIT Press’s Direct to Open (D2O) achieves second year goal, opens access to eighty-two new books in 2023](https://mitpress.mit.edu/mit-presss-direct-to-open-d2o-achieves-second-year-goal-opens-access-to-eighty-two-new-books-in-2023/)
 - [30 Signs You Are Living in an Information Crap-pocalypse](https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information)
 - [Rashomom Effect](https://en.wikipedia.org/wiki/Rashomon)
+- [What the heck happened in 2012? ](https://www.theintrinsicperspective.com/p/what-the-heck-happened-in-2012)
+
 
 ### UX/UI
 - [How to teach yourself UX Design (no bootcamps, no courses)](https://www.youtube.com/watch?v=hvBGy8ewZNc)
