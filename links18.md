@@ -40,6 +40,8 @@
 - [Employees in Asia are spending the most time looking busy at work, says Slack report](https://www.cnbc.com/2023/08/14/employees-in-asia-are-spending-the-most-time-looking-busy-at-work.html)
 - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
 - [The Art of Leadership: Lessons from Art Blakey](https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from)
+- [Psychologists have finally figured out why your toxic colleagues climb to the top at work](https://www.fastcompany.com/90479073/psychologists-have-finally-figured-out-why-your-toxic-colleagues-climb-to-the-top-at-work)
+
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
@@ -51,6 +53,12 @@
 - [Unit Tests are Overrated](https://thenewstack.io/unit-tests-are-overrated-rethinking-testing-strategies/)
 - [If you succeed, you will fail](https://boyter.org/posts/if-you-succeed-you-will-fail/)
 - [Exploring the design space of binary search trees](https://rtheunissen.github.io/bst/?)
+- [Tuple Spaces (or, Good Ideas Don't Always Win)](https://software-carpentry.org/blog/2011/03/tuple-spaces-or-good-ideas-dont-always-win.html)
+- [The Case Against Quantum Computing ](https://spectrum.ieee.org/the-case-against-quantum-computing)
+- [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+- [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
+- [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
+- [Programmer Interrupted: The Real Cost of Interruption and Context Switching](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
 
 
 ### Python
@@ -96,7 +104,7 @@
 - [What if Generative AI turned out to be a Dud?](https://garymarcus.substack.com/p/what-if-generative-ai-turned-out)
 - [Google Search is over](https://mastodon.social/@rodhilton/110894818243613681)
 - [What do I think about Community Notes? ](https://vitalik.eth.limo/general/2023/08/16/communitynotes.html)
-
+- [In the Battle Between Bots and Comedians, A.I. Is Killing](https://www.nytimes.com/2023/08/15/arts/television/comedy-artificial-intelligence-chatgpt.html)
 
 ### Web
 - [Sub-pixel Distance Transform](https://acko.net/blog/subpixel-distance-transform/)
@@ -118,6 +126,8 @@
 - [Cal.com - calender booking](https://cal.com/)
 - [Github Open Accelerator, HTMX](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
 
+
+
 ### Local-first Software
 - [Introducing TiddlyPWA: putting TiddlyWiki on modern web app steroids](https://val.packett.cool/blog/tiddlypwa/)
 - [My Journey Away from the JAMstack](https://www.spicyweb.dev/farewell-jamstack/)
@@ -134,6 +144,8 @@
 - [Running Postgres as a Unikernel](https://nanovms.com/dev/tutorials/running-postgres-as-a-unikernel)
 - [Getting Started With Postgres: Three Free and Easy Ways](https://dzone.com/articles/getting-started-with-postgres-three-free-and-easy)
 - [Python: Just write SQL](https://joaodlf.com/python-just-write-sql)
+- [Understanding database indexes in PostgreSQL](https://mastermind.dev/indexes-in-postgresql)
+- [SQL Stored Procedures for SQL Server](https://www.w3schools.com/sql/sql_stored_procedures.asp)
 
 
 ### Tools
@@ -148,7 +160,7 @@
 - [WebAssembly runtimes will replace container-based runtimes by 2030](https://changelog.com/posts/webassembly-runtimes-will-replace-container-runtimes-by-2030)
 - [Graphics for JVM](https://tonsky.me/blog/skija/)
 - [CodeLite IDE](https://docs.codelite.org/)
-
+- [Why xHE-AAC is being embraced at Meta](https://engineering.fb.com/2023/04/11/video-engineering/high-quality-audio-xhe-aac-codec-meta/)
 
 ### Project Mgt, Agile
 - [Ask HN: Do Agile 'Sprints' Benefit Software Developers?](https://news.ycombinator.com/item?id=36813858)
@@ -163,6 +175,8 @@
 ** - [Fantastic Learning Resources](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html)
 - [SIC - Single-instruction programming game](https://jaredkrinke.itch.io/sic-1)
 - [The Garden of Computational Delights](https://arbesman.net/computationaldelights/)
+- [Introduction to SiliWiz ](https://tinytapeout.com/siliwiz/introduction/)
+- [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
 
 ### Unix/Linux
 - [Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT](https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html)
@@ -173,13 +187,15 @@
 - [Resilience in Complex Systems](https://irhum.github.io/blog/resilientsystems/)
 - [The Resilience of Costco](https://minesafetydisclosures.com/blog/2018/6/18/costco)
 - [Lean Meets Wicked Problems](https://steveblank.com/2023/07/25/lean-meets-wicked-problems/)
+- [NP-hard does not mean hard](https://jeremykun.com/2017/12/29/np-hard-does-not-mean-hard/)
+
 
 ### Computer Languages
 - [Stanford CS242 - Lambda Calculus](https://stanford-cs242.github.io/f18/lectures/01-2-lambda-calculus.html)
 - [How to start a Go project in 2023](https://boyter.org/posts/how-to-start-go-project-2023/)
 - [Book Review: "OpenJDK Migration for Dummies"](https://dzone.com/articles/book-review-openjdk-migration-for-dummies)
 - [Writing a basic code formatter ](https://ntietz.com/blog/writing-basic-code-formatter/)
-
+- [TypeScript is Surprisingly OK for Compilers](https://matklad.github.io/2023/08/17/typescript-is-surprisingly-ok-for-compilers.html)
 
 
 ### Games
@@ -218,7 +234,7 @@
 - [LinkedIn accounts hacked in widespread hijacking campaign](https://www.bleepingcomputer.com/news/security/linkedin-accounts-hacked-in-widespread-hijacking-campaign/)
 - [Don’t use VPN services](https://tilde.club/wiki/vpnwhy.html)
 - [Diligere, Equity-Invest Are New Firms of U.K. Con Man](https://krebsonsecurity.com/2023/08/diligere-equity-invest-are-new-firms-of-u-k-con-man/)
-
+- [More hardcoded credentials than ever, and sloppy coding is to blame](https://www.scmagazine.com/news/more-hardcoded-credentials-than-ever-and-sloppy-coding-is-to-blame)
 
 ### Population
 - [The Heresy of Decline](https://longnow.org/ideas/the-heresy-of-decline/)
@@ -228,6 +244,8 @@
 - [Amazon Reverses Course on ‘Garbage Books’ After Public Uproar](https://decrypt.co/151780/amazon-authors-writers-fake-books-trademark)
 - [Learn The Recession Proof Skill For The Digital Economy (Without Spending 4 Years & $42,599 On A Degree)](https://2hourwriter.com/)
 - [Publish Everything (Pretty Much)](https://tidyfirst.substack.com/p/publish-everything-pretty-much)
+- [Writing summaries is more important than reading more books](https://www.andreasfragner.com/writing/writing-summaries)
+- [Writing: Good Career Move, Terrible Career](https://byrnehobart.medium.com/writing-good-career-move-terrible-career-ad672663ea3b)
 
 ### Climate Change
 - [New Research Sparks Concerns That Ocean Circulation Will Collapse](https://e360.yale.edu/features/climate-change-ocean-circulation-collapse-antarctica)
@@ -236,13 +254,15 @@
 ### Maths/Stat
 - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
 - [Golay Code](https://blogs.ams.org/visualinsight/2015/12/01/golay-code/)
-
+- [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
 
 ### Health
 - [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://thewire.in/health/covid-19-india-greatest-mortality-crisis-since-independence)
 - [The Psychotherapy Myth](https://www.aporiamagazine.com/p/the-psychotherapy-myth)
 - [Psychologist Enrique Echeburúa: ‘People who die by suicide want to stop suffering, not to stop living’](https://english.elpais.com/science-tech/2023-05-20/psychologist-enrique-echeburua-people-who-die-by-suicide-want-to-stop-suffering-not-to-stop-living.html)
 - [Occupational exposure to radio frequency/microwave radiation and the risk of brain tumors: Interphone Study Group, Germany ](https://pubmed.ncbi.nlm.nih.gov/16873421/)
+- [Why are more people under 50 getting colorectal cancer? Scientists have some clues](https://www.sciencenews.org/article/young-adults-50-colorectal-cancer-warning)
+- [Miracle Plant Used in Ancient Greece Rediscovered After 2,000 Years](https://greekreporter.com/2023/08/13/plant-ancient-greece-rediscovered/)
 
 
 ### Programming Languages
@@ -250,6 +270,8 @@
 - [Raku Fundamentals](https://link.springer.com/book/10.1007/978-1-4842-6109-5)
 - [Part 0: Designing a Language without a Parser](https://thunderseethe.dev/posts/type-inference/)
 - [Livebook - Elixir's Notebook](https://fly.io/blog/livebook-for-app-documentation/)
+- [https://rachit.pl/post/you-have-built-a-compiler/](Dear Sir, You Have Built a Compiler )
+
 
 ### Art
 - [Long Term Art Programs ](https://www.laca.sg/collections/long-term-art-programs)
@@ -274,11 +296,15 @@
 - [30 Signs You Are Living in an Information Crap-pocalypse](https://www.honest-broker.com/p/30-signs-you-are-living-in-an-information)
 - [Rashomom Effect](https://en.wikipedia.org/wiki/Rashomon)
 - [What the heck happened in 2012? ](https://www.theintrinsicperspective.com/p/what-the-heck-happened-in-2012)
-
+- [Who Kept Buying the Mac Pro Everyone Hated?](https://www.vice.com/en/article/pajmk9/who-kept-buying-the-mac-pro-everyone-hated)
+- [The SkillsFuture Fellowships boosted his professional development and helped him give back to his field ](https://www.channelnewsasia.com/advertorial/skillsfuture-fellowships-boosted-his-professional-development-and-helped-him-give-back-his-field-3301981)
+- [His software sang the words of God. Then it went silent.](https://www.inverse.com/input/features/tropetrainer-thomas-buchler-torah-software)
 
 ### UX/UI
 - [How to teach yourself UX Design (no bootcamps, no courses)](https://www.youtube.com/watch?v=hvBGy8ewZNc)
 - [Clojure is a product design tool.](https://precursorapp.com/blog/clojure-is-a-product-design-tool)
+- [Refactoring UI - Book](https://www.refactoringui.com/)
+
 
 ### 42
 - [42 Singapore](https://www.42singapore.sg/about-us/)
