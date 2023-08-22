@@ -59,7 +59,7 @@
 - [When LIMIT 9 works but LIMIT 10 hangs](https://neon.tech/blog/when-limit-9-works-but-limit-10-hangs)
 - [What I've Learned About Formal Methods In Half a Year](https://jakob.space/blog/what-ive-learned-about-formal-methods.html)
 - [Programmer Interrupted: The Real Cost of Interruption and Context Switching](https://contextkeeper.io/blog/the-real-cost-of-an-interruption-and-context-switching/)
-
+- [Best Practices for Writing Clean Java Code](https://dzone.com/articles/best-practices-for-writing-clean-java-code)
 
 ### Python
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery)
@@ -146,7 +146,7 @@
 - [Python: Just write SQL](https://joaodlf.com/python-just-write-sql)
 - [Understanding database indexes in PostgreSQL](https://mastermind.dev/indexes-in-postgresql)
 - [SQL Stored Procedures for SQL Server](https://www.w3schools.com/sql/sql_stored_procedures.asp)
-
+- [The Broad Set of Computer Science Problems Faced at Cloud Database Companies](https://davidgomes.com/the-broad-set-of-computer-science-problems-faced-at-cloud-database-companies/)
 
 ### Tools
 - [Snapify allows you to record and share recordings asynchronously](https://github.com/MarconLP/snapify)
@@ -221,7 +221,7 @@
 - [An electrogenetic interface to program mammalian gene expression by direct current](https://www.nature.com/articles/s42255-023-00850-7)
 - [The way out of burnout](https://www.economist.com/1843/2016/07/28/the-way-out-of-burnout)
 - [A protein that disrupts cells’ energy centers may be a culprit in chronic fatigue syndrome](https://www.science.org/content/article/protein-disrupts-cells-energy-centers-may-be-culprit-chronic-fatigue-syndrome)
-
+- [Study: Inflammation drives social media use](https://www.buffalo.edu/news/releases/2023/08/lee-inflammation-drives-social-media-use.html)
 
 
 ### Security
@@ -271,7 +271,7 @@
 - [Part 0: Designing a Language without a Parser](https://thunderseethe.dev/posts/type-inference/)
 - [Livebook - Elixir's Notebook](https://fly.io/blog/livebook-for-app-documentation/)
 - [https://rachit.pl/post/you-have-built-a-compiler/](Dear Sir, You Have Built a Compiler )
-
+- [Golang Tutorial](https://go.dev/doc/tutorial/)
 
 ### Art
 - [Long Term Art Programs ](https://www.laca.sg/collections/long-term-art-programs)
