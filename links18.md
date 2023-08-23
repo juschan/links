@@ -26,6 +26,7 @@
 - [Nobody ever paid me for code](https://www.bitecode.dev/p/nobody-ever-paid-me-for-code)
 - [How to Start a Startup](http://www.paulgraham.com/start.html)
 - [Entrepreneurship for Engineers: Selling Open Source Software ](https://thenewstack.io/entrepreneurship-for-engineers-selling-open-source-software/)
+- [How to avoid KPI psychosis in your organization?](https://blog.promaton.com/how-to-avoid-kpi-psychosis-in-your-organization-5ffc83967f2b)
 
 ### Engineering Mgt
 - [why is everything so hard in a large organization?](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
@@ -41,7 +42,7 @@
 - [The Elite's War on Remote Work Has Nothing to Do with Productivity](https://www.okdoomer.io/heres-why-they-want-you-back-at-the-office-so-bad/)
 - [The Art of Leadership: Lessons from Art Blakey](https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from)
 - [Psychologists have finally figured out why your toxic colleagues climb to the top at work](https://www.fastcompany.com/90479073/psychologists-have-finally-figured-out-why-your-toxic-colleagues-climb-to-the-top-at-work)
-
+- [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
@@ -70,7 +71,7 @@
 ** - [SuperFastPython - Concurrency](https://superfastpython.com/learning-paths/)
 - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
-
+- [Azure - Python Labs](https://github.com/azure-samples/azure-opensource-labs/tree/main/python#readme)
 
 ### ML/AI
 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -94,6 +95,8 @@
 - [Why are so many giants of AI getting GPTs so badly wrong?](https://medium.com/@fergal.reid/why-are-so-many-giants-of-ai-getting-gpts-so-badly-wrong-f8dadfac4f61)
 - [Welcome to Learning Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 - [How is LLaMa.cpp possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
+- [Extracting Key Information from Research Papers using PAPERSNAP and Claude](https://github.com/nhaouari/papersnap)
+
 
 ### AI Issues
 - [AI Detection Tools Falsely Accuse International Students of Cheating](https://themarkup.org/machine-learning/2023/08/14/ai-detection-tools-falsely-accuse-international-students-of-cheating)
@@ -255,6 +258,7 @@
 - [It Takes Long to Become Gaussian](https://two-wrongs.com/it-takes-long-to-become-gaussian)
 - [Golay Code](https://blogs.ams.org/visualinsight/2015/12/01/golay-code/)
 - [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf)
+* -[The blog at the bottom of the sea](https://blog.demofox.org/)
 
 ### Health
 - [With COVID-19, India Experienced Its Greatest Mortality Crisis Since Independence](https://thewire.in/health/covid-19-india-greatest-mortality-crisis-since-independence)
@@ -263,7 +267,7 @@
 - [Occupational exposure to radio frequency/microwave radiation and the risk of brain tumors: Interphone Study Group, Germany ](https://pubmed.ncbi.nlm.nih.gov/16873421/)
 - [Why are more people under 50 getting colorectal cancer? Scientists have some clues](https://www.sciencenews.org/article/young-adults-50-colorectal-cancer-warning)
 - [Miracle Plant Used in Ancient Greece Rediscovered After 2,000 Years](https://greekreporter.com/2023/08/13/plant-ancient-greece-rediscovered/)
-
+- [Why Does Coffee Make You Poop?](https://www.bonappetit.com/story/coffee-poop)
 
 ### Programming Languages
 - [Elixir is (Still) Safe](https://paraxial.io/blog/still-safe)
