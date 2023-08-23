@@ -38,6 +38,8 @@
 - [YOU CAN CREATE EVERYTHING! (With future progression exercise) | Dolores Cannon](https://www.youtube.com/watch?v=gozmMLdSHyg)
 - [People Will Think You're MAGICAL!! | Mastery Over the 5 Elements | Bhuta Shuddhi | Sadhguru](https://www.youtube.com/watch?v=NIDczuFlK-A)
 - [REVEALED By THE GUIDES: Humanity's SHIFT to NEXT PHASE of REALITY Is Happening NOW! | Paul Selig](https://www.youtube.com/watch?v=LkrT30Fc01Y)
+* - [Are Humans The AI Of The Mineral Realm? w/ Matías De Stefano](https://www.youtube.com/watch?v=1ezbq2z6ca8)
+- [Transmigration: The Evolution and Devolution of Souls (urgent message at end)](https://www.youtube.com/watch?v=KapAeX8tdqk)
 
 
 ### Software Engineering
@@ -52,6 +54,8 @@
 - [build your own cloud](https://www.youtube.com/watch?v=xBIowQ0WaR8)
 - [How GitHub Actions 10x my productivity](https://www.youtube.com/watch?v=yfBtjLxn_6k)
 - [The LAST flash drive you will ever need! Ventoy FULL walk-thru and review!](https://www.youtube.com/watch?v=MIT3w-EPA9M)
+- [Most Underrated Game Engines](https://www.youtube.com/watch?v=irEsvzgzcZU)
+- [macOS: A Linux User's Opinion](https://www.youtube.com/watch?v=dnOuswYNQ1s)
 
 ### Data, Database
 - [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=GFQaEYEc8_8)
@@ -88,7 +92,7 @@
 - [The Chef Who Can’t Eat What She Cooks](https://www.youtube.com/watch?v=mqYFc-S2oDg)
 - [Roger Penrose:"Quantum Mechanics Wrong And Consciousness Isn't computation"](https://www.youtube.com/watch?v=cgXEbbjpYXs)
 - [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
-
+- [Is THIS the future of CD players? (I think it might be)](https://www.youtube.com/watch?v=RTdGo5-NdRQ)
 
 ### Motivation
 - [To Anyone Feeling LOST & UNHAPPY, Watch This To FIND MEANING In 2023 | Rick Rubin](https://www.youtube.com/watch?v=YS299z6ahsk)
@@ -108,6 +112,8 @@
 - [How To Get Around The World When You're Highly Sensitive Person | Dr. Gabor Maté](https://www.youtube.com/watch?v=GlL8gmhtXc8)
 - [Once You Stop Caring, Results Come | The Law of Reverse Effect](https://www.youtube.com/watch?v=VpcQVjSVqOM)
 
+### Fitness
+- [Simple (but BRUTAL) & builds EXPERT Body Mastery](https://www.youtube.com/watch?v=IC4xr0CEXz0)
 
 ### Health
 - [How To Reset A Dysregulated Nervous System (in under 60 seconds!)](https://www.youtube.com/watch?v=U3wf2x2vCLk)
