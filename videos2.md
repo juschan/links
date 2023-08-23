@@ -40,7 +40,8 @@
 - [REVEALED By THE GUIDES: Humanity's SHIFT to NEXT PHASE of REALITY Is Happening NOW! | Paul Selig](https://www.youtube.com/watch?v=LkrT30Fc01Y)
 * - [Are Humans The AI Of The Mineral Realm? w/ Matías De Stefano](https://www.youtube.com/watch?v=1ezbq2z6ca8)
 - [Transmigration: The Evolution and Devolution of Souls (urgent message at end)](https://www.youtube.com/watch?v=KapAeX8tdqk)
-
+- [Secret of Nagas - Sadhguru](https://www.youtube.com/watch?v=nwYb0Z4Mz10)
+- [Nagas - They Are Floating in Cosmos Doing Their Own Thing! - Sadhguru](https://www.youtube.com/watch?v=ayJK38W3vck)
 
 ### Software Engineering
 - [The Airline Industry’s Problem with Absolutely Ancient IT](https://www.youtube.com/watch?v=1-m_Jjse-cs)
@@ -85,6 +86,8 @@
 - [A Sketching Exercise to Overcome the Fear of Failure](https://www.youtube.com/watch?v=GU01755dtZ0)
 - [Drawing Portraits with COLORED PENCILS (Sketchbook Studies)](https://www.youtube.com/watch?v=JGthM8pIm7I)
 - [Perspective Made Easy](https://www.youtube.com/watch?v=RYdVU1FSro4)
+- [The FASTEST way to Learn Blender](https://www.youtube.com/watch?v=O4hcOdTofTY)
+- [If Blender Is Free Why Studios Don't Use it](https://www.youtube.com/watch?v=-tWb-upx5MY)
 
 
 ### Interesting
