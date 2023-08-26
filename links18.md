@@ -10,7 +10,7 @@
 - [The grindset has left us depressed. Here’s one thing that can save us. | Lisa Miller](https://www.youtube.com/watch?v=ieBEEYsrNSQ)
 - [Become Who You're Afraid To Be | The Philosophy of Carl Jung ](https://www.youtube.com/watch?v=EGM_Pl8j_QU)
 - ["Identity shifting" made me a millionaire at 22...this is how](https://www.youtube.com/watch?v=R0H9vqWzdGk)
-
+- [Against Automaticity](https://carcinisation.com/2023/08/22/against-automaticity/)
 
 ### Biz Hack
 - [Many people feel their jobs are pointless](https://www.eurekalert.org/news-releases/996953)
@@ -43,6 +43,8 @@
 - [The Art of Leadership: Lessons from Art Blakey](https://albertcory50.substack.com/p/the-art-of-leadership-lessons-from)
 - [Psychologists have finally figured out why your toxic colleagues climb to the top at work](https://www.fastcompany.com/90479073/psychologists-have-finally-figured-out-why-your-toxic-colleagues-climb-to-the-top-at-work)
 - [Close to the Machine: Technophilia and its discontents](https://manu.zone/books/close-to-the-machine/)
+- [Do developers have positive experiences with Scrum?](https://news.ycombinator.com/item?id=37123798)
+
 
 ### Software Engineering
 - [Rethinking infrastructure as code from scratch](https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/)
@@ -72,6 +74,7 @@
 - [Inside python dict — an explorable explanation](https://just-taking-a-ride.com/inside_python_dict/chapter1.html)
 - [What learning APL taught me about Python](https://mathspp.com/blog/what-learning-apl-taught-me-about-python)
 - [Azure - Python Labs](https://github.com/azure-samples/azure-opensource-labs/tree/main/python#readme)
+- [pytudes - python programs for perfecting particular programming skills](https://github.com/norvig/pytudes)
 
 ### ML/AI
 - [From Python to Elixir Machine Learning](https://www.thestackcanary.com/from-python-pytorch-to-elixir-nx/)
@@ -96,6 +99,8 @@
 - [Welcome to Learning Prompt](https://github.com/thinkingjimmy/Learning-Prompt)
 - [How is LLaMa.cpp possible?](https://finbarr.ca/how-is-llama-cpp-possible/)
 - [Extracting Key Information from Research Papers using PAPERSNAP and Claude](https://github.com/nhaouari/papersnap)
+- [Interpretable Graph Neural Networks for Tabular Data](https://arxiv.org/abs/2308.08945)
+- [How ChatGPT turned generative AI into an “anything tool”](https://arstechnica.com/ai/2023/08/how-chatgpt-turned-generative-ai-into-an-anything-tool/)
 
 
 ### AI Issues
@@ -128,7 +133,7 @@
 - [erxes - experience analytics](https://erxes.io/pricing)
 - [Cal.com - calender booking](https://cal.com/)
 - [Github Open Accelerator, HTMX](https://htmx.org/posts/2023-06-06-htmx-github-accelerator/)
-
+- [BASH stack](https://bashsta.cc/)
 
 
 ### Local-first Software
