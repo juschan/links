@@ -28,7 +28,7 @@
 - [An observation on Generalization](https://www.youtube.com/watch?v=AKMuA_TVz3A)
 - [How AI Robots Will Suddenly Takeover (It’s Too Late)](https://www.youtube.com/watch?v=xGRj4X21AUA)
 - [Proof that AI Understands? 👀 Andrew Ng on LLMs building mental models, Othello GPT, Geoffrey Hinton](https://www.youtube.com/watch?v=9AxRIuzlUV0)
-
+- [Autonomous AI Agents - why YOU should be building them... and HOW.](https://www.youtube.com/watch?v=4teb28H2i70)
 
 ### Spiritual
 - [Mooji - Why Am I Behaving Worse After Awakening ? - Amazing Deep Inquiry](https://www.youtube.com/watch?v=vMnvgcEzQsc)
@@ -42,6 +42,8 @@
 - [Transmigration: The Evolution and Devolution of Souls (urgent message at end)](https://www.youtube.com/watch?v=KapAeX8tdqk)
 - [Secret of Nagas - Sadhguru](https://www.youtube.com/watch?v=nwYb0Z4Mz10)
 - [Nagas - They Are Floating in Cosmos Doing Their Own Thing! - Sadhguru](https://www.youtube.com/watch?v=ayJK38W3vck)
+- [TOM CAMPBELL teaches Techniques on ESCAPING The SIMULATION!](https://www.youtube.com/watch?v=CqAObaOTnGE)
+
 
 ### Software Engineering
 - [The Airline Industry’s Problem with Absolutely Ancient IT](https://www.youtube.com/watch?v=1-m_Jjse-cs)
@@ -57,6 +59,8 @@
 - [The LAST flash drive you will ever need! Ventoy FULL walk-thru and review!](https://www.youtube.com/watch?v=MIT3w-EPA9M)
 - [Most Underrated Game Engines](https://www.youtube.com/watch?v=irEsvzgzcZU)
 - [macOS: A Linux User's Opinion](https://www.youtube.com/watch?v=dnOuswYNQ1s)
+- [Introducing: snappify.com](https://www.youtube.com/watch?v=fEBFJnMDkSc)
+
 
 ### Data, Database
 - [Learn Database Normalization - 1NF, 2NF, 3NF, 4NF, 5NF](https://www.youtube.com/watch?v=GFQaEYEc8_8)
@@ -96,6 +100,8 @@
 - [Roger Penrose:"Quantum Mechanics Wrong And Consciousness Isn't computation"](https://www.youtube.com/watch?v=cgXEbbjpYXs)
 - [The Universe is Hostile to Computers](https://www.youtube.com/watch?v=AaZ_RSt0KP8)
 - [Is THIS the future of CD players? (I think it might be)](https://www.youtube.com/watch?v=RTdGo5-NdRQ)
+- [Exploring the weird world of 'Headless' MacBooks 4K](https://www.youtube.com/watch?v=uOigVjqW7hc)
+
 
 ### Motivation
 - [To Anyone Feeling LOST & UNHAPPY, Watch This To FIND MEANING In 2023 | Rick Rubin](https://www.youtube.com/watch?v=YS299z6ahsk)
@@ -105,6 +111,8 @@
 - [Tony Robbins ON: How To BRAINWASH Yourself For Success & Destroy NEGATIVE THOUGHTS! | Jay Shetty](https://www.youtube.com/watch?v=BwjnG45zO5U)
 - ["BRAINWASH" Yourself Into Manifesting Anything You Want! Real Law Of Attraction Secrets](https://www.youtube.com/watch?v=5K76m0pR7t0)
 - [How the Way You Respond to Boredom Changes Your Life](https://www.youtube.com/watch?v=gc7wKr0XkN8)
+- [How to Start to Find Purpose in Your Life](https://www.youtube.com/watch?v=TGGwCG6AFz4)
+
 
 ### Life Hack
 - [How I'm redesigning my life (based on the Greek God that runs my life)](https://www.youtube.com/watch?v=VxQmRQlNLMA)
@@ -122,6 +130,8 @@
 - [How To Reset A Dysregulated Nervous System (in under 60 seconds!)](https://www.youtube.com/watch?v=U3wf2x2vCLk)
 - [总是胡思乱想停不下来？10分钟讲清精神内耗的本质，告别过度思考！](https://www.youtube.com/watch?v=Jcxlgx5EX7U)
 - [How the Pelvis and Cranium Are Connected: Why My Face Has Changed its Appearance](https://www.youtube.com/watch?v=1eMG3Kumb8E)
+- [5 Foods That Naturally Decrease Cortisol, the Stress Hormone](https://www.youtube.com/watch?v=wpY1_RxjZQ8)
+
 
 ### Wealth
 - [I got to be a RICH VALUE INVESTOR when I understand this | SETH KLARMAN](https://www.youtube.com/watch?v=2YI2Znwc5GM)
