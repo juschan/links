@@ -2,6 +2,8 @@
 
 ### ML/AI
 - [High-Dimensional Probability and Applications in Data Science](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
+- [ChatLZMA](http://pepijndevos.nl/2023/07/15/chatlmza.html)
+
 
 ### Tools
 - [Designrr - AI writes ebooks tool](https://go2.designrr.io/wordgenie2?utm_campaign=20438087939&utm_source=ytv&gc_id=20438087939&utm_medium=cpc&utm_content=youtube.com&utm_term=&h_ad_id=669051114373utm_campaign=20438087939&utm_source=ytv&utm_medium=cpc&utm_content=youtube.com&utm_term=&ad_id=669051114373&gclid=EAIaIQobChMIncjg5uDxgAMVxeLaBR1XPA73EAEYASAAEgIGUvD_BwE)
@@ -14,6 +16,18 @@
 ### Software Engineering
 - [How to Design Programs, Second Edition](https://htdp.org/2023-8-14/Book/index.html)
 - [Clojure in Banking: Griffin](https://www.juxt.pro/blog/clojure-in-griffin/)
+- [Absurd Success](https://www.marginalia.nu/log/87_absurd_success/)
+
+### Proj Mgt
+- [Ask HN: Why Not Kanban?](https://news.ycombinator.com/item?id=37327433)
+
+
+### Web
+- [Webstudio meets RAdix UI](https://webstudio.is/radix)
+- [Actix Web - Rust Web Framework](https://github.com/actix/actix-web/releases/tag/web-v4.4.0)
+
+### Computer Languages
+- [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 
 ### Spiritual
 - [Crimson Circle - St Germaine](https://www.crimsoncircle.com/News)
@@ -24,6 +38,11 @@
 
 ### Actuarial
 - [Pricing in General Insurance ](https://www.amazon.com/Pricing-General-Insurance-Pietro-Parodi/dp/0367769034/ref=sr_1_1?crid=3CCC4TR634292&keywords=pricing+in+general+insurance&qid=1687335619&sprefix=pricing+in+general+insura%2Caps%2C353&sr=8-1)
+
+### Interesting
+- [Dating Roundup #1: This Is Why You're Still Single](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
+- [It's a Sin (TV series)](https://en.wikipedia.org/wiki/It%27s_a_Sin_(TV_series))
+- [Elites, Counter-Elites and Indicators of Revolution: A book review of End Times by Peter Turchin](https://www.youtube.com/watch?v=SHoqcGqnAUY)
 
 ### Facilitation, Group Work
 - [Groupwork Centre](https://groupwork.com.au/courses/advanced-group-facilitation/)
@@ -36,6 +55,9 @@
 - [Process Work UK](https://www.processworkuk.org/training-courses-2/processwork-diploma-programme/ukcp-accredited-psychotherapy-track/)
 - [International Pathwork Foundation](https://pathwork.org/)
 - [Core Energetics - Book](https://www.amazon.sg/Core-Energetics-Developing-Capacity-Love/dp/0977439402)
+
+### Climate
+- [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
 
 
 
