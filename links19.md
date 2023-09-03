@@ -8,6 +8,10 @@
 ### Tools
 - [Designrr - AI writes ebooks tool](https://go2.designrr.io/wordgenie2?utm_campaign=20438087939&utm_source=ytv&gc_id=20438087939&utm_medium=cpc&utm_content=youtube.com&utm_term=&h_ad_id=669051114373utm_campaign=20438087939&utm_source=ytv&utm_medium=cpc&utm_content=youtube.com&utm_term=&ad_id=669051114373&gclid=EAIaIQobChMIncjg5uDxgAMVxeLaBR1XPA73EAEYASAAEgIGUvD_BwE)
 
+### Life Hack
+- [On Craft](https://www.drcathicks.com/post/on-craft)
+- [What Will You Do With Your Life? - Krishnamurti](https://kfoundation.org/what-will-you-do-with-your-life/?gclid=EAIaIQobChMIrL2VzaeMgQMVG5NmAh0pfQAtEAAYASAAEgJdWvD_BwE)
+
 ### Biz Hack
 - [Book - Secrets of the Autistic Millionaire: Everything I know about Autism, ASD, and Asperger's that I wish I'd known back then](https://www.amazon.com/Secrets-Autistic-Millionaire-Everything-Aspergers-ebook/dp/B09KGF6685?dchild=1&keywords=autism&qid=1635782800&refinements=p_n_condition-type:6461716011&sr=8-1&linkCode=sl1&tag=daveplhome-20&linkId=b69b56e50e5018242061304856835374&language=en_US&ref_=as_li_ss_tl)
 - [HarbourClub - buy businesses](https://www.harbourclubevents.com/the-course/)
@@ -26,6 +30,9 @@
 - [Webstudio meets RAdix UI](https://webstudio.is/radix)
 - [Actix Web - Rust Web Framework](https://github.com/actix/actix-web/releases/tag/web-v4.4.0)
 
+### Data
+- [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
+
 ### Computer Languages
 - [Ruby Outperforms C: Breaking the Catch-22](https://railsatscale.com/2023-08-29-ruby-outperforms-c/)
 
@@ -38,6 +45,9 @@
 
 ### Actuarial
 - [Pricing in General Insurance ](https://www.amazon.com/Pricing-General-Insurance-Pietro-Parodi/dp/0367769034/ref=sr_1_1?crid=3CCC4TR634292&keywords=pricing+in+general+insurance&qid=1687335619&sprefix=pricing+in+general+insura%2Caps%2C353&sr=8-1)
+
+### Writing
+- [How To Edit Your Own Lousy Writing ](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
 
 ### Interesting
 - [Dating Roundup #1: This Is Why You're Still Single](https://thezvi.substack.com/p/dating-roundup-1-this-is-why-youre)
@@ -59,5 +69,6 @@
 ### Climate
 - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
 
-
+### Euthanasia
+- [Should there be a legal right to die?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949364/)
 
