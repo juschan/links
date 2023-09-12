@@ -29,6 +29,8 @@
 - [Tasks, microtasks, queues and schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 - [9 fintech engineering mistakes](https://startupwin.kelsus.com/p/9-fintech-engineering-mistakes)
 - [Introduction to Class Normalization](https://agiledata.org/essays/classnormalization.html)
+- [Awesome Parallel Computing Resources](https://github.com/taskflow/awesome-parallel-computing)
+- [What I Have Changed My Mind About in Software Development](https://henrikwarne.com/2023/09/10/what-i-have-changed-my-mind-about-in-software-development/)
 
 ### Proj Mgt
 - [Ask HN: Why Not Kanban?](https://news.ycombinator.com/item?id=37327433)
@@ -51,11 +53,14 @@
 - [Our self-hosting journey with Open Source]((https://vates.tech/blog/our-self-hosting-journey-with-open-source/)
 - [Godly - good web design inspiration](https://godly.website/)
 - [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
+- [How to speed up a micro-benchmark 300x ](https://tmikov.blogspot.com/2023/09/how-to-speed-up-micro-benchmark-300x.html)
 
 
 ### Data
 - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
 - [Shining a Light on the Digital Dark Age](https://longnow.org/ideas/shining-a-light-on-the-digital-dark-age/)
+- [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point)
+
 
 ### Cloud
 - [How Canva saves over $3 million annually in Amazon S3 costs](https://aws.amazon.com/blogs/storage/how-canva-saves-over-3-million-annually-in-amazon-s3-costs/)
@@ -67,7 +72,12 @@
 - [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - [A half-hour to learn Rust ](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Writing a Markdown Compiler – Part 1](https://blog.beezwax.net/writing-a-markdown-compiler/)
+- [
 
+Advanced x86: Virtualization with
+
+Intel VT-x
+](https://opensecuritytraining.info/AdvancedX86-VTX.html)
 
 ### Spiritual
 - [Crimson Circle - St Germaine](https://www.crimsoncircle.com/News)
@@ -126,6 +136,8 @@
 - [Managed to death: How Canada turned its forests into a carbon bomb](https://thebulletin.org/2023/08/managed-to-death-how-canada-turned-its-forests-into-a-carbon-bomb/#post-heading)
 ** - [The Busy Worker’s Handbook to the Apocalypse](https://medium.com/@samyoureyes/the-busy-workers-handbook-to-the-apocalypse-7790666afde7)
 - [Finding Hope In The Dark Power Of Fungus](https://www.noemamag.com/finding-hope-in-the-dark-power-of-fungus/)
+- [Forty Years Ago, EPA Scientists Warned About Climate Change. How Accurate Were Their Predictions?](https://themessenger.com/tech/forty-years-ago-scientists-warned-about-climate-change-how-accurate-were-their-predictions)
+- 
 
 ### Euthanasia
 - [Should there be a legal right to die?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949364/)
