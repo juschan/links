@@ -41,6 +41,8 @@
 - [My Solution To The Dev Skills Crisis: Much Smaller Teams](https://levelup.gitconnected.com/my-solution-to-the-dev-skills-crisis-much-smaller-teams-a995c32e8707)
 - [6 Archetypes of Broken Ownership](https://blog.alexewerlof.com/p/broken-ownership)
 - [Lina Khan Fires a Crooked CEO]([https://www.thebignewsletter.com/p/lina-khan-fires-a-crooked-ceo/comments](https://www.thebignewsletter.com/p/lina-khan-fires-a-crooked-ceo))
+- [How Instagram scaled to 14 million users with only 3 engineers](https://engineercodex.substack.com/p/how-instagram-scaled-to-14-million)
+
 
 ### Python
 ** - [Pyrex and Lisp](https://lukeplant.me.uk/blog/posts/pyrex-and-lisp/)
@@ -54,7 +56,8 @@
 - [Godly - good web design inspiration](https://godly.website/)
 - [HTML is all you need to make a website](https://whitep4nth3r.com/blog/html-is-all-you-need-to-make-a-website/)
 - [How to speed up a micro-benchmark 300x ](https://tmikov.blogspot.com/2023/09/how-to-speed-up-micro-benchmark-300x.html)
-
+- [Interactive Illustrations](https://www.nathanmanousos.com/posts/chonky-menu)
+- [Imba - web language](https://imba.io/) 
 
 ### Data
 - [Open-sourcing SQX, a way to build flexible database models in Go](https://stytch.com/blog/open-sourcing-sqx-a-way-to-build-flexible-database-models-in-go/)
@@ -72,16 +75,16 @@
 - [Programming as Theory Building](https://pages.cs.wisc.edu/~remzi/Naur.pdf)
 - [A half-hour to learn Rust ](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [Writing a Markdown Compiler – Part 1](https://blog.beezwax.net/writing-a-markdown-compiler/)
-- [
-
-Advanced x86: Virtualization with
-
-Intel VT-x
-](https://opensecuritytraining.info/AdvancedX86-VTX.html)
+- [Advanced x86: Virtualization with Intel VT-x](https://opensecuritytraining.info/AdvancedX86-VTX.html)
+- [JVM in C](https://github.com/phillbush/jvm)
+- [Nim v2](https://nim-lang.org/)
 
 ### Spiritual
 - [Crimson Circle - St Germaine](https://www.crimsoncircle.com/News)
 - [Monroe Institute - Gateway Voyage](https://www.monroeinstitute.org/products/gateway-voyage)
+
+### Customer Engagement Platform, CRM
+- [DittoFeed](https://github.com/dittofeed/dittofeed)
 
 
 ### Art
@@ -100,8 +103,7 @@ Intel VT-x
 ### Actuarial / Maths
 - [Pricing in General Insurance ](https://www.amazon.com/Pricing-General-Insurance-Pietro-Parodi/dp/0367769034/ref=sr_1_1?crid=3CCC4TR634292&keywords=pricing+in+general+insurance&qid=1687335619&sprefix=pricing+in+general+insura%2Caps%2C353&sr=8-1)
 - [How Correlated Are You?](https://www.allendowney.com/blog/2023/08/20/how-correlated-are-you/)
-- [A trick to eliminate
-2π (sometimes)](https://marci.gunyho.com/theta.html)
+- [A trick to eliminate 2π (sometimes)](https://marci.gunyho.com/theta.html)
 
 ### Writing
 - [How To Edit Your Own Lousy Writing ](https://stingingfly.org/2017/10/24/edit-lousy-writing/)
