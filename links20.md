@@ -8,7 +8,9 @@
 - [Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4375283)
 - [Developer Tools 2.0 - Sequoia](https://www.sequoiacap.com/article/ai-powered-developer-tools/)
 - [Blocktrace Builds AI Chatbot to Simplify Blockchain Transaction Tracking](https://decrypt.co/124928/blocktrace-introduces-ai-chatbot-for-easy-blockchain-transaction-tracking)
-
+- [“We’ll call it AI to Sell it, Machine Learning to Build it”](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
+- [runway - creativity with ai](https://runwayml.com/)
+- [dream - image ai](https://dream.ai/create)
 
 ### Web
 - [Extism - Easy to use WebAssembly](https://dylibso.com/blog/why-extism/)
@@ -16,17 +18,37 @@
 - [Draggable objects](https://www.redblobgames.com/making-of/draggable/)
 - [gumroad v1 - one big main.py](https://twitter.com/zhanymkanov/status/1708058902443749780?s=20)
 - [Ask HN: Is there a way to get back to the web we lost?](https://news.ycombinator.com/item?id=37720804)
+- [How to become a “Designer Who Codes”](https://publication.design.systems/how-to-become-a-designer-who-codes-52ae97f60d68)
+- [Indieweb](https://indieweb.org/)
+** - [Descript - tool for video, podcasts](https://www.descript.com/?lmref=kdA4Lw&gclid=EAIaIQobChMIgK33-7Dt_QIVeppmAh1X4ArdEAAYASAAEgKwqPD_BwE)
+- [debuild - build web apps fast](https://debuild.app/)
 
 ### Life hack
 - [Life of focus - Course, Scott Young, Cal Newport](https://www.life-of-focus-course.com/waitinglist.html)
 - [Meta Rediscovers the Cubicle - Cal Newport blog](https://calnewport.com/meta-rediscovers-the-cubicle/)
+- [why it's so hard to say what you mean](https://ammarmian.substack.com/p/why-its-so-hard-to-say-what-you-mean)
+- [Why I Gave Up Being a Lawyer To Serve Coffee](https://www.youtube.com/watch?v=rohgcLDZ-DY)
+
+### Biz Hack
+- [Full Outbound Sales Process - Playbook](https://app.kickscale.com/share/DKBNQMywB9A6qPyFwDMl/FQLlkwPGib6jm8LyArIL?chapter-id=3b80fb32-e3d4-452d-97bd-d6e8beda87fe)
+- [Alan Moore - Books (Good design!)](https://beautiful.business/books/)
+
+
+### Software Engineering
+- [Smart Programmers Write STUPID Code](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
 
 ### Game Dev
 - [The missing middle in game development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)
+- [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
+
 
 ### Writing
 - [LaTeX eBook](https://github.com/AnMnv/eBook)
 - [Livebook - Interactive notebooks with code and data](https://livebook.dev/)
+- [Starting to dip your toe into Self Publishing](https://www.youtube.com/watch?v=fZlAOSGrROE)
+
+### Graphics
+- [Nvidia - Omniverse](https://www.nvidia.com/en-us/omniverse/apps/usd-composer/)
 
 ### DevOps, Containers
 - [The speed of containers, the security of VMs](https://katacontainers.io/)
@@ -48,9 +70,10 @@
 
 ### Computer Lang
 - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
+- [gubpy - interprete for subset of PYthon 3 in golang](https://github.com/realyixuan/gsubpy)
 
-### Game Dev
-- [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
+
+
 
 ### Nanotechnology
 - [Tiny robots, giant steps: how nanotechnology could improve cancer and fertility treatment](https://www.theguardian.com/whats-possible-ask-toronto/2023/sep/29/tiny-robots-giant-steps-how-nanotechnology-could-improve-cancer-and-fertility-treatment)
@@ -66,15 +89,6 @@
 - [The Invisible Body and the Suzuki Method of Actor Training](https://www.nineyearstheatre.com/en/abt-suzuki.php)
 - [The Craft of Acting, The Art of Acting and Their Relationship to the World of the Work](https://www.leaderu.com/humanities/craft_acting.html)
 
-### Biz Hack
-- [Alan Moore - Books (Good design!)](https://beautiful.business/books/)
-
-### Health
-- [Exposure to air pollution linked to increased risk of stroke within 5 days](https://medicalxpress.com/news/2023-09-exposure-air-pollution-linked-days.html)
-- [Restless nights? The weighted blanket that shoppers say helps them nod off in 'minutes' is on sale for less than £50 right now](https://www.dailymail.co.uk/shopping-uk/article-12531749/weighted-blanket-uk-adults-kuddly.html?ico=mail_best_commerce_xp_desktop)
-- [Getting Good Sleep Could Add Years to Your Life](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life)
-- [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
-
 ### Art
 - [Classical Realism SG - Art Classes](https://drawpaint-sg.com/classes/drawing-classes)
 - [Online Art Gallery - artsy](https://www.artsy.net/galleries)
@@ -86,6 +100,17 @@
 - [Jump Rope Federation Singapore](https://www.jrfs.org.sg/)
 - [Jump Rope CrossFit](https://www.sgjumpropeacademy.com/adult-crossfit-programmes)
 - [Umove - Calisthenics, Movement, Int'l Plaza](https://umovesg.com/)
+- [Exposure to air pollution linked to increased risk of stroke within 5 days](https://medicalxpress.com/news/2023-09-exposure-air-pollution-linked-days.html)
+- [Restless nights? The weighted blanket that shoppers say helps them nod off in 'minutes' is on sale for less than £50 right now](https://www.dailymail.co.uk/shopping-uk/article-12531749/weighted-blanket-uk-adults-kuddly.html?ico=mail_best_commerce_xp_desktop)
+- [Getting Good Sleep Could Add Years to Your Life](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life)
+- [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
+- [Max Snippet Model - T cell receptors](https://github.com/jostmey/msm)
+
+
+### Cybersecurity
+- [The Car Thieves Using Tech Disguised Inside Old Nokia Phones and Bluetooth Speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
+- [your home router SUCKS!! (use pfSense instead) - youtube](https://www.youtube.com/watch?v=lUzSsX4T4WQ)
+
 
 ### Finance
 - [Silicon Valley Bank gave the tech industry 40 years. The tech industry couldn't give Silicon Valley Bank 40 hours.](https://www.businessinsider.com/venture-capitalists-tech-founders-turned-on-silicon-valley-bank-2023-3)
