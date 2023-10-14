@@ -22,6 +22,9 @@
 - [Indieweb](https://indieweb.org/)
 ** - [Descript - tool for video, podcasts](https://www.descript.com/?lmref=kdA4Lw&gclid=EAIaIQobChMIgK33-7Dt_QIVeppmAh1X4ArdEAAYASAAEgKwqPD_BwE)
 - [debuild - build web apps fast](https://debuild.app/)
+- [ChatGPT-AutoExpert/System Prompts.md](https://github.com/spdustin/ChatGPT-AutoExpert/blob/main/System%20Prompts.md)
+- [Feature Selection With Practical Approach](https://pub.towardsai.net/feature-selection-with-practical-approach-13ea32b7a46f)
+- [scikit-learn - Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 
 ### Life hack
 - [Life of focus - Course, Scott Young, Cal Newport](https://www.life-of-focus-course.com/waitinglist.html)
@@ -63,6 +66,8 @@
 - [Depth Psychology in Work and Career Part I: Depth Psychology and the contributions of Sigmund Freud and C.G. Jung](https://www.pacificapost.com/depth-psychology-for-work-and-career-part-i-depth-psychology-and-the-contributions-of-sigmund-freud-and-c.g.-jung)
 - [Neuroscientists successfully test theory that forgetting is actually a form of learning](https://medicalxpress.com/news/2023-08-neuroscientists-successfully-theory.html)
 - [Learning Via Negativa](https://matt-rickard.com/learning-via-negativa)
+- [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
+
 
 ### Python
 - [Textual is a Rapid Application Development framework for Python.](https://github.com/Textualize/textual)
@@ -71,9 +76,9 @@
 ### Computer Lang
 - [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
 - [gubpy - interprete for subset of PYthon 3 in golang](https://github.com/realyixuan/gsubpy)
-
-
-
+- [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+- [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
+- [Fascination with AWK](https://maximullaris.com/awk.html)
 
 ### Nanotechnology
 - [Tiny robots, giant steps: how nanotechnology could improve cancer and fertility treatment](https://www.theguardian.com/whats-possible-ask-toronto/2023/sep/29/tiny-robots-giant-steps-how-nanotechnology-could-improve-cancer-and-fertility-treatment)
@@ -95,6 +100,8 @@
 
 ### Interesting
 - [Aluminum Foil Can Boost Your Wi-Fi Signal](https://www.tomsguide.com/us/aluminum-foil-wi-fi-extension,news-26097.html)
+- [Violent enough to stand still](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
+- [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
 
 ### Health, Fitness
 - [Jump Rope Federation Singapore](https://www.jrfs.org.sg/)
