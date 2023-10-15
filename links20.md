@@ -11,6 +11,7 @@
 - [“We’ll call it AI to Sell it, Machine Learning to Build it”](https://theaiunderwriter.substack.com/p/well-call-it-ai-to-sell-it-machine)
 - [runway - creativity with ai](https://runwayml.com/)
 - [dream - image ai](https://dream.ai/create)
+- [Kalman Filter from the grounds up - book](https://www.kalmanfilter.net/default.aspx)
 
 ### Web
 - [Extism - Easy to use WebAssembly](https://dylibso.com/blog/why-extism/)
@@ -26,6 +27,8 @@
 - [Feature Selection With Practical Approach](https://pub.towardsai.net/feature-selection-with-practical-approach-13ea32b7a46f)
 - [scikit-learn - Feature selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 
+
+
 ### Life hack
 - [Life of focus - Course, Scott Young, Cal Newport](https://www.life-of-focus-course.com/waitinglist.html)
 - [Meta Rediscovers the Cubicle - Cal Newport blog](https://calnewport.com/meta-rediscovers-the-cubicle/)
@@ -35,20 +38,32 @@
 ### Biz Hack
 - [Full Outbound Sales Process - Playbook](https://app.kickscale.com/share/DKBNQMywB9A6qPyFwDMl/FQLlkwPGib6jm8LyArIL?chapter-id=3b80fb32-e3d4-452d-97bd-d6e8beda87fe)
 - [Alan Moore - Books (Good design!)](https://beautiful.business/books/)
+- [Amazon Success Story: $1 Million Revenue, 0 Employees](https://dollarsanity.com/amazon-fba-selling-my-products/)
+- [SUCCESS ·RETURN TO OFFICE Returning to the office is costing you $51 per day, study finds](https://fortune.com/2023/10/11/return-to-office-costs-commuting-lunch/)
+- [HP CEO: The World has an unhealthy relationship with work](https://www.fastcompany.com/90962105/hp-ceo-the-world-has-an-unhealthy-relationship-with-work)
+- [It Is Time to End the War on Remote Work](https://www.usnews.com/opinion/articles/2023-10-03/it-is-time-to-end-the-war-on-remote-work)
 
 
 ### Software Engineering
 - [Smart Programmers Write STUPID Code](https://bdicroce.medium.com/smart-programmers-write-stupid-code-397765a14b14)
+- [Can't Be F*cked: Underrated Cause of Tech Debt](https://jesseduffield.com/Can%27t-Be-Fcked/)
+- [You are onboarding developers wrong! (Featuring Ambient Game Engine)](https://dickymirrors.substack.com/p/you-are-onboarding-developers-wrong)
+- [You should remove half of your documentation](https://blog.orsinium.dev/posts/misc/docs/)
+
+### Computer Lang
+- [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
+- [gubpy - interprete for subset of PYthon 3 in golang](https://github.com/realyixuan/gsubpy)
+- [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
+- [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
+- [Fascination with AWK](https://maximullaris.com/awk.html)
+
+### Python
+- [Textual is a Rapid Application Development framework for Python.](https://github.com/Textualize/textual)
+- [PyHAT: Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
 
 ### Game Dev
 - [The missing middle in game development](https://howtomarketagame.com/2023/09/28/the-missing-middle-in-game-development/)
 - [Show HN: The full source code and assets for my custom game engine and game](https://news.ycombinator.com/item?id=36672183)
-
-
-### Writing
-- [LaTeX eBook](https://github.com/AnMnv/eBook)
-- [Livebook - Interactive notebooks with code and data](https://livebook.dev/)
-- [Starting to dip your toe into Self Publishing](https://www.youtube.com/watch?v=fZlAOSGrROE)
 
 ### Graphics
 - [Nvidia - Omniverse](https://www.nvidia.com/en-us/omniverse/apps/usd-composer/)
@@ -57,6 +72,11 @@
 - [The speed of containers, the security of VMs](https://katacontainers.io/)
 - [DevOps uses a capability model, not a maturity model](https://octopus.com/blog/devops-uses-capability-not-maturity)
 
+### Writing
+- [LaTeX eBook](https://github.com/AnMnv/eBook)
+- [Livebook - Interactive notebooks with code and data](https://livebook.dev/)
+- [Starting to dip your toe into Self Publishing](https://www.youtube.com/watch?v=fZlAOSGrROE)
+- [The Art of Communication Design](https://medium.com/@mseckington/the-art-of-communication-design-intro-54a822efab34)
 
 ### Psychology
 - [M.A./Ph.D. in Depth Psychology with Specialization in Jungian Psychology and Archetypal Studies](https://www.pacifica.edu/degree-program/jungian-psychology-archetypal-studies/)
@@ -67,18 +87,20 @@
 - [Neuroscientists successfully test theory that forgetting is actually a form of learning](https://medicalxpress.com/news/2023-08-neuroscientists-successfully-theory.html)
 - [Learning Via Negativa](https://matt-rickard.com/learning-via-negativa)
 - [To Supercharge Learning, Look to Play](https://nautil.us/to-supercharge-learning-look-to-play-292946/)
+- [On The Experience of Being Poor-ish, For People Who Aren't](https://www.residentcontrarian.com/p/on-the-experience-of-being-poor-ish)
 
 
-### Python
-- [Textual is a Rapid Application Development framework for Python.](https://github.com/Textualize/textual)
-- [PyHAT: Awesome Python htmx](https://github.com/PyHAT-stack/awesome-python-htmx)
+### Free Books!
+- [Open Textbook Library](https://open.umn.edu/opentextbooks)
+- [Python for Everybody - free book](https://www.py4e.com/lessons)
+- [Automate the Boring Stuff with Python - free book](https://automatetheboringstuff.com/)
+- [Python 3 Patterns, Recipes, and Idioms - free book](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
+- [Clean Architectures in Python - free book](https://leanpub.com/clean-architectures-in-python)
+- [Python Data Science Handbook - free book](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-### Computer Lang
-- [Avoiding Pitfalls in Go](https://www.dolthub.com/blog/2023-08-16-go-pitfalls/)
-- [gubpy - interprete for subset of PYthon 3 in golang](https://github.com/realyixuan/gsubpy)
-- [Implementing a GPU's Programming Model on a CPU](http://litherum.blogspot.com/2023/10/implementing-gpus-programming-model-on.html)
-- [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html)
-- [Fascination with AWK](https://maximullaris.com/awk.html)
+### Teaching, pedagogy, adrogogy
+- [The Misunderstanding About Education That Cost Mark Zuckerberg $100 Million](https://danmeyer.substack.com/p/the-misunderstanding-about-education)
+
 
 ### Nanotechnology
 - [Tiny robots, giant steps: how nanotechnology could improve cancer and fertility treatment](https://www.theguardian.com/whats-possible-ask-toronto/2023/sep/29/tiny-robots-giant-steps-how-nanotechnology-could-improve-cancer-and-fertility-treatment)
@@ -102,6 +124,8 @@
 - [Aluminum Foil Can Boost Your Wi-Fi Signal](https://www.tomsguide.com/us/aluminum-foil-wi-fi-extension,news-26097.html)
 - [Violent enough to stand still](https://woodfromeden.substack.com/p/violent-enough-to-stand-still)
 - [The age of average](https://www.alexmurrell.co.uk/articles/the-age-of-average)
+- [Enshittification](https://en.wikipedia.org/wiki/Enshittification)
+
 
 ### Health, Fitness
 - [Jump Rope Federation Singapore](https://www.jrfs.org.sg/)
@@ -112,7 +136,11 @@
 - [Getting Good Sleep Could Add Years to Your Life](https://www.acc.org/About-ACC/Press-Releases/2023/02/22/21/35/Getting-Good-Sleep-Could-Add-Years-to-Your-Life)
 - [Flipping the model presents a new way to treat sleep apnoea](https://news.flinders.edu.au/blog/2023/08/08/flipping-the-model-presents-a-new-way-to-treat-sleep-apnoea/)
 - [Max Snippet Model - T cell receptors](https://github.com/jostmey/msm)
+- [Calorie restriction in humans builds strong muscle and stimulates healthy aging genes](https://www.nih.gov/news-events/news-releases/calorie-restriction-humans-builds-strong-muscle-stimulates-healthy-aging-genes)
+- [Humid Heat Can Kill Us Much Faster Than We Thought](https://nautil.us/humid-heat-can-kill-us-much-faster-than-we-thought-415997/)
 
+### Scientific Method
+- [Reproducibility trial: 246 biologists get different results from same data sets](https://www.nature.com/articles/d41586-023-03177-1)
 
 ### Cybersecurity
 - [The Car Thieves Using Tech Disguised Inside Old Nokia Phones and Bluetooth Speakers](https://www.vice.com/en/article/v7beyj/car-thieves-tech-hidden-old-nokia-phones-bluetooth-speakers-emergency-engine-start-keyless)
@@ -121,6 +149,8 @@
 
 ### Finance
 - [Silicon Valley Bank gave the tech industry 40 years. The tech industry couldn't give Silicon Valley Bank 40 hours.](https://www.businessinsider.com/venture-capitalists-tech-founders-turned-on-silicon-valley-bank-2023-3)
+- [JP Morgan's Jamie Dimon warns world facing 'most dangerous time in decades'](https://www.bbc.com/news/business-67104734)
+
 
 ### Spiritual
 - [The Here And Now Breathing Practice: How A Spiritual Cliché Can Become Your Embodied Reality - Book](https://www.amazon.co.uk/Here-Now-Breathing-Practice-Spiritual-ebook/dp/B094JJJ4SN/ref=tmm_kin_title_0?_encoding=UTF8&qid=&sr=)
