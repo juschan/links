@@ -26,7 +26,7 @@
 - [This new technology could blow away GPT-4 and everything like it ](https://www.zdnet.com/article/this-new-technology-could-blow-away-gpt-4-and-everything-like-it/)
 - [The Anatomy of Autonomy: Why Agents are the next AI Killer App after ChatGPT](https://www.latent.space/p/agents)
 - [Generative AI: The Global debate and controversies on use of copyrighted content as training data](https://unctad.org/news/cstd-dialogue-anthony-wong)
-- [Content and controversy in generative AI models](h[ttps://www.emergentmind.com/posts/content-and-controversy](https://www.marble.onl/posts/content-and-controversy-in-generative-ai.html?ref=emergentmind))
+- [Content and controversy in generative AI models](https://www.marble.onl/posts/content-and-controversy-in-generative-ai.html?ref=emergentmind))
 - [What Are Transformer Models and How Do They Work?](https://txt.cohere.com/what-are-transformer-models/)
 - [The Decade of Deep Learning ](https://bmk.sh/2019/12/31/The-Decade-of-Deep-Learning/)
 - [We need to tell people ChatGPT will lie to them, not debate linguistics](https://simonwillison.net/2023/Apr/7/chatgpt-lies/)
@@ -151,6 +151,8 @@
 - [Shirley Jackson - Wiki](https://en.wikipedia.org/wiki/Shirley_Jackson)
 - [‘She exposed the fragility of so-called civilised life’: why Shirley Jackson’s horror speaks to our times](https://www.theguardian.com/books/2023/oct/21/why-shirley-jackson-horror-speaks-to-our-times-the-haunting-of-hill-house)
 - [Octavia E. Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)
+- [Jes - weird blog](https://j3s.sh/)
+
 
 ### Psychology
 - [M.A./Ph.D. in Depth Psychology with Specialization in Jungian Psychology and Archetypal Studies](https://www.pacifica.edu/degree-program/jungian-psychology-archetypal-studies/)
@@ -242,7 +244,7 @@
 - [October 2023 Newsletter: Rising Instability](https://www.lynalden.com/october-2023-newsletter/)
 - [Nintendo Will Pay Its Workers 10% More](https://www.gamespot.com/articles/nintendo-will-pay-its-workers-10-more/1100-6511268/)
 - [Merger & Acquisition Failures](https://monkeynoodle.org/2018/08/12/merger-acquisition-failures/)
-
+- [Canada is considering a guaranteed universal basic income program. Here’s what that means](https://www.thestar.com/news/canada/canada-is-considering-a-guaranteed-universal-basic-income-program-here-s-what-that-means/article_98a4ee99-150c-50b5-8867-0203efc51520.html)
 
 ### Spiritual
 - [The Here And Now Breathing Practice: How A Spiritual Cliché Can Become Your Embodied Reality - Book](https://www.amazon.co.uk/Here-Now-Breathing-Practice-Spiritual-ebook/dp/B094JJJ4SN/ref=tmm_kin_title_0?_encoding=UTF8&qid=&sr=)
