@@ -4,6 +4,12 @@
 - [BloombergGPT - youtube](https://www.youtube.com/watch?v=m2Scj2SO85Y)
 - [Tiny Language Models Come of Age](https://www.quantamagazine.org/tiny-language-models-thrive-with-gpt-4-as-a-teacher-20231005/)
 - [I’m not a programmer, and I used AI to build my first bot ](https://blog.replit.com/building-my-first-slack-bot)
+- [talk-llama](https://github.com/ggerganov/whisper.cpp/tree/master/examples/talk-llama)
+- [How AI detectors can destroy innocent writers' livelihoods](https://authory.com/blog/how-ai-detectors-are-destroying-livelihoods)
+- [LangChain Templates](https://github.com/langchain-ai/langchain/tree/master/templates)
+- [Scarlett Johansson takes legal action against use of image for AI](https://www.theguardian.com/film/2023/nov/01/scarlett-johansson-artificial-intelligence-ad)
+- [phind - AI Search engine, pair programmer!](https://www.phind.com/)
+- [Announcing v0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
 
 
 ### Life Hack
@@ -17,15 +23,31 @@
 ### Biz Hack
 - [How I stay motivated as a solo-creator ](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 - [Colter Johnson - youtube channel, sales](https://www.youtube.com/@theteammemberperspective/about)
+- [I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
+- [Wildcloud - productize your digital agency](https://wildcloud.com/opt-in/?utm_feeditemid=&utm_device=c&utm_source=google&utm_medium=ppc&utm_campaign=20518972540&utm_term=&hsa_cam=20518972540&hsa_grp=160347380132&hsa_mt=&hsa_src=ytv&hsa_ad=678948255086&hsa_acc=6277547105&hsa_net=adwords&hsa_kw=&hsa_tgt=&hsa_ver=3&gclid=EAIaIQobChMIsLqr6NygggMVEq6OCh1DLgBoEAEYASAAEgKktfD_BwE)
 
 ### Software Engineering
+- [The Grug Brained Developer](https://grugbrain.dev/)
+- [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
+- [Flawless Dev - Execution Engine for durable computation](https://flawless.dev/)
+- [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
+
+### Data, Database
+- [DoltgreSQL is Dolt for Postgres! - version control](https://github.com/dolthub/doltgresql)
+- [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
+- [Cybersyn Consumer Spending Dashboard](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/cybersyn-inc-cybersyn-consumer-spending-dashboard)
+
 
 ### Tools
 - [Hack your brain with Obsidian.md](https://www.youtube.com/watch?v=DbsAQSIKQXk)
-
+- [Grist - relational spreadsheet, Python](https://github.com/gristlabs/grist-core#grist)
+- [Dot by New Computer](https://new.computer/)
+- [Looking inside ROScribe and the idea of LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
 
 ### Web
 - [Webflow Conf 2023 Keynote](https://www.youtube.com/watch?v=Dfplt-jbp9o)
+- [htmx, Rust & Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
+
 
 ### IT
 - [CompTIA Network+ Full Course FREE - youtube](https://www.youtube.com/watch?v=xmpYfyNmWbw)
@@ -47,6 +69,13 @@
 - [The Mini PC You SHOULD Be Looking At - youtube, HP EliteDesk](https://www.youtube.com/watch?v=amVP96OYfUg)
 - [The Sigma: The Most Powerful Single Board Windows PC - youtube](https://www.youtube.com/watch?v=ggy378_K9Zg)
 
+### Games
+- [Cave Engine](https://unidaystudio.itch.io/cave-engine)
+
+### Cryptography, Security
+- [CRYSTALS - Dilithium - Java implementation of algorithm](https://github.com/mthiim/dilithium-java)
+
+
 ### Computer Science
 - [Harvard CS50 – Full Computer Science University Course - youtube](https://www.youtube.com/watch?v=8mAITcNt710)
 
@@ -54,13 +83,30 @@
 - [What is acting natural? With John Turturro - Thirdwing](https://www.youtube.com/watch?v=3OFZgIp5pAo)
 - [How to find your character's mind - John Turturro on acting - Thirdwing](https://www.youtube.com/watch?v=p2roo0a5ykM)
 
+### Interesting
+- [The Business of Extracting Knowledge from Academic Publications](https://www.theseedsofscience.pub/p/the-business-of-extracting-knowledge)
+- [Ikkyū in Hell: Skeletons (1692) ](https://publicdomainreview.org/collection/ikkyu-in-hell/)
+- [The Creepy New Digital Afterlife Industry](https://spectrum.ieee.org/digital-afterlife)
+- [Toyota has built an EV with a fake transmission, and we’ve driven it](https://arstechnica.com/cars/2023/10/toyota-has-built-an-ev-with-a-fake-transmission-and-weve-driven-it/)
+- [Stackfix - help you buy/evaluate software. Free!](https://www.stackfix.com/about)
+
+### Health, Fitnes
+- [Improving deep sleep may prevent dementia, study finds ](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
+** - [Ido Portal](https://www.idoportal.com/)
+- [BodyTree Academy - pilates](https://www.bodytreeacademy.com/partnerships)
+
+### Art
+- [Black 4.0 - paint](https://www.culturehustleusa.com/products/black-4-0)
+- [The World’s Most Popular Painter Sent His Followers After Me Because He Didn’t Like a Review of His Work. Here’s What I Learned](https://news.artnet.com/opinion/devon-rodriguez-parasocial-aesthetics-2380960)
 
 ### Writing
 - [Lecture #11: Taking Notes Effectively - which words should you write down?](https://www.youtube.com/watch?v=ATmJb3bH2E0)
+- [ON KEEPING A LOGBOOK](https://austinkleon.com/2010/01/31/logbook/)
+
 
 ### Psychology, Mental Health
 - [Crappy Childhood Fairy](https://www.youtube.com/@CrappyChildhoodFairy)
-
+- [heena Josselyn, neuroscientist: ‘Eliminating a memory is fairly simple, once you have the right tools](https://english.elpais.com/science-tech/2023-10-30/sheena-josselyn-neuroscientist-eliminating-a-memory-is-fairly-simple-once-you-have-the-right-tools.html)
 
 ### Spiritual
 - [Rajan Shankara - LinkedIn](https://www.linkedin.com/in/rajan-shankara-051b92171)
