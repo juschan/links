@@ -10,7 +10,9 @@
 - [Scarlett Johansson takes legal action against use of image for AI](https://www.theguardian.com/film/2023/nov/01/scarlett-johansson-artificial-intelligence-ad)
 - [phind - AI Search engine, pair programmer!](https://www.phind.com/)
 - [Announcing v0: Generative UI](https://vercel.com/blog/announcing-v0-generative-ui)
-
+- [What's the difference between LangChain, llama indexand others like autollm?](https://news.ycombinator.com/item?id=38126764)
+- [How Big Data Carried Graph Theory Into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
+- [Artists may “poison” AI models before Copyright Office can issue guidance](https://arstechnica.com/tech-policy/2023/11/artists-may-poison-ai-models-before-copyright-office-can-issue-guidance/)
 
 ### Life Hack
 - [How To Be Stoic During An Argument - youtube](https://www.youtube.com/watch?v=lgXqaS08ZqM)
@@ -19,18 +21,24 @@
 - [This Is Why You're Not Disciplined - youtube, competing interests](https://www.youtube.com/watch?v=xkd36cJ6Z78)
 - [Peaks and Valleys - youtube book review](https://www.youtube.com/watch?v=M_PGVGV2AYY)
 - [Trust your struggle | Zain Asher | TEDxEuston](https://www.youtube.com/watch?v=BT2XlI8oeh0)
+- [Cultivate the Skill of Undivided Attention, or “Deep Work”](https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/)
+
 
 ### Biz Hack
 - [How I stay motivated as a solo-creator ](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
 - [Colter Johnson - youtube channel, sales](https://www.youtube.com/@theteammemberperspective/about)
 - [I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 - [Wildcloud - productize your digital agency](https://wildcloud.com/opt-in/?utm_feeditemid=&utm_device=c&utm_source=google&utm_medium=ppc&utm_campaign=20518972540&utm_term=&hsa_cam=20518972540&hsa_grp=160347380132&hsa_mt=&hsa_src=ytv&hsa_ad=678948255086&hsa_acc=6277547105&hsa_net=adwords&hsa_kw=&hsa_tgt=&hsa_ver=3&gclid=EAIaIQobChMIsLqr6NygggMVEq6OCh1DLgBoEAEYASAAEgKktfD_BwE)
+- [http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html#slide-2](http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html)
+
 
 ### Software Engineering
 - [The Grug Brained Developer](https://grugbrain.dev/)
 - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 - [Flawless Dev - Execution Engine for durable computation](https://flawless.dev/)
 - [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
+- [musl libc](https://musl.libc.org/)
+
 
 ### Data, Database
 - [DoltgreSQL is Dolt for Postgres! - version control](https://github.com/dolthub/doltgresql)
@@ -43,10 +51,17 @@
 - [Grist - relational spreadsheet, Python](https://github.com/gristlabs/grist-core#grist)
 - [Dot by New Computer](https://new.computer/)
 - [Looking inside ROScribe and the idea of LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
+- [jeykll - GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+
+### Computer Languages
+- [Things I like about Zig as a Go Programmer](https://medium.com/@vladimirvivien/things-i-like-about-zig-as-a-go-programmer-75eb02aab00f)
+
 
 ### Web
 - [Webflow Conf 2023 Keynote](https://www.youtube.com/watch?v=Dfplt-jbp9o)
 - [htmx, Rust & Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
+- [The Future of RSS is Textcasting](https://kottke.org/23/11/the-future-of-rss-is-textcasting-1)
+- [Introducing Spin 2.0](https://www.fermyon.com/blog/introducing-spin-v2)
 
 
 ### IT
@@ -68,6 +83,7 @@
 - [How to Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion](https://www.youtube.com/watch?v=Yw7yWHigGKI)
 - [The Mini PC You SHOULD Be Looking At - youtube, HP EliteDesk](https://www.youtube.com/watch?v=amVP96OYfUg)
 - [The Sigma: The Most Powerful Single Board Windows PC - youtube](https://www.youtube.com/watch?v=ggy378_K9Zg)
+- [Write your own tiny programming system(s)!](https://d3s.mff.cuni.cz/teaching/nprg077/)
 
 ### Games
 - [Cave Engine](https://unidaystudio.itch.io/cave-engine)
@@ -89,6 +105,8 @@
 - [The Creepy New Digital Afterlife Industry](https://spectrum.ieee.org/digital-afterlife)
 - [Toyota has built an EV with a fake transmission, and we’ve driven it](https://arstechnica.com/cars/2023/10/toyota-has-built-an-ev-with-a-fake-transmission-and-weve-driven-it/)
 - [Stackfix - help you buy/evaluate software. Free!](https://www.stackfix.com/about)
+- [‘We are just getting started’: the plastic-eating bacteria that could change the world](https://www.theguardian.com/environment/2023/sep/28/plastic-eating-bacteria-enzyme-recycling-waste)
+
 
 ### Health, Fitnes
 - [Improving deep sleep may prevent dementia, study finds ](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
