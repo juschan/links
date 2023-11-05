@@ -30,6 +30,8 @@
 - [I Accidentally Saved Half A Million Dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 - [Wildcloud - productize your digital agency](https://wildcloud.com/opt-in/?utm_feeditemid=&utm_device=c&utm_source=google&utm_medium=ppc&utm_campaign=20518972540&utm_term=&hsa_cam=20518972540&hsa_grp=160347380132&hsa_mt=&hsa_src=ytv&hsa_ad=678948255086&hsa_acc=6277547105&hsa_net=adwords&hsa_kw=&hsa_tgt=&hsa_ver=3&gclid=EAIaIQobChMIsLqr6NygggMVEq6OCh1DLgBoEAEYASAAEgKktfD_BwE)
 - [http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html#slide-2](http://mike.daless.io/prez/enterprise-asbury-2013-10/slides.html)
+- [Why you should add friction to your onboarding](https://wraptext.equals.com/why-you-should-add-friction-to-your-onboarding/)
+- [Don't Justify Your Prices. Do This Instead. - youtube](https://www.youtube.com/watch?v=Abi8kwkfZbA)
 
 
 ### Software Engineering
@@ -44,6 +46,9 @@
 - [DoltgreSQL is Dolt for Postgres! - version control](https://github.com/dolthub/doltgresql)
 - [The Ten Rules of Schema Growth](https://blog.datomic.com/2017/01/the-ten-rules-of-schema-growth.html)
 - [Cybersyn Consumer Spending Dashboard](https://app.snowflake.com/marketplace/listing/GZTSZ290BUX40/cybersyn-inc-cybersyn-consumer-spending-dashboard)
+
+### Project Mgt, Agile, Scrum
+- [Scrum in 20 mins... (with examples) - youtube](https://www.youtube.com/watch?v=SWDhGSZNF9M)
 
 
 ### Tools
@@ -112,6 +117,8 @@
 - [Improving deep sleep may prevent dementia, study finds ](https://www.monash.edu/news/articles/improving-deep-sleep-may-prevent-dementia,-study-finds)
 ** - [Ido Portal](https://www.idoportal.com/)
 - [BodyTree Academy - pilates](https://www.bodytreeacademy.com/partnerships)
+- [How sleeping too little can increase your cancer risk](https://cnalifestyle.channelnewsasia.com/wellness/insomnia-cancer-lack-sleep-373216)
+
 
 ### Art
 - [Black 4.0 - paint](https://www.culturehustleusa.com/products/black-4-0)
