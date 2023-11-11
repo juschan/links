@@ -13,6 +13,8 @@
 - [What's the difference between LangChain, llama indexand others like autollm?](https://news.ycombinator.com/item?id=38126764)
 - [How Big Data Carried Graph Theory Into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 - [Artists may “poison” AI models before Copyright Office can issue guidance](https://arstechnica.com/tech-policy/2023/11/artists-may-poison-ai-models-before-copyright-office-can-issue-guidance/)
+- [> Prompts](https://github.com/terkelg/prompts)
+** - [Knowledge One - teaching business ethics through interactive moral dilemmas](https://knowledgeone.ca/)
 
 ### Life Hack
 - [How To Be Stoic During An Argument - youtube](https://www.youtube.com/watch?v=lgXqaS08ZqM)
@@ -57,10 +59,12 @@
 - [Dot by New Computer](https://new.computer/)
 - [Looking inside ROScribe and the idea of LLM-based robotic platform](https://discourse.ros.org/t/looking-inside-roscribe-and-the-idea-of-llm-based-robotic-platform/34298)
 - [jeykll - GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [ko: Easy Go Containers](https://ko.build/)
+
 
 ### Computer Languages
 - [Things I like about Zig as a Go Programmer](https://medium.com/@vladimirvivien/things-i-like-about-zig-as-a-go-programmer-75eb02aab00f)
-
+- [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
 
 ### Web
 - [Webflow Conf 2023 Keynote](https://www.youtube.com/watch?v=Dfplt-jbp9o)
@@ -127,6 +131,9 @@
 ### Writing
 - [Lecture #11: Taking Notes Effectively - which words should you write down?](https://www.youtube.com/watch?v=ATmJb3bH2E0)
 - [ON KEEPING A LOGBOOK](https://austinkleon.com/2010/01/31/logbook/)
+
+### Knowledge Mgt
+- [The open-stack library: a futuristic technology from the 18th century ](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
 
 
 ### Psychology, Mental Health
