@@ -15,6 +15,8 @@
 - [Artists may “poison” AI models before Copyright Office can issue guidance](https://arstechnica.com/tech-policy/2023/11/artists-may-poison-ai-models-before-copyright-office-can-issue-guidance/)
 - [> Prompts](https://github.com/terkelg/prompts)
 ** - [Knowledge One - teaching business ethics through interactive moral dilemmas](https://knowledgeone.ca/)
+- [Fast and Portable Llama2 Inference on the Heterogeneous Edge](https://www.secondstate.io/articles/fast-llm-inference/)
+- [Get Into AI: The Only Relevant Guide, By Experts (2023)](https://guides.ai/how-to-get-into-ai/)
 
 ### Life Hack
 - [How To Be Stoic During An Argument - youtube](https://www.youtube.com/watch?v=lgXqaS08ZqM)
@@ -36,13 +38,16 @@
 - [Don't Justify Your Prices. Do This Instead. - youtube](https://www.youtube.com/watch?v=Abi8kwkfZbA)
 
 
+### Eng Mgt
+- [My favorite coding question to give candidates](https://carloarg02.medium.com/my-favorite-coding-question-to-give-candidates-17ea4758880c)
+
 ### Software Engineering
 - [The Grug Brained Developer](https://grugbrain.dev/)
 - [The beauty of finished software](https://josem.co/the-beauty-of-finished-software/)
 - [Flawless Dev - Execution Engine for durable computation](https://flawless.dev/)
 - [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 - [musl libc](https://musl.libc.org/)
-
+- [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
 
 ### Data, Database
 - [DoltgreSQL is Dolt for Postgres! - version control](https://github.com/dolthub/doltgresql)
@@ -51,7 +56,7 @@
 
 ### Project Mgt, Agile, Scrum
 - [Scrum in 20 mins... (with examples) - youtube](https://www.youtube.com/watch?v=SWDhGSZNF9M)
-
+- [The Agile Manifesto has stood the test of time, says its co-author Jon Kern](https://shiftmag.dev/the-agile-manifesto-jon-kern-1810/)
 
 ### Tools
 - [Hack your brain with Obsidian.md](https://www.youtube.com/watch?v=DbsAQSIKQXk)
@@ -103,6 +108,8 @@
 
 ### Computer Science
 - [Harvard CS50 – Full Computer Science University Course - youtube](https://www.youtube.com/watch?v=8mAITcNt710)
+- [A quick look at destination-driven code generation](https://bernsteinbear.com/blog/ddcg/)
+
 
 ### Acting
 - [What is acting natural? With John Turturro - Thirdwing](https://www.youtube.com/watch?v=3OFZgIp5pAo)
@@ -115,6 +122,8 @@
 - [Toyota has built an EV with a fake transmission, and we’ve driven it](https://arstechnica.com/cars/2023/10/toyota-has-built-an-ev-with-a-fake-transmission-and-weve-driven-it/)
 - [Stackfix - help you buy/evaluate software. Free!](https://www.stackfix.com/about)
 - [‘We are just getting started’: the plastic-eating bacteria that could change the world](https://www.theguardian.com/environment/2023/sep/28/plastic-eating-bacteria-enzyme-recycling-waste)
+- [Porsche Open Source Platform](https://opensource.porsche.com/)
+- [What I Know About Community Building](https://medium.com/swlh/what-i-know-about-community-building-939aeac0aa7)
 
 
 ### Health, Fitnes
@@ -131,6 +140,8 @@
 ### Writing
 - [Lecture #11: Taking Notes Effectively - which words should you write down?](https://www.youtube.com/watch?v=ATmJb3bH2E0)
 - [ON KEEPING A LOGBOOK](https://austinkleon.com/2010/01/31/logbook/)
+- [0x4 reasons to write and publish](https://fabiensanglard.net/blog/)
+- [Data Oriented Blogging](https://matklad.github.io/2023/11/07/dta-oriented-blogging.html)
 
 ### Knowledge Mgt
 - [The open-stack library: a futuristic technology from the 18th century ](https://resobscura.substack.com/p/the-open-stack-library-a-futuristic)
