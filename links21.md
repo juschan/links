@@ -17,6 +17,10 @@
 ** - [Knowledge One - teaching business ethics through interactive moral dilemmas](https://knowledgeone.ca/)
 - [Fast and Portable Llama2 Inference on the Heterogeneous Edge](https://www.secondstate.io/articles/fast-llm-inference/)
 - [Get Into AI: The Only Relevant Guide, By Experts (2023)](https://guides.ai/how-to-get-into-ai/)
+- [UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
+
+
+
 
 ### Life Hack
 - [How To Be Stoic During An Argument - youtube](https://www.youtube.com/watch?v=lgXqaS08ZqM)
@@ -131,6 +135,12 @@
 ** - [Ido Portal](https://www.idoportal.com/)
 - [BodyTree Academy - pilates](https://www.bodytreeacademy.com/partnerships)
 - [How sleeping too little can increase your cancer risk](https://cnalifestyle.channelnewsasia.com/wellness/insomnia-cancer-lack-sleep-373216)
+- [2 cups of local kopi a day may reduce Parkinson's disease risk by up to 8 times, according to new study](https://cnalifestyle.channelnewsasia.com/wellness/parkinsons-disease-coffee-effects-372341?cid=internal_mcdrecs_16112023_cnalifestyle#mdcrecs_s)
+
+### Courses/Training
+- [NCSF Singapore PT training](https://www.personaltrainercertification.com.sg/certified-personal-trainer)
+- [Origym UK PT training](https://origympersonaltrainercourses.co.uk/course/teaching-assessing-course)
+- [YMCAFit - UK PT training](https://www.ymcafit.org.uk/start-fitness-career/exercise-to-music-instructor/)
 
 
 ### Art
