@@ -18,7 +18,7 @@
 - [Fast and Portable Llama2 Inference on the Heterogeneous Edge](https://www.secondstate.io/articles/fast-llm-inference/)
 - [Get Into AI: The Only Relevant Guide, By Experts (2023)](https://guides.ai/how-to-get-into-ai/)
 - [UnitedHealth uses AI model with 90% error rate to deny care, lawsuit alleges](https://arstechnica.com/health/2023/11/ai-with-90-error-rate-forces-elderly-out-of-rehab-nursing-homes-suit-claims/)
-
+- [Recipes and Generative AI](https://engineering.hellofresh.com/recipes-and-generative-ai-6d74a107860c)
 
 
 
@@ -30,7 +30,7 @@
 - [Peaks and Valleys - youtube book review](https://www.youtube.com/watch?v=M_PGVGV2AYY)
 - [Trust your struggle | Zain Asher | TEDxEuston](https://www.youtube.com/watch?v=BT2XlI8oeh0)
 - [Cultivate the Skill of Undivided Attention, or “Deep Work”](https://letterstoanewdeveloper.com/2019/12/19/cultivate-the-skill-of-undivided-attention-or-deep-work/)
-
+- [The Trouble with Books](https://arnoldkling.substack.com/p/the-trouble-with-books)
 
 ### Biz Hack
 - [How I stay motivated as a solo-creator ](https://herman.bearblog.dev/how-i-stay-motivated-as-a-solo-creator/)
@@ -52,6 +52,8 @@
 - [The Heaviness of Maintaining Systems](https://pcable.net/posts/2020-02-29-heaviness-of-systems/)
 - [musl libc](https://musl.libc.org/)
 - [GitHub Actions are a Problem](https://felix-knorr.net/posts/2023-11-11-github-actions.html)
+- [10 hard-to-swallow truths they won't tell you about software engineer job](https://www.mensurdurakovic.com/hard-to-swallow-truths-they-wont-tell-you-about-software-engineer-job/)
+
 
 ### Data, Database
 - [DoltgreSQL is Dolt for Postgres! - version control](https://github.com/dolthub/doltgresql)
@@ -61,6 +63,8 @@
 ### Project Mgt, Agile, Scrum
 - [Scrum in 20 mins... (with examples) - youtube](https://www.youtube.com/watch?v=SWDhGSZNF9M)
 - [The Agile Manifesto has stood the test of time, says its co-author Jon Kern](https://shiftmag.dev/the-agile-manifesto-jon-kern-1810/)
+- [Your Small Imprecise Ask Is a Big Waste of Their Time](https://staysaasy.com/startups/2023/11/10/imprecise-asks.html)
+
 
 ### Tools
 - [Hack your brain with Obsidian.md](https://www.youtube.com/watch?v=DbsAQSIKQXk)
@@ -71,16 +75,17 @@
 - [ko: Easy Go Containers](https://ko.build/)
 
 
-### Computer Languages
+### Computer Languages, compilers, interpreters
 - [Things I like about Zig as a Go Programmer](https://medium.com/@vladimirvivien/things-i-like-about-zig-as-a-go-programmer-75eb02aab00f)
 - [Writing a Compiler is Surprisingly Easy (part 1)](http://sebmestre.blogspot.com/2023/11/en-writing-compiler-is-surprisingly.html)
+- [Running the “Reflections on Trusting Trust” Compiler ](https://research.swtch.com/nih)
 
 ### Web
 - [Webflow Conf 2023 Keynote](https://www.youtube.com/watch?v=Dfplt-jbp9o)
 - [htmx, Rust & Shuttle: A New Rapid Prototyping Stack](https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust)
 - [The Future of RSS is Textcasting](https://kottke.org/23/11/the-future-of-rss-is-textcasting-1)
 - [Introducing Spin 2.0](https://www.fermyon.com/blog/introducing-spin-v2)
-
+- [Data Oriented Blogging](https://matklad.github.io/2023/11/07/dta-oriented-blogging.html)
 
 ### IT
 - [CompTIA Network+ Full Course FREE - youtube](https://www.youtube.com/watch?v=xmpYfyNmWbw)
@@ -136,6 +141,8 @@
 - [BodyTree Academy - pilates](https://www.bodytreeacademy.com/partnerships)
 - [How sleeping too little can increase your cancer risk](https://cnalifestyle.channelnewsasia.com/wellness/insomnia-cancer-lack-sleep-373216)
 - [2 cups of local kopi a day may reduce Parkinson's disease risk by up to 8 times, according to new study](https://cnalifestyle.channelnewsasia.com/wellness/parkinsons-disease-coffee-effects-372341?cid=internal_mcdrecs_16112023_cnalifestyle#mdcrecs_s)
+- [British Sauna Society](https://www.britishsaunasociety.org.uk/)
+
 
 ### Courses/Training
 - [NCSF Singapore PT training](https://www.personaltrainercertification.com.sg/certified-personal-trainer)
@@ -160,6 +167,8 @@
 ### Psychology, Mental Health
 - [Crappy Childhood Fairy](https://www.youtube.com/@CrappyChildhoodFairy)
 - [heena Josselyn, neuroscientist: ‘Eliminating a memory is fairly simple, once you have the right tools](https://english.elpais.com/science-tech/2023-10-30/sheena-josselyn-neuroscientist-eliminating-a-memory-is-fairly-simple-once-you-have-the-right-tools.html)
+- [OH Cards](https://oh-cards.com/)
+- [OH Cards Institute](https://www.oh-cards-institute.org/)
 
 ### Spiritual
 - [Rajan Shankara - LinkedIn](https://www.linkedin.com/in/rajan-shankara-051b92171)
