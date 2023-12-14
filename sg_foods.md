@@ -8,3 +8,7 @@
 
 ### Tampines
 - [Colourful 'Bacha coffee-inspired' croissants from S$2.50 at Muslim-owned HDB bakery](https://www.todayonline.com/8days/colourful-bacha-coffee-inspired-croissants-s250-muslim-owned-hdb-bakery-2272921)
+
+
+### Tanjong Pagar
+- [Meet Paul](https://www.facebook.com/p/Meet-Paul-100043399673711/)
