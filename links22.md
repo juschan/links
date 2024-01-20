@@ -27,16 +27,56 @@
 - [The State of Silicon and the GPU Poors - with Dylan Patel of SemiAnalysis](https://podcasts.apple.com/gb/podcast/the-state-of-silicon-and-the-gpu/id1674008350?i=1000635213033)
 - [How to Build Your Own AI-Generated Image with ControlNet and Stable Diffusion](https://www.datature.io/blog/how-to-build-your-own-ai-generated-image-with-controlnet-and-stable-diffusion)
 - [5 easy ways to run an LLM locally](https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html)
+- [Joe Rogan: "I Wasn't Afraid of AI Until I Learned This"](https://www.youtube.com/watch?v=2yd18z6iSyk)
+- [Copilot for Microsoft 365 How it REALLY Works!](https://www.youtube.com/watch?v=F5wfOhnj0IU)
+- [Anthropic and Mistral Models Now Available Through Superpowered AI: LLM Application Webinar](https://www.youtube.com/watch?v=OuLWLoCoASU)
+- [LangChain Version 0.1.0 Explained | New Features & Changes](https://www.youtube.com/watch?v=FbUhHUeI3ZU)
+- [Microsoft Copilot - Excel has forever changed](https://www.youtube.com/watch?v=F1ILGTXKUQM)
+- [RAG Using Unstructured Data & Role of Knowledge Graphs](https://kuzudb.com/docusaurus/blog/llms-graphs-part-2/)
+- [LangChain Explained In 15 Minutes - A MUST Learn For Python Programmers](https://www.youtube.com/watch?v=mrjq3lFz23s)
+- [AutoGen Studio Tutorial - NO CODE AI Agent Builder (100% Local)](https://www.youtube.com/watch?v=mUEFwUU0IfE)
+- [Why Genius Behind TOP GPT Is Giving It Away](https://www.youtube.com/watch?v=pFPZFmOTgtA)
+- [7 Mistakes Beginner ML Students Make Every Year](https://www.youtube.com/watch?v=Oz7r89YDMis)
+- [Custom GPT tutorial for Beginners [Step-by-step to launch your Custom GPT in the OpenAI GPT Store]](https://www.youtube.com/watch?v=t-sjY6qmswU)
+- [Impossible to solve? For any LLM?](https://www.youtube.com/watch?v=1ww8RlFC8uI)
+- [You need to learn AI in 2024! (And here is your roadmap)](https://www.youtube.com/watch?v=x1TqLcz_ug0)
+- [/midlibrary - midjourney styles](https://midlibrary.io/styles)
+- [AI Sleeper Agents](https://twitter.com/karpathy/status/1745921205020799433)
+- [CrewAi + Solor/Hermes + Langchain + Ollama = Super Ai Agent (Fully Local)](https://www.youtube.com/watch?v=LVBHvHJ7TxQ)
+- [HUGE AI NEWS: NVIDIA Special Address at CES 2024 (Supercut)](https://www.youtube.com/watch?v=_ICD3lau_EE)
+- [EW AI Framework - Steerable Chatbots with Semantic Router](https://www.youtube.com/watch?v=ro312jDqAh0)
+- [PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more)](https://www.youtube.com/watch?v=XFiof0V3nhA)
+- [GPT Pilot ✈️ Build Full Stack Apps with a SINGLE PROMPT (Made for Devs)](https://www.youtube.com/watch?v=iwLe6UWyaS4)
+- [How I'd learn to code quickly in 2024 (use AI)](https://www.youtube.com/watch?v=wrNZuPdVW2w)
+- [I Cannot Believe How Good This VS Code AI Coding Assistant Is!](https://www.youtube.com/watch?v=TALwI3J4asY)
+- [Confused which Transformer Architecture to use? BERT, GPT-3, T5, Chat GPT? Encoder Decoder Explained](https://www.youtube.com/watch?v=wuj8Hao1TT4)
+- [How To Use AutoGen with ANY Open-Source LLM Tutorial](https://www.youtube.com/watch?v=aYieKkR_x44)
+- [How to Use Open Source LLMs in AutoGen Powered by vLLM](https://www.youtube.com/watch?v=ds032PYcpgs)
+- [LLM Foundations (LLM Bootcamp)](https://www.youtube.com/watch?v=MyFrMFab6bo)
+- [Low-rank Adaption of Large Language Models: Explaining the Key Concepts Behind LoRA](https://www.youtube.com/watch?v=dA-NhCtrrVE)
+- [🦙 LLAMA-2 : EASIET WAY To FINE-TUNE ON YOUR DATA Using Reinforcement Learning with Human Feedback 🙌](https://www.youtube.com/watch?v=G3RZoxPIpXw)
+- [BEST Datasets for LLMs | Plus: Create Your Own](https://www.youtube.com/watch?v=9KRPEqcv6s0)
+- [Channel - code_your_own_AI](https://www.youtube.com/@code4AI/videos)
+- [https://www.youtube.com/watch?v=VYReakImj4g](https://www.youtube.com/watch?v=VYReakImj4g)
+*** - [How to START with AI: Beyond CODE?](https://www.youtube.com/watch?v=qu-vXAFUpLE)
+- [How to Build an LLM from Scratch | An Overview](https://www.youtube.com/watch?v=ZLbVdvOoTKM)
+- [ChatGPT for Data Analytics: Beginner Tutorial](https://www.youtube.com/watch?v=s6g-Ki0iemI)
+- [Why Everyone is Freaking Out About RAG](https://www.youtube.com/watch?v=uO6r0vQmGB0)
+
 
 ### Deep Learning Books, ML, Graph Theory
 - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
 - [HN: suggestions of deep learning books](https://news.ycombinator.com/item?id=38605453)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [How Big Data Carried Graph Theory Into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
+- [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
+- [Vector Databases - tge data labs](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
+
 ### Automation, CI/CD, DevOps, Containers
 - [Embracing automation with GitHub Actions](https://exploring-better-ways.bellroy.com/embracing-automation-with-github-actions.html)
 - [2023-11-25 the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
-- [How Big Data Carried Graph Theory Into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
-- [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
+- [If you're not developing with this, you're wasting your time](https://www.youtube.com/watch?v=dihfA7Ol6Mw)
+- [How I Would Learn AWS Today (after 10 years of cloud experience)](https://www.youtube.com/watch?v=LTH9m4HkeYY)
 
 ### Python
 - [Dropbase - Build admin panels and internal web apps with Python](https://github.com/DropbaseHQ/dropbase)
@@ -51,13 +91,19 @@
 - [Let’s learn how modern JavaScript frameworks work by building one](https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/)
 - [Publii - static site CMS](https://getpublii.com/)
 - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
-
+- [devdocs](https://devdocs.io/)
+- [Motion Design for the Web | FREE COURSE](https://www.youtube.com/watch?v=vqXLGX0szIQ)
 
 ### Life hack
 - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 - [The Dunning-Kruger Effect is Autocorrelation ](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
+- [How a Productivity Expert Plans for the Year Ahead](https://www.youtube.com/watch?v=YTEYnlW6-zc)
 
+
+### Hardware
+- [How M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
+- [Check out The Rabbit R1 before everyone else does! 🐰CES2024](https://www.youtube.com/watch?v=6ox_PSfAAnk)
 
 ### Eng Mgt
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-in/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
@@ -70,16 +116,20 @@
 ### Software Engineering
 - [Software disenchantment](https://tonsky.me/blog/disenchantment/)
 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
+- [Why I Switched from Python to Go Lang For AI deployment?](https://www.youtube.com/watch?v=WEVO_KJtZys)
+- [Everything You NEED to Know About Client Architecture Patterns](https://www.youtube.com/watch?v=I5c7fBgvkNY)
 
 ### Computer languages, compilers, interpreters
 - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
+- [Bootstrapping a simple compiler from nothing](http://web.archive.org/web/20061108010907/http://www.rano.org/bcompiler.html)
 
-
-### Writing
+### Writing, documentation
 - [IA Writer in Paper](https://ia.net/topics/ia-writer-in-paper)
 - [Advent of Technical Writing: Navigation Structure](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjr4Ij8lI-DAxWOklYBHRSMBQIQFnoECA0QAw&url=https%3A%2F%2Fjamesg.blog%2F2023%2F12%2F02%2Fadvent-of-technical-writing%2F&usg=AOvVaw0877QHJ_hMaCL62IlPKk6O&opi=89978449)
 - [Get Started with technical writing](https://opensource.net/get-started-with-technical-writing/)
 - [16 Writers on How Running Helps Them Write](https://morgantilton.com/16-writers-on-how-running-helps-them-write/)
+- [htmldocs](https://htmldocs.com/)
+- [Why I like Obsidian](https://www.ddanieltan.com/posts/obsidian/)
 
 
 ### Art
@@ -101,7 +151,13 @@
 - [Why I Ran Away from Philosophy Because of Sam Bankman-Fried](https://www.honest-broker.com/p/why-i-ran-away-from-philosophy-because)
 - [Air Rage Is Getting Worse, And Airlines Can’t Fix It](https://www.forbes.com/sites/marisagarcia/2023/10/20/air-rage-is-getting-worse-and-airlines-cant-fix-it/?sh=6fba518e6404)
 - [The Decline of Computers as a General Purpose Technology](https://cacm.acm.org/magazines/2021/3/250710-the-decline-of-computers-as-a-general-purpose-technology/fulltext?mobile=false)
+- [Chinese Lab Mapped Deadly Coronavirus Two Weeks Before Beijing Told the World, Documents Show](https://www.wsj.com/politics/national-security/chinese-lab-mapped-deadly-coronavirus-two-weeks-before-beijing-told-the-world-documents-show-9bca8865)
+- [https://www.youtube.com/watch?v=ZvnCQg4w4o8](https://www.youtube.com/watch?v=ZvnCQg4w4o8)
+- [How to Become a Freelance Data Analyst in 2024](https://www.youtube.com/watch?v=QJtCKMyF68A)
 
+
+### Adult Education
+- [Artemis: Interactive Learning with Individual Feedback](https://github.com/ls1intum/Artemis)
 
 
 ### Content Creation
