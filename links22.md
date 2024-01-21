@@ -62,7 +62,15 @@
 - [How to Build an LLM from Scratch | An Overview](https://www.youtube.com/watch?v=ZLbVdvOoTKM)
 - [ChatGPT for Data Analytics: Beginner Tutorial](https://www.youtube.com/watch?v=s6g-Ki0iemI)
 - [Why Everyone is Freaking Out About RAG](https://www.youtube.com/watch?v=uO6r0vQmGB0)
-
+- [AI: Google Deepmind makes breakthrough in difficult artificial intelligence test | BBC News](https://www.youtube.com/watch?v=E_a78HF4Q1c)
+- [AutoGen Tutorial 2.0 🔥 How to Build POWERFUL AI Agents with AutoGen Studio UI](https://www.youtube.com/watch?v=Cl19yWHhc2g)
+- [Prepare Fine-tuning Datasets with Open Source LLMs](https://www.youtube.com/watch?v=JJ5mcdEIbj8)
+- [Web Scraping with ChatGPT Code Interpreter is Mind-Blowing!](https://www.youtube.com/watch?v=B89Cf4pLNds)
+- [How to hack any custom GPT through prompt engineering](https://www.youtube.com/watch?v=fM5h4QerXT8)
+- [LLM Prompt FORMATS make or break you LLM (RAG)](https://www.youtube.com/watch?v=M5i3rQfEw_A)
+- [GPT4 Vision API with no code | BuildShip Nodeverse ](https://www.youtube.com/watch?v=IdfWgrE6Tzc)
+- [How to Build Knowledge Graphs With LLMs (python tutorial)](https://www.youtube.com/watch?v=tcHIDCGu6Yw)
+- [Should You Use Open Source Large Language Models?](https://www.youtube.com/watch?v=y9k-U9AuDeM)
 
 ### Deep Learning Books, ML, Graph Theory
 - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
@@ -71,17 +79,23 @@
 - [How Big Data Carried Graph Theory Into New Dimensions](https://www.quantamagazine.org/how-big-data-carried-graph-theory-into-new-dimensions-20210819/)
 - [Building Text Classifiers: A New Approach with Less Data](https://mazaal.ai/no-code-text-classification)
 - [Vector Databases - tge data labs](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
+- [Mamba - a replacement for Transformers?](https://www.youtube.com/watch?v=ouF-H35atOY)
+- [The math behind Attention: Keys, Queries, and Values matrice](https://www.youtube.com/watch?v=UPtG_38Oq8o)
 
 ### Automation, CI/CD, DevOps, Containers
 - [Embracing automation with GitHub Actions](https://exploring-better-ways.bellroy.com/embracing-automation-with-github-actions.html)
 - [2023-11-25 the curse of docker](https://computer.rip/2023-11-25-the-curse-of-docker.html)
 - [If you're not developing with this, you're wasting your time](https://www.youtube.com/watch?v=dihfA7Ol6Mw)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://www.youtube.com/watch?v=LTH9m4HkeYY)
+- [Do NOT Learn Kubernetes Without Knowing These Concepts...](https://www.youtube.com/watch?v=wXuSqFJVNQA)
+
 
 ### Python
 - [Dropbase - Build admin panels and internal web apps with Python](https://github.com/DropbaseHQ/dropbase)
 - [Build Conway's Game of Life With Python](https://realpython.com/conway-game-of-life-python/)
 - [A Python developer’s guide to React](https://blog.logrocket.com/python-developers-guide-react/)
+- [GUI Applications For All Platforms with Flet in Python](https://www.youtube.com/watch?v=xouh_K4WCNU)
+- [ I Create Dashboard in One Minute using Python | Python for beginners | #python #coding #programming ](https://www.youtube.com/watch?v=zvDvixsjOS8)
 
 ### Web
 - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
@@ -93,6 +107,14 @@
 - [my website is one binary](https://j3s.sh/thought/my-website-is-one-binary.html)
 - [devdocs](https://devdocs.io/)
 - [Motion Design for the Web | FREE COURSE](https://www.youtube.com/watch?v=vqXLGX0szIQ)
+- [How To Build A $10,000 Website With No-Code + AI](https://www.youtube.com/watch?v=ROjFr9yz0tI)
+- [PRO Vs AMATEUR Website Layouts (With Examples)](https://www.youtube.com/watch?v=L0Pk3OVbxRU)
+- [Figma VSCode Extension!! Convert Design to Code!](https://www.youtube.com/watch?v=sNK-cPmnx94)
+- [Using 7 AI Tools to Design a Website... (Relume AI, MidJourney, ChatGPT & More)](https://www.youtube.com/watch?v=_DphpzGlxv8)
+- [The Web Renaissance Takes Off](https://www.anildash.com/2024/01/03/human-web-renaissance/)
+- [Centaurs and Cyborgs on the Jagged Frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
+- [You must try this Visual Editor for building React JS Apps](https://www.youtube.com/watch?v=Rx02_nUBte8)
+
 
 ### Life hack
 - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
@@ -111,7 +133,7 @@
 - [Agile as Trauma](https://doriantaylor.com/agile-as-trauma)
 - [Are remote workers more productive? That’s the wrong question.](https://stackoverflow.blog/2023/11/27/are-remote-workers-more-productive-that-s-the-wrong-question/)
 - [Advice to business owners and managers, don't use the modern way of web development](https://unixsheikh.com/articles/advice-to-business-owners-and-managers-dont-use-the-modern-way-of-web-development.html)
-
+- [Work ‘wellness’ programmes don’t make employees happier - but I know what does](https://www.theguardian.com/commentisfree/2024/jan/17/work-wellness-programmes-dont-make-employees-happier-but-i-know-what-does)
 
 ### Software Engineering
 - [Software disenchantment](https://tonsky.me/blog/disenchantment/)
