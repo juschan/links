@@ -104,12 +104,25 @@
 - [Build Anything With ChatGPT, Here’s How](https://www.youtube.com/watch?v=N_P4pJjVTKc)
 - [LLM: Pretraining, Instruction fine-tuning and RLHF](https://www.youtube.com/watch?v=cybEKSNBp-w)
 - [A NEW TRUTH: AI in 2024](https://www.youtube.com/watch?v=DfrlK5w9TUg)
+- [Building Web Chatbots with LLM: Chapter 19](https://www.youtube.com/watch?v=blRN9hsQdA0)
+- [Mistral: Easiest Way to Fine-Tune on Custom Data](https://www.youtube.com/watch?v=lCZRwrRvrWg)
+- [The EASIEST way to finetune LLAMA-v2 on local machine!](https://www.youtube.com/watch?v=3fsn19OI_C8)
+- [RAG But Better: Rerankers with Cohere AI](https://www.youtube.com/watch?v=Uh9bYiVrW_s)
+- [LangGraph Series : What Is LangGraph? - Explained Simply](https://www.youtube.com/watch?v=H-LaGpZFLhw)
+- [Why Everyone is Freaking Out About RAG](https://www.youtube.com/watch?v=uO6r0vQmGB0)
+- [How To Create An App With CHATGPT For Free In Minutes](https://www.youtube.com/watch?v=273hDFcwvUQ)
+- [This Unknown AI Will Blow Your Mind! BYE CHATGPT…](https://www.youtube.com/watch?v=jb3Qxi9U4P4)
+- [CrewAI Tutorial - Next Generation AI Agent Teams (Fully Local)](https://www.youtube.com/watch?v=tnejrr-0a94)
+- [How To Create Your Own AI Clone for Videos (No More Shooting)](https://www.youtube.com/watch?v=naUGEDyQIDU)
+- [This New FREE AI Tool can Create Consistent Character & AI Influencer](https://www.youtube.com/watch?v=9d6w90pAyrQ)
 
 ### Make Money with AI
 - [AI Apps Making $20,000+ per month with 1 person teams.](https://www.youtube.com/watch?v=fAlFgmEaj-I)
 - [AI influencers are getting filthy rich... let's build one](https://www.youtube.com/watch?v=ky5ZB-mqZKM)
 - [Make $200 a Day Selling Ebooks (No Tech Skill Required)](https://www.youtube.com/watch?v=dAPfy4xVi7M)
-
+- [This Free ChatGPT SEO Script Is Worth Millions](https://www.youtube.com/watch?v=rjtfCARo8O8)
+- [THE BIG RESET: Use AI To Build Wealth & GET AHEAD Of 99% Of People | Peter Diamandis & Salim Ismail](https://www.youtube.com/watch?v=zm0QVutAkYg)
+- [I Found a New Freelancing Gig NO ONE is Talking About!](https://www.youtube.com/watch?v=UIEN16lpWyw)
 
 ### Deep Learning Books, ML, Graph Theory
 - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
@@ -129,6 +142,10 @@
 - [Do NOT Learn Kubernetes Without Knowing These Concepts...](https://www.youtube.com/watch?v=wXuSqFJVNQA)
 - [How to create a great dev environment with Docker](https://www.youtube.com/watch?v=0H2miBK_gAk)
 - [Goodbye VPN! Hello Microsoft Global Secure Access](https://www.youtube.com/watch?v=q5fJozVF4Ho)
+
+### Data, Databases
+* - [What is a Data Vault ? | 3NF vs Dimensional model vs Data Vault | Quick Starter Guide in 2023](https://www.youtube.com/watch?v=l5UcUEt1IzM)
+
 
 ### Python
 - [Dropbase - Build admin panels and internal web apps with Python](https://github.com/DropbaseHQ/dropbase)
@@ -159,6 +176,10 @@
 - [chota - micro css framework](https://jenil.github.io/chota/#grid)
 - [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
 - [Simple, Non-Commercial, Open Source Notes](https://www.youtube.com/watch?v=XRpHIa-2XCE)
+- [BEST Website Builder 2024 (My TOP Recommendation)](https://www.youtube.com/watch?v=Pvi_metetxk)
+- [Web Scraping 101: A Million Dollar Project Idea](https://www.youtube.com/watch?v=DJnH0jR8y5Q)
+- [I Tried 200+ No Code Tools - Here Are The Best For 2024](https://www.youtube.com/watch?v=lwnTq69Medg)
+
 
 ### Life hack
 - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
@@ -166,12 +187,16 @@
 - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 - [How a Productivity Expert Plans for the Year Ahead](https://www.youtube.com/watch?v=YTEYnlW6-zc)
 - [The Dominance Theory - A Road Map to Your Bold Vision](https://www.drmargotmckinnon.com/our-book)
+- [Become A Renaissance Man With These 4 Hobbies](https://www.youtube.com/watch?v=is40bu7bIbA)
 
 ### Hardware
 - [How M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
 - [Check out The Rabbit R1 before everyone else does! 🐰CES2024](https://www.youtube.com/watch?v=6ox_PSfAAnk)
 - [I’m Finally Excited About VR Again! - Bigscreen Beyond Review](https://www.youtube.com/watch?v=TdBnkxxImwI)
 
+### Hacks
+- [Activate Microsoft Office for Free: Step-by-Step Guide without Malware Risks!](https://www.youtube.com/watch?v=KnLEj1Z1JdI)
+- [New to DistroBox? Start Here: Full Beginner's Tutorial!](https://www.youtube.com/watch?v=eiDt4O6UPRw)
 
 ### Eng Mgt
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-in/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
@@ -206,7 +231,7 @@
 - [Gen Y Speaks: I used to think my art wasn’t good enough, until I learnt what it meant to people](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-used-think-my-art-wasnt-good-enough-until-i-learnt-what-it-meant-people-2316596)
 - [Merse - storytelling in multiple formats, generative?](https://www.merse.co/)
 - [An early look at the possibilities as we experiment with AI and Music](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
-
+- [Rick Rubin's Tips for Creative Growth](https://www.youtube.com/watch?v=cUr_rLUiUu4)
 
 ### Game Engine
 - [Ebitengine - simple 2D game engine in Go](https://ebitengine.org/)
@@ -226,11 +251,13 @@
 - [Chinese Lab Mapped Deadly Coronavirus Two Weeks Before Beijing Told the World, Documents Show](https://www.wsj.com/politics/national-security/chinese-lab-mapped-deadly-coronavirus-two-weeks-before-beijing-told-the-world-documents-show-9bca8865)
 - [https://www.youtube.com/watch?v=ZvnCQg4w4o8](https://www.youtube.com/watch?v=ZvnCQg4w4o8)
 - [How to Become a Freelance Data Analyst in 2024](https://www.youtube.com/watch?v=QJtCKMyF68A)
-
+- [Dr. Rhonda Patrick - This is The Only Supplement that ACTUALLY Increases Lifespan](https://www.youtube.com/watch?v=Sxxy6bUlX28)
 
 ### Adult Education
 - [Artemis: Interactive Learning with Individual Feedback](https://github.com/ls1intum/Artemis)
 
+### Courses
+- [ymcafit - uk](https://www.ymcafit.org.uk/courses/advanced-diploma-in-personal-training/)
 
 ### Content Creation
 - [Nathaniel Drew](https://www.nathanieldrew.com/)
