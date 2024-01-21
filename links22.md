@@ -115,6 +115,8 @@
 - [CrewAI Tutorial - Next Generation AI Agent Teams (Fully Local)](https://www.youtube.com/watch?v=tnejrr-0a94)
 - [How To Create Your Own AI Clone for Videos (No More Shooting)](https://www.youtube.com/watch?v=naUGEDyQIDU)
 - [This New FREE AI Tool can Create Consistent Character & AI Influencer](https://www.youtube.com/watch?v=9d6w90pAyrQ)
+- [The ONE AI Tool I Use For Everything | Voila](https://www.youtube.com/watch?v=JGwcaxI5Ocg)
+
 
 ### Make Money with AI
 - [AI Apps Making $20,000+ per month with 1 person teams.](https://www.youtube.com/watch?v=fAlFgmEaj-I)
@@ -133,6 +135,8 @@
 - [Vector Databases - tge data labs](https://tge-data-web.nyc3.digitaloceanspaces.com/docs/Vector%20Databases%20-%20A%20Technical%20Primer.pdf)
 - [Mamba - a replacement for Transformers?](https://www.youtube.com/watch?v=ouF-H35atOY)
 - [The math behind Attention: Keys, Queries, and Values matrice](https://www.youtube.com/watch?v=UPtG_38Oq8o)
+- [From MLOps to ML Systems with Feature/Training/Inference Pipelines](https://www.hopsworks.ai/post/mlops-to-ml-systems-with-fti-pipelines)
+
 
 ### Automation, CI/CD, DevOps, Containers
 - [Embracing automation with GitHub Actions](https://exploring-better-ways.bellroy.com/embracing-automation-with-github-actions.html)
@@ -145,7 +149,7 @@
 
 ### Data, Databases
 * - [What is a Data Vault ? | 3NF vs Dimensional model vs Data Vault | Quick Starter Guide in 2023](https://www.youtube.com/watch?v=l5UcUEt1IzM)
-
+- [erdplus - db diagramming](https://erdplus.com/standalone#google_vignette)
 
 ### Python
 - [Dropbase - Build admin panels and internal web apps with Python](https://github.com/DropbaseHQ/dropbase)
@@ -179,7 +183,9 @@
 - [BEST Website Builder 2024 (My TOP Recommendation)](https://www.youtube.com/watch?v=Pvi_metetxk)
 - [Web Scraping 101: A Million Dollar Project Idea](https://www.youtube.com/watch?v=DJnH0jR8y5Q)
 - [I Tried 200+ No Code Tools - Here Are The Best For 2024](https://www.youtube.com/watch?v=lwnTq69Medg)
-
+- [WebUI Zig](https://github.com/webui-dev/zig-webui)
+- [Dustin Brett - OS like website](https://dustinbrett.com/)
+- [Using 7 AI Tools to Design a Website... (Relume AI, MidJourney, ChatGPT & More)](https://www.youtube.com/watch?v=_DphpzGlxv8)
 
 ### Life hack
 - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
@@ -212,7 +218,7 @@
 - [Why I Switched from Python to Go Lang For AI deployment?](https://www.youtube.com/watch?v=WEVO_KJtZys)
 - [Everything You NEED to Know About Client Architecture Patterns](https://www.youtube.com/watch?v=I5c7fBgvkNY)
 - [Buildship + FlutterFlow - THE ONLY 2 NO-CODE TOOLS YOU NEED TO BUILD AN APP](https://www.youtube.com/watch?v=Mt0DOb-LKRw)
-
+- [Suddenly, I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
 
 ### Computer languages, compilers, interpreters
 - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
@@ -252,6 +258,12 @@
 - [https://www.youtube.com/watch?v=ZvnCQg4w4o8](https://www.youtube.com/watch?v=ZvnCQg4w4o8)
 - [How to Become a Freelance Data Analyst in 2024](https://www.youtube.com/watch?v=QJtCKMyF68A)
 - [Dr. Rhonda Patrick - This is The Only Supplement that ACTUALLY Increases Lifespan](https://www.youtube.com/watch?v=Sxxy6bUlX28)
+- [Bernard Carr, cosmologist and friend of Hawking, on consciousness and parapsychology](https://www.youtube.com/watch?v=weKSf000ENk)
+
+### Health, Fitness
+- [Aspirin and cancer: the emerging evidence](https://www.youtube.com/watch?v=7mOvJbmpG6A)
+* - [How To REGROW Receding Gums (FIX Gum Recession At Home)](https://www.youtube.com/watch?v=wd5JKCXAtys)
+
 
 ### Adult Education
 - [Artemis: Interactive Learning with Individual Feedback](https://github.com/ls1intum/Artemis)
@@ -265,6 +277,9 @@
 ### Insurance, Actuarial
 - [Find out why your health insurer denied your claim.](https://projects.propublica.org/claimfile/)
 - [Big Insurance Met Its Match When It Turned Down a Top Trial Lawyer’s Request for Cancer Treatment ](https://www.propublica.org/article/blue-cross-proton-therapy-cancer-lawyer-denial)
+
+### Cashless
+- [Going cashless](https://aeon.co/essays/going-cashless-is-a-bad-idea-but-its-not-a-conspiracy)
 
 ### Health, Fitness
 - [The Origin and Clinical Relevance of Yoga Nidra](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9033521/)
