@@ -12,3 +12,32 @@
 
 ### Tanjong Pagar
 - [Meet Paul](https://www.facebook.com/p/Meet-Paul-100043399673711/)
+
+---
+
+### Videos - eating places
+
+- [I Found a New Freelancing Gig NO ONE is Talking About!](https://www.youtube.com/watch?v=o3yvbfHRmCg)
+- [New Arrival: Indulge in the Original Salted Egg in Chinatown](https://www.youtube.com/watch?v=OZu95Ustapw)
+- [HongIsBored Channel](https://www.youtube.com/@HongisBored/videos)
+- [Ryan’s ALL TIME Favourite Porridge!! | Get Fed Ep 21](https://www.youtube.com/watch?v=qo93QDPohnQ)
+- [Eating HOTEL BUFFET LEFTOVER FOOD For 24 HOURS!!! *OMG*](https://www.youtube.com/watch?v=CTM6JxNa-Rk)
+- [EATING THE CHEAPEST $2 CAI FAN IN SINGAPORE *OMG WORTH IT*](https://www.youtube.com/watch?v=RbibtVhVFjY)
+- [6 Delicious Cheap Street Food in Singapore!](https://www.youtube.com/watch?v=VIStjRWSdQg)
+
+
+
+---
+
+### Videos - Cooking
+- [These 15 Minute CABBAGE Recipes Will Change Your LIFE!](https://www.youtube.com/watch?v=0sURyrysnP8)
+- [[No-Oven] Banana Cake with 1 Egg and 2 Bananas/Super Simple Recipe/Banana Upside Down Cake](https://www.youtube.com/watch?v=zfSFK8CLTPw)
+- [Why are Deli Subs better than homemade ones?](https://www.youtube.com/watch?v=0rmrZZj1Hjs)
+- [THIS Pot Roast is Better Than Beef Bourguignon](https://www.youtube.com/watch?v=eVuXwv1yxo0)
+- [I Went To Singapore To Find The ULTIMATE Singapore Laksa Recipe | Marion's Kitchen](https://www.youtube.com/watch?v=PeVyADesFUw)
+- [Spice N' Pans - Channel](https://www.youtube.com/@spicenpans/videos)
+- [Aaron and Claire - Channel](https://www.youtube.com/@AaronandClaire/videos)
+- [How to Make Char Siu Bao with Jet Tila | Ready Jet Cook | Food Network](https://www.youtube.com/watch?v=wCiFs8Fdz1Q)
+- [Beef Rendang - #AuntieLiz - The best cut of meat to use is... ](https://www.youtube.com/watch?v=6-QvRuWiVQc)
+- [Bak Kut Teh - Why I've cooked this forever and still love it! (Introductory guide to BKT)](https://www.youtube.com/watch?v=TfJdOBAyJ3s)
+
