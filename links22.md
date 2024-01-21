@@ -97,7 +97,13 @@
 - [Finito](https://www.finito.ai/)
 - [Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use](https://www.youtube.com/watch?v=YVWxbHJakgg)
 - [LLM2 Module 2 - Efficient Fine-Tuning | 2.3 PEFT and Soft Prompt](https://www.youtube.com/watch?v=8uy_WII76L0)
-
+- [Fine-tuning Large Language Models (LLMs) | w/ Example Code](https://www.youtube.com/watch?v=eC6Hd1hFvos)
+- [5 NEW Hottest FREE AI Tools for Research That Are ACTUALLY Useful!](https://www.youtube.com/watch?v=_Wtq4XHba6s)
+- [https://www.youtube.com/watch?v=T-D1OfcDW1M](https://www.youtube.com/watch?v=T-D1OfcDW1M)
+- [Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use](https://www.youtube.com/watch?v=ol6xaa8jedw)
+- [Build Anything With ChatGPT, Here’s How](https://www.youtube.com/watch?v=N_P4pJjVTKc)
+- [LLM: Pretraining, Instruction fine-tuning and RLHF](https://www.youtube.com/watch?v=cybEKSNBp-w)
+- [A NEW TRUTH: AI in 2024](https://www.youtube.com/watch?v=DfrlK5w9TUg)
 
 ### Make Money with AI
 - [AI Apps Making $20,000+ per month with 1 person teams.](https://www.youtube.com/watch?v=fAlFgmEaj-I)
