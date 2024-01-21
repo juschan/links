@@ -57,7 +57,7 @@
 - [🦙 LLAMA-2 : EASIET WAY To FINE-TUNE ON YOUR DATA Using Reinforcement Learning with Human Feedback 🙌](https://www.youtube.com/watch?v=G3RZoxPIpXw)
 - [BEST Datasets for LLMs | Plus: Create Your Own](https://www.youtube.com/watch?v=9KRPEqcv6s0)
 - [Channel - code_your_own_AI](https://www.youtube.com/@code4AI/videos)
-- [https://www.youtube.com/watch?v=VYReakImj4g](https://www.youtube.com/watch?v=VYReakImj4g)
+- [How to START with AI: Beyond CODE?](https://www.youtube.com/watch?v=VYReakImj4g)
 *** - [How to START with AI: Beyond CODE?](https://www.youtube.com/watch?v=qu-vXAFUpLE)
 - [How to Build an LLM from Scratch | An Overview](https://www.youtube.com/watch?v=ZLbVdvOoTKM)
 - [ChatGPT for Data Analytics: Beginner Tutorial](https://www.youtube.com/watch?v=s6g-Ki0iemI)
@@ -71,6 +71,39 @@
 - [GPT4 Vision API with no code | BuildShip Nodeverse ](https://www.youtube.com/watch?v=IdfWgrE6Tzc)
 - [How to Build Knowledge Graphs With LLMs (python tutorial)](https://www.youtube.com/watch?v=tcHIDCGu6Yw)
 - [Should You Use Open Source Large Language Models?](https://www.youtube.com/watch?v=y9k-U9AuDeM)
+- [23 AI Tools You Won't Believe are Free](https://www.youtube.com/watch?v=ZYUt4WE4Mrw)
+- [Orca 2 🐳 GIANT Breakthrough For AI Logic/Reasoning ](https://www.youtube.com/watch?v=wAAtvBtNUH4)
+- [Build a Custom Chatbot with OpenAI: GPT-Index & LangChain | Step-by-Step Tutorial](https://www.youtube.com/watch?v=FIDv6nc4CgU)
+- [How To Create Datasets for Finetuning From Multiple Sources! Improving Finetunes With Embeddings.](https://www.youtube.com/watch?v=fYyZiRi6yNE)
+- [Master the Perfect ChatGPT Prompt Formula (in just 8 minutes)!](https://www.youtube.com/watch?v=jC4v5AS4RIM)
+- [this open source project has a bright future](https://www.youtube.com/watch?v=jib1wjgIaa4)
+- [Building Production-Ready RAG Applications: Jerry Liu ](https://www.youtube.com/watch?v=TRjq7t2Ms5I)
+- [Optimized for Claims Management](https://texta.ai/ai-writing-assistant/insurance/claims)
+- [The Emergent Abilities of LLMs - why LLMs are so useful](https://www.youtube.com/watch?v=bQuVLKn10do)
+** - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+- [Don’t Build AI Products The Way Everyone Else Is Doing It](https://www.youtube.com/watch?v=bRFLE9qi3t8)
+- [BloombergGPT: How We Built a 50 Billion Parameter Financial Language Model](https://www.youtube.com/watch?v=m2Scj2SO85Y)
+- [AutoGen Studio UI 2.0 : Create NO CODE AI Agents with Ease](https://www.youtube.com/watch?v=ki4U0bwmp3g)
+- [$0 Embeddings (OpenAI vs. free & open source)](https://www.youtube.com/watch?v=QdDoFfkVkcw)
+- [Training Your Own AI Model Is Not As Hard As You (Probably) Think](https://www.youtube.com/watch?v=fCUkvL0mbxI)
+- [Google's DeepMind Co-founder: AI Is Becoming More Dangerous And Threatening! - Mustafa Suleyman](https://www.youtube.com/watch?v=CTxnLsYHWuI)
+- [Apple Launches Ferret 7B MLLM a Generative AI Modal Better than GPT-4? | AI News](https://www.youtube.com/watch?v=LXI0athoaVg)
+* - [Unsupervised sentiment neuron](https://openai.com/research/unsupervised-sentiment-neuron)
+- [What are tokens and how to count them?](https://help.openai.com/en/articles/4936856-what-are-tokens-and-how-to-count-them)
+** - [Automating data analytics with ChatGPT](https://medium.com/data-science-at-microsoft/automating-data-analytics-with-chatgpt-827a51eaa2c)
+- [Artificial Intelligence sample for Power BI: Take a tour](https://learn.microsoft.com/en-us/power-bi/create-reports/sample-artificial-intelligence)
+- [Coefficient - connected data](https://coefficient.io/product)
+- [Hugging Face](https://huggingface.co/welcome)
+- [Finito](https://www.finito.ai/)
+- [Prompt Engineering, RAG, and Fine-tuning: Benefits and When to Use](https://www.youtube.com/watch?v=YVWxbHJakgg)
+- [LLM2 Module 2 - Efficient Fine-Tuning | 2.3 PEFT and Soft Prompt](https://www.youtube.com/watch?v=8uy_WII76L0)
+
+
+### Make Money with AI
+- [AI Apps Making $20,000+ per month with 1 person teams.](https://www.youtube.com/watch?v=fAlFgmEaj-I)
+- [AI influencers are getting filthy rich... let's build one](https://www.youtube.com/watch?v=ky5ZB-mqZKM)
+- [Make $200 a Day Selling Ebooks (No Tech Skill Required)](https://www.youtube.com/watch?v=dAPfy4xVi7M)
+
 
 ### Deep Learning Books, ML, Graph Theory
 - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
@@ -88,7 +121,8 @@
 - [If you're not developing with this, you're wasting your time](https://www.youtube.com/watch?v=dihfA7Ol6Mw)
 - [How I Would Learn AWS Today (after 10 years of cloud experience)](https://www.youtube.com/watch?v=LTH9m4HkeYY)
 - [Do NOT Learn Kubernetes Without Knowing These Concepts...](https://www.youtube.com/watch?v=wXuSqFJVNQA)
-
+- [How to create a great dev environment with Docker](https://www.youtube.com/watch?v=0H2miBK_gAk)
+- [Goodbye VPN! Hello Microsoft Global Secure Access](https://www.youtube.com/watch?v=q5fJozVF4Ho)
 
 ### Python
 - [Dropbase - Build admin panels and internal web apps with Python](https://github.com/DropbaseHQ/dropbase)
@@ -114,18 +148,24 @@
 - [The Web Renaissance Takes Off](https://www.anildash.com/2024/01/03/human-web-renaissance/)
 - [Centaurs and Cyborgs on the Jagged Frontier](https://www.oneusefulthing.org/p/centaurs-and-cyborgs-on-the-jagged)
 - [You must try this Visual Editor for building React JS Apps](https://www.youtube.com/watch?v=Rx02_nUBte8)
-
+- [Introduction to Hugo | Hugo - Static Site Generator | Tutorial 1](https://www.youtube.com/watch?v=qtIqKaDlqXo&list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)
+- [Getting Started With Hugo | FREE COURSE](https://www.youtube.com/watch?v=hjD9jTi_DQ4)
+- [chota - micro css framework](https://jenil.github.io/chota/#grid)
+- [Tufte CSS](https://edwardtufte.github.io/tufte-css/)
+- [Simple, Non-Commercial, Open Source Notes](https://www.youtube.com/watch?v=XRpHIa-2XCE)
 
 ### Life hack
 - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
 - [The Dunning-Kruger Effect is Autocorrelation ](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)
 - [Reclaiming the Web with a Personal Reader](https://olano.dev/2023-12-12-reclaiming-the-web-with-a-personal-reader/)
 - [How a Productivity Expert Plans for the Year Ahead](https://www.youtube.com/watch?v=YTEYnlW6-zc)
-
+- [The Dominance Theory - A Road Map to Your Bold Vision](https://www.drmargotmckinnon.com/our-book)
 
 ### Hardware
 - [How M1 Macs may lag behind](https://eclecticlight.co/2024/01/13/how-m1-macs-may-lag-behind/)
 - [Check out The Rabbit R1 before everyone else does! 🐰CES2024](https://www.youtube.com/watch?v=6ox_PSfAAnk)
+- [I’m Finally Excited About VR Again! - Bigscreen Beyond Review](https://www.youtube.com/watch?v=TdBnkxxImwI)
+
 
 ### Eng Mgt
 - [The surprising connection between after-hours work and decreased productivity](https://slack.com/intl/en-in/blog/news/the-surprising-connection-between-after-hours-work-and-decreased-productivity)
@@ -140,6 +180,8 @@
 - [What Every Developer Should Know About GPU Computing](https://codeconfessions.substack.com/p/gpu-computing)
 - [Why I Switched from Python to Go Lang For AI deployment?](https://www.youtube.com/watch?v=WEVO_KJtZys)
 - [Everything You NEED to Know About Client Architecture Patterns](https://www.youtube.com/watch?v=I5c7fBgvkNY)
+- [Buildship + FlutterFlow - THE ONLY 2 NO-CODE TOOLS YOU NEED TO BUILD AN APP](https://www.youtube.com/watch?v=Mt0DOb-LKRw)
+
 
 ### Computer languages, compilers, interpreters
 - [On Learning Compilers and Creating Programming Languages](https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html)
@@ -157,6 +199,8 @@
 ### Art
 - [Gen Y Speaks: I used to think my art wasn’t good enough, until I learnt what it meant to people](https://www.todayonline.com/gen-y-speaks/gen-y-speaks-i-used-think-my-art-wasnt-good-enough-until-i-learnt-what-it-meant-people-2316596)
 - [Merse - storytelling in multiple formats, generative?](https://www.merse.co/)
+- [An early look at the possibilities as we experiment with AI and Music](https://blog.youtube/inside-youtube/ai-and-music-experiment/)
+
 
 ### Game Engine
 - [Ebitengine - simple 2D game engine in Go](https://ebitengine.org/)
