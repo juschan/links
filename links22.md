@@ -116,7 +116,20 @@
 - [How To Create Your Own AI Clone for Videos (No More Shooting)](https://www.youtube.com/watch?v=naUGEDyQIDU)
 - [This New FREE AI Tool can Create Consistent Character & AI Influencer](https://www.youtube.com/watch?v=9d6w90pAyrQ)
 - [The ONE AI Tool I Use For Everything | Voila](https://www.youtube.com/watch?v=JGwcaxI5Ocg)
-
+- [Will neuromorphic computers accelerate AGI development?](https://www.youtube.com/watch?v=IJRfceIFhSo)
+- [DSPy Explained!](https://www.youtube.com/watch?v=41EfOY0Ldkc)
+- [Complete Langchain GEN AI Crash Course With 6 End To End LLM Projects With OPENAI,LLAMA2,Gemini Pro](https://www.youtube.com/watch?v=aWKrL4z5H6w)
+- [RAG Implementation Medical Chatbot with Mistral 7B LLM LlamaIndex GTE Colab Demo](https://www.youtube.com/watch?v=1mH1BvBJCl0)
+- [Mistral-7B-Instruct Multiple-PDF Chatbot with Langchain & Streamlit |FREE COLAB|All OPEN SOURCE #ai ](https://www.youtube.com/watch?v=tqpXvPzteT4)
+- [PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more)](https://www.youtube.com/watch?v=XFiof0V3nhA)
+- [Chatbots with RAG: LangChain Full Walkthrough](https://www.youtube.com/watch?v=LhnCsygAvzY)
+- [OpenAI Just Released New Models and Developer Tools | GPT-4 no longer "lazy" 😍 ](https://www.youtube.com/watch?v=B13M_NXLciM)
+- [AI Domain Generalisation: ICRM and ContextViT](https://www.youtube.com/watch?v=MVUy9phNrMA)
+- [Google's LUMIERE AI Video Generation Has Everyone Stunned | Better than RunWay ML?](https://www.youtube.com/watch?v=u5yGRLx5Tls)
+- [How I Build AI WhatsApp Chatbots w/ Python](https://www.youtube.com/watch?v=3YPeh-3AFmM)
+- [INSTALL NEW UNCENSORED FaceGen Ai WebUI LOCALLY in 1 CLICK](https://www.youtube.com/watch?v=jjRFa1JugA0)
+- [Create cartoony trendy images in Seconds, for Free! 🔥 using Ai](https://www.youtube.com/watch?v=5d-wZI3sKs8)
+- [Googles New Text To Video BEATS EVERYTHING (LUMIERE)](https://www.youtube.com/watch?v=DN-krCcwnhQ)
 
 ### Make Money with AI
 - [AI Apps Making $20,000+ per month with 1 person teams.](https://www.youtube.com/watch?v=fAlFgmEaj-I)
@@ -125,6 +138,12 @@
 - [This Free ChatGPT SEO Script Is Worth Millions](https://www.youtube.com/watch?v=rjtfCARo8O8)
 - [THE BIG RESET: Use AI To Build Wealth & GET AHEAD Of 99% Of People | Peter Diamandis & Salim Ismail](https://www.youtube.com/watch?v=zm0QVutAkYg)
 - [I Found a New Freelancing Gig NO ONE is Talking About!](https://www.youtube.com/watch?v=UIEN16lpWyw)
+- [Earn $800 Daily Using Contact Forms, Chat GPT, Automation and Ai (Beginners Guide)](https://www.youtube.com/watch?v=UP02LhHMM40)
+- [The REAL cost of LLM (And How to reduce 78%+ of Cost)](https://www.youtube.com/watch?v=lHxl5SchjPA)
+- [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
+- [I Made 700 Monetizable YouTube Shorts for Faceless Channel in 18 MINUTES using AI Automation](https://www.youtube.com/watch?v=lqXWVzWkkyc)
+- [I Tried The Easiest AI Side Hustle For 30 Days](https://www.youtube.com/watch?v=ZDG2XMOcOXo)
+
 
 ### Deep Learning Books, ML, Graph Theory
 - [Deep Learning - Foundations and Concepts](https://www.bishopbook.com/)
@@ -136,7 +155,16 @@
 - [Mamba - a replacement for Transformers?](https://www.youtube.com/watch?v=ouF-H35atOY)
 - [The math behind Attention: Keys, Queries, and Values matrice](https://www.youtube.com/watch?v=UPtG_38Oq8o)
 - [From MLOps to ML Systems with Feature/Training/Inference Pipelines](https://www.hopsworks.ai/post/mlops-to-ml-systems-with-fti-pipelines)
-
+- [Diffusion models explained in 4-difficulty levels](https://www.youtube.com/watch?v=yTAMrHVG1ew)
+- [This ML Project Gives You an Unfair Advantage](https://www.youtube.com/watch?v=kS-fTMj7XDA)
+- [Make Diffusion model from scratch ( easy way to implement quick diffusion model )](https://tree.rocks/make-diffusion-model-from-scratch-easy-way-to-implement-quick-diffusion-model-e60d18fd0f2e)
+- [Stanford CS25: V3 I Retrieval Augmented Language Models](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+** - [Deep Learning is a strange beast. - Understanding Deep Learning Book](https://www.youtube.com/watch?v=sJXn4Cl4oww)
+- [What is Low-Rank Adaptation (LoRA) | explained by the inventor](https://www.youtube.com/watch?v=DhRoTONcyZE)
+- [ChatGPT for Data Analytics: Full Course](https://www.youtube.com/watch?v=uhyMqbZI6rM)
+- [ChatGPT @mention (FIRST LOOK) This is incredible! @gpt](https://www.youtube.com/watch?v=Tz7jhQO4qYw)
+- [Learn PyTorch for deep learning in a day. Literally.](https://www.youtube.com/watch?v=Z_ikDlimN6A)
+** - [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 
 ### Automation, CI/CD, DevOps, Containers
 - [Embracing automation with GitHub Actions](https://exploring-better-ways.bellroy.com/embracing-automation-with-github-actions.html)
@@ -146,6 +174,8 @@
 - [Do NOT Learn Kubernetes Without Knowing These Concepts...](https://www.youtube.com/watch?v=wXuSqFJVNQA)
 - [How to create a great dev environment with Docker](https://www.youtube.com/watch?v=0H2miBK_gAk)
 - [Goodbye VPN! Hello Microsoft Global Secure Access](https://www.youtube.com/watch?v=q5fJozVF4Ho)
+- [Why I’ll never deploy to a VM again](https://www.youtube.com/watch?v=zQEzjsE4c50)
+
 
 ### Data, Databases
 * - [What is a Data Vault ? | 3NF vs Dimensional model vs Data Vault | Quick Starter Guide in 2023](https://www.youtube.com/watch?v=l5UcUEt1IzM)
@@ -157,6 +187,8 @@
 - [A Python developer’s guide to React](https://blog.logrocket.com/python-developers-guide-react/)
 - [GUI Applications For All Platforms with Flet in Python](https://www.youtube.com/watch?v=xouh_K4WCNU)
 - [ I Create Dashboard in One Minute using Python | Python for beginners | #python #coding #programming ](https://www.youtube.com/watch?v=zvDvixsjOS8)
+- [Make Tkinter Look 10x Better in 5 Minutes (CustomTkinter)](https://www.youtube.com/watch?v=Miydkti_QVE)
+
 
 ### Web
 - [The best WebAssembly runtime may be no runtime at all](https://00f.net/2023/12/11/webassembly-compilation-to-c/)
@@ -186,6 +218,8 @@
 - [WebUI Zig](https://github.com/webui-dev/zig-webui)
 - [Dustin Brett - OS like website](https://dustinbrett.com/)
 - [Using 7 AI Tools to Design a Website... (Relume AI, MidJourney, ChatGPT & More)](https://www.youtube.com/watch?v=_DphpzGlxv8)
+- [The ONLY resources you need to design award winning websites](https://www.youtube.com/watch?v=CEWQIzjKvoE)
+
 
 ### Life hack
 - [Things I learned from teaching](https://claytonwramsey.github.io/blog/learned-from-teaching.html)
