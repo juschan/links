@@ -8,6 +8,7 @@
 ### Astrology, Vedic
 - [Calculate Your Vedic Astrology Chart ](https://www.vedicastrology.us.com/index.php/about-mickey/about-vedic-astrology/calculate-your-vedic-astrology-chart)
 - [Selfstrology - Singapore](https://selfstrology.com/story-philosophy/)
+- [Wingtip Astrology](https://tidycal.com/wingtipastrology/natal-chart-consultation)
 
 ### Kalabhairava
 - [Sadhguru Unfolds The Process Of KalaBhairava Consecration | Sadhguru Exclusive](https://www.youtube.com/watch?v=gx1ohydK9Aw)
@@ -18,5 +19,12 @@
 ### Breathing
 - [Sadhguru - If your breath drops down You'll evolve into perceiving higher things !](https://www.youtube.com/watch?v=wKWt6FPXyxI)
 
-## Samadhi
+### Samadhi
 - [How to Experience Samadhi 🙏 With Sadhguru in Challenging Times - 16 Aug](https://www.youtube.com/watch?v=ifmPOMPlHn4)
+
+### Linga Bhairavi
+- [Linga Bhairavi stuti | लिंग भैरवी स्तुति | 11 times | Lyrics |](https://www.youtube.com/watch?v=tV_nDIM_jZc)
+- [Linga Bhairavi stuti | लिंग भैरवी स्तुति | 3 times | Lyrics |](https://www.youtube.com/watch?v=4RLgoS1H68c)
+
+### Koorma Nadi
+- [KOORMA NADI - Venturing Beyond Your Physical Nature | Sadhguru](https://www.youtube.com/watch?v=oKuYwzhx844)
