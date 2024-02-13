@@ -23,8 +23,12 @@
 - [How Graph Neural Networks Are Transforming Industries](https://www.youtube.com/watch?v=9QH6jnwqrAk)
 - [You Need Better Knowledge Graphs for Your RAG](https://www.youtube.com/watch?v=eIDitSyhs7s)
 - [AutoGen Studio: Build Self-Improving AI Agents With No-Code](https://www.youtube.com/watch?v=byPbxEH5V8E)
-
-
+- [Aleph Alpha: The Hidden AI company delivering AGI soon | AI News](https://www.youtube.com/watch?v=vmPWquRDs50)
+- [The Future of Knowledge Graphs in a World of Large Language Models](https://www.youtube.com/watch?v=WqYBx2gB6vA)
+- [Build an Advanced RAG Chatbot with Neo4j Knowledge Graph](https://www.youtube.com/watch?v=mVNMrgexxoM)
+- [Stanford's DSPy: A brief overview (LangChain alternative)](https://www.youtube.com/watch?v=njVKMqs9lxU)
+- [MindStudio: All-In-One AI Builder to Automate Your Workflows](https://www.youtube.com/watch?v=DT1KX5sbHwQ)
+- 
 
 ### AI Hardware
 - [Computer Hardware Required to Run LLaMA AI Model Locally (GPU, CPU, RAM, SSD)](https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/)
@@ -47,6 +51,7 @@
 - [Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more](https://www.youtube.com/watch?v=I10q6fjPxJ0)
 - [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 - [Darts - Time Series](https://unit8co.github.io/darts/index.html)
+- [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://www.youtube.com/watch?v=gX_KHaU8ChI)
 
 
 ### AI Opportunities
@@ -74,9 +79,11 @@
 
 ### Python
 - [Augmenting the Markdown language for great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
+- [a pro programmer move (Closure in Python)](https://www.youtube.com/watch?v=S6UP-4sUtTk)
+
 
 ### Data
-- [	Data Structures for Data-Intensive Applications  - pdf](https://news.ycombinator.com/item?id=39318774)
+- [Data Structures for Data-Intensive Applications  - pdf](https://news.ycombinator.com/item?id=39318774)
 
 ### Tools
 - [The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v=oLrwk07zZ0Y)
@@ -93,6 +100,8 @@
 - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 ** - [Lean Web Club](https://leanwebclub.com/)
 - [Web design inspiration catalog](https://www.curated.design/)
+- [FULL client process for high ticket web design [STEP-BY-STEP]](https://www.youtube.com/watch?v=WOmUA7THTXg)
+
 
 ### Software Engineering
 - [If I Were Starting A Software Engineering Career Today](https://jmarchello.com/if-i-were-starting-my-career-today)
@@ -102,6 +111,10 @@
 
 ### Eng Mgt
 - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
+
+### Knowledge Mgt
+- [Affine - The Future of Knowledge Management tool?](https://www.youtube.com/watch?v=oHT5fttswGU)
+
 
 ### Adult Education, learning
 ** - [These Websites Generate Online Courses in Minutes!](https://www.youtube.com/watch?v=uWYZ5nvTe0U)
@@ -150,6 +163,8 @@
 - [AI to take 300 Million Jobs, says IMF, Figma to Code in 1 click | AI News #35](https://www.youtube.com/watch?v=mkgi47OhIcM)
 ** - [David Brooks | How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen](https://www.youtube.com/watch?v=YwENbKn3tqI)
 - [No data? No problem! Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
+- [Switzerland’s Mad Scientists Soar to New Heights | Hello World with Ashlee Vance](https://www.youtube.com/watch?v=ItMoJMD-qXs)
+
 
 ### Cooking
 - [Spice Zi Kitchen - SG cooking class](https://www.spicezikitchen.com/behind-the-stove)
@@ -186,3 +201,7 @@
 - [Getting Rich With SaaS In 1 Year To Prove It’s Not Luck (Week 1)](https://www.youtube.com/watch?v=U-JWN7AoNGQ)
 - [I Was Homeless… Now I Make $5M/Year](https://www.youtube.com/watch?v=o2YgHTAHYbs)
 ** - [Passive Income: I Sold Blank Books On Amazon, here's how...](https://www.youtube.com/watch?v=yhY8Lh-BzII)
+- [https://www.youtube.com/watch?v=nhTxtl7MlbE](https://www.youtube.com/watch?v=nhTxtl7MlbE)
+- [Stop Buying Junk! How To Find Suppliers From Japan For Better Quality Goods](https://www.youtube.com/watch?v=tMx4hAfEf0Q)
+
+
