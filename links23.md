@@ -28,7 +28,7 @@
 - [Build an Advanced RAG Chatbot with Neo4j Knowledge Graph](https://www.youtube.com/watch?v=mVNMrgexxoM)
 - [Stanford's DSPy: A brief overview (LangChain alternative)](https://www.youtube.com/watch?v=njVKMqs9lxU)
 - [MindStudio: All-In-One AI Builder to Automate Your Workflows](https://www.youtube.com/watch?v=DT1KX5sbHwQ)
-- 
+- []()
 
 ### AI Hardware
 - [Computer Hardware Required to Run LLaMA AI Model Locally (GPU, CPU, RAM, SSD)](https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/)
