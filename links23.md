@@ -20,6 +20,10 @@
 - [What is Prompt Tuning?](https://www.youtube.com/watch?v=yu27PWzJI_Y)
 - [How is THIS Coding Assistant FREE?](https://www.youtube.com/watch?v=Tq13s53jscc)
 - [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [How Graph Neural Networks Are Transforming Industries](https://www.youtube.com/watch?v=9QH6jnwqrAk)
+- [You Need Better Knowledge Graphs for Your RAG](https://www.youtube.com/watch?v=eIDitSyhs7s)
+- [AutoGen Studio: Build Self-Improving AI Agents With No-Code](https://www.youtube.com/watch?v=byPbxEH5V8E)
+
 
 
 ### AI Hardware
@@ -42,6 +46,8 @@
 - [Coding Stable Diffusion from scratch in PyTorch](https://www.youtube.com/watch?v=ZBKpAp_6TGI)
 - [Statistics made easy ! ! ! Learn about the t-test, the chi square test, the p value and more](https://www.youtube.com/watch?v=I10q6fjPxJ0)
 - [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
+- [Darts - Time Series](https://unit8co.github.io/darts/index.html)
+
 
 ### AI Opportunities
 - [I got 127k followers and made $29,768 in 21 days using AI](https://www.youtube.com/watch?v=6SINAXYhgXE)
@@ -63,10 +69,14 @@
 - [Cloud Academy](https://theputtyverse.com/email-waitlist/)
 - [AWS Hands-on Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-content-type=*all)
 - [AWS Skill Builder](https://skillbuilder.aws/#prepare-for-exam)
+- [Are you Still using Microsoft Office? Time to Move On. An Alternative.](https://www.youtube.com/watch?v=LnXZKphq-XM)
+
 
 ### Python
 - [Augmenting the Markdown language for great Python Graphical Interfaces](https://www.taipy.io/posts/augmenting-the-markdown-language-for-great-python-graphical-interfaces)
 
+### Data
+- [	Data Structures for Data-Intensive Applications  - pdf](https://news.ycombinator.com/item?id=39318774)
 
 ### Tools
 - [The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v=oLrwk07zZ0Y)
@@ -78,10 +88,20 @@
 - [Publii](https://getpublii.com/dev/)
 - [How to Get Free Hosting and Domain for WordPress 2024 ( Unlimited Free Hosting for Lifetime )](https://www.youtube.com/watch?v=JCq4xyx6bRQ)
 - [The State of WebAssembly – 2023 and 2024](https://platform.uno/blog/state-of-webassembly-2023-2024/)
+- [Anders Jensen-Urstad - blog, simple](https://anders.unix.se/)
+- [Rediscovering the Small Web](https://neustadt.fr/essays/the-small-web/#your-own-corner)
+- [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
+** - [Lean Web Club](https://leanwebclub.com/)
+- [Web design inspiration catalog](https://www.curated.design/)
 
 ### Software Engineering
 - [If I Were Starting A Software Engineering Career Today](https://jmarchello.com/if-i-were-starting-my-career-today)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+- [The Death of Good Software](https://www.youtube.com/watch?v=fm_zsce03pY)
+- [Power of Small Optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
+
+### Eng Mgt
+- [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
 
 ### Adult Education, learning
 ** - [These Websites Generate Online Courses in Minutes!](https://www.youtube.com/watch?v=uWYZ5nvTe0U)
@@ -91,10 +111,12 @@
 
 ### Art
 - [Learn to Draw with Brad Colbow](https://www.bradsartschool.com/)
+** - [Drawing My Future Changed My Life Extremely](https://www.youtube.com/watch?v=3kg4DnrBkEg)
 
 ### Health
 - [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch?v=4wlRM-YgRQ8)
 - [Take Just ONE Supplement to Turn the Clock Back?](https://www.youtube.com/watch?v=U6mh0_yTBnY)
+- [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
 
 ### Life Hack
 - [Get More Done In 12 Weeks Than Others Do In 12 Months - The 12 Week Year](https://www.youtube.com/watch?v=6wQhRRWPqFE)
@@ -105,11 +127,16 @@
 - [How I changed my life in 334 days with Reverse Goal Setting](https://www.youtube.com/watch?v=bq1x659j8mA)
 - [The simple system that makes you unstoppable.](https://www.youtube.com/watch?v=fesslaSxdqs)
 - [I lost my dream job after 18 years | don’t make the same mistakes](https://www.youtube.com/watch?v=jPzB38BNFWc)
+- [HOW TO SET SYSTEMS INSTEAD OF GOALS | a system that will change your life](https://www.youtube.com/watch?v=y4evLICF8kk)
+
 
 ### Writing
 - [Best Books to Learn AWS Technical Writing | Tutorial for Beginners](https://www.youtube.com/watch?v=vIzfOcGX0jk)
 - [AI Detection Bypass: How to Write Undetectable AI Content](https://www.youtube.com/watch?v=2p0gKHoRbGQ)
 - [How to Write a Book with AI in 2024 (2 Best Methods)](https://www.youtube.com/watch?v=zlKEJLYTKLc)
+
+### Learning, Adult Edu
+- [Learn ANYTHING quickly (using the latest science) with this life changing book](https://www.youtube.com/watch?v=MwgWnuSlybY)
 
 ### Macs, Apple
 - [How to Install macOS Sonoma on Unsupported Macs (Quick and Easy)](https://www.youtube.com/watch?v=D8djeFJ1czU)
@@ -122,6 +149,7 @@
 - [I Live Better In Thailand Than I Did In The U.S. - Here's How Much It Costs | Relocated](https://www.youtube.com/watch?v=I11Z9udn38Y)
 - [AI to take 300 Million Jobs, says IMF, Figma to Code in 1 click | AI News #35](https://www.youtube.com/watch?v=mkgi47OhIcM)
 ** - [David Brooks | How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen](https://www.youtube.com/watch?v=YwENbKn3tqI)
+- [No data? No problem! Undisclosed tinkering in Excel behind economics paper](https://retractionwatch.com/2024/02/05/no-data-no-problem-undisclosed-tinkering-in-excel-behind-economics-paper/)
 
 ### Cooking
 - [Spice Zi Kitchen - SG cooking class](https://www.spicezikitchen.com/behind-the-stove)
@@ -130,6 +158,7 @@
 ### Finance
 - [Should You Pay Off Your Mortgage or Invest? (A 50-year historical backtest)](https://www.youtube.com/watch?v=9MfCVkRvjQs)
 - [Why this multi-millionaire moved to Singapore from the US](https://www.youtube.com/watch?v=QnIQtX31l_g)
+- [Slow down, do less: A Q&A with the author who introduced ‘degrowth’ to a mass audienc](https://grist.org/economics/slow-down-do-less-a-qa-with-the-author-who-introduced-degrowth-to-a-mass-audience/)
 
 ### Biz Hack
 - [How a Mathematician Became the Greatest Trader of All Time](https://www.youtube.com/watch?v=ooWTlLXMDqQ)
@@ -147,3 +176,13 @@
 - [How I Made $655K In 1 Year With Skool (7+ Hours Masterclass)](https://www.youtube.com/watch?v=S7CLVUrPX3k)
 - [How to Make $10,000/Month Writing Online](https://www.youtube.com/watch?v=gIFSSmCkFEw)
 - [How To Start a Business for $0 in 2024 Selling Digital Products](https://www.youtube.com/watch?v=DcphPAAYufQ)
+- [The Digital Nomad Dream is Dead (and this is replacing it)](https://www.youtube.com/watch?v=LYXHVva0EAM)
+- [How to Start Your First Business in a Weekend](https://www.youtube.com/watch?v=zVBHOKJgouI)
+- [Make $6.435 Per Month Selling Minimalist Maps](https://www.youtube.com/watch?v=eX6ehFwjAck)
+- [How I Built A $1M Business From This Starbucks](https://www.youtube.com/watch?v=T_wEmB5MapE)
+- [10 Side Hustles That Could Replace Your Job](https://www.youtube.com/watch?v=VTxV2n4dSMI)
+- [How I Started Selling Prints of My Photos](https://www.youtube.com/watch?v=4v51LP62b_8)
+- [Once I correctly used the “mirror principle”, I made $100,000 per month.](https://www.youtube.com/watch?v=2nCBZ1PfiKs)
+- [Getting Rich With SaaS In 1 Year To Prove It’s Not Luck (Week 1)](https://www.youtube.com/watch?v=U-JWN7AoNGQ)
+- [I Was Homeless… Now I Make $5M/Year](https://www.youtube.com/watch?v=o2YgHTAHYbs)
+** - [Passive Income: I Sold Blank Books On Amazon, here's how...](https://www.youtube.com/watch?v=yhY8Lh-BzII)
