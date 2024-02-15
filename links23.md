@@ -28,7 +28,9 @@
 - [Build an Advanced RAG Chatbot with Neo4j Knowledge Graph](https://www.youtube.com/watch?v=mVNMrgexxoM)
 - [Stanford's DSPy: A brief overview (LangChain alternative)](https://www.youtube.com/watch?v=njVKMqs9lxU)
 - [MindStudio: All-In-One AI Builder to Automate Your Workflows](https://www.youtube.com/watch?v=DT1KX5sbHwQ)
-- []()
+- [https://www.youtube.com/watch?v=bG0n5YhOsq8](https://www.youtube.com/watch?v=bG0n5YhOsq8)
+- ["MORE AGENTS" Is All You Need - Stacking LLMs](https://www.youtube.com/watch?v=AAv6NlNRMIQ)
+
 
 ### AI Hardware
 - [Computer Hardware Required to Run LLaMA AI Model Locally (GPU, CPU, RAM, SSD)](https://www.hardware-corner.net/guides/computer-to-run-llama-ai-model/)
@@ -36,8 +38,8 @@
 - [is NVLink actually useful for anything and can it be used with two different model GPU's?](https://forums.tomshardware.com/threads/is-nvlink-actually-useful-for-anything-and-can-it-be-used-with-two-different-model-gpus.3804090/)
 - [Building My Own Deep Learning Rig](https://den.dev/blog/deep-learning-rig/)
 - [How to Build a Multi-GPU System for Deep Learning in 2023](https://towardsdatascience.com/how-to-build-a-multi-gpu-system-for-deep-learning-in-2023-e5bbb905d935)
-- [https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
-
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](https://timdettmers.com/2023/01/30/which-gpu-for-deep-learning/)
+- [Demystifying GPU Compute Architectures](https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures)
 
 ### AI for Research
 - ["Research agent 3.0 - Build a group of AI researchers" - Here is how](https://www.youtube.com/watch?v=AVInhYBUnKs)
@@ -52,15 +54,16 @@
 - [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy](https://www.youtube.com/watch?v=XfpMkf4rD6E)
 - [Darts - Time Series](https://unit8co.github.io/darts/index.html)
 - [Knowledge Graph Embeddings Tutorial: From Theory to Practice](https://www.youtube.com/watch?v=gX_KHaU8ChI)
-
+- [Tutorial: Diving into Text Embedding Models](https://www.youtube.com/watch?v=Hh0pIY_ex3c)
+- [Large Language Models in Five Formulas](https://www.youtube.com/watch?v=KCXDr-UOb9A)
 
 ### AI Opportunities
 - [I got 127k followers and made $29,768 in 21 days using AI](https://www.youtube.com/watch?v=6SINAXYhgXE)
 - [The BEST A.I. Passive Income Side Hustle 2024](https://www.youtube.com/watch?v=BD9aVGh-vmc)
 - [Huawei Launches New Virtual AI Academy in Singapore to Accelerate Training and Upskilling of ICT professionals](https://www.huawei.com/en/news/2020/6/huawei-virtual-ai-academy-singapore)
 - [Earn $2.2K Daily: AI MEV Bot on Ethereum! 74% Profit. Uniswap Arbitrage.](https://www.youtube.com/watch?v=TP7m6o2H0sE)
-
-
+- [Is Excel Dead? Meet the ChatGPT Data Analyst.](https://www.youtube.com/watch?v=VCbY1qZVwvo)
+- [One free design app does everything? (Modyfi demo)](https://www.youtube.com/watch?v=J469CLhX9Sg)
 
 ### AI Tools
 - [STOP Using Midjourney, Try This FREE AI Image Generator Instead!](https://www.youtube.com/watch?v=c-4cyOYs6dA)
@@ -84,6 +87,8 @@
 
 ### Data
 - [Data Structures for Data-Intensive Applications  - pdf](https://news.ycombinator.com/item?id=39318774)
+- [From the Modern Data Stack to Knowledge Graphs by Bob Muglia](https://www.youtube.com/watch?v=Smbr-SW-fuQ)
+
 
 ### Tools
 - [The Open Source software I'm using in 2023 - Part 1!](https://www.youtube.com/watch?v=oLrwk07zZ0Y)
@@ -100,14 +105,20 @@
 - [OPML is underrated](https://kmaasrud.com/blog/opml-is-underrated.html)
 ** - [Lean Web Club](https://leanwebclub.com/)
 - [Web design inspiration catalog](https://www.curated.design/)
-- [FULL client process for high ticket web design [STEP-BY-STEP]](https://www.youtube.com/watch?v=WOmUA7THTXg)
+- [FULL client process for high ticket web design, STEP-BY-STEP](https://www.youtube.com/watch?v=WOmUA7THTXg)
 
+### Product Mgt
+- [PRODUCT MANAGEMENT FUNDAMENTALS](https://www.youtube.com/watch?v=lF70OuNWdrM)
 
 ### Software Engineering
 - [If I Were Starting A Software Engineering Career Today](https://jmarchello.com/if-i-were-starting-my-career-today)
 - [Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
 - [The Death of Good Software](https://www.youtube.com/watch?v=fm_zsce03pY)
 - [Power of Small Optimizations](https://maksimkita.com/blog/power-of-small-optimizations.html)
+- [Quality Assurance Across the Tech Industry](https://newsletter.pragmaticengineer.com/p/qa-across-tech)
+
+### SEO
+- [SEO Is A Waste Of Time in 2024](https://www.youtube.com/watch?v=4j2_sbd2yak)
 
 ### Eng Mgt
 - [What it was like working for GitLab](https://yorickpeterse.com/articles/what-it-was-like-working-for-gitlab/)
@@ -121,6 +132,8 @@
 - [Tiny mindset shift made learning to code absurdly easy](https://www.youtube.com/watch?v=T-V-7qfqRvU)
 ** - [Cheating or Learning? Walking the AI tightrope in education | Erik Winerö | TEDxGöteborg](https://www.youtube.com/watch?v=mEtAfbFr6RE)
 - [Skills Framework for Healthcare](https://www.skillsfuture.gov.sg/skills-framework/hc)
+- [Learn ANYTHING quickly (using the latest science) with this life changing book](https://www.youtube.com/watch?v=MwgWnuSlybY)
+
 
 ### Art
 - [Learn to Draw with Brad Colbow](https://www.bradsartschool.com/)
@@ -130,6 +143,7 @@
 - [How To Reverse a Cavity at Home | Cure Tooth Decay](https://www.youtube.com/watch?v=4wlRM-YgRQ8)
 - [Take Just ONE Supplement to Turn the Clock Back?](https://www.youtube.com/watch?v=U6mh0_yTBnY)
 - [Sleeping Our Way to Being Productive](https://www.nakedcapitalism.com/2024/02/sleeping-our-way-to-being-productive.html)
+- [I Used CASTOR OIL for 30 Days and THIS Happened!!!](https://www.youtube.com/watch?v=t1r72bbfG10)
 
 ### Life Hack
 - [Get More Done In 12 Weeks Than Others Do In 12 Months - The 12 Week Year](https://www.youtube.com/watch?v=6wQhRRWPqFE)
@@ -141,15 +155,15 @@
 - [The simple system that makes you unstoppable.](https://www.youtube.com/watch?v=fesslaSxdqs)
 - [I lost my dream job after 18 years | don’t make the same mistakes](https://www.youtube.com/watch?v=jPzB38BNFWc)
 - [HOW TO SET SYSTEMS INSTEAD OF GOALS | a system that will change your life](https://www.youtube.com/watch?v=y4evLICF8kk)
-
+- [You Will Get Rich When You Understand This | Marisa Peer](https://www.youtube.com/watch?v=rHlCml4eF3Q)
 
 ### Writing
 - [Best Books to Learn AWS Technical Writing | Tutorial for Beginners](https://www.youtube.com/watch?v=vIzfOcGX0jk)
 - [AI Detection Bypass: How to Write Undetectable AI Content](https://www.youtube.com/watch?v=2p0gKHoRbGQ)
 - [How to Write a Book with AI in 2024 (2 Best Methods)](https://www.youtube.com/watch?v=zlKEJLYTKLc)
-
-### Learning, Adult Edu
-- [Learn ANYTHING quickly (using the latest science) with this life changing book](https://www.youtube.com/watch?v=MwgWnuSlybY)
+- [How To Make $1 Million A Year As A Digital Writer](https://www.youtube.com/watch?v=gtMqg_QWMzA)
+- [https://www.youtube.com/watch?v=1HeWXWtHEd8](https://www.youtube.com/watch?v=1HeWXWtHEd8)
+- [We’ve been waiting 20 years for this](https://thehistoryoftheweb.com/weve-been-waiting-20-years-for-this/)
 
 ### Macs, Apple
 - [How to Install macOS Sonoma on Unsupported Macs (Quick and Easy)](https://www.youtube.com/watch?v=D8djeFJ1czU)
@@ -203,5 +217,6 @@
 ** - [Passive Income: I Sold Blank Books On Amazon, here's how...](https://www.youtube.com/watch?v=yhY8Lh-BzII)
 - [https://www.youtube.com/watch?v=nhTxtl7MlbE](https://www.youtube.com/watch?v=nhTxtl7MlbE)
 - [Stop Buying Junk! How To Find Suppliers From Japan For Better Quality Goods](https://www.youtube.com/watch?v=tMx4hAfEf0Q)
-
-
+- [The BEST Online Business to Start as a beginner (2024)](https://www.youtube.com/watch?v=bUMLlrGREsY)
+- [How To Start A $5,000,000 Business With Zero Stress | Justin Welsh](https://www.youtube.com/watch?v=y9BLgc41JJM)
+- [How to Setup a Professional Pay-Per-Use API](https://www.youtube.com/watch?v=nVKReCDBNpE)
