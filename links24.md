@@ -24,7 +24,9 @@
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
 - [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 - [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
-
+- [Mind blowing free AI tool for PowerPoint presentation || Astonishing ai for PPT | Best ever Gamma AI](https://www.youtube.com/watch?v=ol6xaa8jedw)
+- [🔥 ChatGPT Full Course For 2024 | Complete ChatGPT Full Course | ChatGPT Tutorial | Simplilearn](https://www.youtube.com/watch?v=tjKw_yF6s5k)
+- [3 Ways to Create PowerPoint Presentations with ChatGPT [for Teachers]](https://www.youtube.com/watch?v=JmVWz2PFVA0)
 
 ### AI, ML, Theoretical
 - [Mamba Explained ](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
@@ -35,7 +37,7 @@
 - [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 - [The Fastest Way to AGI: LLMs + Tree Search – Demis Hassabis (Google DeepMind CEO)](https://www.youtube.com/watch?v=eqXfhejDeqA)
 - [The Future of Generative AI Agents with Joon Sung Park](https://www.youtube.com/watch?v=vVb366mGtXo)
-
+** - [Open-Source AI Is Uniquely Dangerous - IEEE](https://spectrum.ieee.org/open-source-ai-2666932122)
 
 ### AI Hardware
 - [TPU System Architecture](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm)
@@ -58,7 +60,7 @@
 ### Data
 - [Learn the Fundamentals of Microsoft Fabric in 38 minutes ](https://www.youtube.com/watch?v=J4i5lcROJcs)
 - [SQL Workbench](https://sql-workbench.com/)
-
+- [Data-Driven Engineering - book!](file:///C:/Users/Admin/Documents/Books/Data_Driven_Science_Eng_v2.pdf)
 
 ### Data Viz, infographics
 - [Next Level KPIs in Power BI](https://www.youtube.com/watch?v=ZVknC7YEMB4)
@@ -125,6 +127,9 @@
 ** - [Chronic stress spreads cancer … here’s how](https://www.cshl.edu/chronic-stress-spreads-cancer-heres-how/)
 - [Preventing Balding: What I Did Before It Was Too Late.](https://www.youtube.com/watch?v=i7MLUy0Yac4)
 - [OSTEITIS PUBIS TREATMENT Darcy & Ninja](https://www.youtube.com/watch?v=G08W5OLckUU)
+
+### Life Hack
+- [I learned a system to work without motivation](https://www.youtube.com/watch?v=FPdkyGVbcEc)
 
 ### Learning
 - [The Best LEARNING Book in History - 40 Years AHEAD of its Time](https://www.youtube.com/watch?v=IsQUT9xRYSg)
