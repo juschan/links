@@ -19,6 +19,8 @@
 - [10x Your Excel With This New AI Formula](https://www.youtube.com/watch?v=GoNfXqwB21g)
 - [Unleash the power of Local LLM's with Ollama x AnythingLLM](https://www.youtube.com/watch?v=IJYC6zf86lU)
 - [AutoGen Studio: Build Self-Improving AI Agents With No-Code](https://www.youtube.com/watch?v=byPbxEH5V8E)
+- [QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc)
+- [I used LLaMA 2 70B to rebuild GPT Banker...and its AMAZING (LLM RAG)](https://www.youtube.com/watch?v=SedGB8m2XLM)
 
 ### Andrej Karpathy
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
@@ -113,6 +115,8 @@
 - [SaaS Notion Clone with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets](https://www.youtube.com/watch?v=A3l6YYkXzzg)
 - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE)
 - [Build and Deploy a Figma Clone](https://www.youtube.com/watch?v=oKIThIihv60)
+- [Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe](https://www.youtube.com/watch?v=Ahwoks_dawU)
+
 
   
 ### Cloud
