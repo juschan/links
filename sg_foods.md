@@ -4,7 +4,8 @@
 ### Bedok
 - ['I bring whole family come support you': Netizens rally around Western food hawker who sleeps only 5 hours a day for past 6 years](https://www.asiaone.com/lifestyle/i-bring-whole-family-come-support-you-netizens-rally-around-western-food-hawker-meaty-western-cuisine-who?utm_source=a1home&utm_medium=referral&utm_campaign=A1+trending&utm_content=c7)
 
-
+### Orchard
+- ['I haven't had something this good in a long time': Zermatt Neo downs 20 servings of nasi ayam prepared by 'grumpy' hawker at Lucky Plaza](https://www.asiaone.com/lifestyle/i-havent-had-something-good-long-time-zermatt-neo-downs-20-servings-nasi-ayam-prepared-fiees-cafe-lucky-plaza?utm_source=a1home&utm_medium=referral&utm_campaign=A1+trending&utm_content=c2)
 
 ### Tampines
 - [Colourful 'Bacha coffee-inspired' croissants from S$2.50 at Muslim-owned HDB bakery](https://www.todayonline.com/8days/colourful-bacha-coffee-inspired-croissants-s250-muslim-owned-hdb-bakery-2272921)
@@ -24,7 +25,7 @@
 - [Eating HOTEL BUFFET LEFTOVER FOOD For 24 HOURS!!! *OMG*](https://www.youtube.com/watch?v=CTM6JxNa-Rk)
 - [EATING THE CHEAPEST $2 CAI FAN IN SINGAPORE *OMG WORTH IT*](https://www.youtube.com/watch?v=RbibtVhVFjY)
 - [6 Delicious Cheap Street Food in Singapore!](https://www.youtube.com/watch?v=VIStjRWSdQg)
-
+- [EATING TOP LOCAL FOODS IN SINGAPORE *Ranked by Singaporeans* (Satay, Otah & Popiah)](https://www.youtube.com/watch?v=_R4W_00zcls)
 
 
 ---
