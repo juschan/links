@@ -59,6 +59,8 @@
 - [The Future of Generative AI Agents with Joon Sung Park](https://www.youtube.com/watch?v=vVb366mGtXo)
 ** - [Open-Source AI Is Uniquely Dangerous - IEEE](https://spectrum.ieee.org/open-source-ai-2666932122)
 - [Jeff Dean (Google): Exciting Trends in Machine Learning](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
+- [BertViz](https://github.com/jessevig/bertviz)
+
 
 ### AI Hardware
 - [TPU System Architecture](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm)
@@ -128,6 +130,7 @@
 - [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 - [We’ve been waiting 20 years for this](https://thehistoryoftheweb.com/weve-been-waiting-20-years-for-this/)
 - [The ONLY resources you need to design award winning websites](https://www.youtube.com/watch?v=CEWQIzjKvoE)
+** - [Wordpress Playground](https://wordpress.github.io/wordpress-playground/)
 
 ### Web Projects
 - [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://www.youtube.com/watch?v=6omuUOZcWL0)
