@@ -21,6 +21,20 @@
 - [AutoGen Studio: Build Self-Improving AI Agents With No-Code](https://www.youtube.com/watch?v=byPbxEH5V8E)
 - [QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc)
 - [I used LLaMA 2 70B to rebuild GPT Banker...and its AMAZING (LLM RAG)](https://www.youtube.com/watch?v=SedGB8m2XLM)
+- [Build an Agent with Long-Term, Personalized Memory](https://www.youtube.com/watch?v=oPCKB9MUP6c)
+- [How To Use Perplexity AI For Research - Terrifyingly SMART!](https://www.youtube.com/watch?v=Ne-j_U2Vkfw)
+- [Build a chatbot with custom data sources, powered by LlamaIndex](https://blog.streamlit.io/build-a-chatbot-with-custom-data-sources-powered-by-llamaindex/)
+- [Building RAG application using Langchain 🦜, OpenAI 🤖, FAISS](https://medium.com/@solidokishore/building-rag-application-using-langchain-openai-faiss-3b2af23d98ba)
+** - [How to Convert a Streamlit App to an .EXE Executable](https://www.youtube.com/watch?v=3wZ7GRbr91g)
+- [Build a Streamlit Chatbot FAST 🤯](https://www.youtube.com/watch?v=sBhK-2K9bUc)
+- [Build a basic LLM chat app - streamlit tutorial](https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps)
+- [Share your app - streamlit](https://docs.streamlit.io/streamlit-community-cloud/share-your-app)
+- [Don’t Build AI Products The Way Everyone Else Is Doing It](https://www.youtube.com/watch?v=bRFLE9qi3t8)
+- [How to Build an AI Document Chatbot in 10 Minutes](https://www.youtube.com/watch?v=riXpu1tHzl0)
+- [PrivateGPT 2.0 - FULLY LOCAL Chat With Docs (PDF, TXT, HTML, PPTX, DOCX, and more)](https://www.youtube.com/watch?v=XFiof0V3nhA)
+- [AutoGen Studio 2.24 Deep Dive (NO CODING) - Skills, Multi-Agent Workflows, and Real World Case](https://www.youtube.com/watch?v=X6pP9zyfkyY)
+- [AI Meets SQL: Developing AI Database Agent in 10 Minutes](https://www.youtube.com/watch?v=SWr9w96iBnM)
+- [privateGPT - repo](https://github.com/imartinez/privateGPT)
 
 ### Andrej Karpathy
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
@@ -28,7 +42,8 @@
 - [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
 - [Mind blowing free AI tool for PowerPoint presentation || Astonishing ai for PPT | Best ever Gamma AI](https://www.youtube.com/watch?v=ol6xaa8jedw)
 - [🔥 ChatGPT Full Course For 2024 | Complete ChatGPT Full Course | ChatGPT Tutorial | Simplilearn](https://www.youtube.com/watch?v=tjKw_yF6s5k)
-- [3 Ways to Create PowerPoint Presentations with ChatGPT [for Teachers]](https://www.youtube.com/watch?v=JmVWz2PFVA0)
+- [3 Ways to Create PowerPoint Presentations with ChatGPT "for Teachers"](https://www.youtube.com/watch?v=JmVWz2PFVA0)
+- [A cautionary tale about ChatGPT for advanced developers](https://www.youtube.com/watch?v=6CGtwF_5kzY)
 
 ### AI, ML, Theoretical
 - [Mamba Explained ](https://www.kolaayonrinde.com/blog/2024/02/11/mamba.html)
@@ -40,6 +55,7 @@
 - [The Fastest Way to AGI: LLMs + Tree Search – Demis Hassabis (Google DeepMind CEO)](https://www.youtube.com/watch?v=eqXfhejDeqA)
 - [The Future of Generative AI Agents with Joon Sung Park](https://www.youtube.com/watch?v=vVb366mGtXo)
 ** - [Open-Source AI Is Uniquely Dangerous - IEEE](https://spectrum.ieee.org/open-source-ai-2666932122)
+- [Jeff Dean (Google): Exciting Trends in Machine Learning](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 
 ### AI Hardware
 - [TPU System Architecture](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm)
@@ -84,8 +100,8 @@
 - [Vega-Altair: Declarative Visualization in Python](https://altair-viz.github.io/index.html)
 - [Neat parallel output in Python](https://bernsteinbear.com/blog/python-parallel-output/)
 - [Nuitka - Python Compiler](https://nuitka.net/)
-
-
+- [THIS Python Library Simplifies Working With Pandas](https://www.youtube.com/watch?v=B6EUzBCTaLw)
+- [Coding Is Fun  - Youtube Channel](https://www.youtube.com/@CodingIsFun/videos)
 
 ### Engineering
 - [PID without a PhD - Control Engineering](https://news.ycombinator.com/item?id=22753307)
@@ -107,7 +123,7 @@
 - [Wax - Word Processor for the web](https://waxjs.net/docs/wax/)
 - [Disillusioned with Deno](https://www.baldurbjarnason.com/2024/disillusioned-with-deno/)
 - [We’ve been waiting 20 years for this](https://thehistoryoftheweb.com/weve-been-waiting-20-years-for-this/)
-
+- [The ONLY resources you need to design award winning websites](https://www.youtube.com/watch?v=CEWQIzjKvoE)
 
 ### Web Projects
 - [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://www.youtube.com/watch?v=6omuUOZcWL0)
@@ -116,7 +132,11 @@
 - [Build a Real-Time Miro Clone With Nextjs, React, Tailwind (2024)](https://www.youtube.com/watch?v=ADJKbuayubE)
 - [Build and Deploy a Figma Clone](https://www.youtube.com/watch?v=oKIThIihv60)
 - [Build and Deploy a Full Stack AI SaaS Platform with Next js 14, TypeScript, Stripe](https://www.youtube.com/watch?v=Ahwoks_dawU)
-
+- [How to Build a Product No One Can Replace: 3 Key Strategies l Rewind AI, Dan Siroker](https://www.youtube.com/watch?v=Z1sl-XrsAOo)
+- [How to create Micro SaaS + AI + No Code, Solo | Beginner guide](https://www.youtube.com/watch?v=pbD0-o10EgM)
+- [Build a SaaS with Streamlit](https://www.youtube.com/watch?v=SR_4xM3KZpI)
+- [How to create Micro SaaS + AI + No Code, Solo | Beginner guide](https://www.youtube.com/watch?v=pbD0-o10EgM)
+- [Code along - I built Vercel in 4 Hours (System Design, AWS, Redis, S3)](https://www.youtube.com/watch?v=c8_tafixiAs)
 
   
 ### Cloud
@@ -131,6 +151,7 @@
 ** - [Chronic stress spreads cancer … here’s how](https://www.cshl.edu/chronic-stress-spreads-cancer-heres-how/)
 - [Preventing Balding: What I Did Before It Was Too Late.](https://www.youtube.com/watch?v=i7MLUy0Yac4)
 - [OSTEITIS PUBIS TREATMENT Darcy & Ninja](https://www.youtube.com/watch?v=G08W5OLckUU)
+- [The link between SKIN BACTERIA and WRINKLES w/ microbiome expert Dr Thomas Hitchcock](https://www.youtube.com/watch?v=73mr-wUu6Rc)
 
 ### Life Hack
 - [I learned a system to work without motivation](https://www.youtube.com/watch?v=FPdkyGVbcEc)
@@ -156,12 +177,17 @@
 - [A print project retrospective: the biggest problem with selling print books is the software](https://www.baldurbjarnason.com/2024/the-problem-with-print-is-software/) - interesting blog!
 - [How To Build A 1.5 Million Following Online As A Writer - The Cultural Tutor](https://www.youtube.com/watch?v=56EMOZTXDWU)
 
+### Life Hack
+** - [This odd mindset shift cured my procrastination forever.](https://www.youtube.com/watch?v=FC4jcrB4RHc)
+- [Hack your life (with demos) and get Superpowers!](https://www.youtube.com/watch?v=vF-MQmVxnCs)
 
 ### Media, Art
 - [vvvv - multipupose toolkit](https://vvvv.org/)
+- [This FREE AI Comic Book Creator is Incredible!](https://www.youtube.com/watch?v=ZSyEQPqSWuk)
 
 ### Math, Stats
 - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
+- [This book should have changed mathematics forever](https://www.youtube.com/watch?v=A9WY_HZUK8Q)
 - [Look, Ma, No Matrices!](https://enkimute.github.io/LookMaNoMatrices/)
 
 ### Finance
