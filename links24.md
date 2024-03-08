@@ -35,6 +35,9 @@
 - [AutoGen Studio 2.24 Deep Dive (NO CODING) - Skills, Multi-Agent Workflows, and Real World Case](https://www.youtube.com/watch?v=X6pP9zyfkyY)
 - [AI Meets SQL: Developing AI Database Agent in 10 Minutes](https://www.youtube.com/watch?v=SWr9w96iBnM)
 - [privateGPT - repo](https://github.com/imartinez/privateGPT)
+- [Giant Hydra 240B: Insane Open Source MoE Competes with GPT4 🐍](https://www.youtube.com/watch?v=bG0n5YhOsq8)
+- [DSPy Explained! ](https://www.youtube.com/watch?v=41EfOY0Ldkc)
+- [Use Your Self-Hosted LLM Anywhere with Ollama Web UI](https://www.youtube.com/watch?v=syR0fT0rkgY)
 
 ### Andrej Karpathy
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
@@ -66,6 +69,7 @@
 - [Groq HotChips 2022: Groq Software-Defined Scale-out Tensor Streaming Multi-Processor - video](https://www.youtube.com/watch?v=xTT2GpdSRKs)
 - [Getting Started with FPGA Design #1: Installing Xilinx Vivado/Vitis](https://www.youtube.com/watch?v=or3yYwGyGpA)
 - [Xilinx FPGA Design](https://event.techsource-asia.com/landing-verilog-fpga-expert)
+- [You can now train a 70b language model at home](https://www.answer.ai/posts/2024-03-06-fsdp-qlora.html)
 
 ### NLP
 - [Natural language processing](https://en.wikipedia.org/wiki/Natural_language_processing)
@@ -155,6 +159,8 @@
 
 ### Life Hack
 - [I learned a system to work without motivation](https://www.youtube.com/watch?v=FPdkyGVbcEc)
+- [The Forgiver's Dilemma: Can Letting Go Set You Free?](https://jyotirgamya.org/opinion/forgivers-dilemma/)
+- [I Was Born in a Country That Doesn’t Feel Like Home – Bartholomew Joyce - Nathaniel Drew Interview](https://www.youtube.com/watch?v=3lLYN5JIR_4)
 
 ### Learning
 - [The Best LEARNING Book in History - 40 Years AHEAD of its Time](https://www.youtube.com/watch?v=IsQUT9xRYSg)
