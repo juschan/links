@@ -10,6 +10,8 @@
 ### Tampines
 - [Colourful 'Bacha coffee-inspired' croissants from S$2.50 at Muslim-owned HDB bakery](https://www.todayonline.com/8days/colourful-bacha-coffee-inspired-croissants-s250-muslim-owned-hdb-bakery-2272921)
 
+### Amoy Street
+- [I Tried Singapore's MOST HYPED New Hawker Food.. Honest Thoughts](https://www.youtube.com/watch?v=wb-rUE7IE1o)
 
 ### Tanjong Pagar
 - [Meet Paul](https://www.facebook.com/p/Meet-Paul-100043399673711/)
@@ -41,4 +43,4 @@
 - [How to Make Char Siu Bao with Jet Tila | Ready Jet Cook | Food Network](https://www.youtube.com/watch?v=wCiFs8Fdz1Q)
 - [Beef Rendang - #AuntieLiz - The best cut of meat to use is... ](https://www.youtube.com/watch?v=6-QvRuWiVQc)
 - [Bak Kut Teh - Why I've cooked this forever and still love it! (Introductory guide to BKT)](https://www.youtube.com/watch?v=TfJdOBAyJ3s)
-
+- [Payasam recipes - youtube](https://www.youtube.com/results?search_query=simple+payasam+recipe)
