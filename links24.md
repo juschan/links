@@ -60,7 +60,9 @@
 ** - [Open-Source AI Is Uniquely Dangerous - IEEE](https://spectrum.ieee.org/open-source-ai-2666932122)
 - [Jeff Dean (Google): Exciting Trends in Machine Learning](https://www.youtube.com/watch?v=oSCRZkSQ1CE)
 - [BertViz](https://github.com/jessevig/bertviz)
-
+** - [One Step Closer to AGI: The 'Tree of Thoughts'](https://wandb.ai/byyoung3/ml-news/reports/One-Step-Closer-to-AGI-The-Tree-of-Thoughts---Vmlldzo0NTA2NzU4)
+- [Will Retrieval Augmented Generation (RAG) Be Killed by Long-Context LLMs?](https://zilliz.com/blog/will-retrieval-augmented-generation-RAG-be-killed-by-long-context-LLMs)
+- [Training great LLMs entirely from ground up in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 
 ### AI Hardware
 - [TPU System Architecture](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm)
@@ -85,6 +87,7 @@
 - [Learn the Fundamentals of Microsoft Fabric in 38 minutes ](https://www.youtube.com/watch?v=J4i5lcROJcs)
 - [SQL Workbench](https://sql-workbench.com/)
 - [Data-Driven Engineering - book!](file:///C:/Users/Admin/Documents/Books/Data_Driven_Science_Eng_v2.pdf)
+- [You Don't Need a Dedicated Cache Service - PostgreSQL as a Cache](https://martinheinz.dev/blog/105)
 
 ### Data Viz, infographics
 - [Next Level KPIs in Power BI](https://www.youtube.com/watch?v=ZVknC7YEMB4)
@@ -124,6 +127,8 @@
 ### Software Engineering
 - [In defense of simple architectures](https://danluu.com/simple-architectures/)
 - [Iterating over Bit Sets really quickly](https://alexharri.com/blog/bit-set-iteration)
+- [dockerc - compile docker images to standalone portable binaries](https://github.com/NilsIrl/dockerc)
+- [Twenty Years Is Nothing - on version control systems](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 
 ### Web
 - [Wax - Word Processor for the web](https://waxjs.net/docs/wax/)
@@ -144,10 +149,11 @@
 - [Build a SaaS with Streamlit](https://www.youtube.com/watch?v=SR_4xM3KZpI)
 - [How to create Micro SaaS + AI + No Code, Solo | Beginner guide](https://www.youtube.com/watch?v=pbD0-o10EgM)
 - [Code along - I built Vercel in 4 Hours (System Design, AWS, Redis, S3)](https://www.youtube.com/watch?v=c8_tafixiAs)
-
+- [How to Scrape Any Website in Make.com](https://www.youtube.com/watch?v=5w6Bf5pponE)
   
 ### Cloud
 - [What’s Wrong With Google Drive, Dropbox, and OneDrive? More Than You Think](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
+- [Stratospheric - Spring Boot and AWS](https://stratospheric.dev/)
 
 ### Eng Mgt
 - [How to change a system (18 ways)](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
@@ -164,6 +170,8 @@
 - [I learned a system to work without motivation](https://www.youtube.com/watch?v=FPdkyGVbcEc)
 - [The Forgiver's Dilemma: Can Letting Go Set You Free?](https://jyotirgamya.org/opinion/forgivers-dilemma/)
 - [I Was Born in a Country That Doesn’t Feel Like Home – Bartholomew Joyce - Nathaniel Drew Interview](https://www.youtube.com/watch?v=3lLYN5JIR_4)
+** - [How I changed my life in 334 days with Reverse Goal Setting](https://www.youtube.com/watch?v=bq1x659j8mA)
+** - [Execute Book Review](https://jonsuh.com/blog/execute-book/)
 
 ### Learning
 - [The Best LEARNING Book in History - 40 Years AHEAD of its Time](https://www.youtube.com/watch?v=IsQUT9xRYSg)
@@ -176,6 +184,8 @@
 - [about ideas now - share you ideas](https://aboutideasnow.com/)
 - [Attention deficits linked with proclivity to explore while foraging](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.2584)
 - [The Business of Winding Down Startups is Booming](https://slashdot.org/story/24/03/01/1821259/the-business-of-winding-down-startups-is-booming)
+- [The rise of the job-search bots](https://www.businessinsider.nl/the-rise-of-the-job-search-bots/)
+
 
 ### Actuarial
 - [The Data Science Actuary: A Milestone in Actuarial Innovation](https://www.actuaries.digital/2023/08/23/the-data-science-actuary-a-milestone-in-actuarial-innovation/)
@@ -190,6 +200,10 @@
 ** - [This odd mindset shift cured my procrastination forever.](https://www.youtube.com/watch?v=FC4jcrB4RHc)
 - [Hack your life (with demos) and get Superpowers!](https://www.youtube.com/watch?v=vF-MQmVxnCs)
 
+### Inspirational
+- [Day In The Life of A Korean Cafe Owner](https://www.youtube.com/watch?v=PBBdKkkIHe0)
+
+
 ### Media, Art
 - [vvvv - multipupose toolkit](https://vvvv.org/)
 - [This FREE AI Comic Book Creator is Incredible!](https://www.youtube.com/watch?v=ZSyEQPqSWuk)
@@ -198,6 +212,7 @@
 - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 - [This book should have changed mathematics forever](https://www.youtube.com/watch?v=A9WY_HZUK8Q)
 - [Look, Ma, No Matrices!](https://enkimute.github.io/LookMaNoMatrices/)
+- [Elliptic Curve ‘Murmurations’ Found With AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/) 
 
 ### Finance
 - [Why Capital One Wants To Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
