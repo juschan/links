@@ -38,6 +38,20 @@
 - [Giant Hydra 240B: Insane Open Source MoE Competes with GPT4 🐍](https://www.youtube.com/watch?v=bG0n5YhOsq8)
 - [DSPy Explained! ](https://www.youtube.com/watch?v=41EfOY0Ldkc)
 - [Use Your Self-Hosted LLM Anywhere with Ollama Web UI](https://www.youtube.com/watch?v=syR0fT0rkgY)
+- [Ideaflow](https://www.ideaflow.io/)
+- [Forget SORA, Haiper AI is Out NOW + FREE (NEW, Realistic, HD, AI Video)](https://www.youtube.com/watch?v=RETrzlePRys)
+- [Is RAG Really Dead? Testing Multi Fact Retrieval & Reasoning in GPT4-128k](https://www.youtube.com/watch?v=UlmyyYQGhzc)
+- [OpenAI's NEW "AGI Robot" STUNS The ENITRE INDUSTRY (Figure 01 Breakthrough)](https://www.youtube.com/watch?v=GiKvPJSOUmE)
+- [Worlds FIRST AGI SOFTWARE ENGINEER Just SHOCKED The ENTIRE INDUSTRY! (FULLY Autonomous AI AGENT) ](https://www.youtube.com/watch?v=L8C7_X2PD-Q)
+- [Are GFlowNets the future of AI?](https://www.youtube.com/watch?v=o0Ju9NQa5Ko)
+- [Learn to Build AI-Powered Applications in MindStudio](https://www.youtube.com/watch?v=kuBMCuj9scw)
+- [Building Corrective RAG from scratch with open-source, local LLMs](https://www.youtube.com/watch?v=E2shqsYwxck)
+- [Introducing Devin, the first AI software engineer - Cognition Labs blog](https://www.cognition-labs.com/blog)
+- [Google NotebookLM: Overview & Complete Guide](https://www.youtube.com/watch?v=hGHXhS45CSE)
+- [NEW AI Jailbreak Method SHATTERS GPT4, Claude, Gemini, LLaMA](https://www.youtube.com/watch?v=5cEvNO9rZgI)
+- [Automate YouTube Videos Using Make com & OpenAI ChatGPT](https://www.youtube.com/watch?v=JdjBdKe6ISU)
+- [I Built an AI Web Development Agency to Do the Work for Me](https://www.youtube.com/watch?v=X3Ff2MRz0Eo)
+
 
 ### Andrej Karpathy
 - [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
@@ -63,6 +77,8 @@
 ** - [One Step Closer to AGI: The 'Tree of Thoughts'](https://wandb.ai/byyoung3/ml-news/reports/One-Step-Closer-to-AGI-The-Tree-of-Thoughts---Vmlldzo0NTA2NzU4)
 - [Will Retrieval Augmented Generation (RAG) Be Killed by Long-Context LLMs?](https://zilliz.com/blog/will-retrieval-augmented-generation-RAG-be-killed-by-long-context-LLMs)
 - [Training great LLMs entirely from ground up in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
+- [Two years later, deep learning is still faced with the same fundamental challenges](https://garymarcus.substack.com/p/two-years-later-deep-learning-is)
+
 
 ### AI Hardware
 - [TPU System Architecture](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm)
@@ -111,6 +127,10 @@
 - [Nuitka - Python Compiler](https://nuitka.net/)
 - [THIS Python Library Simplifies Working With Pandas](https://www.youtube.com/watch?v=B6EUzBCTaLw)
 - [Coding Is Fun  - Youtube Channel](https://www.youtube.com/@CodingIsFun/videos)
+- [PythonAnywhere for Education](https://help.pythonanywhere.com/pages/Education)
+- [Turn An Excel Sheet Into An Interactive Dashboard Using Python (Streamlit)](https://www.youtube.com/watch?v=Sb0A9i6d320)
+- [Python in Excel vs. VBA - What You Should Learn in 2024!](https://www.youtube.com/watch?v=fH-_O9_SHqo)
+
 
 ### Engineering
 - [PID without a PhD - Control Engineering](https://news.ycombinator.com/item?id=22753307)
@@ -129,6 +149,7 @@
 - [Iterating over Bit Sets really quickly](https://alexharri.com/blog/bit-set-iteration)
 - [dockerc - compile docker images to standalone portable binaries](https://github.com/NilsIrl/dockerc)
 - [Twenty Years Is Nothing - on version control systems](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
+- [Building For Builders](https://deven.codes/posts/building-for-builders/)
 
 ### Web
 - [Wax - Word Processor for the web](https://waxjs.net/docs/wax/)
@@ -136,6 +157,9 @@
 - [We’ve been waiting 20 years for this](https://thehistoryoftheweb.com/weve-been-waiting-20-years-for-this/)
 - [The ONLY resources you need to design award winning websites](https://www.youtube.com/watch?v=CEWQIzjKvoE)
 ** - [Wordpress Playground](https://wordpress.github.io/wordpress-playground/)
+- [ECSS (Efficient CSS)](https://ecss.info/en/)
+- [Make - visual app tool ](https://www.make.com/en/pricing)
+
 
 ### Web Projects
 - [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://www.youtube.com/watch?v=6omuUOZcWL0)
@@ -154,6 +178,8 @@
 ### Cloud
 - [What’s Wrong With Google Drive, Dropbox, and OneDrive? More Than You Think](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
 - [Stratospheric - Spring Boot and AWS](https://stratospheric.dev/)
+- [How to Deploy a Streamlit App using an Amazon Free ec2 instance?](https://towardsdatascience.com/how-to-deploy-a-streamlit-app-using-an-amazon-free-ec2-instance-416a41f69dc3)
+- [Running Windows in a Docker Container!](https://www.youtube.com/watch?v=xhGYobuG508)
 
 ### Eng Mgt
 - [How to change a system (18 ways)](https://www.enablingchange.com.au/blog/strategy-2/how-to-change-a-system/)
@@ -187,10 +213,12 @@
 - [The rise of the job-search bots](https://www.businessinsider.nl/the-rise-of-the-job-search-bots/)
 
 
-### Actuarial
+### Actuarial, Insurance
 - [The Data Science Actuary: A Milestone in Actuarial Innovation](https://www.actuaries.digital/2023/08/23/the-data-science-actuary-a-milestone-in-actuarial-innovation/)
 - [The Intersection of Gen AI and Education](https://www.actuaries.digital/2023/11/24/the-intersection-of-gen-ai-and-education/)
 - [The Rise of Stochastic Parrots](https://www.actuaries.digital/2023/11/21/the-rise-of-stochastic-parrots/)
+** - [Widow given more time by court to press S$406,000 claim against insurer after husband dies in bicycle fall](https://www.channelnewsasia.com/singapore/widow-given-more-time-court-pursue-406k-insurance-claims-chubb-insurance-singapore-4194956)
+
 
 ### Writing
 - [A print project retrospective: the biggest problem with selling print books is the software](https://www.baldurbjarnason.com/2024/the-problem-with-print-is-software/) - interesting blog!
@@ -207,12 +235,25 @@
 ### Media, Art
 - [vvvv - multipupose toolkit](https://vvvv.org/)
 - [This FREE AI Comic Book Creator is Incredible!](https://www.youtube.com/watch?v=ZSyEQPqSWuk)
+- [Resolume](https://www.resolume.com/software)
 
 ### Math, Stats
 - [Beautiful Probability](https://www.readthesequences.com/Beautiful-Probability)
 - [This book should have changed mathematics forever](https://www.youtube.com/watch?v=A9WY_HZUK8Q)
 - [Look, Ma, No Matrices!](https://enkimute.github.io/LookMaNoMatrices/)
 - [Elliptic Curve ‘Murmurations’ Found With AI Take Flight](https://www.quantamagazine.org/elliptic-curve-murmurations-found-with-ai-take-flight-20240305/) 
+
+### Payment Providers
+- [PayPal Merchant Fees](https://www.paypal.com/sg/webapps/mpp/merchant-fees)
+- [Pricing built for businesses of all sizes](https://stripe.com/en-sg/pricing?utm_campaign=SG_EN_Search_Brand_Stripe_PHR-21027583422&utm_medium=cpc&utm_source=google&ad_content=642259720443&utm_term=stripe+service&utm_matchtype=p&utm_adposition=&utm_device=c&gad_source=1&gclid=EAIaIQobChMI16v4wrLshAMVlotLBR2xxQJaEAAYASABEgIuh_D_BwE)
+- [Stripe vs PayPal in Singapore: which is better for your ecommerce business?](https://wise.com/sg/blog/stripe-vs-paypal-singapore)
+
+### Wordpress
+- [Flywheel - Hosting Plans](https://getflywheel.com/pricing/)
+- [Flywheel - Review](https://winningwp.com/flywheel-wordpress-hosting-review/)
+- [Wordpress.com - Review](https://winningwp.com/wordpress-com-business-plan-review/#h-plugin-restrictions-and-conditions)
+- [Videopress](https://videopress.com/)
+- [Wordpress Hosting](https://wordpress.com/pricing/)
 
 ### Finance
 - [Why Capital One Wants To Buy Discover](https://onepercentamonth.com/2024/02/26/why-capital-one-wants-to-buy-discover/)
