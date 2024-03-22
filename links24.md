@@ -51,6 +51,8 @@
 - [NEW AI Jailbreak Method SHATTERS GPT4, Claude, Gemini, LLaMA](https://www.youtube.com/watch?v=5cEvNO9rZgI)
 - [Automate YouTube Videos Using Make com & OpenAI ChatGPT](https://www.youtube.com/watch?v=JdjBdKe6ISU)
 - [I Built an AI Web Development Agency to Do the Work for Me](https://www.youtube.com/watch?v=X3Ff2MRz0Eo)
+- [Embedchain: BEST Way to Create Powerful LLM Apps Using RAG! (Opensource) ](https://www.youtube.com/watch?v=ea_XktsFU1Q)
+- [RAFT:  A new way to teach LLMs to be better at RAG](https://techcommunity.microsoft.com/t5/ai-ai-platform-blog/raft-a-new-way-to-teach-llms-to-be-better-at-rag/ba-p/4084674)
 
 
 ### Andrej Karpathy
@@ -78,7 +80,8 @@
 - [Will Retrieval Augmented Generation (RAG) Be Killed by Long-Context LLMs?](https://zilliz.com/blog/will-retrieval-augmented-generation-RAG-be-killed-by-long-context-LLMs)
 - [Training great LLMs entirely from ground up in the wilderness as a startup](https://www.yitay.net/blog/training-great-llms-entirely-from-ground-zero-in-the-wilderness)
 - [Two years later, deep learning is still faced with the same fundamental challenges](https://garymarcus.substack.com/p/two-years-later-deep-learning-is)
-
+- [Imitation Learning](https://geohot.github.io//blog/jekyll/update/2023/11/18/imitation-learning.html)
+** - [Spreadsheets are all you need.ai](https://spreadsheets-are-all-you-need.ai/index.html)
 
 ### AI Hardware
 - [TPU System Architecture](https://cloud.google.com/tpu/docs/system-architecture-tpu-vm)
@@ -130,7 +133,19 @@
 - [PythonAnywhere for Education](https://help.pythonanywhere.com/pages/Education)
 - [Turn An Excel Sheet Into An Interactive Dashboard Using Python (Streamlit)](https://www.youtube.com/watch?v=Sb0A9i6d320)
 - [Python in Excel vs. VBA - What You Should Learn in 2024!](https://www.youtube.com/watch?v=fH-_O9_SHqo)
+- [Python in Excel Makes Machine Learning a MUST-HAVE in 2024!](https://www.youtube.com/watch?v=xbiebHODXV8)
+- [Python Data Classes are AMAZING! Here's Why](https://www.youtube.com/watch?v=5mMpM8zK4pY)
 
+### Django
+- [Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial!](https://www.youtube.com/watch?v=t7DrJqcUviA)
+- [Deploy a Django web app with Nginx and Amazon ECS - 2024](https://www.udemy.com/course/deploy-a-django-web-app-with-nginx-and-amazon-ecs-2022/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.ROW_ti.8322&utm_content=deal4584&utm_term=_._ag_80385735355_._ad_535397279739_._kw__._de_c_._dm__._pl__._ti_dsa-774930032289_._li_9062546_._pd__._&matchtype=&gad_source=1&gclid=EAIaIQobChMI67TqrLj2hAMVPalmAh3ZbQZzEAAYASAAEgJV9fD_BwE&couponCode=ST14MT32124)
+- [Learn Django](https://learndjango.com/)
+- [Deploy and scale Django applications on AWS App Runner](https://aws.amazon.com/blogs/containers/deploy-and-scale-django-applications-on-aws-app-runner/)
+- [Python Django Tutorial: Full-Featured Web App Part 1 - Getting Started](https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+- [Django 4 By Example](https://www.amazon.de/-/en/Antonio-Mele/dp/1801813051/ref=pd_sim_d_sccl_2_1/260-6111443-8889257?pd_rd_w=dY0rJ&content-id=amzn1.sym.4c791e8a-9c9d-475f-9c03-543aa87beaf7&pf_rd_p=4c791e8a-9c9d-475f-9c03-543aa87beaf7&pf_rd_r=F3YNAKA6PVX1G59PF0GT&pd_rd_wg=YHRb9&pd_rd_r=1d483563-e8c1-44c7-9b02-a4a464a367a0&pd_rd_i=1801813051&psc=1)
+- [Django: Getting Started Course](https://training.talkpython.fm/courses/getting-started-with-django)
+- [Get Started With Django: Build a Portfolio App](https://realpython.com/get-started-with-django-1/)
+- [“Boost Your Django DX” Released](https://adamj.eu/tech/2022/01/10/boost-your-django-dx-released/)
 
 ### Engineering
 - [PID without a PhD - Control Engineering](https://news.ycombinator.com/item?id=22753307)
@@ -150,6 +165,8 @@
 - [dockerc - compile docker images to standalone portable binaries](https://github.com/NilsIrl/dockerc)
 - [Twenty Years Is Nothing - on version control systems](https://deprogrammaticaipsum.com/twenty-years-is-nothing/)
 - [Building For Builders](https://deven.codes/posts/building-for-builders/)
+** - [CS 168: The Modern Algorithmic Toolbox, Spring 2023](https://web.stanford.edu/class/cs168/index.html)
+** - [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 
 ### Web
 - [Wax - Word Processor for the web](https://waxjs.net/docs/wax/)
@@ -159,7 +176,7 @@
 ** - [Wordpress Playground](https://wordpress.github.io/wordpress-playground/)
 - [ECSS (Efficient CSS)](https://ecss.info/en/)
 - [Make - visual app tool ](https://www.make.com/en/pricing)
-
+- [Web Developer Roadmap (March 2024) - Everything is Changing](https://www.youtube.com/watch?v=EzTxYQmU8OE)
 
 ### Web Projects
 - [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://www.youtube.com/watch?v=6omuUOZcWL0)
@@ -174,6 +191,8 @@
 - [How to create Micro SaaS + AI + No Code, Solo | Beginner guide](https://www.youtube.com/watch?v=pbD0-o10EgM)
 - [Code along - I built Vercel in 4 Hours (System Design, AWS, Redis, S3)](https://www.youtube.com/watch?v=c8_tafixiAs)
 - [How to Scrape Any Website in Make.com](https://www.youtube.com/watch?v=5w6Bf5pponE)
+- [Build a Complete SaaS Platform with Next.js 13, React, Prisma, tRPC, Tailwind | Full Course 2023](https://www.youtube.com/watch?v=ucX2zXAZ1I0)
+- [SaaS Website Builder, Project Management And Dashboard: Nextjs14, Bun, Stripe Connect, Prisma, MySQL](https://www.youtube.com/watch?v=6omuUOZcWL0)
   
 ### Cloud
 - [What’s Wrong With Google Drive, Dropbox, and OneDrive? More Than You Think](https://www.backblaze.com/blog/whats-wrong-with-google-drive-dropbox-and-onedrive-more-than-you-think/)
@@ -211,7 +230,8 @@
 - [Attention deficits linked with proclivity to explore while foraging](https://royalsocietypublishing.org/doi/10.1098/rspb.2022.2584)
 - [The Business of Winding Down Startups is Booming](https://slashdot.org/story/24/03/01/1821259/the-business-of-winding-down-startups-is-booming)
 - [The rise of the job-search bots](https://www.businessinsider.nl/the-rise-of-the-job-search-bots/)
-
+- [Climate change-fuelled heat stress could cut productivity and fertility, costing billions: NUS study ](https://www.todayonline.com/singapore/climate-change-heat-stress-cut-productivity-fertility-cost-billions-nus-study-2385046)
+- [Improving Effects of Hop-Derived Bitter Acids in Beer on Cognitive Functions: A New Strategy for Vagus Nerve Stimulation ](https://pubmed.ncbi.nlm.nih.gov/31940997/)
 
 ### Actuarial, Insurance
 - [The Data Science Actuary: A Milestone in Actuarial Innovation](https://www.actuaries.digital/2023/08/23/the-data-science-actuary-a-milestone-in-actuarial-innovation/)
