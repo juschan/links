@@ -3,6 +3,7 @@
 ### GenAI
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Ushering in the Thermodynamic Future ](https://www.extropic.ai/future)
+** - [Master Large Language Model Ops ](https://www.i-programmer.info/news/150-training-a-education/17053-master-large-language-model-ops.html)
 
 ### Python
 - [Hyperdiv - Reactive web framework for Python](https://hyperdiv.io/)
@@ -12,7 +13,7 @@
 - [D3.js for Data visualization](https://dipankar-tnt.medium.com/d3-js-for-data-visualization-ae38a587e5ea)
 - [Pandas 2.0: A Game-Changer for Data Scientists?](https://towardsdatascience.com/pandas-2-0-a-game-changer-for-data-scientists-3cd281fcc4b4)
 - [We built a new SQL Engine on Arrow and DataFusion - Arroyo](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
-
+** - [Running PostgreSQL Inside Your Browser With PGLite](https://www.i-programmer.info/news/84-database/17049-running-postgresql-inside-your-browser-with-pglite.html)
 
 ### Software Engineering
 - [Books every software engineer should read in 2024.](https://www.youtube.com/watch?v=Y2iJOPxw0JU)
@@ -103,6 +104,8 @@
 - [Idiosyncratic Rater Effect & 3 Biases That Hijack Performance Reviews](https://www.emexmag.com/idiosyncratic-rater-effect-3-biases-that-hijack-performance-reviews/)
 - [Love and Work - Marcus Buckingham](https://www.loveandwork.org/)
 
+### Career, Work
+- [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
 
 ### Biz Hack
 - [$20K Selling Ebooks: My PROVEN digital product strategy WORKS](https://www.youtube.com/watch?v=Og8qzrfO3iU)
