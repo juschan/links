@@ -34,7 +34,7 @@
 - [Rust Servers, Services, and Apps](https://www.amazon.com/dp/1617298603/ref=sspa_dk_detail_0?psc=1&pd_rd_i=1617298603&pd_rd_w=XTbO6&content-id=amzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_p=0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_r=VV64HXA1S8HP9GNB64SC&pd_rd_wg=A0dtR&pd_rd_r=007fae25-70d8-4cc7-8b60-4a61e76a582b&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
 - [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://www.amazon.com/Rust-Atomics-Locks-Low-Level-Concurrency/dp/1098119444/ref=pd_sim_d_sccl_3_4/135-7934371-2745322?pd_rd_w=C97um&content-id=amzn1.sym.552090e4-055d-4721-9dec-3ab260a2aa3f&pf_rd_p=552090e4-055d-4721-9dec-3ab260a2aa3f&pf_rd_r=85ME5BRX7V5NM2AJECN0&pd_rd_wg=cjS5k&pd_rd_r=0505da98-e603-48cd-afa3-516ab3948878&pd_rd_i=1098119444&psc=1)
 - [Data-Oriented Programming](https://www.manning.com/books/data-oriented-programming)
-
+- [Multi-Cloud Strategy for Cloud Architects - Second Edition: Learn how to adopt and manage public clouds by leveraging BaseOps, FinOps, and DevSecOp](https://www.amazon.com/dp/1804616737/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1804616737&pd_rd_w=DZ6a8&content-id=amzn1.sym.0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_p=0d1092dc-81bb-493f-8769-d5c802257e94&pf_rd_r=01T3Q3EG6F48XVWSRCJC&pd_rd_wg=endTP&pd_rd_r=5c567490-c879-425b-9483-b1a07a201257&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
 
 ### Statistics
 - [Lisp-Stat - Steve Nunez](https://lisp-stat.dev/blog/)
@@ -55,6 +55,8 @@
 - [Best Free Minimal Website Templates](https://htmltemplates.co/minimal-website-templates)
 - [Dead Simple Sites](https://deadsimplesites.com/)
 
+### Web Projects
+- [SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun](https://www.youtube.com/watch?v=XkOXNlHJP6M)
 
 ### Wordpress, Hosting, plugins
 - [Dreamhost](https://www.dreamhost.com/)
