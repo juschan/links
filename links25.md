@@ -4,6 +4,8 @@
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Ushering in the Thermodynamic Future ](https://www.extropic.ai/future)
 ** - [Master Large Language Model Ops ](https://www.i-programmer.info/news/150-training-a-education/17053-master-large-language-model-ops.html)
+- [9 AI Tools That Are Cheaper Than a Personal Assistant](https://www.youtube.com/watch?v=UfgWuU4VwvA)
+** - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
 
 ### Python
 - [Hyperdiv - Reactive web framework for Python](https://hyperdiv.io/)
@@ -14,6 +16,9 @@
 - [Pandas 2.0: A Game-Changer for Data Scientists?](https://towardsdatascience.com/pandas-2-0-a-game-changer-for-data-scientists-3cd281fcc4b4)
 - [We built a new SQL Engine on Arrow and DataFusion - Arroyo](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
 ** - [Running PostgreSQL Inside Your Browser With PGLite](https://www.i-programmer.info/news/84-database/17049-running-postgresql-inside-your-browser-with-pglite.html)
+- [https://github.com/WinVector/Examples/blob/main/TrainingSetSize/TrainingSetSize.ipynb](https://github.com/WinVector/Examples/blob/main/TrainingSetSize/TrainingSetSize.ipynb)
+
+
 
 ### Software Engineering
 - [Books every software engineer should read in 2024.](https://www.youtube.com/watch?v=Y2iJOPxw0JU)
@@ -39,7 +44,7 @@
 
 ### Statistics
 - [Lisp-Stat - Steve Nunez](https://lisp-stat.dev/blog/)
-
+- [A Gentle Introduction to the Art of Mathematics, version 3.1](https://giam.southernct.edu/GIAM/)
 
 
 ### Web, Web Builders
@@ -55,9 +60,12 @@
 - [Epheus - Jekyll Theme](https://github.com/onepase/Ephesus?tab=readme-ov-file)
 - [Best Free Minimal Website Templates](https://htmltemplates.co/minimal-website-templates)
 - [Dead Simple Sites](https://deadsimplesites.com/)
+- [Ask HN: Freelance website builders/maintainers, what's in your 2024 toolkit?](https://news.ycombinator.com/item?id=39893160)
+
 
 ### Web Projects
 - [SAAS Automation Builder: Clerk Authentication, Neon Tech, Uploadcare, Ngrok, Nextjs 14, Stripe, Bun](https://www.youtube.com/watch?v=XkOXNlHJP6M)
+- [Learn Web Design For Beginners - Full Course (2024)](https://www.youtube.com/watch?v=j6Ule7GXaRs)
 
 ### Wordpress, Hosting, plugins
 - [Dreamhost](https://www.dreamhost.com/)
@@ -81,6 +89,8 @@
 ### Interesting
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 - [On Plagiarism and its perpetrators](https://www.camconn.cc/post/on-plagiarism/)
+- [Roadmap - AI Coach to help start tasks](https://www.planroadmap.com/)
+
 
 ### Art
 - [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
@@ -92,6 +102,8 @@
 - [Awesome Sites - Wordpress Training](https://awesomesites.com.sg/learn-wordpress-within-an-evening/)
 - [Certified Mental Wellness Coach & Facilitator - Ngee Ann Poly](https://www.cet.np.edu.sg/courses/certified-mental-wellness-coach-facilitator/)
 - [Ultimate Courses - React](https://ultimatecourses.com/courses/react)
+- [Abundanz Consulting - Career Coaching](https://abundanzconsulting.com/)
+
 
 ### Health
 - [Researchers may have found a way to repair damaged kidneys, giving hope to millions of people on dialysis ](https://www.straitstimes.com/singapore/researchers-may-have-found-a-way-to-repair-damaged-kidneys-giving-hope-to-millions-of-people-on-dialysis)
