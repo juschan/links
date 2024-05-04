@@ -3,9 +3,13 @@
 ### GenAI
 - [What I learned from looking at 900 most popular open source AI tools](https://huyenchip.com/2024/03/14/ai-oss.html)
 - [Ushering in the Thermodynamic Future ](https://www.extropic.ai/future)
-** - [Master Large Language Model Ops ](https://www.i-programmer.info/news/150-training-a-education/17053-master-large-language-model-ops.html)
+- [Master Large Language Model Ops ](https://www.i-programmer.info/news/150-training-a-education/17053-master-large-language-model-ops.html)
 - [9 AI Tools That Are Cheaper Than a Personal Assistant](https://www.youtube.com/watch?v=UfgWuU4VwvA)
-** - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+
+### ML
+- [Entity Matching using TF-IDF in Snowpark Python](https://medium.com/snowflake/entity-matching-using-tf-idf-in-snowpark-python-3d1942d4ef19)
+
 
 ### Python
 - [Hyperdiv - Reactive web framework for Python](https://hyperdiv.io/)
@@ -15,7 +19,7 @@
 - [D3.js for Data visualization](https://dipankar-tnt.medium.com/d3-js-for-data-visualization-ae38a587e5ea)
 - [Pandas 2.0: A Game-Changer for Data Scientists?](https://towardsdatascience.com/pandas-2-0-a-game-changer-for-data-scientists-3cd281fcc4b4)
 - [We built a new SQL Engine on Arrow and DataFusion - Arroyo](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
-** - [Running PostgreSQL Inside Your Browser With PGLite](https://www.i-programmer.info/news/84-database/17049-running-postgresql-inside-your-browser-with-pglite.html)
+- [Running PostgreSQL Inside Your Browser With PGLite](https://www.i-programmer.info/news/84-database/17049-running-postgresql-inside-your-browser-with-pglite.html)
 - [https://github.com/WinVector/Examples/blob/main/TrainingSetSize/TrainingSetSize.ipynb](https://github.com/WinVector/Examples/blob/main/TrainingSetSize/TrainingSetSize.ipynb)
 
 
@@ -116,9 +120,19 @@
 - [Idiosyncratic Rater Effect & 3 Biases That Hijack Performance Reviews](https://www.emexmag.com/idiosyncratic-rater-effect-3-biases-that-hijack-performance-reviews/)
 - [Love and Work - Marcus Buckingham](https://www.loveandwork.org/)
 
-### Career, Work
+### Coaching
+- [Michael Neill](https://www.michaelneill.org/)
+
+### Career, Work, Upskilling
 - [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
+- [](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2024/imda-leveling-up-singapores-ai-talent-pool?utm_source=linkedin&utm_medium=paid-social&utm_campaign=2024_hcc_cos_2024&utm_content=frame1&li_fat_id=837daa50-28ca-4460-a2e2-e59079dea211)
+- [SG Digital Scholarship (Postgraduate – Cybersecurity Track)](https://www.imda.gov.sg/how-we-can-help/singapore-digital-scholarship/postgraduate-cybersecurity-track)
+
 
 ### Biz Hack
 - [$20K Selling Ebooks: My PROVEN digital product strategy WORKS](https://www.youtube.com/watch?v=Og8qzrfO3iU)
+
+### Interesting
+- [Earth is becoming sentient](https://stephango.com/?ref=deadsimplesites)
+
 
