@@ -6,23 +6,34 @@
 - [Master Large Language Model Ops ](https://www.i-programmer.info/news/150-training-a-education/17053-master-large-language-model-ops.html)
 - [9 AI Tools That Are Cheaper Than a Personal Assistant](https://www.youtube.com/watch?v=UfgWuU4VwvA)
 - [LLaMA Now Goes Faster on CPUs](https://justine.lol/matmul/)
+- [RAG from the Ground Up with Python and Ollama](https://www.youtube.com/watch?v=V1Mz8gMBDMo)
 
-### ML
+### ML, DS
 - [Entity Matching using TF-IDF in Snowpark Python](https://medium.com/snowflake/entity-matching-using-tf-idf-in-snowpark-python-3d1942d4ef19)
-
+- [Data Science Process](https://www.embedded-robotics.com/data-science-process/)
 
 ### Python
 - [Hyperdiv - Reactive web framework for Python](https://hyperdiv.io/)
 - [Python - Enterprise Service Bus](https://zato.io/)
 
-### Data, Data Viz
+### Data, Data Viz, Data Analytics
 - [D3.js for Data visualization](https://dipankar-tnt.medium.com/d3-js-for-data-visualization-ae38a587e5ea)
 - [Pandas 2.0: A Game-Changer for Data Scientists?](https://towardsdatascience.com/pandas-2-0-a-game-changer-for-data-scientists-3cd281fcc4b4)
 - [We built a new SQL Engine on Arrow and DataFusion - Arroyo](https://www.arroyo.dev/blog/why-arrow-and-datafusion)
 - [Running PostgreSQL Inside Your Browser With PGLite](https://www.i-programmer.info/news/84-database/17049-running-postgresql-inside-your-browser-with-pglite.html)
 - [https://github.com/WinVector/Examples/blob/main/TrainingSetSize/TrainingSetSize.ipynb](https://github.com/WinVector/Examples/blob/main/TrainingSetSize/TrainingSetSize.ipynb)
+- [I tried 100+ Data Analysis AI Tools & These Ones Are The BEST!](https://www.youtube.com/watch?v=l3NZgVBVuPQ)
 
 
+
+### DevOps, CI/CD
+- [Change Management, ISACA](https://www.isaca.org/-/media/files/isacadp/project/isaca/articles/journal/2018/volume-5/speeding-up-software-delivery-with-effective-change-management_joa_eng_0918)
+- [How to Safely Manage Change in a CI/CD World](https://www.gremlin.com/blog/how-to-safely-manage-change-in-a-ci-cd-world)
+- [Testcontainers have forever changed the way I write tests](https://www.youtube.com/watch?v=sNg0bnMF_qY)
+
+### Project Mgt
+- [ProjectLibre](https://www.projectlibre.com/product/1-alternative-microsoft-project-open-source)
+- [Open Project](https://www.openproject.org/)
 
 ### Software Engineering
 - [Books every software engineer should read in 2024.](https://www.youtube.com/watch?v=Y2iJOPxw0JU)
@@ -33,7 +44,10 @@
 - [Why software projects fail](https://vadimkravcenko.com/shorts/why-software-projects-fail/)
 - [Complexity bad: An interview with HTMX creator Carson Gross](https://www.infoworld.com/article/3713164/complexity-bad-an-interview-with-carson-gross.html)
 - [Nobody ever gets credit for fixing problems that never happened](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=http://web.mit.edu/nelsonr/www/CMR_Getting_Quality_v1.0.html&ved=2ahUKEwiEx7Gk3IyFAxWw1zgGHQGdBSkQFnoECA8QAQ&usg=AOvVaw0vFp_u5U-d_TKt5eL8SjQ7)
+- [This Framework Changed How I Write Code - mithril.js](https://www.youtube.com/watch?v=KqrOePY3Oow)
 
+### Engineer Mgt
+- [This Is Why Managers Don't Trust Programmers...](https://www.youtube.com/watch?v=W7sv1m-U2tk)
 
 ### Programming Books (to buy?)
 - [Programming Languages](https://www.amazon.com/Programming-Languages-Samuel-N-Kamin/dp/0201068249)
@@ -89,18 +103,24 @@
 
 ### Writing, Tools
 - [Marker, Markdown](https://github.com/tk04/Marker)
+- [The New AI Tool Helping Me Write (actually) Unique Content](https://www.youtube.com/watch?v=oRP7i_xXx_s)
+
 
 ### Interesting
 - [FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
 - [On Plagiarism and its perpetrators](https://www.camconn.cc/post/on-plagiarism/)
 - [Roadmap - AI Coach to help start tasks](https://www.planroadmap.com/)
+- ** [Buffett Issues A Truly Bizarre Warning](https://www.youtube.com/watch?v=xWeK-Yj9hYI)
+- [Earth is becoming sentient](https://stephango.com/?ref=deadsimplesites)
+- [Where Are The Fake Gurus Now?](https://www.youtube.com/watch?v=R8RiHTu2qUM)
 
 
 ### Art
 - [The Getty Makes Nearly 88,000 Art Images Free to Use However You Like](https://www.openculture.com/2024/03/the-getty-makes-nearly-88000-art-images-free-to-use-however-you-like.html)
 
-### Career
-- [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
+### Mind Gardens, Digital Gardens
+- [Mind Gardens: how to cultivate curiosity, grow in knowledge and produce new ideas (note-taking tips)](https://www.youtube.com/watch?v=UKB4zJmUY6w)
+
 
 ### Training
 - [Awesome Sites - Wordpress Training](https://awesomesites.com.sg/learn-wordpress-within-an-evening/)
@@ -113,7 +133,7 @@
 - [Researchers may have found a way to repair damaged kidneys, giving hope to millions of people on dialysis ](https://www.straitstimes.com/singapore/researchers-may-have-found-a-way-to-repair-damaged-kidneys-giving-hope-to-millions-of-people-on-dialysis)
 - [Measurements to Detect Mental Fatigue](https://mars.gmu.edu/items/190f00ce-a927-4308-b787-819d48a86eca)
 - [Vegetable stock: my secret lover](https://blog.andymatuschak.org/post/8092537664/vegetable-stock-my-secret-lover)
-
+- [Therapeutic potential of popular fermented dairy products and its benefits on human health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10933135/)
 
 ### HR
 - [Most HR Data Is Bad Data ](https://hbr.org/2015/02/most-hr-data-is-bad-data)
@@ -123,16 +143,18 @@
 ### Coaching
 - [Michael Neill](https://www.michaelneill.org/)
 
+
 ### Career, Work, Upskilling
 - [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
 - [](https://www.imda.gov.sg/resources/press-releases-factsheets-and-speeches/factsheets/2024/imda-leveling-up-singapores-ai-talent-pool?utm_source=linkedin&utm_medium=paid-social&utm_campaign=2024_hcc_cos_2024&utm_content=frame1&li_fat_id=837daa50-28ca-4460-a2e2-e59079dea211)
 - [SG Digital Scholarship (Postgraduate – Cybersecurity Track)](https://www.imda.gov.sg/how-we-can-help/singapore-digital-scholarship/postgraduate-cybersecurity-track)
-
+- ** [A Highly Sensitive Person's Career Path (It's not what you think!)](https://www.youtube.com/watch?v=K23ncstWH7g)
+- [How to lose two jobs in one year](https://jbennetcodes.medium.com/how-to-lose-two-jobs-in-one-year-e8e428702b91)
 
 ### Biz Hack
 - [$20K Selling Ebooks: My PROVEN digital product strategy WORKS](https://www.youtube.com/watch?v=Og8qzrfO3iU)
 
-### Interesting
-- [Earth is becoming sentient](https://stephango.com/?ref=deadsimplesites)
+
+
 
 
