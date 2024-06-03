@@ -4,6 +4,8 @@
 - [drawio - for drawing diagrams](https://www.drawio.com/)
 - [Top 8 diagramming tools for software architecture](https://icepanel.medium.com/top-8-diagramming-tools-for-software-architecture-2fc61d095b93)
 
+### ML, DS
+- [Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
 
 ### Python
 - [Python Notebooks for Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
