@@ -23,6 +23,11 @@
 - [7 ChatGPT Power Prompts That Will Change Your Business](https://www.youtube.com/watch?v=DbMVDaaeugM)
 - [How to integrate OpenAI GPT3 with a Databases - Crash Course](https://www.youtube.com/watch?v=N4nX_rTwKx4)
 - [Singapore aims to build AI talent pool through accelerated masters programme, visiting professorships ](https://www.channelnewsasia.com/singapore/singapore-artificial-intelligence-ai-talent-masters-programme-4162466)
+- [SG
+Sign in
+0:30 / 11:25
+Microsoft Phi3 Vision A Small But Mighty AI Multimodal Model ](https://www.youtube.com/watch?v=sRbuO1xfZKc)
+
 
 ### Operating Systems, System Admin
 - [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
