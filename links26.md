@@ -24,6 +24,10 @@
 - [How to integrate OpenAI GPT3 with a Databases - Crash Course](https://www.youtube.com/watch?v=N4nX_rTwKx4)
 - [Singapore aims to build AI talent pool through accelerated masters programme, visiting professorships ](https://www.channelnewsasia.com/singapore/singapore-artificial-intelligence-ai-talent-masters-programme-4162466)
 
+### Operating Systems, System Admin
+- [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
+- [Rufus - create bootable USB drives](https://rufus.ie/en/#google_vignette)
+- [Create installation media for Windows](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)
 
 ### Biz Hack
 - [How I build Apps that PRINT ($30k/month Micro SAAS)](https://www.youtube.com/watch?v=43Kt3t2wWxs)
@@ -65,6 +69,8 @@
 - [Bliss - A constructed writing system for fast and beautiful writing](https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/)
 - [The 67-Hour Rule](https://www.theatlantic.com/ideas/archive/2024/04/americans-work-free-time-67-hours/678021/)
 
+### Mobile Phone
+- [Samsung Galaxy A55 Tips & Tricks | YOU HAVE TO KNOW !!!](https://www.youtube.com/watch?v=rIaWEZDnLx0)
 
 ### Art Class
 - [ChalknPencil](https://www.chalknpencils.com/adult-art-classes/)
