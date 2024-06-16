@@ -3,14 +3,17 @@
 ### Software Architecture
 - [drawio - for drawing diagrams](https://www.drawio.com/)
 - [Top 8 diagramming tools for software architecture](https://icepanel.medium.com/top-8-diagramming-tools-for-software-architecture-2fc61d095b93)
+- ** [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 
 ### Data, Data Viz
 - [Self-serve dashboards - Why Self-Serve BI doesn't work](https://briefer.cloud/blog/posts/self-serve-bi-myth/)
+- [Flitter - Flutter-based JS Data Viz](https://flitter.pages.dev/)
 
 ### Nvidia, Cuda
 - [RAPIDS on Databricks: A Guide to GPU-Accelerated Data Processing](https://developer.nvidia.com/blog/rapids-on-databricks-a-guide-to-gpu-accelerated-data-processing/)
 - [NVIDIA Announces cuDF pandas Accelerator Mode](https://www.datacamp.com/blog/nvidia-announces-cudf-pandas-accelerator-mode)
 - [NVIDIA Unveils "NIMS" Digital Humans, Robots, Earth 2.0, and AI Factories](https://www.youtube.com/watch?v=IurALhiB6Ko)
+- [NVIDIA Warp - Python framework for HP simulations and graphics](https://github.com/NVIDIA/warp)
 
 ### ML, DS
 - [Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
@@ -19,6 +22,7 @@
 
 ### Python
 - [Python Notebooks for Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
+- [collatepdf](https://github.com/rossant/collatepdf)
 
 ### AI
 - [AI Is a False God](https://thewalrus.ca/ai-hype/)
@@ -34,6 +38,8 @@
 - [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 - ** [spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need)
 - ** [LLM Visualization](https://bbycroft.net/llm)
+- [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
+- ** [Survival of the Mediocre Mediocre](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
 
 ### Operating Systems, System Admin
 - [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
@@ -52,6 +58,8 @@
 
 ### Engineering Mgt
 - ** [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
+- [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
+- [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
 
 ###  UI/UX Tools
 - [Figma to HTML](https://www.figma.com/community/plugin/851183094275736358/figma-to-html)
@@ -60,6 +68,10 @@
 ### Web tools
 - [Unit - universal web server](https://unit.nginx.org/)
 - [Webdriver IO - Next gen browser and mobile automation testing framework, Node.js](https://webdriver.io/)
+- [Inkdown - markdown editor](https://github.com/1943time/bluestone?tab=readme-ov-file)
+
+### Programming Tools
+- [vvvv](https://visualprogramming.net/)
 
 ### Concepts well-explained
 - [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
@@ -68,6 +80,7 @@
 - [The big idea: the simple trick that can sabotage your critical thinking](https://www.theguardian.com/books/article/2024/may/20/the-big-idea-the-simple-trick-that-can-sabotage-your-critical-thinking)
 - [Male Body Image: The Naked Truth - BBC](https://www.youtube.com/watch?v=1Q2uXAp8ORk)
 - [Just Live ](https://drb.ie/articles/just-live/)
+- [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
 
 ### Computer Science, language
 - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
@@ -77,12 +90,14 @@
 - [Pair Your Compilers At The ABI Café]([https://faultlore.com/blah/](https://faultlore.com/blah/abi-puns/))
 - [Writing Truly Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 - [We CAN Have Nice Things: Upgrading to Java 21 Is Worth It ](https://thenewstack.io/we-can-have-nice-things-upgrading-to-java-21-is-worth-it/)
-
+- [Sequential Search](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
 
 ### Interesting
 - [Bliss - A constructed writing system for fast and beautiful writing](https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/)
 - [The 67-Hour Rule](https://www.theatlantic.com/ideas/archive/2024/04/americans-work-free-time-67-hours/678021/)
 - [A most profound video game: a good cognitive aid for research at the frontier of life and mind](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
+- [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
+- [Bullshit.js](https://mourner.github.io/bullshit.js/)
 
 ### Mobile Phone
 - [Samsung Galaxy A55 Tips & Tricks | YOU HAVE TO KNOW !!!](https://www.youtube.com/watch?v=rIaWEZDnLx0)
@@ -125,6 +140,7 @@
 - [Delaying Having Kids Is Impacting Your Future Kids! Dr Michael Eisenberg - sperm count affecting mortality](https://www.youtube.com/watch?v=uTs6SFeny5Q)
 - [The unique benefits of krill oil phospholipids for cognitive health](https://www.superbakrill.com/blog/the-unique-benefits-of-krill-oil-phospholipids-for-cognitive-health)
 - [“How people fall apart”: Yale faculty discuss the impact of burnout on the brain](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
+- [Fecal transplant pill replaces antibiotics for serious infections for the first time](https://english.elpais.com/health/2024-06-13/fecal-transplant-pill-replaces-antibiotics-for-serious-infections-for-the-first-time.html)
 
 ### Assisted Dying
 - [‘After I spoke publicly about it, one woman told me I was in a death cult’: Jonathan Dimbleby on assisted dying](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/one-woman-told-me-i-was-in-a-death-cult-jonathan-dimbleby-on-assisted-dying)
