@@ -5,9 +5,14 @@
 - [Top 8 diagramming tools for software architecture](https://icepanel.medium.com/top-8-diagramming-tools-for-software-architecture-2fc61d095b93)
 - ** [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 
+### Software Engineering
+- [Go is a platform](https://eltonminetto.dev/en/post/2024-06-12-go-is-a-plataform/)
+
+
 ### Data, Data Viz
 - [Self-serve dashboards - Why Self-Serve BI doesn't work](https://briefer.cloud/blog/posts/self-serve-bi-myth/)
 - [Flitter - Flutter-based JS Data Viz](https://flitter.pages.dev/)
+- [Pathway - Python ETL(https://github.com/pathwaycom/pathway)
 
 ### Nvidia, Cuda
 - [RAPIDS on Databricks: A Guide to GPU-Accelerated Data Processing](https://developer.nvidia.com/blog/rapids-on-databricks-a-guide-to-gpu-accelerated-data-processing/)
@@ -19,10 +24,13 @@
 - [Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
 - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learnin - 3Blue1Brown](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - ** [Andrew Chan - Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
+- [Lies, Damned Lies, and Data Science](https://beabytes.com/data-science-lies/)
 
 ### Python
 - [Python Notebooks for Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
 - [collatepdf](https://github.com/rossant/collatepdf)
+- [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
+
 
 ### AI
 - [AI Is a False God](https://thewalrus.ca/ai-hype/)
@@ -40,6 +48,14 @@
 - ** [LLM Visualization](https://bbycroft.net/llm)
 - [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 - ** [Survival of the Mediocre Mediocre](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
+- [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
+- [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
+- [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
+- [How To Solve LLM Hallucinations](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations)
+- [Artificial intelligence and radiologists in prostate cancer detection on MRI (PI-CAI): an international, paired, non-inferiority, confirmatory study](https://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(24)00220-1/abstract?rss=yes)
+- [Artificial intelligence senses people through walls](https://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612)
+- [New Stable Diffusion 3 release excels at AI-generated body horror](https://arstechnica.com/information-technology/2024/06/ridiculed-stable-diffusion-3-release-excels-at-ai-generated-body-horror/)
+- [llm mojo](https://github.com/dorjeduck/llm.mojo)
 
 ### Operating Systems, System Admin
 - [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
@@ -55,6 +71,7 @@
 ### Life Hack
 - ** [I Was Trained To Be Broke & Ugly. This Is How I Fixed It! (Secret Video)](https://www.youtube.com/watch?v=nrWzbvt5pZY)
 - [How I Mastered Superhuman Focus in 1 Day Through Dan Koe](https://www.youtube.com/watch?v=0mBxP_AzvPY)
+- [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
 
 ### Engineering Mgt
 - ** [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
@@ -72,6 +89,7 @@
 
 ### Programming Tools
 - [vvvv](https://visualprogramming.net/)
+- [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 
 ### Concepts well-explained
 - [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
@@ -92,12 +110,16 @@
 - [We CAN Have Nice Things: Upgrading to Java 21 Is Worth It ](https://thenewstack.io/we-can-have-nice-things-upgrading-to-java-21-is-worth-it/)
 - [Sequential Search](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
 
+### Biz Hack
+- [Dark software](https://notes.mtb.xyz/p/dark-software)
+
 ### Interesting
 - [Bliss - A constructed writing system for fast and beautiful writing](https://space.tcsenpai.com/bliss-a-constructed-writing-system-for-quick-and-nice-texts/)
 - [The 67-Hour Rule](https://www.theatlantic.com/ideas/archive/2024/04/americans-work-free-time-67-hours/678021/)
 - [A most profound video game: a good cognitive aid for research at the frontier of life and mind](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 - [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
 - [Bullshit.js](https://mourner.github.io/bullshit.js/)
+- [the Gilbert–Johnson–Keerthi algorithm explained as simply as possible](https://computerwebsite.net/writing/gjk)
 
 ### Mobile Phone
 - [Samsung Galaxy A55 Tips & Tricks | YOU HAVE TO KNOW !!!](https://www.youtube.com/watch?v=rIaWEZDnLx0)
@@ -122,6 +144,7 @@
 
 ### Work, Career
 - [The Ultimate Fall of Corporate Careers (9 to 5 jobs)📉👎](https://www.youtube.com/watch?v=azXyTvVJNwA)
+- [Ask HN: Transitioning from web dev to more "impactful" tech](https://news.ycombinator.com/item?id=40692481)
 
 ### UK Property Investing
 - [Golden Goose Property](https://www.goldengooseproperty.com/register?utm_source=youtube&utm_medium=instream&utm_campaign=retirementplanning&utm_content=murray&gclid=EAIaIQobChMIyOHZzszphAMVdgq3AB1m1wwwEAEYASAAEgJWF_D_BwE)
@@ -141,6 +164,8 @@
 - [The unique benefits of krill oil phospholipids for cognitive health](https://www.superbakrill.com/blog/the-unique-benefits-of-krill-oil-phospholipids-for-cognitive-health)
 - [“How people fall apart”: Yale faculty discuss the impact of burnout on the brain](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
 - [Fecal transplant pill replaces antibiotics for serious infections for the first time](https://english.elpais.com/health/2024-06-13/fecal-transplant-pill-replaces-antibiotics-for-serious-infections-for-the-first-time.html)
+- [Sleep deprivation disrupts memory: here’s why](https://www.nature.com/articles/d41586-024-01732-y)
+- [Up All Night? You May Have Actually Been Asleep](https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/)
 
 ### Assisted Dying
 - [‘After I spoke publicly about it, one woman told me I was in a death cult’: Jonathan Dimbleby on assisted dying](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/one-woman-told-me-i-was-in-a-death-cult-jonathan-dimbleby-on-assisted-dying)
