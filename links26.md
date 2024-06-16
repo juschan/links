@@ -7,18 +7,22 @@
 
 ### Software Engineering
 - [Go is a platform](https://eltonminetto.dev/en/post/2024-06-12-go-is-a-plataform/)
-
+- [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
+- [Docker Considered Harmful](https://catern.com/docker.html)
 
 ### Data, Data Viz
 - [Self-serve dashboards - Why Self-Serve BI doesn't work](https://briefer.cloud/blog/posts/self-serve-bi-myth/)
 - [Flitter - Flutter-based JS Data Viz](https://flitter.pages.dev/)
-- [Pathway - Python ETL(https://github.com/pathwaycom/pathway)
+- [Pathway - Python ETL](https://github.com/pathwaycom/pathway)
+- [Databricks launches LakeFlow to help its customers build their data pipelines](https://techcrunch.com/2024/06/12/databricks-launches-lakeflow-for-building-data-pipelines/)
+- [Databricks to Open Source Unity Catalog](https://www.datanami.com/2024/06/12/databricks-to-open-source-unity-catalog/)
 
 ### Nvidia, Cuda
 - [RAPIDS on Databricks: A Guide to GPU-Accelerated Data Processing](https://developer.nvidia.com/blog/rapids-on-databricks-a-guide-to-gpu-accelerated-data-processing/)
 - [NVIDIA Announces cuDF pandas Accelerator Mode](https://www.datacamp.com/blog/nvidia-announces-cudf-pandas-accelerator-mode)
 - [NVIDIA Unveils "NIMS" Digital Humans, Robots, Earth 2.0, and AI Factories](https://www.youtube.com/watch?v=IurALhiB6Ko)
 - [NVIDIA Warp - Python framework for HP simulations and graphics](https://github.com/NVIDIA/warp)
+- [Nvidia Conquers Latest AI Tests](https://spectrum.ieee.org/mlperf-nvidia-conquers)
 
 ### ML, DS
 - [Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
@@ -56,27 +60,37 @@
 - [Artificial intelligence senses people through walls](https://news.mit.edu/2018/artificial-intelligence-senses-people-through-walls-0612)
 - [New Stable Diffusion 3 release excels at AI-generated body horror](https://arstechnica.com/information-technology/2024/06/ridiculed-stable-diffusion-3-release-excels-at-ai-generated-body-horror/)
 - [llm mojo](https://github.com/dorjeduck/llm.mojo)
-
+- [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
+- [copywriterproai](https://github.com/orgs/CopywriterPro-ai/repositories)
+- [AI is poised to drive 160% increase in data center power demand](https://www.goldmansachs.com/intelligence/pages/AI-poised-to-drive-160-increase-in-power-demand.html)
+- [Relia is an E2E testing framework for LLMs](https://github.com/Yuyz0112/relia)
+- [Coqui.ai News - Text to speech](https://github.com/coqui-ai/TTS)
 ### Operating Systems, System Admin
 - [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
 - [Rufus - create bootable USB drives](https://rufus.ie/en/#google_vignette)
 - [Create installation media for Windows](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)
+- [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
+
 
 ### Biz Hack
 - [How I build Apps that PRINT ($30k/month Micro SAAS)](https://www.youtube.com/watch?v=43Kt3t2wWxs)
 - [How To Make $2 Million A Year As A Digital Writer With Zero Risk | Nicolas Cole](https://www.youtube.com/watch?v=pr71csOKRdQ)
 - [Ultimate Guide to Systemize Your Business ](https://www.youtube.com/watch?v=iZBZvtuCENo)
 - [Why Triplebyte failed](https://www.otherbranch.com/blog/why-triplebyte-failed)
+- [Spreadsheet Assassins](https://thebaffler.com/latest/spreadsheet-assassins-king)
+- [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 
 ### Life Hack
 - ** [I Was Trained To Be Broke & Ugly. This Is How I Fixed It! (Secret Video)](https://www.youtube.com/watch?v=nrWzbvt5pZY)
 - [How I Mastered Superhuman Focus in 1 Day Through Dan Koe](https://www.youtube.com/watch?v=0mBxP_AzvPY)
 - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
+- [Why Handwriting is Good for Your Brain](https://kids.frontiersin.org/articles/10.3389/frym.2022.623953)
 
 ### Engineering Mgt
 - ** [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 - [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
+- [Wells Fargo fires employees accused of faking keyboard activity to pretend to work](https://www.theregister.com/2024/06/13/wells_fargo_fires_employees/)
 
 ###  UI/UX Tools
 - [Figma to HTML](https://www.figma.com/community/plugin/851183094275736358/figma-to-html)
@@ -86,6 +100,8 @@
 - [Unit - universal web server](https://unit.nginx.org/)
 - [Webdriver IO - Next gen browser and mobile automation testing framework, Node.js](https://webdriver.io/)
 - [Inkdown - markdown editor](https://github.com/1943time/bluestone?tab=readme-ov-file)
+- [PDF to Podcast](https://pdf-to-podcast.com/)
+
 
 ### Programming Tools
 - [vvvv](https://visualprogramming.net/)
@@ -99,13 +115,16 @@
 - [Male Body Image: The Naked Truth - BBC](https://www.youtube.com/watch?v=1Q2uXAp8ORk)
 - [Just Live ](https://drb.ie/articles/just-live/)
 - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
+- [Notational intelligence](https://thesephist.com/posts/notation/)
+- [Research on the visual rabbit illusion takes a leap forward ](https://www.kyushu-u.ac.jp/en/researches/view/290/)
+
 
 ### Computer Science, language
 - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
 - [What do I think about Lua after shipping a project with 60,000 lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733)
 - [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy/)
 - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
-- [Pair Your Compilers At The ABI Café]([https://faultlore.com/blah/](https://faultlore.com/blah/abi-puns/))
+- [Pair Your Compilers At The ABI Café]([https://faultlore.com/blah/](https://faultlore.com/blah/abi-puns/)
 - [Writing Truly Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 - [We CAN Have Nice Things: Upgrading to Java 21 Is Worth It ](https://thenewstack.io/we-can-have-nice-things-upgrading-to-java-21-is-worth-it/)
 - [Sequential Search](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
@@ -120,6 +139,12 @@
 - [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
 - [Bullshit.js](https://mourner.github.io/bullshit.js/)
 - [the Gilbert–Johnson–Keerthi algorithm explained as simply as possible](https://computerwebsite.net/writing/gjk)
+- [A Business With No End](https://www.nytimes.com/interactive/2018/11/27/style/what-is-inside-this-internet-rabbit-hole.html)
+- [These cities are now so expensive they’re considered ‘impossibly unaffordable’](https://edition.cnn.com/2024/06/14/business/house-prices-impossibly-unaffordable-intl-hnk/index.html)
+- [Absolute Immunity, Total Fuckery](https://www.ymeskhout.com/p/absolute-immunity-total-fuckery)
+- [The Wonders of Maxis](https://arbesman.substack.com/p/the-wonders-of-maxis)
+- [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
+
 
 ### Mobile Phone
 - [Samsung Galaxy A55 Tips & Tricks | YOU HAVE TO KNOW !!!](https://www.youtube.com/watch?v=rIaWEZDnLx0)
@@ -131,7 +156,7 @@
 - [Inside a low budget consumer hardware espionage implant](https://ha.cking.ch/s8_data_line_locator/)
 - [Little Artists Art Studio](https://little-artists.com/about-us/about-the-founder/)
 - [Heavenspot - spray paint](https://heavenspotsg.com/pages/about-us)
-- []()
+- [Ransomware Is ‘More Brutal’ Than Ever in 2024](https://www.wired.com/story/state-of-ransomware-2024/)
 
 ### Mentoring/Coaching
 - [Mentoring SG](https://mentoring.sg/resources)
