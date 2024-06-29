@@ -99,6 +99,8 @@
 - [AI is poised to drive 160% increase in data center power demand](https://www.goldmansachs.com/intelligence/pages/AI-poised-to-drive-160-increase-in-power-demand.html)
 - [Relia is an E2E testing framework for LLMs](https://github.com/Yuyz0112/relia)
 - [Coqui.ai News - Text to speech](https://github.com/coqui-ai/TTS)
+- [I got access to GPT4o...](https://www.youtube.com/watch?v=6sQzIpEhn4s)
+- [Why Does Diffusion Work Better than Auto-Regression?](https://www.youtube.com/watch?v=zc5NTeJbk-k)
 
 
 ### Operating Systems, System Admin
