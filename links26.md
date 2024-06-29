@@ -10,6 +10,20 @@
 - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
 - [Docker Considered Harmful](https://catern.com/docker.html)
 - [How I Study System Design Without Forgetting Everything](https://www.youtube.com/watch?v=0y74ixH2E8Y)
+- [Docker Considered Harmful](https://catern.com/docker.html)
+
+### Software Testing
+- [Modern Software Testing Techniques: A Practical Guide for Developers and Testers]([https://www.amazon.com/s?k=Modern+Software+Testing+Techniques+%3AA+Practical+Guide+for+Developers+and+Testers&crid=1LXZ8FLP8D0E1&sprefix=modern+software+testing+techniques+a+practical+guide+for+developers+and+testers+%2Caps%2C324&ref=nb_sb_noss](https://www.amazon.com/Modern-Software-Testing-Techniques-Developers-ebook/dp/B0CKSDDT8K/ref=sr_1_1?crid=1LXZ8FLP8D0E1&dib=eyJ2IjoiMSJ9.ELtcD3UchcnuQ-vZ8utyPE6C6JUoqQklLzks7MZ-hAbMep4AtgYS9AGUrPuKTCwjXPL3oGyU3p7jF3ipuGZtVvTjJa45izkhWgUwH_zD1ZT1_QzeKPZSg7F9QUozHhfIUUrbutpAOWmp-GbTikDjYIsahl8ucg-kYf3QMmtdOOokcn4xO0T-Pxq0dHVHj7jTrIzHJxgpQH8znZWUK6TXjjf26xnbk7z4eIgc2yultpA.uWKl9IELd9Kf03RwHfPeF0KY3dCnarzxa0Q_Mrbxzsg&dib_tag=se&keywords=Modern+Software+Testing+Techniques+%3AA+Practical+Guide+for+Developers+and+Testers&qid=1717470430&sprefix=modern+software+testing+techniques+a+practical+guide+for+developers+and+testers+%2Caps%2C324&sr=8-1))
+- [Automated Software Testing :Introduction, Management, and Performance: Introduction, Management, and Performance](https://www.awesomebooks.com/book/9780201432879/automated-software-testing/used)
+- [Effective Software Testing: A Developer's Guide](https://www.amazon.com/Effective-Software-Testing-Developers-Guide/dp/B0B5FK314T/ref=sr_1_4?crid=1LXZ8FLP8D0E1&dib=eyJ2IjoiMSJ9.ELtcD3UchcnuQ-vZ8utyPE6C6JUoqQklLzks7MZ-hAbMep4AtgYS9AGUrPuKTCwjXPL3oGyU3p7jF3ipuGZtVvTjJa45izkhWgUwH_zD1ZT1_QzeKPZSg7F9QUozHhfIUUrbutpAOWmp-GbTikDjYIsahl8ucg-kYf3QMmtdOOokcn4xO0T-Pxq0dHVHj7jTrIzHJxgpQH8znZWUK6TXjjf26xnbk7z4eIgc2yultpA.uWKl9IELd9Kf03RwHfPeF0KY3dCnarzxa0Q_Mrbxzsg&dib_tag=se&keywords=Modern+Software+Testing+Techniques+%3AA+Practical+Guide+for+Developers+and+Testers&qid=1717470430&sprefix=modern+software+testing+techniques+a+practical+guide+for+developers+and+testers+%2Caps%2C324&sr=8-4)
+- [Design Patterns for High-Quality Automated Tests: Clean Code for Bulletproof Tests](https://www.amazon.com/Design-Patterns-High-Quality-Automated-Tests/dp/B08Z2JWRKY/ref=sr_1_1?crid=2JBWO1HOD58QZ&dib=eyJ2IjoiMSJ9.ioMKXFhjB2Yc4Jc8YRZ-tk_2wOAAj7TAarwowakPMJ--fcHbDAInuQzsfeNAVYLKZPxGjpeLQ1yxbKw1n7Ao93nLG_40zbKzLPGxSrtYg87SbYr3NTV4CPBXBVIOZB2EG5uWwT5ZLJW7JAKYVKPdupPuFagdsnAS5kdjnabiottwRGHN_nxKcDULKT84m6ekMBl_nu4-J5_0Tzjtmvcqs6ApJzAQsrw0SIBfCy31WOM.qNhJ9dac15INjFOalpbPcqyxMcd89X_H7zQAG6VpbsE&dib_tag=se&keywords=automated+software+testing&qid=1717470606&sprefix=automated+software+testin%2Caps%2C367&sr=8-1)
+- [Ultimate Selenium WebDriver for Test Automation](https://www.amazon.com/Ultimate-Selenium-WebDriver-Test-Automation/dp/8196994761/ref=sr_1_2_sspa?crid=2JBWO1HOD58QZ&dib=eyJ2IjoiMSJ9.ioMKXFhjB2Yc4Jc8YRZ-tk_2wOAAj7TAarwowakPMJ--fcHbDAInuQzsfeNAVYLKZPxGjpeLQ1yxbKw1n7Ao93nLG_40zbKzLPGxSrtYg87SbYr3NTV4CPBXBVIOZB2EG5uWwT5ZLJW7JAKYVKPdupPuFagdsnAS5kdjnabiottwRGHN_nxKcDULKT84m6ekMBl_nu4-J5_0Tzjtmvcqs6ApJzAQsrw0SIBfCy31WOM.qNhJ9dac15INjFOalpbPcqyxMcd89X_H7zQAG6VpbsE&dib_tag=se&keywords=automated+software+testing&qid=1717470606&sprefix=automated+software+testin%2Caps%2C367&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [Hands-On Selenium WebDriver with Java](https://www.amazon.com/Hands-Selenium-WebDriver-Java-End/dp/1098110005/ref=pd_sim_d_sccl_1_1/135-7934371-2745322?pd_rd_w=7x1tE&content-id=amzn1.sym.807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_p=807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_r=EVPXT7SJV3VJ83ABJ0SA&pd_rd_wg=DdqRA&pd_rd_r=ab637adb-a5f4-41e7-b475-74aec5fde390&pd_rd_i=1098110005&psc=1)
+- [Full Stack Testing](https://www.amazon.com/Full-Stack-Testing-Practical-Delivering/dp/1098108132/ref=pd_sim_d_sccl_2_3/135-7934371-2745322?pd_rd_w=vo2uT&content-id=amzn1.sym.807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_p=807772be-f817-4c8d-8a9d-04ee37f7ad33&pf_rd_r=DWCNFEBQNCPDCX6FA4C4&pd_rd_wg=AilRY&pd_rd_r=d9049813-e3b6-437b-a1a6-fdbd71ce495d&pd_rd_i=1098108132&psc=1)
+- [Implementing Automated Software Testing](https://www.amazon.com/Implementing-Automated-Software-Testing-Raising-ebook/dp/B001VLXNWY/ref=sr_1_5?crid=2JBWO1HOD58QZ&dib=eyJ2IjoiMSJ9.ioMKXFhjB2Yc4Jc8YRZ-tk_2wOAAj7TAarwowakPMJ--fcHbDAInuQzsfeNAVYLKZPxGjpeLQ1yxbKw1n7Ao93nLG_40zbKzLPGxSrtYg87SbYr3NTV4CPBXBVIOZB2EG5uWwT5ZLJW7JAKYVKPdupPuFagdsnAS5kdjnabiottwRGHN_nxKcDULKT84m6ekMBl_nu4-J5_0Tzjtmvcqs6ApJzAQsrw0SIBfCy31WOM.qNhJ9dac15INjFOalpbPcqyxMcd89X_H7zQAG6VpbsE&dib_tag=se&keywords=automated+software+testing&qid=1717470606&sprefix=automated+software+testin%2Caps%2C367&sr=8-5)
+- [Automated Software Testing with Cypress](https://www.amazon.com/Automated-Software-Testing-Cypress-Narayanan-ebook/dp/B08X8H65ZC/ref=sr_1_8?crid=2JBWO1HOD58QZ&dib=eyJ2IjoiMSJ9.ioMKXFhjB2Yc4Jc8YRZ-tk_2wOAAj7TAarwowakPMJ--fcHbDAInuQzsfeNAVYLKZPxGjpeLQ1yxbKw1n7Ao93nLG_40zbKzLPGxSrtYg87SbYr3NTV4CPBXBVIOZB2EG5uWwT5ZLJW7JAKYVKPdupPuFagdsnAS5kdjnabiottwRGHN_nxKcDULKT84m6ekMBl_nu4-J5_0Tzjtmvcqs6ApJzAQsrw0SIBfCy31WOM.qNhJ9dac15INjFOalpbPcqyxMcd89X_H7zQAG6VpbsE&dib_tag=se&keywords=automated+software+testing&qid=1717470606&sprefix=automated+software+testin%2Caps%2C367&sr=8-8)
+- [Automated Testing Unleashed](https://www.amazon.com/Automated-Testing-Unleashed-Engineering-Fundamentals-ebook/dp/B0CHPGR8C8/ref=sr_1_9?crid=2JBWO1HOD58QZ&dib=eyJ2IjoiMSJ9.ioMKXFhjB2Yc4Jc8YRZ-tk_2wOAAj7TAarwowakPMJ--fcHbDAInuQzsfeNAVYLKZPxGjpeLQ1yxbKw1n7Ao93nLG_40zbKzLPGxSrtYg87SbYr3NTV4CPBXBVIOZB2EG5uWwT5ZLJW7JAKYVKPdupPuFagdsnAS5kdjnabiottwRGHN_nxKcDULKT84m6ekMBl_nu4-J5_0Tzjtmvcqs6ApJzAQsrw0SIBfCy31WOM.qNhJ9dac15INjFOalpbPcqyxMcd89X_H7zQAG6VpbsE&dib_tag=se&keywords=automated+software+testing&qid=1717470606&sprefix=automated+software+testin%2Caps%2C367&sr=8-9)
+
 
 ### Data, Data Viz
 - [Self-serve dashboards - Why Self-Serve BI doesn't work](https://briefer.cloud/blog/posts/self-serve-bi-myth/)
@@ -20,14 +34,17 @@
 - [Migrating from DB2 to PostgreSQL – What You Should Know](https://severalnines.com/blog/migrating-db2-postgresql-what-you-should-know/)
 - [Show Me the Numbers: Designing Tables and Graphs to Enlighten](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=pd_sim_d_sccl_2_9/135-7934371-2745322?pd_rd_w=HHHtE&content-id=amzn1.sym.c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_p=c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_r=CZTZVC0JAY8854DFDMNV&pd_rd_wg=4Amvt&pd_rd_r=715894b6-f31c-4efc-b8bd-e2b05a202d7e&pd_rd_i=0970601972&psc=1)
 - [Information Dashboard Design: Displaying Data for At-a-Glance Monitoring](https://www.amazon.com/Information-Dashboard-Design-At-Glance/dp/1938377001/ref=pd_sim_d_sccl_2_6/135-7934371-2745322?pd_rd_w=HHHtE&content-id=amzn1.sym.c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_p=c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_r=CZTZVC0JAY8854DFDMNV&pd_rd_wg=4Amvt&pd_rd_r=715894b6-f31c-4efc-b8bd-e2b05a202d7e&pd_rd_i=1938377001&psc=1)
+- [ObservableHQ - v1.9](https://github.com/observablehq/framework/releases/tag/v1.9.0)
 
-
-### Nvidia, Cuda
+### Nvidia, Cuda, ML hardware
 - [RAPIDS on Databricks: A Guide to GPU-Accelerated Data Processing](https://developer.nvidia.com/blog/rapids-on-databricks-a-guide-to-gpu-accelerated-data-processing/)
 - [NVIDIA Announces cuDF pandas Accelerator Mode](https://www.datacamp.com/blog/nvidia-announces-cudf-pandas-accelerator-mode)
 - [NVIDIA Unveils "NIMS" Digital Humans, Robots, Earth 2.0, and AI Factories](https://www.youtube.com/watch?v=IurALhiB6Ko)
 - [NVIDIA Warp - Python framework for HP simulations and graphics](https://github.com/NVIDIA/warp)
 - [Nvidia Conquers Latest AI Tests](https://spectrum.ieee.org/mlperf-nvidia-conquers)
+- [HN - Apple vs GPU](https://news.ycombinator.com/item?id=40052032)
+- [Ask HN: What local machines are people using to train LLMs?](https://news.ycombinator.com/item?id=39028370)
+- [M3 max 128GB for AI running Llama2 7b 13b and 70b](https://www.youtube.com/watch?v=jaM02mb6JFM)
 
 ### ML, DS
 - [Visualize Attention in NLP Models](https://github.com/jessevig/bertviz)
@@ -44,6 +61,8 @@
 - [Evolutionary Deep Learning: Genetic algorithms and neural networks](https://www.amazon.com/dp/1617299529/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1617299529&pd_rd_w=TzCP5&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=8WY14F5SRXQAXZ6N8ABW&pd_rd_wg=zFISv&pd_rd_r=f806be2c-9782-4ae7-ac50-c4d34c54fbdc&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
 - [Causal Inference in Python: Applying Causal Inference in the Tech Industry](https://www.amazon.com/Causal-Inference-Python-Applying-Industry/dp/1098140257/ref=sr_1_1?crid=25KLUWT1LJZ8R&dib=eyJ2IjoiMSJ9.aiRe68wInfEfv95APr4WkPc-ugg_J8W7x7ifwA_V8zM5GkSW7VLQFWzYTgHyfAGU_oZvH-hlwo3TZSbSVVMC16e6cmZWyRVPBGWkAp7BzXW8W7X01jY90iaQsM7H6pIEG9mW5hr_vgl8aEDNqJsdHO3URTOqZJQEKSK2m8XfckgieSQxcawAUtiwRicBzHxfEYrk2KlAmw4s5Z2vZnj_XYPJ_2s8-dIS5FFxlRrZ3aI.9xPkNPojhdkrlouzaqUqtNg9FeTiXeAw9Wps03REftA&dib_tag=se&keywords=causal+inference+in+python&qid=1718459499&sprefix=causal+inference+in+pyt%2Caps%2C358&sr=8-1)
 - [Causal Inference and Discovery in Python](https://www.amazon.com/dp/1804612987/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1804612987&pd_rd_w=GHh9e&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=DC1TTY9RB5HTX1XJCJDA&pd_rd_wg=lb1ur&pd_rd_r=d4b087a0-5344-46e0-a3c0-a4f1c40d71be&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
+- [Predict Diabetes From Medical Records](https://www.kaggle.com/code/paultimothymooney/predict-diabetes-from-medical-records)
+
 
 ### Python
 - [Python Notebooks for Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
@@ -80,12 +99,16 @@
 - [AI is poised to drive 160% increase in data center power demand](https://www.goldmansachs.com/intelligence/pages/AI-poised-to-drive-160-increase-in-power-demand.html)
 - [Relia is an E2E testing framework for LLMs](https://github.com/Yuyz0112/relia)
 - [Coqui.ai News - Text to speech](https://github.com/coqui-ai/TTS)
+
+
 ### Operating Systems, System Admin
 - [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
 - [Rufus - create bootable USB drives](https://rufus.ie/en/#google_vignette)
 - [Create installation media for Windows](https://support.microsoft.com/en-us/windows/create-installation-media-for-windows-99a58364-8c02-206f-aa6f-40c3b507420d)
 - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
-
+- [have benchmarks been the problem the whole time?!?](https://www.youtube.com/watch?v=nGNdlPOWHHc)
+- [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
+- [Microsoft’s First Generative AI Certificate Is Available for Free](https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/)
 
 ### Biz Hack
 - [How I build Apps that PRINT ($30k/month Micro SAAS)](https://www.youtube.com/watch?v=43Kt3t2wWxs)
@@ -94,12 +117,14 @@
 - [Why Triplebyte failed](https://www.otherbranch.com/blog/why-triplebyte-failed)
 - [Spreadsheet Assassins](https://thebaffler.com/latest/spreadsheet-assassins-king)
 - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+- [https://www.youtube.com/watch?v=iY8PGR06uX4](https://www.youtube.com/watch?v=iY8PGR06uX4)
 
 ### Life Hack
 - ** [I Was Trained To Be Broke & Ugly. This Is How I Fixed It! (Secret Video)](https://www.youtube.com/watch?v=nrWzbvt5pZY)
 - [How I Mastered Superhuman Focus in 1 Day Through Dan Koe](https://www.youtube.com/watch?v=0mBxP_AzvPY)
 - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
 - [Why Handwriting is Good for Your Brain](https://kids.frontiersin.org/articles/10.3389/frym.2022.623953)
+- [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 
 ### Engineering Mgt
 - ** [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
@@ -117,6 +142,10 @@
 - [Inkdown - markdown editor](https://github.com/1943time/bluestone?tab=readme-ov-file)
 - [PDF to Podcast](https://pdf-to-podcast.com/)
 - [OWASP Juice Shop: Hacking A Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
+- [FIRED For Using React?? | Prime Reacts](https://www.youtube.com/watch?v=SuPFwIQ27kk)
+- [I Used To Hate Next.js…](https://www.youtube.com/watch?v=6q1eL7IcKzw)
+- [WebAssembly](https://webassembly.org/)
+- [Mewz - unikernel for running WASM](https://github.com/mewz-project/mewz)
 
 ### Projects
 - [Let’s write a video game from scratch like it’s 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
@@ -127,6 +156,7 @@
 
 ### Concepts well-explained
 - [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
+- [Hypothesis Testing with the Student t-Distributio](https://www.ncl.ac.uk/webtemplate/ask-assets/external/maths-resources/statistics/hypothesis-testing/hypothesis-testing-with-the-student-t-distribution.html)
 
 ### Psychology, Philosophy
 - [The big idea: the simple trick that can sabotage your critical thinking](https://www.theguardian.com/books/article/2024/may/20/the-big-idea-the-simple-trick-that-can-sabotage-your-critical-thinking)
@@ -135,7 +165,6 @@
 - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
 - [Notational intelligence](https://thesephist.com/posts/notation/)
 - [Research on the visual rabbit illusion takes a leap forward ](https://www.kyushu-u.ac.jp/en/researches/view/290/)
-
 
 ### Computer Science, language
 - [rust is not about memory safety](https://o-santi.github.io/blog/rust-is-not-about-memory-safety/)
@@ -183,6 +212,8 @@
 - [Systemic Team Coaching ® Diploma](https://www.aoec.com/programmes/systemic-team-coaching-diploma/)
 - [6 Best Team Coaching Certification Programs](https://www.lifecoachmagazine.com/team-coaching-certification/)
 - [Executive Coaching Demo: Inside the Mind of a Master Certified Coach and Client](https://www.youtube.com/watch?v=DKn9kntoGGw)
+- ** [https://www.youtube.com/watch?v=b_VPkTYmI_g](https://www.youtube.com/watch?v=b_VPkTYmI_g)
+- [Ezra Coaching](https://helloezra.com/en-gb/become-a-coach)
 
 ### Project Mgt
 - [Plane - open source Proj Mgt](https://github.com/makeplane/plane)
@@ -223,7 +254,7 @@
 ### Fitness
 - [Running Rewired: Reinvent Your Run for Stability, Strength, and Speed, 2nd Edition](https://www.amazon.com/dp/1646046528/ref=sspa_dk_detail_4?psc=1&pd_rd_i=1646046528&pd_rd_w=1Lah9&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=A5DPZSFC8NGWAR9K6MPM&pd_rd_wg=XpbJ7&pd_rd_r=482e109a-9780-4b31-964b-deca40ee85e4&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
 - [The Nature of Training: Complexity Science Applied to Endurance Performance](https://www.amazon.com/Nature-Training-Complexity-Endurance-Performance/dp/B0D2ZB1Z2J/ref=sr_1_74?crid=3EGEH8328ORR0&dib=eyJ2IjoiMSJ9.1lvdVP8Y8WGkA1_XbX1akLVirwYXjqZYHqk99CEpQyOBitkLzEcOGjAVHgsD3ffnn91CJb7qDh2y5yY3T1_TQOwK-_IafcCljIFEyqx9D9zs9rUBPkBfS2PstEiNuKfvXG0vfJwr9o4H2aKzd4Qd0LviikciUa1DvB2ItEDq50G6mas5oaqNHMCJtF-y7nxjkMyaCJbKeVomUETBjTSgt0TvMNaXDJdijeK6e2f_iAlfpmJg_BXjkJuS-b8b9rrVqhkGpz1vFTSLnlvTy4gYZgZdZlXW7mL3OmmQyCQ6Lnc.szpBIfKvSCjxc63HfqAn2jTV5bmfgCquVUjnq2aYWBI&dib_tag=se&keywords=complexity&qid=1718459918&sprefix=complexity%2Caps%2C394&sr=8-74)
-
+- [FitnessFAQs](https://www.youtube.com/@FitnessFAQs)
 
 ### Assisted Dying
 - [‘After I spoke publicly about it, one woman told me I was in a death cult’: Jonathan Dimbleby on assisted dying](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/one-woman-told-me-i-was-in-a-death-cult-jonathan-dimbleby-on-assisted-dying)
@@ -241,7 +272,11 @@
 - [Teaching With the Instructional Cha-Chas](https://www.shortform.com/best-books/book/teaching-with-the-instructional-cha-chas-book-reviews-leann-nickelsen-and-melissa-dickson)
 - [Fractal Conjugate Space & Time: Cause of Negentropy, Gravity and Perception: Conjuring Life ](https://www.shortform.com/best-books/book/fractal-conjugate-space-time-cause-of-negentropy-gravity-and-perception-conjuring-life-book-reviews-daniel-winter)
 - [The Nonlinear Workbook](https://www.shortform.com/best-books/book/the-nonlinear-workbook-book-reviews-willi-hans-steeb)
-
+- [Build an Orchestrator in Go (From Scratch)](https://www.amazon.com/Build-Orchestrator-Go-Tim-Boring/dp/1617299758/ref=sr_1_2_sspa?crid=2CTV462ESS2HE&dib=eyJ2IjoiMSJ9.MbaJ3FeZf5DL0_YfipZPpHB6q3WxFVTb-DsC4aem-VJeVTb9fv-7x1HdZhUeSWS6BIpRuXSKLXyT1YOKlNuiPnwQHXetnjciFYKeYYWJvnCk3HgLe4o0kSPaH_Uc3FRF_rgcCRtM_vqIrmgKnrGe9Y_ghGllH4jEZigU8AXh24DGExDPXrY0IRrlWimIp5xGZSl07DXH0q0x9tZSfdiEaMm3RcD5jbDH-voGhFEL8Yo.AtNdXIpvExztwiYoFrQGKngS-Ik3NaH1kRUPwn0w9yY&dib_tag=se&keywords=distributed+Go&qid=1714578853&sprefix=distributed+go%2Caps%2C315&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+- [Distributed Services with Go: Your Guide to Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Distributed-Services-Go-Reliable-Maintainable/dp/1680507605/ref=sr_1_1?crid=2CTV462ESS2HE&dib=eyJ2IjoiMSJ9.MbaJ3FeZf5DL0_YfipZPpHB6q3WxFVTb-DsC4aem-VJeVTb9fv-7x1HdZhUeSWS6BIpRuXSKLXyT1YOKlNuiPnwQHXetnjciFYKeYYWJvnCk3HgLe4o0kSPaH_Uc3FRF_rgcCRtM_vqIrmgKnrGe9Y_ghGllH4jEZigU8AXh24DGExDPXrY0IRrlWimIp5xGZSl07DXH0q0x9tZSfdiEaMm3RcD5jbDH-voGhFEL8Yo.AtNdXIpvExztwiYoFrQGKngS-Ik3NaH1kRUPwn0w9yY&dib_tag=se&keywords=distributed+Go&qid=1714578853&sprefix=distributed+go%2Caps%2C315&sr=8-1)
+- [Beginning Application Lifecycle Management](https://www.amazon.com/Beginning-Application-Lifecycle-Management-Rossberg/dp/1430258128/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.ou_H8a-fzZzE5D-S8vWtrRJTAMfOniLZsQVuZIkgnQd5xgyi--yvyL5Z99MPg28segyVi5rGXS-5p29J-vk6KmuKVU67KyGSc-IDiLueKFok2QKT7HLMSx2IzHnrkKM1dzidWiWHAwm9uWGDQwpSKtFbPinoWB8SOcidVUTcl46M94vy-4-i6IKBnrcGYw9cBNZlZ1jpfYEpD8grAQXv-dJQHuN_i4I9-VHMpi0lMm4.kU0508VQmI0vSgeHigid1qT4rXUhZv6nZrA4GEYASW4&qid=1714578745&sr=8-1)
+- [Computational Statistics (Statistics and Computing)](https://www.amazon.com/Computational-Statistics-Computing-James-Gentle-ebook/dp/B00DGEGJ3Y/ref=sr_1_1?crid=8SOTB6CUWB35&dib=eyJ2IjoiMSJ9.pbUtqRn1if7rokt0wQ_JGOa7XnGeDzSyYoCw1D19p4eDdGAj8s5DLifJi7uu9YBHY8L6sb7kvRj6127TWJ5bSX6b6bwHYnDz2bmwau9wMBbez2SNQwJwv2Tpy2cdzYtYWTnwEGWhZJn7Et_G4lZIxibPJT3i5zYU6OhXc8glObZu9-IEj-ropLcUJsRT83ZKBri1BchRFJPbk0J7lNpwOxXOps2bJ_PHmOLTI274aEo.rzxoMqUxTjQMk0BwFkgbdWBpom1nDATtVTZ21PFUyjs&dib_tag=se&keywords=computational+statistics&qid=1718810083&sprefix=computational+statist%2Caps%2C307&sr=8-1)
+- [The Unix Programming Environment ](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_1?crid=37YAH4OZJYOWJ&dib=eyJ2IjoiMSJ9.v5CMlrbXxKNhJIQ9iZvGeMZy7oFDdqBAnw6zl2-EzGCqPGxoH4dg4ufJ-uftq4__BLXgAVsWBTy95sanc7xejdIf5QYlW1arpXGtaCGKSSz129BF-Jp6YnVmc12bZL4CnORN8tQOZ_LXQY8Kqwo0hrc-uuAXUH_sv4nIfAuoquzU0epb6wAWjVkB5ca5IyUpnSOjWWpPEaePlUsJXoFzILHrQLOu0mKSfHiD863uEH0.2n0AJ__JxGLFXu0Qre-0-GBI_ThOz6r6HF5sGabK0tk&dib_tag=se&keywords=unix+programming+environment&qid=1717470175&sprefix=unix+programming+environme%2Caps%2C348&sr=8-1)
 
 
 
