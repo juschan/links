@@ -16,6 +16,10 @@
 - [Pathway - Python ETL](https://github.com/pathwaycom/pathway)
 - [Databricks launches LakeFlow to help its customers build their data pipelines](https://techcrunch.com/2024/06/12/databricks-launches-lakeflow-for-building-data-pipelines/)
 - [Databricks to Open Source Unity Catalog](https://www.datanami.com/2024/06/12/databricks-to-open-source-unity-catalog/)
+- [Migrating from DB2 to PostgreSQL – What You Should Know](https://severalnines.com/blog/migrating-db2-postgresql-what-you-should-know/)
+- [Show Me the Numbers: Designing Tables and Graphs to Enlighten](https://www.amazon.com/Show-Me-Numbers-Designing-Enlighten/dp/0970601972/ref=pd_sim_d_sccl_2_9/135-7934371-2745322?pd_rd_w=HHHtE&content-id=amzn1.sym.c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_p=c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_r=CZTZVC0JAY8854DFDMNV&pd_rd_wg=4Amvt&pd_rd_r=715894b6-f31c-4efc-b8bd-e2b05a202d7e&pd_rd_i=0970601972&psc=1)
+- [Information Dashboard Design: Displaying Data for At-a-Glance Monitoring](https://www.amazon.com/Information-Dashboard-Design-At-Glance/dp/1938377001/ref=pd_sim_d_sccl_2_6/135-7934371-2745322?pd_rd_w=HHHtE&content-id=amzn1.sym.c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_p=c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_r=CZTZVC0JAY8854DFDMNV&pd_rd_wg=4Amvt&pd_rd_r=715894b6-f31c-4efc-b8bd-e2b05a202d7e&pd_rd_i=1938377001&psc=1)
+
 
 ### Nvidia, Cuda
 - [RAPIDS on Databricks: A Guide to GPU-Accelerated Data Processing](https://developer.nvidia.com/blog/rapids-on-databricks-a-guide-to-gpu-accelerated-data-processing/)
@@ -29,6 +33,16 @@
 - [But what is a GPT? Visual intro to transformers | Chapter 5, Deep Learnin - 3Blue1Brown](https://www.youtube.com/watch?v=wjZofJX0v4M)
 - ** [Andrew Chan - Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
 - [Lies, Damned Lies, and Data Science](https://beabytes.com/data-science-lies/)
+- [Theoretical Machine Learning - Princeton University](https://www.cs.princeton.edu/courses/archive/spring15/cos511/)
+- [Neural Computations : Maximally Informative Models; Hebbian Cross Talk Effects; Refined Rademacher Chaos Complexity Bounds; Rank Tensor Analysis; Large scale Linear Rank SVM](https://www.amazon.com/Neural-Computations-Informative-Rademacher-Complexity/dp/B07N8RRDCW/ref=sr_1_14?crid=39SEMOFG0ZHRC&dib=eyJ2IjoiMSJ9.Kb1MGV4xgeAkTu817yZVWphZFO3U0gbznNXY_6TebZlpECln-H9pdGSh3ruc3BWVgPmWal-s8a1PJlPnYyC_3BEC2ioTb1Ed0ZVpwPgLPyGwwbgUJgtKYTqTrCh2LidujWsK2PKgPaJ3K-tampQTyfj0g76-UOR2s0lfhoh74RWCThP4vR3KOpSl-Uuovt41IyvZLVQBpqIIQqm0Sn-TCNjlWDcCyDFDaao585wcmOY.o4Uxmkt2dYkWouLfSe-rmMMZKoxvYunJ9BuLcVGk38k&dib_tag=se&keywords=complexity+chaos+computation&qid=1718461019&sprefix=complexity+chaos+computati%2Caps%2C414&sr=8-14)
+- [A Route to Chaos Using FPGAs: Volume I: Experimental Observations (Emergence, Complexity and Computation Book 16)](https://www.amazon.com/Route-Chaos-Using-FPGAs-Experimental-ebook/dp/B00ZZ76HJ6/ref=sr_1_1?crid=39SEMOFG0ZHRC&dib=eyJ2IjoiMSJ9.Kb1MGV4xgeAkTu817yZVWphZFO3U0gbznNXY_6TebZlpECln-H9pdGSh3ruc3BWVgPmWal-s8a1PJlPnYyC_3BEC2ioTb1Ed0ZVpwPgLPyGwwbgUJgtKYTqTrCh2LidujWsK2PKgPaJ3K-tampQTyfj0g76-UOR2s0lfhoh74RWCThP4vR3KOpSl-Uuovt41IyvZLVQBpqIIQqm0Sn-TCNjlWDcCyDFDaao585wcmOY.o4Uxmkt2dYkWouLfSe-rmMMZKoxvYunJ9BuLcVGk38k&dib_tag=se&keywords=complexity+chaos+computation&qid=1718461019&sprefix=complexity+chaos+computati%2Caps%2C414&sr=8-1)
+- [Chaos and Fractals: New Frontiers of Science](https://www.amazon.com/Chaos-Fractals-New-Frontiers-Science/dp/0387202293/ref=sr_1_33?crid=1TXFDFYDLVJNF&dib=eyJ2IjoiMSJ9.jjApI2SIh6n9CXj-56pmcL95hN8QVTOp3SElWg8QMtpi6VN74ZGno9MlYj8jCQIqvYCx-inQckg8IKkj4mOAim_Kd1vGa5LSvSU84tcVLCyIaLGr-IO_gSAgSpvgt0CAQqR67HD8a0qFzvkr61-8GZOYnetTPM59s9gPZOXMOxA.Pe76HaK3a_OwNXb6SQAU9FvvVP3RlhmbN0AhcSBxl7k&dib_tag=se&keywords=complexity+chaos&qid=1718460957&sprefix=complexity+chaos+visualization%2Caps%2C353&sr=8-33)
+- [Bigger than Chaos: Understanding Complexity through Probability ](https://www.amazon.com/Bigger-than-Chaos-Understanding-Probability/dp/0674022599/ref=sr_1_26?crid=1TXFDFYDLVJNF&dib=eyJ2IjoiMSJ9.Cc8LlwfZhQeotjk-S9G8NGYnPXNkpY8x5JoGtXo9bdH55caN5ADGmJJ-uEkDjiOsBBXxXgiSlI7byLToZXRcmIvSqSu27uJ0hx2Z4oN3pqOKtn9zIoGmlyJBoWgNwBC24nkm3JlVauAi9VG5myT-gF8aK8F4CY1D1YuuZMgLdsegZvh6xNXC-3DxtfcF1uKp.HqS_i87L259IzUZl0v1hjVRBXzGpxlybSVZ_V45f1aU&dib_tag=se&keywords=complexity+chaos&qid=1718460931&sprefix=complexity+chaos+visualization%2Caps%2C353&sr=8-26)
+- [Dancing with Chaos: 3 Steps to Break Free from Complexity, Move Toward Your Goals Faster, and Live Your Best Life](https://www.amazon.com/Dancing-Chaos-Complexity-Toward-Faster-ebook/dp/B0CTHSJL8M/ref=sr_1_25?crid=1TXFDFYDLVJNF&dib=eyJ2IjoiMSJ9.Cc8LlwfZhQeotjk-S9G8NGYnPXNkpY8x5JoGtXo9bdH55caN5ADGmJJ-uEkDjiOsBBXxXgiSlI7byLToZXRcmIvSqSu27uJ0hx2Z4oN3pqOKtn9zIoGmlyJBoWgNwBC24nkm3JlVauAi9VG5myT-gF8aK8F4CY1D1YuuZMgLdsegZvh6xNXC-3DxtfcF1uKp.HqS_i87L259IzUZl0v1hjVRBXzGpxlybSVZ_V45f1aU&dib_tag=se&keywords=complexity+chaos&qid=1718460931&sprefix=complexity+chaos+visualization%2Caps%2C353&sr=8-25)
+- [Information Theory, Inference and Learning Algorithms](https://www.amazon.com/Information-Theory-Inference-Learning-Algorithms/dp/0521642981/ref=sr_1_6?crid=FPUVA7G07K66&dib=eyJ2IjoiMSJ9.I0V8W6yrjhvdPUdQwUQLkO4s3Kw2_SJ-_SeuGkC1XlxC1zxLLFi88n0IUvfFI4ZGr0lAi2qi2bBskzZqtTQuDSkDjIh1wdzm2gdnZ0qE_x_llpcFU5awtGs9hhqu41BWwlcwpFLzYKZhRo_GoElXLvfcQFZCf0UUor89n_oDRJ2-TBVVutT9qnwRLLFDnkMem7FMXsbxeq0rgxs5j5fQt5T8aKxrlvfTsGnlEPfw56s.YAqAv4L5MjyqV450d8cLfZPKMfqAmnd1HD40kC2m3bw&dib_tag=se&keywords=inference+entropy&qid=1718459598&sprefix=inference+entrop%2Caps%2C293&sr=8-6)
+- [Evolutionary Deep Learning: Genetic algorithms and neural networks](https://www.amazon.com/dp/1617299529/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1617299529&pd_rd_w=TzCP5&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=8WY14F5SRXQAXZ6N8ABW&pd_rd_wg=zFISv&pd_rd_r=f806be2c-9782-4ae7-ac50-c4d34c54fbdc&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
+- [Causal Inference in Python: Applying Causal Inference in the Tech Industry](https://www.amazon.com/Causal-Inference-Python-Applying-Industry/dp/1098140257/ref=sr_1_1?crid=25KLUWT1LJZ8R&dib=eyJ2IjoiMSJ9.aiRe68wInfEfv95APr4WkPc-ugg_J8W7x7ifwA_V8zM5GkSW7VLQFWzYTgHyfAGU_oZvH-hlwo3TZSbSVVMC16e6cmZWyRVPBGWkAp7BzXW8W7X01jY90iaQsM7H6pIEG9mW5hr_vgl8aEDNqJsdHO3URTOqZJQEKSK2m8XfckgieSQxcawAUtiwRicBzHxfEYrk2KlAmw4s5Z2vZnj_XYPJ_2s8-dIS5FFxlRrZ3aI.9xPkNPojhdkrlouzaqUqtNg9FeTiXeAw9Wps03REftA&dib_tag=se&keywords=causal+inference+in+python&qid=1718459499&sprefix=causal+inference+in+pyt%2Caps%2C358&sr=8-1)
+- [Causal Inference and Discovery in Python](https://www.amazon.com/dp/1804612987/ref=sspa_dk_detail_1?psc=1&pd_rd_i=1804612987&pd_rd_w=GHh9e&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=DC1TTY9RB5HTX1XJCJDA&pd_rd_wg=lb1ur&pd_rd_r=d4b087a0-5344-46e0-a3c0-a4f1c40d71be&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
 
 ### Python
 - [Python Notebooks for Fundamentals of Music Processing ](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
@@ -101,7 +115,10 @@
 - [Webdriver IO - Next gen browser and mobile automation testing framework, Node.js](https://webdriver.io/)
 - [Inkdown - markdown editor](https://github.com/1943time/bluestone?tab=readme-ov-file)
 - [PDF to Podcast](https://pdf-to-podcast.com/)
+- [OWASP Juice Shop: Hacking A Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 
+### Projects
+- [Let’s write a video game from scratch like it’s 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
 
 ### Programming Tools
 - [vvvv](https://visualprogramming.net/)
@@ -145,6 +162,8 @@
 - [The Wonders of Maxis](https://arbesman.substack.com/p/the-wonders-of-maxis)
 - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
 
+### Systems Thinking
+- [Problem Solving Through Systems Thinking](https://www.amazon.com/Problem-Solving-Through-Systems-Thinking-ebook/dp/B0CPSZFQ5C/ref=sr_1_61?crid=3EGEH8328ORR0&dib=eyJ2IjoiMSJ9.1lvdVP8Y8WGkA1_XbX1akLVirwYXjqZYHqk99CEpQyOBitkLzEcOGjAVHgsD3ffnn91CJb7qDh2y5yY3T1_TQOwK-_IafcCljIFEyqx9D9zs9rUBPkBfS2PstEiNuKfvXG0vfJwr9o4H2aKzd4Qd0LviikciUa1DvB2ItEDq50G6mas5oaqNHMCJtF-y7nxjkMyaCJbKeVomUETBjTSgt0TvMNaXDJdijeK6e2f_iAlfpmJg_BXjkJuS-b8b9rrVqhkGpz1vFTSLnlvTy4gYZgZdZlXW7mL3OmmQyCQ6Lnc.szpBIfKvSCjxc63HfqAn2jTV5bmfgCquVUjnq2aYWBI&dib_tag=se&keywords=complexity&qid=1718459918&sprefix=complexity%2Caps%2C394&sr=8-61)
 
 ### Mobile Phone
 - [Samsung Galaxy A55 Tips & Tricks | YOU HAVE TO KNOW !!!](https://www.youtube.com/watch?v=rIaWEZDnLx0)
@@ -191,8 +210,31 @@
 - [Fecal transplant pill replaces antibiotics for serious infections for the first time](https://english.elpais.com/health/2024-06-13/fecal-transplant-pill-replaces-antibiotics-for-serious-infections-for-the-first-time.html)
 - [Sleep deprivation disrupts memory: here’s why](https://www.nature.com/articles/d41586-024-01732-y)
 - [Up All Night? You May Have Actually Been Asleep](https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/)
+- [Stressed - A Documentary Film | 4K OFFICIAL](https://www.youtube.com/watch?v=ahU2FP_b9OQ)
+- [Mast Cells United: A Holistic Approach to Mast Cell Activation Syndrome](https://www.amazon.com/Mast-Cells-United-Holistic-Activation/dp/1733711708/ref=pd_sim_d_sccl_2_1/135-7934371-2745322?pd_rd_w=bTJCI&content-id=amzn1.sym.c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_p=c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_r=8X4REXBZAT6KR4MPWZZK&pd_rd_wg=iEn68&pd_rd_r=52291e16-b5f1-482c-9346-2729530b391e&pd_rd_i=1733711708&psc=1)
+- [Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity](https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615/ref=sr_1_63?crid=3EGEH8328ORR0&dib=eyJ2IjoiMSJ9.1lvdVP8Y8WGkA1_XbX1akLVirwYXjqZYHqk99CEpQyOBitkLzEcOGjAVHgsD3ffnn91CJb7qDh2y5yY3T1_TQOwK-_IafcCljIFEyqx9D9zs9rUBPkBfS2PstEiNuKfvXG0vfJwr9o4H2aKzd4Qd0LviikciUa1DvB2ItEDq50G6mas5oaqNHMCJtF-y7nxjkMyaCJbKeVomUETBjTSgt0TvMNaXDJdijeK6e2f_iAlfpmJg_BXjkJuS-b8b9rrVqhkGpz1vFTSLnlvTy4gYZgZdZlXW7mL3OmmQyCQ6Lnc.szpBIfKvSCjxc63HfqAn2jTV5bmfgCquVUjnq2aYWBI&dib_tag=se&keywords=complexity&qid=1718459918&sprefix=complexity%2Caps%2C394&sr=8-63)
+
+
+### Fitness
+- [Running Rewired: Reinvent Your Run for Stability, Strength, and Speed, 2nd Edition](https://www.amazon.com/dp/1646046528/ref=sspa_dk_detail_4?psc=1&pd_rd_i=1646046528&pd_rd_w=1Lah9&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=A5DPZSFC8NGWAR9K6MPM&pd_rd_wg=XpbJ7&pd_rd_r=482e109a-9780-4b31-964b-deca40ee85e4&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
+- [The Nature of Training: Complexity Science Applied to Endurance Performance](https://www.amazon.com/Nature-Training-Complexity-Endurance-Performance/dp/B0D2ZB1Z2J/ref=sr_1_74?crid=3EGEH8328ORR0&dib=eyJ2IjoiMSJ9.1lvdVP8Y8WGkA1_XbX1akLVirwYXjqZYHqk99CEpQyOBitkLzEcOGjAVHgsD3ffnn91CJb7qDh2y5yY3T1_TQOwK-_IafcCljIFEyqx9D9zs9rUBPkBfS2PstEiNuKfvXG0vfJwr9o4H2aKzd4Qd0LviikciUa1DvB2ItEDq50G6mas5oaqNHMCJtF-y7nxjkMyaCJbKeVomUETBjTSgt0TvMNaXDJdijeK6e2f_iAlfpmJg_BXjkJuS-b8b9rrVqhkGpz1vFTSLnlvTy4gYZgZdZlXW7mL3OmmQyCQ6Lnc.szpBIfKvSCjxc63HfqAn2jTV5bmfgCquVUjnq2aYWBI&dib_tag=se&keywords=complexity&qid=1718459918&sprefix=complexity%2Caps%2C394&sr=8-74)
+
 
 ### Assisted Dying
 - [‘After I spoke publicly about it, one woman told me I was in a death cult’: Jonathan Dimbleby on assisted dying](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/one-woman-told-me-i-was-in-a-death-cult-jonathan-dimbleby-on-assisted-dying)
 - [‘While I am healthy now, I’d like to have a little lethal concoction waiting for the right moment’: Prue Leith on the right to die](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/prue-leith-right-to-die)
 - [‘I will probably not be given the chance to die in my favourite place’: Esther Rantzen on the right to choose a good death](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/esther-rantzen-right-to-choose-a-good-death)
+
+### COVID
+- ['Is This In Fact A Bioweapon?': Roger Marshall Grills Doctor About COVID-19 Origins](https://www.youtube.com/watch?v=8PLxWrDL4LE)
+
+
+### Interesting Book
+- [Book of Extremes](https://www.shortform.com/best-books/book/book-of-extremes-book-reviews-ted-g-g-lewis)
+- [Teaching With the Instructional Cha-Chas ](https://www.shortform.com/best-books/book/teaching-with-the-instructional-cha-chas-book-reviews-leann-nickelsen-and-melissa-dickson)
+- [Fractal Conjugate Space & Time: Cause of Negentropy, Gravity and Perception: Conjuring Life ](https://www.shortform.com/best-books/book/fractal-conjugate-space-time-cause-of-negentropy-gravity-and-perception-conjuring-life-book-reviews-daniel-winter)
+- [The Nonlinear Workbook](https://www.shortform.com/best-books/book/the-nonlinear-workbook-book-reviews-willi-hans-steeb)
+
+
+
+
