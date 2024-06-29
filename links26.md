@@ -9,6 +9,7 @@
 - [Go is a platform](https://eltonminetto.dev/en/post/2024-06-12-go-is-a-plataform/)
 - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
 - [Docker Considered Harmful](https://catern.com/docker.html)
+- [How I Study System Design Without Forgetting Everything](https://www.youtube.com/watch?v=0y74ixH2E8Y)
 
 ### Data, Data Viz
 - [Self-serve dashboards - Why Self-Serve BI doesn't work](https://briefer.cloud/blog/posts/self-serve-bi-myth/)
@@ -232,6 +233,8 @@
 ### COVID
 - ['Is This In Fact A Bioweapon?': Roger Marshall Grills Doctor About COVID-19 Origins](https://www.youtube.com/watch?v=8PLxWrDL4LE)
 
+### Hair Dye
+- [SMiB Color Change Shampoo - Vegan Certified](https://www.smib.com.sg/products/smib-color-change-shampoo?variant=40374760636490)
 
 ### Interesting Book
 - [Book of Extremes](https://www.shortform.com/best-books/book/book-of-extremes-book-reviews-ted-g-g-lewis)
