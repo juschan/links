@@ -28,3 +28,6 @@
 
 ### Koorma Nadi
 - [KOORMA NADI - Venturing Beyond Your Physical Nature | Sadhguru](https://www.youtube.com/watch?v=oKuYwzhx844)
+
+### Shapes
+- [Sadhguru | DRAW a POWERFUL SHAPE Like This In Your HOME | Consecration | Sadhguru Darshan](https://www.youtube.com/watch?v=KDJDu8s-zCM)
