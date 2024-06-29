@@ -179,6 +179,9 @@
 
 ### Mentoring/Coaching
 - [Mentoring SG](https://mentoring.sg/resources)
+- [Systemic Team Coaching ® Diploma](https://www.aoec.com/programmes/systemic-team-coaching-diploma/)
+- [6 Best Team Coaching Certification Programs](https://www.lifecoachmagazine.com/team-coaching-certification/)
+- [Executive Coaching Demo: Inside the Mind of a Master Certified Coach and Client](https://www.youtube.com/watch?v=DKn9kntoGGw)
 
 ### Project Mgt
 - [Plane - open source Proj Mgt](https://github.com/makeplane/plane)
@@ -213,7 +216,8 @@
 - [Stressed - A Documentary Film | 4K OFFICIAL](https://www.youtube.com/watch?v=ahU2FP_b9OQ)
 - [Mast Cells United: A Holistic Approach to Mast Cell Activation Syndrome](https://www.amazon.com/Mast-Cells-United-Holistic-Activation/dp/1733711708/ref=pd_sim_d_sccl_2_1/135-7934371-2745322?pd_rd_w=bTJCI&content-id=amzn1.sym.c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_p=c2c53eac-9257-472a-b8a7-aec087a59a62&pf_rd_r=8X4REXBZAT6KR4MPWZZK&pd_rd_wg=iEn68&pd_rd_r=52291e16-b5f1-482c-9346-2729530b391e&pd_rd_i=1733711708&psc=1)
 - [Never Bet Against Occam: Mast Cell Activation Disease and the Modern Epidemics of Chronic Illness and Medical Complexity](https://www.amazon.com/Never-Bet-Against-Occam-Activation/dp/0997319615/ref=sr_1_63?crid=3EGEH8328ORR0&dib=eyJ2IjoiMSJ9.1lvdVP8Y8WGkA1_XbX1akLVirwYXjqZYHqk99CEpQyOBitkLzEcOGjAVHgsD3ffnn91CJb7qDh2y5yY3T1_TQOwK-_IafcCljIFEyqx9D9zs9rUBPkBfS2PstEiNuKfvXG0vfJwr9o4H2aKzd4Qd0LviikciUa1DvB2ItEDq50G6mas5oaqNHMCJtF-y7nxjkMyaCJbKeVomUETBjTSgt0TvMNaXDJdijeK6e2f_iAlfpmJg_BXjkJuS-b8b9rrVqhkGpz1vFTSLnlvTy4gYZgZdZlXW7mL3OmmQyCQ6Lnc.szpBIfKvSCjxc63HfqAn2jTV5bmfgCquVUjnq2aYWBI&dib_tag=se&keywords=complexity&qid=1718459918&sprefix=complexity%2Caps%2C394&sr=8-63)
-
+- [Dietary Neurotransmitters: A Narrative Review on Current Knowledge](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5986471/)
+- [Understanding the stress response ](https://www.health.harvard.edu/staying-healthy/understanding-the-stress-response)
 
 ### Fitness
 - [Running Rewired: Reinvent Your Run for Stability, Strength, and Speed, 2nd Edition](https://www.amazon.com/dp/1646046528/ref=sspa_dk_detail_4?psc=1&pd_rd_i=1646046528&pd_rd_w=1Lah9&content-id=amzn1.sym.953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_p=953c7d66-4120-4d22-a777-f19dbfa69309&pf_rd_r=A5DPZSFC8NGWAR9K6MPM&pd_rd_wg=XpbJ7&pd_rd_r=482e109a-9780-4b31-964b-deca40ee85e4&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWwy)
@@ -231,7 +235,7 @@
 
 ### Interesting Book
 - [Book of Extremes](https://www.shortform.com/best-books/book/book-of-extremes-book-reviews-ted-g-g-lewis)
-- [Teaching With the Instructional Cha-Chas ](https://www.shortform.com/best-books/book/teaching-with-the-instructional-cha-chas-book-reviews-leann-nickelsen-and-melissa-dickson)
+- [Teaching With the Instructional Cha-Chas](https://www.shortform.com/best-books/book/teaching-with-the-instructional-cha-chas-book-reviews-leann-nickelsen-and-melissa-dickson)
 - [Fractal Conjugate Space & Time: Cause of Negentropy, Gravity and Perception: Conjuring Life ](https://www.shortform.com/best-books/book/fractal-conjugate-space-time-cause-of-negentropy-gravity-and-perception-conjuring-life-book-reviews-daniel-winter)
 - [The Nonlinear Workbook](https://www.shortform.com/best-books/book/the-nonlinear-workbook-book-reviews-willi-hans-steeb)
 
