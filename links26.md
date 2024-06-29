@@ -101,7 +101,8 @@
 - [Coqui.ai News - Text to speech](https://github.com/coqui-ai/TTS)
 - [I got access to GPT4o...](https://www.youtube.com/watch?v=6sQzIpEhn4s)
 - [Why Does Diffusion Work Better than Auto-Regression?](https://www.youtube.com/watch?v=zc5NTeJbk-k)
-
+- [Microsoft’s First Generative AI Certificate Is Available for Free](https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/)
+- [MAMBA from Scratch: Neural Nets Better and Faster than Transformers](https://www.youtube.com/watch?v=N6Piou4oYx8)
 
 ### Operating Systems, System Admin
 - [How to Install Linux on Windows 10](https://www.hellotech.com/guide/for/how-to-install-linux-on-windows-10)
@@ -110,7 +111,7 @@
 - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
 - [have benchmarks been the problem the whole time?!?](https://www.youtube.com/watch?v=nGNdlPOWHHc)
 - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
-- [Microsoft’s First Generative AI Certificate Is Available for Free](https://www.techrepublic.com/article/microsofts-first-generative-ai-certificate-is-available-for-free/)
+
 
 ### Biz Hack
 - [How I build Apps that PRINT ($30k/month Micro SAAS)](https://www.youtube.com/watch?v=43Kt3t2wWxs)
@@ -226,6 +227,9 @@
 ### Work, Career
 - [The Ultimate Fall of Corporate Careers (9 to 5 jobs)📉👎](https://www.youtube.com/watch?v=azXyTvVJNwA)
 - [Ask HN: Transitioning from web dev to more "impactful" tech](https://news.ycombinator.com/item?id=40692481)
+- [
+4:12 / 10:20
+Future Proof Your Tech Career In the Age of AI ](https://www.youtube.com/watch?v=sw2Wxh2CpLM)
 
 ### UK Property Investing
 - [Golden Goose Property](https://www.goldengooseproperty.com/register?utm_source=youtube&utm_medium=instream&utm_campaign=retirementplanning&utm_content=murray&gclid=EAIaIQobChMIyOHZzszphAMVdgq3AB1m1wwwEAEYASAAEgJWF_D_BwE)
