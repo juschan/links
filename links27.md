@@ -14,10 +14,15 @@
 
 
 ### Interesting
+- [ Peter Zeihan SHOCK Interview || China's debt growth outpaces US in government, local, and ... ](https://www.youtube.com/watch?v=urGqjCFnYIY)
+
+### Biz Hack
+- [I’m a 50 yr old startup founder. My wife’s support is the reason I’m still going.](https://www.youtube.com/watch?v=qntRemp41rs)
+
 
 ### Health
 - [Why We’re All Burning Out | Byung-Chul Han’s Warning to the World](https://www.youtube.com/watch?v=XlRlWuEyt8E)
-
+- [Why We’re All Burning Out | Byung-Chul Han’s Warning to the World](https://www.youtube.com/watch?v=XlRlWuEyt8E)
 
 ### Fitness
 - [How I Grew Wide Shoulders FAST!](https://www.youtube.com/watch?v=LYrVC671_yU)
