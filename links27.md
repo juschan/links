@@ -11,6 +11,8 @@
 - [xLSTM: The Sequel To The Legendary LSTM](https://www.youtube.com/watch?v=7r1-4LDJDmM)
 - [fast.ai - blog site](https://www.fast.ai/)
 - [Deeplearning.ai - training site](https://www.deeplearning.ai/courses/)
+- [Hugging Face Models](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending)
+- []()
 
 ### Data
 - [The Agile Data method](https://agiledata.org/)
@@ -21,6 +23,9 @@
 - [Railway hosting](https://railway.app/template/GB6Eki)
 - [Railway Template](https://github.com/railwayapp-templates/django/blob/main/static/.gitkeep)
 - [Railway - sqlite3](https://railway.app/template/jOiNFt)
+
+### Software Engineering
+- [Refterm Lecture Part 1 - Philosophies of Optimization](https://www.youtube.com/watch?v=pgoetgxecw8)
 
 ### Programming
 - [Learn C the Hard Way](https://learncodethehardway.org/c/)
@@ -33,6 +38,14 @@
 - [MasterClass by Master Coaches: Marcia Reynolds, MCC - What Does the Client REALLY Want?](https://www.youtube.com/watch?v=i0UYZ2NkcUM)
 - [The Somatic SChool](https://www.thesomaticschool.com/course#Upcoming)
 - [Stroizzi Institute - STomatics](https://strozziinstitute.org/in-person-training/)
+
+### Photography
+- [Want To Be A Photographer? Get This $90 Camera - Sony NEX-5](https://www.youtube.com/watch?v=hHPWTe70B0k)
+
+### Career
+- [The Office has FAILED You...Here's The Solution! (Career Coach, Ex-Investment Banker)](https://www.youtube.com/watch?v=mB6MvvMufqo)
+- [jobscan](https://www.jobscan.co)
+- [Singapore Certified Management Consultant (SCMC)](https://www.tuvsud.com/en-sg/landing/asmea/singapore-certified-management-consultant-scmc?utm_source=Google&utm_medium=SearchAds&utm_campaign=SG-SCMC&utm_source=google&utm_medium=cpc&utm_campaign=SCMC-BA-SG-JW&utm_term=registered%20management%20consultant&s_kwcid=AL!14017!3!415316089861!p!!g!!registered%20management%20consultant&gad_source=1&gclid=EAIaIQobChMIqsW93JX_hAMVFZVLBR2_dApQEAAYASAAEgJRYfD_BwE)
 
 ### Interesting
 - [ Peter Zeihan SHOCK Interview || China's debt growth outpaces US in government, local, and ... ](https://www.youtube.com/watch?v=urGqjCFnYIY)
@@ -59,6 +72,19 @@
 ### Learning Platforms
 - [SCrimba](https://v2.scrimba.com/home)
 
+### Web, UI
+- [OpenUI: Simply Imagine Your Interface, and See It Rendered in Real-Time](https://www.youtube.com/watch?v=tMWxJuV2BR0)
+- [Flywheel - Wordpress hosting](https://getflywheel.com/layout/life-at-flywheel/flywheel-2020-year-in-review/)
+- [Wordpress Playground](https://wordpress.github.io/wordpress-playground/start-using/)
+
+### Payment Systems
+- [How to Integrate Stripe Checkout and a Jekyll Static Site](https://josh.works/add-stripe-to-static-site-course)
+- [Made my first sale using Stripe & a static website](https://www.indiehackers.com/post/made-my-first-sale-using-stripe-a-static-website-a29f2fdbd2)
+- [Stripe - Tax](https://stripe.com/en-sg/tax)
+
+### Get Rich
+- [Achieving Financial Success: Scott Galloway's Tips](https://www.youtube.com/watch?v=gKmwUuYcNEQ)
+- [Untapped Goldmine by Developers: 10 Billion Dollars On The Table ](https://www.youtube.com/watch?v=oCC_ZuS5Wwg)
 
 ### Books
 - [Causal Analysis](https://mitpress.mit.edu/9780262545914/causal-analysis/)
