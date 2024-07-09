@@ -5,20 +5,26 @@
 - [Ex-OpenAI Employee Just Revealed it ALL!](https://www.youtube.com/watch?v=om5KAKSSpNg)
 - [You Don't Understand AI Until You Watch THIS](https://www.youtube.com/watch?v=1aM1KYvl4Dw)
 
+### ML, DS
+- [xLSTM: The Sequel To The Legendary LSTM](https://www.youtube.com/watch?v=7r1-4LDJDmM)
+
+### Programming
+- [Learn C the Hard Way](https://learncodethehardway.org/c/)
 
 ### Lifehack
 - [Stand Out of Our Light ](https://www.amazon.com/Stand-out-our-Light-Resistance/dp/110845299X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oecw7BNBLDeAOYvxQTD8ssGePjlqy_V2GaGlBZMWzG7XPErZxJoC7mpa3Rgg_anEq1n-inScORwwbXl-Z0FXqnzGwsN7XOBRj1vlLK-QXly5qUlimqf6QYElhYITubj0ituHBzVe5_7IvwjuA2KkqHiwLfoEYV5mc94Nn7phh6uOZCc-Ei99yMGZmEuXmgL4xLUKWOLRXz_UxROy-3h_6jq41Y0phUnCOKxF8tvHgM8.Rv09IU1oz2tjQtatQDlpTLJnEJg2QwDKv0V-x7nhf1c&dib_tag=se&keywords=stand+out+of+our+light&qid=1714804059&sr=8-1)
 
 ### Coaching
 - [MasterClass by Master Coaches: Marcia Reynolds, MCC - What Does the Client REALLY Want?](https://www.youtube.com/watch?v=i0UYZ2NkcUM)
-
+- [The Somatic SChool](https://www.thesomaticschool.com/course#Upcoming)
+- [Stroizzi Institute - STomatics](https://strozziinstitute.org/in-person-training/)
 
 ### Interesting
 - [ Peter Zeihan SHOCK Interview || China's debt growth outpaces US in government, local, and ... ](https://www.youtube.com/watch?v=urGqjCFnYIY)
 
 ### Biz Hack
 - [I’m a 50 yr old startup founder. My wife’s support is the reason I’m still going.](https://www.youtube.com/watch?v=qntRemp41rs)
-
+- [Razy Shah - web design, marketing](https://razyshah.com/)
 
 ### Health
 - [Why We’re All Burning Out | Byung-Chul Han’s Warning to the World](https://www.youtube.com/watch?v=XlRlWuEyt8E)
@@ -26,6 +32,16 @@
 
 ### Fitness
 - [How I Grew Wide Shoulders FAST!](https://www.youtube.com/watch?v=LYrVC671_yU)
+- [Hom Yoga Training Academy](https://homyoga.com/pages/academy)
+- [Jal Yoga - Pilates teacher training](https://www.jalyoga.com.sg/pilates-teacher-training-course/)
+- [Perculiar Yogi](https://www.peculiaryogi.com/)
+- [Tirisula Yoga & Pilates](https://tirisulayoga.com/classes/)
+
+### Trauma Release Training
+- [TRE](https://traumaprevention.com/)
+- [Here’s How to Become a Trauma Coach](https://practice.do/blog/trauma-coach)
+
+
 
 
 ### Books
