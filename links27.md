@@ -4,15 +4,30 @@
 - [https://www.youtube.com/watch?v=y1AxIpIaQmI](https://www.youtube.com/watch?v=y1AxIpIaQmI)
 - [Ex-OpenAI Employee Just Revealed it ALL!](https://www.youtube.com/watch?v=om5KAKSSpNg)
 - [You Don't Understand AI Until You Watch THIS](https://www.youtube.com/watch?v=1aM1KYvl4Dw)
+- [Hackers expose deep cybersecurity vulnerabilities in AI | BBC News](https://www.youtube.com/watch?v=Fg9hCKH1sYs)
+- [Liquid Neural Networks](https://www.youtube.com/watch?v=IlliqYiRhMU)
 
 ### ML, DS
 - [xLSTM: The Sequel To The Legendary LSTM](https://www.youtube.com/watch?v=7r1-4LDJDmM)
+- [fast.ai - blog site](https://www.fast.ai/)
+- [Deeplearning.ai - training site](https://www.deeplearning.ai/courses/)
+
+### Data
+- [The Agile Data method](https://agiledata.org/)
+
+### Django
+- [CRM App Development with Django, Python, and MySQL](https://www.freecodecamp.org/news/crm-app-development-with-django-python-and-mysql/)
+- [Django Project – Code a CRM App Tutorial](https://www.youtube.com/watch?v=t10QcFx7d5k)
+- [Railway hosting](https://railway.app/template/GB6Eki)
+- [Railway Template](https://github.com/railwayapp-templates/django/blob/main/static/.gitkeep)
+- [Railway - sqlite3](https://railway.app/template/jOiNFt)
 
 ### Programming
 - [Learn C the Hard Way](https://learncodethehardway.org/c/)
 
 ### Lifehack
 - [Stand Out of Our Light ](https://www.amazon.com/Stand-out-our-Light-Resistance/dp/110845299X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oecw7BNBLDeAOYvxQTD8ssGePjlqy_V2GaGlBZMWzG7XPErZxJoC7mpa3Rgg_anEq1n-inScORwwbXl-Z0FXqnzGwsN7XOBRj1vlLK-QXly5qUlimqf6QYElhYITubj0ituHBzVe5_7IvwjuA2KkqHiwLfoEYV5mc94Nn7phh6uOZCc-Ei99yMGZmEuXmgL4xLUKWOLRXz_UxROy-3h_6jq41Y0phUnCOKxF8tvHgM8.Rv09IU1oz2tjQtatQDlpTLJnEJg2QwDKv0V-x7nhf1c&dib_tag=se&keywords=stand+out+of+our+light&qid=1714804059&sr=8-1)
+- [How I Manage My Time Without Burning Out - Slow Productivity book](https://www.youtube.com/watch?v=YAs9QasnXgA)
 
 ### Coaching
 - [MasterClass by Master Coaches: Marcia Reynolds, MCC - What Does the Client REALLY Want?](https://www.youtube.com/watch?v=i0UYZ2NkcUM)
@@ -41,7 +56,8 @@
 - [TRE](https://traumaprevention.com/)
 - [Here’s How to Become a Trauma Coach](https://practice.do/blog/trauma-coach)
 
-
+### Learning Platforms
+- [SCrimba](https://v2.scrimba.com/home)
 
 
 ### Books
