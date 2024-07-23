@@ -6,6 +6,9 @@
 - [You Don't Understand AI Until You Watch THIS](https://www.youtube.com/watch?v=1aM1KYvl4Dw)
 - [Hackers expose deep cybersecurity vulnerabilities in AI | BBC News](https://www.youtube.com/watch?v=Fg9hCKH1sYs)
 - [Liquid Neural Networks](https://www.youtube.com/watch?v=IlliqYiRhMU)
+- [Generative A.I - We Aren’t Ready.](https://www.youtube.com/watch?v=JrcbH0ge2WE)
+- [A $3 billion software unicorn scrapped its plan to give AI ‘workers’ rights after tech execs said it ‘disrespects the humanity of your real employees](https://fortune.com/2024/07/12/lattice-ai-workers-sam-altman-brother-jack-sarah-franklin/)
+- [Top AI Researcher Reveals The Scary Future Of Employment](https://www.youtube.com/watch?v=MCs8BNPYtOA)
 
 ### ML, DS
 - [xLSTM: The Sequel To The Legendary LSTM](https://www.youtube.com/watch?v=7r1-4LDJDmM)
@@ -13,6 +16,10 @@
 - [Deeplearning.ai - training site](https://www.deeplearning.ai/courses/)
 - [Hugging Face Models](https://huggingface.co/models?pipeline_tag=text-to-image&sort=trending)
 - []()
+
+### Cybersecurity
+
+
 
 ### Data
 - [The Agile Data method](https://agiledata.org/)
@@ -26,6 +33,8 @@
 
 ### Software Engineering
 - [Refterm Lecture Part 1 - Philosophies of Optimization](https://www.youtube.com/watch?v=pgoetgxecw8)
+- [The Best C# Version Ever Released, Vertical Slice Architecture](https://www.youtube.com/watch?v=W9_XFHs9Krg)
+
 
 ### Programming
 - [Learn C the Hard Way](https://learncodethehardway.org/c/)
@@ -33,6 +42,8 @@
 ### Lifehack
 - [Stand Out of Our Light ](https://www.amazon.com/Stand-out-our-Light-Resistance/dp/110845299X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oecw7BNBLDeAOYvxQTD8ssGePjlqy_V2GaGlBZMWzG7XPErZxJoC7mpa3Rgg_anEq1n-inScORwwbXl-Z0FXqnzGwsN7XOBRj1vlLK-QXly5qUlimqf6QYElhYITubj0ituHBzVe5_7IvwjuA2KkqHiwLfoEYV5mc94Nn7phh6uOZCc-Ei99yMGZmEuXmgL4xLUKWOLRXz_UxROy-3h_6jq41Y0phUnCOKxF8tvHgM8.Rv09IU1oz2tjQtatQDlpTLJnEJg2QwDKv0V-x7nhf1c&dib_tag=se&keywords=stand+out+of+our+light&qid=1714804059&sr=8-1)
 - [How I Manage My Time Without Burning Out - Slow Productivity book](https://www.youtube.com/watch?v=YAs9QasnXgA)
+- [Practice doesn’t always make perfect – that’s why you’re not in the Olympics](https://www.theguardian.com/commentisfree/article/2024/jul/21/practice-doesnt-always-make-perfect-thats-why-youre-not-in-the-olympics)
+
 
 ### Coaching
 - [MasterClass by Master Coaches: Marcia Reynolds, MCC - What Does the Client REALLY Want?](https://www.youtube.com/watch?v=i0UYZ2NkcUM)
@@ -49,14 +60,25 @@
 
 ### Interesting
 - [ Peter Zeihan SHOCK Interview || China's debt growth outpaces US in government, local, and ... ](https://www.youtube.com/watch?v=urGqjCFnYIY)
+- [Society is a Ponzi Scheme](https://www.youtube.com/watch?v=18bhyZIFXF4)
+
+### Demographics
+- [Birthgap - Childless World PART 1 (English Version)](https://www.youtube.com/watch?v=A6s8QlIGanA)
+- [Robin Hanson's Novel Solution to Low Fertility Rates](https://www.youtube.com/watch?v=_phzAf7WQaw)
+- [How the Coming Population Collapse Will Change Society Forever](https://www.youtube.com/watch?v=BZORu7EkpyM)
+
 
 ### Biz Hack
 - [I’m a 50 yr old startup founder. My wife’s support is the reason I’m still going.](https://www.youtube.com/watch?v=qntRemp41rs)
 - [Razy Shah - web design, marketing](https://razyshah.com/)
+- [She built an MVP Marketplace in just 6 weeks, here's how she did it](https://www.youtube.com/watch?v=SO1EokBetsU)
+
 
 ### Health
 - [Why We’re All Burning Out | Byung-Chul Han’s Warning to the World](https://www.youtube.com/watch?v=XlRlWuEyt8E)
 - [Why We’re All Burning Out | Byung-Chul Han’s Warning to the World](https://www.youtube.com/watch?v=XlRlWuEyt8E)
+- [Signs You're Experiencing Deep Career Burnout](https://www.youtube.com/watch?v=aTd7bn4N_so)
+- [Newly Discovered Cause of Insulin Resistance is Not Sugar or Saturated Fat - Dr. Venn Watson](https://www.youtube.com/watch?v=cnTHgRJi0mM)
 
 ### Fitness
 - [How I Grew Wide Shoulders FAST!](https://www.youtube.com/watch?v=LYrVC671_yU)
@@ -64,6 +86,8 @@
 - [Jal Yoga - Pilates teacher training](https://www.jalyoga.com.sg/pilates-teacher-training-course/)
 - [Perculiar Yogi](https://www.peculiaryogi.com/)
 - [Tirisula Yoga & Pilates](https://tirisulayoga.com/classes/)
+- [The Healthy Ageing Doctor: Doing This For 30s Will Burn More Fat Than A Long Run! Dr Vonda Wright](https://www.youtube.com/watch?v=D6wTuogebU8)
+
 
 ### Trauma Release Training
 - [TRE](https://traumaprevention.com/)
@@ -81,6 +105,14 @@
 - [How to Integrate Stripe Checkout and a Jekyll Static Site](https://josh.works/add-stripe-to-static-site-course)
 - [Made my first sale using Stripe & a static website](https://www.indiehackers.com/post/made-my-first-sale-using-stripe-a-static-website-a29f2fdbd2)
 - [Stripe - Tax](https://stripe.com/en-sg/tax)
+
+### Philosophy
+- [Denial of Death - Book](https://en.wikipedia.org/wiki/The_Denial_of_Death)
+- [Terror Mgt Theory](https://en.wikipedia.org/wiki/Terror_management_theory)
+- [Escape from Evil](https://www.amazon.sg/dp/0029024501?ref_=mr_referred_us_sg_sg)
+- [Birth and Death of Meaning](https://www.amazon.sg/Birth-Death-Meaning-Ernest-Becker/dp/0029021901/ref=pd_sim_d_sccl_4_2/358-2948596-5977757?pd_rd_w=d1Epn&content-id=amzn1.sym.c88d7119-a462-4288-9361-c4d58d449678&pf_rd_p=c88d7119-a462-4288-9361-c4d58d449678&pf_rd_r=GGCC46KNXVKV9R3RT4X4&pd_rd_wg=G5tP7&pd_rd_r=13b6727e-faac-4a71-92bd-9b23f7cd0c02&pd_rd_i=0029021901&psc=1)
+- [The Worm at the Core](https://www.amazon.sg/Worm-Core-Role-Death-Life/dp/0141981628/ref=pd_sim_d_sccl_4_3/358-2948596-5977757?pd_rd_w=II09Q&content-id=amzn1.sym.c88d7119-a462-4288-9361-c4d58d449678&pf_rd_p=c88d7119-a462-4288-9361-c4d58d449678&pf_rd_r=5KAM0X4X0E31PSY0B2MV&pd_rd_wg=rysaN&pd_rd_r=47d3ce4b-f4f1-4b29-89a9-7c3eb0578a59&pd_rd_i=0141981628&psc=1)
+- [The Moral Animal](https://www.amazon.sg/Moral-Animal-Science-Evolutionary-Psychology/dp/0679763996/ref=pd_sim_d_sccl_4_6/358-2948596-5977757?pd_rd_w=RoCoM&content-id=amzn1.sym.c88d7119-a462-4288-9361-c4d58d449678&pf_rd_p=c88d7119-a462-4288-9361-c4d58d449678&pf_rd_r=G19B2S27Y8CTT549N102&pd_rd_wg=qeMBj&pd_rd_r=d0c78210-7ac2-48a5-8979-9abfbfcd373d&pd_rd_i=0679763996&psc=1)
 
 ### Get Rich
 - [Achieving Financial Success: Scott Galloway's Tips](https://www.youtube.com/watch?v=gKmwUuYcNEQ)
