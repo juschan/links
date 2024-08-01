@@ -18,7 +18,7 @@
 - []()
 
 ### Cybersecurity
-
+- [BSOD error in latest crowdstrike update ](https://www.reddit.com/r/crowdstrike/comments/1e6vmkf/bsod_error_in_latest_crowdstrike_update/)
 
 
 ### Data
@@ -34,7 +34,7 @@
 ### Software Engineering
 - [Refterm Lecture Part 1 - Philosophies of Optimization](https://www.youtube.com/watch?v=pgoetgxecw8)
 - [The Best C# Version Ever Released, Vertical Slice Architecture](https://www.youtube.com/watch?v=W9_XFHs9Krg)
-
+- [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 
 ### Programming
 - [Learn C the Hard Way](https://learncodethehardway.org/c/)
@@ -43,7 +43,13 @@
 - [Stand Out of Our Light ](https://www.amazon.com/Stand-out-our-Light-Resistance/dp/110845299X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.oecw7BNBLDeAOYvxQTD8ssGePjlqy_V2GaGlBZMWzG7XPErZxJoC7mpa3Rgg_anEq1n-inScORwwbXl-Z0FXqnzGwsN7XOBRj1vlLK-QXly5qUlimqf6QYElhYITubj0ituHBzVe5_7IvwjuA2KkqHiwLfoEYV5mc94Nn7phh6uOZCc-Ei99yMGZmEuXmgL4xLUKWOLRXz_UxROy-3h_6jq41Y0phUnCOKxF8tvHgM8.Rv09IU1oz2tjQtatQDlpTLJnEJg2QwDKv0V-x7nhf1c&dib_tag=se&keywords=stand+out+of+our+light&qid=1714804059&sr=8-1)
 - [How I Manage My Time Without Burning Out - Slow Productivity book](https://www.youtube.com/watch?v=YAs9QasnXgA)
 - [Practice doesn’t always make perfect – that’s why you’re not in the Olympics](https://www.theguardian.com/commentisfree/article/2024/jul/21/practice-doesnt-always-make-perfect-thats-why-youre-not-in-the-olympics)
+- [Ashish Kumar Was a Top PSLE Scorer. Now, He’s a 31-Year-Old Retiree.](https://www.ricemedia.co/ashish-kumar-was-singapore-top-psle-scorer-now-retiree/)
 
+### Biz Hack
+- [Getting paid is weird and sometimes hard](https://cassidoo.co/post/getting-paid-is-weird/)
+
+### UI/UX
+- [Ryanair – when every page is a dark pattern](https://hallofshame.design/ryanair-when-every-page-is-a-dark-pattern/)
 
 ### Coaching
 - [MasterClass by Master Coaches: Marcia Reynolds, MCC - What Does the Client REALLY Want?](https://www.youtube.com/watch?v=i0UYZ2NkcUM)
@@ -88,6 +94,12 @@
 - [Tirisula Yoga & Pilates](https://tirisulayoga.com/classes/)
 - [The Healthy Ageing Doctor: Doing This For 30s Will Burn More Fat Than A Long Run! Dr Vonda Wright](https://www.youtube.com/watch?v=D6wTuogebU8)
 
+### Burnout
+- [Singapore’s Burnout Rate Shows the Price of Success](https://www.bloomberg.com/opinion/articles/2024-04-29/singapore-s-burnout-rate-shows-the-price-of-success)
+- [S’poreans more stressed than global average; 16% say their stress is 'not manageable': Study](https://www.todayonline.com/singapore/sporeans-more-stressed-global-average-16-say-their-stress-not-manageable-study-2294541)
+
+### Engineering, Math
+- [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 
 ### Trauma Release Training
 - [TRE](https://traumaprevention.com/)
@@ -127,5 +139,5 @@
 - [Introduction to Automata Theory, Languages, and Computation](https://www.amazon.com/Introduction-Automata-Theory-Languages-Computation/dp/8131720470/ref=sr_1_1?crid=QZEZ7DUPF776&dib=eyJ2IjoiMSJ9.W-smM2z9KSG3_JA6qcb0RDPZ2JI2sP0mXqGYaswcB0HNMUG7rGIo_6ZlWBRp-Fqg6SV7UbRB91b45FVWxD1Y3D8C22cL90s6CqdW9XlfQHNfRlg2wXORUrOVX3ryTHlSeubFk6D17SW-L3dIu0Z5i5gpjGfb1MRp8cxPEKF-x_9Eif07TMYIAhUhuPM531bV44SY8YNGwdUZD8Pfz9IoTNaCZe_NIdviXkHhZssrN7cXA0RZPBiNHnRa2w3Xgvjtl_bBhe8_4cxl7H2z9az3DIOVMrc4jxIPakNCaJ-1V1Y.0DUZBIx_OeZUfthaOm4i0YGjdoOZ6WVTS1TEjROrh2A&dib_tag=se&keywords=automata+theory&qid=1718162097&sprefix=automata+theor%2Caps%2C333&sr=8-1)
 - [Singletasking: Get More Done-One Thing at a Time](https://www.amazon.com/Singletasking-More-Done-One-Thing-Time/dp/162656261X/ref=sr_1_1?crid=2LEIW8K3FMJZL&dib=eyJ2IjoiMSJ9.KYR6ZfMYVLSdceyMGoRIoFnmkTe26uuFm0KRY1sRu3l5sx_e8AEFqFDGD4RcxZya_WXnZHmews0b6H0ey9JLDPPQ0FBA8YB7IBwliGXCQjLJsXRB3Xbb7NnYZo80WaGWqgKgQ3CXxCydAAZGZL8ITkbjNJhSzSIt6fk6uhhOgEJ86Te9Bp8xg49nEEpwAoBuveYouB3wD0OeS-vMQuI1AvWfVguacXQ-zgE85VrZGXA.JS5mFtzelUxbXz3koLpUg0xNuX66Br33gAoWy7jIg9c&dib_tag=se&keywords=singletasking&qid=1718116279&sprefix=singletaski%2Caps%2C321&sr=8-1)
 - [DEMYSTIFYING COMPUTATION: A HANDS-ON INTRODUCTION](https://www.amazon.com/Demystifying-Computation-Hands-Apostolos-Syropoulos/dp/1786342650/ref=tmm_hrd_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.eOv2GcLSgY0TaT1IPtJvyREHMhwUVmP256j_WzWDc6hE80zDBqJMws7NEmv__EkILzI1t2n99Qb6CB1r397YDRgUkqLlhZyYH0Ak8wFvXnNa5rVD0zP_Tj9fSUycaK9ReSvc8FPT6ZfpzurHG2OVxPwAhd8w_5JiQ7Rp57c43au3vb73BuSM_74Yc1GQhCH8i0jIXqxRHerikVYUKDxuPEPC2xgHDfHsii8SLljQXxA.gVjN1JZfpkjElKkANFupTirmotbCyXBmB2ovyaqfp0k&qid=1716346230&sr=8-1)
-
-
+- [Your Money or Your Life](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=sr_1_1?crid=VRC6I1ED1TYE&dib=eyJ2IjoiMSJ9.VILqOcJRq2hYAQ8_H2naoD9Wfu6swCzo2N2cx4N0fGSaRfbTDmuyMxLsrmqWCz4tXlKizS42AsQ6lE-tYghsB96pTIcYATnSHHgdPswnvhe0LZsozVO9-xKHcdyn7EF8OV_7NSzRZYZjSTWBbNDaZuWLxvu2qKZAQ6sgRWDclJjERiUvk59rYcUDHF-K7l90ojBWNVhi8Crms3TvU0QmN1YJwr94pvDPr2_ytN6vncQ.Avt7Yizq4EGvOVOOXb93r-j18H4mhnXQAnaqBhD5Pho&dib_tag=se&keywords=your+money+or+your+life&qid=1721665438&sprefix=your+money+or+your+li%2Caps%2C328&sr=8-1)
+- [The Unix Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X/ref=sr_1_1?crid=2PSW5GZRG87RD&dib=eyJ2IjoiMSJ9.v5CMlrbXxKNhJIQ9iZvGeMZy7oFDdqBAnw6zl2-EzGCqPGxoH4dg4ufJ-uftq4__0GrtVpOeK6tRXbG3masTwM8DFELhQmR_FktqUEFSu9N2nT9SgdDUSje9E1x3IzSvGilOTZa0JmiZj1fIA37qLEcwj23Qdu-rF79ixkuj8dGEw8UqZChgogdwuxf9PqtCqPRvgBsgc9pcAuVyDNLjNcrzcYB6dL-K6pLjnRAVFfQ.ev8iBfmdh_JNDX4niHIPBONJUCKtUxnF_2ekbpIkpWU&dib_tag=se&keywords=the+unix+programming+environment&qid=1721665430&sprefix=the+unix+programming+env%2Caps%2C548&sr=8-1)
