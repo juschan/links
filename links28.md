@@ -14,6 +14,9 @@
 - [Physics-Based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 - [How to use Copilot in Excel with examples](https://www.ablebits.com/office-addins-blog/excel-copilot-tutorial/)
 - [AI can make up songs now, but who owns the copyright? The answer is complicated](https://theconversation.com/ai-can-make-up-songs-now-but-who-owns-the-copyright-the-answer-is-complicated-229714)
+- [Introducing AI/BI: Intelligent Analytics for Real-World Data - databricks](https://www.databricks.com/blog/introducing-aibi-intelligent-analytics-real-world-data)
+- [host all your ai locally](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
+- [Streamlining ML code mgt and deployment in databricks](https://cdn.prod.website-files.com/6448bf6f064020ce1b2ca19d/64bf6d9a443faa46c88b9301_DevOps_In_DataBricks_ML%20072123.pdf)
 
 ### Data
 - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
@@ -31,6 +34,7 @@
 - [Semantic Layer Explained: The BI Trend for 2023](https://kyligence.io/blog/semantic-layer-the-bi-trend-in-2023/)
 - [Control access to datamarts](https://learn.microsoft.com/en-us/power-bi/transform-model/datamarts/datamarts-access-control)
 - [What is a Semantic Layer?](https://www.atscale.com/glossary/semantic-layer/)
+- [Power Apps visual for Power BI](https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/powerapps-custom-visual)
 
 ### Cloud
 - [Go from Zero to Cloud Engineer Hero in 12 Weeks](https://www.cloudengineeracademy.io/)
@@ -39,6 +43,7 @@
 - [System Dynamics Society](https://systemdynamics.org/)
 - [System Dynamics Courses](https://systemdynamics.org/degree-courses/)
 - [Characterizing Undergraduate Students’ Systems-Thinking Skills through Agent-Based Modeling Simulation](https://www.mdpi.com/2071-1050/14/19/12817)
+
 
 ### IOS Development
 - [IOS Architect Crash Course](https://iosacademy.essentialdeveloper.com/p/ios-architect-crash-course-orga0eb/)
@@ -50,9 +55,13 @@
 ### Django
 - [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu)
 
-### Software Dev
+### Software Dev, testing
 - [Why I’m Done Making Desktop Applications](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
 - ["We ran out of columns" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
+- [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
+- [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+- [GitHub Actions for Testing](https://testautomationu.applitools.com/github-actions-for-testing/)
+- [Robot Framework - RPA](https://cdn.prod.website-files.com/6448bf6f064020ce1b2ca19d/64bf6d9a443faa46c88b9301_DevOps_In_DataBricks_ML%20072123.pdf)
 
 ### No-code platforms
 - [Glide](https://www.glideapps.com/)
@@ -80,6 +89,7 @@
 
 ### System Design
 - [Devs Need System Design Tools, Not Diagramming Tool](https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/)
+- [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 
 ### Onestream
 - [OneStream Basics](https://www.youtube.com/watch?v=dc8wCMrk5Ik)
@@ -89,9 +99,10 @@
 
 ### Psychology
 - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
-- [ Toggle the table of contents
+- [Karpman drama triangle](https://en.wikipedia.org/wiki/Karpman_drama_triangle)
 
-Karpman drama triangle](https://en.wikipedia.org/wiki/Karpman_drama_triangle)
+### Science
+- [A Theory of Reality as More Than the Sum of Its Parts](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/)
 
 ### Gadgets, products
 - [Espresso displays](https://us.espres.so/collections/displays)
