@@ -82,6 +82,8 @@
 - [The Transformation Priority Premise](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [GitHub Actions for Testing](https://testautomationu.applitools.com/github-actions-for-testing/)
 - [Robot Framework - RPA](https://cdn.prod.website-files.com/6448bf6f064020ce1b2ca19d/64bf6d9a443faa46c88b9301_DevOps_In_DataBricks_ML%20072123.pdf)
+- [Slow Deployment Causes Meetings](https://tidyfirst.substack.com/p/slow-deployment-causes-meetings)
+
 
 ### No-code platforms
 - [Glide](https://www.glideapps.com/)
@@ -137,6 +139,7 @@
 - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 - [Karpman drama triangle](https://en.wikipedia.org/wiki/Karpman_drama_triangle)
 - [Hypnotherapy Fundamentals: Complete Guide (Psychology and Psychotherapy: Theories and Practices)](https://www.amazon.com/dp/B0CKNCVT1K/ref=sspa_dk_detail_6?psc=1&pf_rd_p=7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_r=B7GZT6K399VJXTBQ1RTK&pd_rd_wg=EJchE&pd_rd_w=81nJi&content-id=amzn1.sym.7446a9d1-25fe-4460-b135-a60336bad2c9&pd_rd_r=0850d485-4847-4217-970a-a50404bbffd6&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
+- [What is Alexithymia?](https://neurodivergentinsights.com/blog/what-is-alexithymia-alexithymia-defined-and-explained)
 
 ### Science
 - [A Theory of Reality as More Than the Sum of Its Parts](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/)
