@@ -19,6 +19,8 @@
 - [host all your ai locally](https://www.youtube.com/watch?v=Wjrdr0NU4Sk)
 - [Streamlining ML code mgt and deployment in databricks](https://cdn.prod.website-files.com/6448bf6f064020ce1b2ca19d/64bf6d9a443faa46c88b9301_DevOps_In_DataBricks_ML%20072123.pdf)
 ** - [Puter.js - serverless auth, cloud AI services directly to browser](https://developer.puter.com/)
+- [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
+
 
 ### Data
 - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
@@ -90,6 +92,9 @@
 
 ### Biz Hack
 - [The unreasonable effectiveness of plasmid sequencing as a service (Plasmidsaurus)](https://www.owlposting.com/p/the-unreasonable-effectiveness-of)
+- [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
+- [Singapore Billionaire On Hot Streak From Selling Premium Coffee, Tea](https://www.forbes.com/sites/jonathanburgos/2024/09/04/kkr-backed-singapore-billionaire-on-hot-streak-from-selling-premium-coffee-tea/)
+- [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 
 ### Computer languages, compilers, interpreters
 - [Writing a C Compiler](https://nostarch.com/writing-c-compiler)
@@ -107,6 +112,7 @@
 - [Gen Zen: A sound bath with singing bowls, rain sticks helped me to relax and sleep better, but it may not be for everyone](https://www.todayonline.com/features/gen-zen-sound-bath-singing-bowls-rain-sticks-relax-sleep-better-not-everyone-2460636)
 - [Why don’t we know how antidepressants work yet?](https://www.chemistryworld.com/features/why-dont-we-know-how-antidepressants-work-yet/4019673.article)
 - [How Parents’ Trauma Leaves Biological Traces in Children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
+- [ypnosis in psychotherapy, psychosomatics and medicine. A brief overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040694/)
 
 ### Web Dev
 - [Building a breakout element with container units](https://piccalil.li/blog/building-a-breakout-element-with-container-units/)
@@ -115,12 +121,12 @@
 - [Payload CMS](https://payloadcms.com/)
 - [Free a Web App](https://ftwa.mathix.dev/)
 
+
+
 ### Knowledge Mgt
 - [Real Knowledge Mgt](https://realkm.com/)
+- [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
 
-### Biz Hack
-- [Singapore Billionaire On Hot Streak From Selling Premium Coffee, Tea](https://www.forbes.com/sites/jonathanburgos/2024/09/04/kkr-backed-singapore-billionaire-on-hot-streak-from-selling-premium-coffee-tea/)
-- [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 
 ### System Design
 - [Devs Need System Design Tools, Not Diagramming Tool](https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/)
@@ -141,9 +147,11 @@
 - [Hypnotherapy Fundamentals: Complete Guide (Psychology and Psychotherapy: Theories and Practices)](https://www.amazon.com/dp/B0CKNCVT1K/ref=sspa_dk_detail_6?psc=1&pf_rd_p=7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_r=B7GZT6K399VJXTBQ1RTK&pd_rd_wg=EJchE&pd_rd_w=81nJi&content-id=amzn1.sym.7446a9d1-25fe-4460-b135-a60336bad2c9&pd_rd_r=0850d485-4847-4217-970a-a50404bbffd6&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
 - [What is Alexithymia?](https://neurodivergentinsights.com/blog/what-is-alexithymia-alexithymia-defined-and-explained)
 
-### Science
+### Science< Maths
 - [A Theory of Reality as More Than the Sum of Its Parts](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/)
 - [The Knowledge Gene - human skills, critical in storing information](https://theknowledgegene.com.au/)
+- [Arithmetic is an underrated world-modeling technology](https://dynomight.substack.com/p/arithmetic)
+
 
 ### Gadgets, products
 - [Espresso displays](https://us.espres.so/collections/displays)
