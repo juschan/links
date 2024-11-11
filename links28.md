@@ -20,7 +20,10 @@
 - [Streamlining ML code mgt and deployment in databricks](https://cdn.prod.website-files.com/6448bf6f064020ce1b2ca19d/64bf6d9a443faa46c88b9301_DevOps_In_DataBricks_ML%20072123.pdf)
 ** - [Puter.js - serverless auth, cloud AI services directly to browser](https://developer.puter.com/)
 - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
-- [Best GPU for LLM Inference and Training – March 2024 [Updated]](https://bizon-tech.com/blog/best-gpu-llm-training-inference)
+- [Best GPU for LLM Inference and Training – March 2024 'Updated'](https://bizon-tech.com/blog/best-gpu-llm-training-inference)
+- [Poisoning Data to prevent AI theft and distort AI training](https://blog.metamirror.io/poisoning-data-to-prevent-ai-theft-and-distort-ai-training-29852aed9b05)
+- [Cast a hex on ChatGPT to trick the AI into writing exploit code](https://www.theregister.com/2024/10/29/chatgpt_hex_encoded_jailbreak/)
+- [Hugging Face puts the squeeze on Nvidia's software ambitions](https://www.theregister.com/2024/10/24/huggingface_hugs_nvidia/)
 
 ### Data
 - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
@@ -65,7 +68,7 @@
 - [System Dynamics Society](https://systemdynamics.org/)
 - [System Dynamics Courses](https://systemdynamics.org/degree-courses/)
 - [Characterizing Undergraduate Students’ Systems-Thinking Skills through Agent-Based Modeling Simulation](https://www.mdpi.com/2071-1050/14/19/12817)
-
+- [The Cobra Effect: Why Good Intentions Don’t Solve Problems - Konstantin Kisin](https://www.youtube.com/watch?v=qsLIP1ScHUg)
 
 ### IOS Development
 - [IOS Architect Crash Course](https://iosacademy.essentialdeveloper.com/p/ios-architect-crash-course-orga0eb/)
@@ -73,6 +76,8 @@
 ### Projects
 - [Building a project book of work](https://www.pmmajik.com/building-a-project-book-of-work/)
 - [https://539kernel.com/](https://539kernel.com/)
+- [Make it Yourself - DIY projects](https://makeityourself.org/)
+- [Hacker Fab - Integrated Circuits](https://docs.hackerfab.org/hacker-fab-space)
 
 ### Django
 - [How To Set Up Django with Postgres, Nginx, and Gunicorn on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu)
@@ -95,6 +100,8 @@
 - [Accountability sinks](https://aworkinglibrary.com/writing/accountability-sinks)
 - [Singapore Billionaire On Hot Streak From Selling Premium Coffee, Tea](https://www.forbes.com/sites/jonathanburgos/2024/09/04/kkr-backed-singapore-billionaire-on-hot-streak-from-selling-premium-coffee-tea/)
 - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
+- ** [If you need the money, don't take the job](https://bitfieldconsulting.com/posts/need-money)
+- [How he makes $1.2M a year on Youtube without showing his face - Jake Tra](https://www.youtube.com/watch?v=F4iU6m2BMmw)
 
 ### Computer languages, compilers, interpreters
 - [Writing a C Compiler](https://nostarch.com/writing-c-compiler)
@@ -109,11 +116,17 @@
 ### Health, Fitness
 - [Your Immune System is Not a Muscle](https://rachel.fast.ai/posts/2024-08-13-crowds-vs-friends/)
 - [Risk at a glance](https://www.sfa.gov.sg/food-information/risk-at-a-glance)
+- [Raynor Massage School](https://www.raynormassage.com/)
+
+
+### Mental Health
+- [Gen Z: The First Generation With No Purpose](https://www.youtube.com/watch?v=0OmQte6_s3A)
 - [Gen Zen: A sound bath with singing bowls, rain sticks helped me to relax and sleep better, but it may not be for everyone](https://www.todayonline.com/features/gen-zen-sound-bath-singing-bowls-rain-sticks-relax-sleep-better-not-everyone-2460636)
 - [Why don’t we know how antidepressants work yet?](https://www.chemistryworld.com/features/why-dont-we-know-how-antidepressants-work-yet/4019673.article)
 - [How Parents’ Trauma Leaves Biological Traces in Children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
 - [Hypnosis in psychotherapy, psychosomatics and medicine. A brief overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040694/)
-- [Raynor Massage School](https://www.raynormassage.com/)
+- [Tired of Work, Society, and Life... - Dr K, healthyGamerGG](https://www.youtube.com/watch?v=Khqwm3np9wc)
+- [Why Modern Life Feels So Empty](https://www.youtube.com/watch?v=sWnHekuqljE)
 
 ### Web Dev
 - [Building a breakout element with container units](https://piccalil.li/blog/building-a-breakout-element-with-container-units/)
@@ -121,13 +134,13 @@
 - [Golang for WebAssembly Can Now Work Like IT Should](https://thenewstack.io/golang-for-webassembly-can-now-work-like-it-should/)
 - [Payload CMS](https://payloadcms.com/)
 - [Free a Web App](https://ftwa.mathix.dev/)
-
+- [This Page is Designed to Last](https://jeffhuang.com/designed_to_last/)
 
 
 ### Knowledge Mgt
 - [Real Knowledge Mgt](https://realkm.com/)
 - [Using static websites for tiny archives](https://alexwlchan.net/2024/static-websites/)
-
+- [The Best Learning Tool in History - 400 years ahead of its time!](https://www.youtube.com/watch?v=lML0ndFlBuc)
 
 ### System Design
 - [Devs Need System Design Tools, Not Diagramming Tool](https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/)
@@ -142,13 +155,27 @@
 ### Project Mgt
 - [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
 
+### Business Analyst Training
+- [NUS-ISS - Professional Cert in Digital Business Analysis](https://ace.nus.edu.sg/pc/professional-certificate-in-digital-business-analysis/)
+- [ECBA - ENTRY CERTIFICATE IN BUSINESS ANALYSIS (SF)](https://www.ntuclearninghub.com/en-gb/-/course/entry-certificate-in-business-analysis-ecba-sf)
+
 ### Psychology
 - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 - [Karpman drama triangle](https://en.wikipedia.org/wiki/Karpman_drama_triangle)
 - [Hypnotherapy Fundamentals: Complete Guide (Psychology and Psychotherapy: Theories and Practices)](https://www.amazon.com/dp/B0CKNCVT1K/ref=sspa_dk_detail_6?psc=1&pf_rd_p=7446a9d1-25fe-4460-b135-a60336bad2c9&pf_rd_r=B7GZT6K399VJXTBQ1RTK&pd_rd_wg=EJchE&pd_rd_w=81nJi&content-id=amzn1.sym.7446a9d1-25fe-4460-b135-a60336bad2c9&pd_rd_r=0850d485-4847-4217-970a-a50404bbffd6&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw)
 - [What is Alexithymia?](https://neurodivergentinsights.com/blog/what-is-alexithymia-alexithymia-defined-and-explained)
+- [BE SILENT And Act As If You Have NOTHING To Lose - Joe Dispenza Motivation](https://www.youtube.com/watch?v=bgzYfF_gk0Q)
+- [3 Books That Will Change Your Life - Robert Greene - The Prince, Journey to Ixtlan, History of the Peloponnesian War](https://www.youtube.com/watch?v=OTvm5LfhDzg)
 
-### Science< Maths
+### Coaching
+- [Jungian Coaching School](https://jungiancoachingschool.com/)
+- [Personal Consultancy - IcF Document](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://researchportal.coachingfederation.org/Document/Pdf/2092.pdf&ved=2ahUKEwiSwOqJ1dOJAxU7SmwGHZiGHEMQFnoECCgQAQ&usg=AOvVaw1rYFf7AC1JBER5sTqA4cFN)
+- [Challenging Status Quo for Great Coaching - Dialogue session with Dr. Robert Biswas-Diener](https://www.youtube.com/watch?v=YF8S3uXN7qc)
+- [Existential Coaching: what is it? - Courses, Studies](https://humanefutureofwork.com/existential-coaching-what-is-it/)
+- [Jung Centre - Courses, Tarot](https://www.jungcentre.com/jungian-studies)
+
+
+### Science, Maths
 - [A Theory of Reality as More Than the Sum of Its Parts](https://www.quantamagazine.org/a-theory-of-reality-as-more-than-the-sum-of-its-parts-20170601/)
 - [The Knowledge Gene - human skills, critical in storing information](https://theknowledgegene.com.au/)
 - [Arithmetic is an underrated world-modeling technology](https://dynomight.substack.com/p/arithmetic)
