@@ -20,7 +20,7 @@
 - [Streamlining ML code mgt and deployment in databricks](https://cdn.prod.website-files.com/6448bf6f064020ce1b2ca19d/64bf6d9a443faa46c88b9301_DevOps_In_DataBricks_ML%20072123.pdf)
 ** - [Puter.js - serverless auth, cloud AI services directly to browser](https://developer.puter.com/)
 - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
-
+- [Best GPU for LLM Inference and Training – March 2024 [Updated]](https://bizon-tech.com/blog/best-gpu-llm-training-inference)
 
 ### Data
 - [Shift Networks](https://www.jeremykun.com/2024/09/02/shift-networks/)
@@ -112,7 +112,8 @@
 - [Gen Zen: A sound bath with singing bowls, rain sticks helped me to relax and sleep better, but it may not be for everyone](https://www.todayonline.com/features/gen-zen-sound-bath-singing-bowls-rain-sticks-relax-sleep-better-not-everyone-2460636)
 - [Why don’t we know how antidepressants work yet?](https://www.chemistryworld.com/features/why-dont-we-know-how-antidepressants-work-yet/4019673.article)
 - [How Parents’ Trauma Leaves Biological Traces in Children](https://www.scientificamerican.com/article/how-parents-rsquo-trauma-leaves-biological-traces-in-children/)
-- [ypnosis in psychotherapy, psychosomatics and medicine. A brief overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040694/)
+- [Hypnosis in psychotherapy, psychosomatics and medicine. A brief overview](https://pmc.ncbi.nlm.nih.gov/articles/PMC11040694/)
+- [Raynor Massage School](https://www.raynormassage.com/)
 
 ### Web Dev
 - [Building a breakout element with container units](https://piccalil.li/blog/building-a-breakout-element-with-container-units/)
